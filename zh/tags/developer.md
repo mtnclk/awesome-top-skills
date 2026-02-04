@@ -1,0 +1,13 @@
+# 标签：developer (developer)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 6
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [developer-onboarding](https://github.com/aj-geddes/useful-ai-prompts/blob/main/skills/developer-onboarding/SKILL.md) | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | 创建全面的开发者入职文档，包括设置指南、README 文件和贡献指南。 | 59 | 49 | 2025-12-28 | [文档 (documentation)](documentation.md), [环境配置 (setup)](setup.md), [onboarding (onboarding)](onboarding.md), [developer (developer)](developer.md) |
+| [api-documentation-writer](https://github.com/eddiebe147/claude-settings/blob/main/skills/api-documentation-writer/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | 编写全面的API文档，包括OpenAPI规范、端点参考和代码示例。 | 14 | 44 | 2026-01-22 | [文档 (documentation)](documentation.md), [API](api.md), [technical 写作 (technical-writing)](technical-writing.md), [openapi (openapi)](openapi.md), [developer (developer)](developer.md) |
+| [env-setup-assistant](https://github.com/eddiebe147/claude-settings/blob/main/skills/env-setup-assistant/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | 开发环境设置专家指南，包括IDE配置、工具和依赖项。 | 14 | 43 | 2026-01-22 | [环境配置 (setup)](setup.md), [工具链 (tooling)](tooling.md), [配置 (configuration)](configuration.md), [developer (developer)](developer.md), [environment (environment)](environment.md) |
+| [developer-growth-analysis](https://github.com/skillcreatorai/ai-agent-skills/blob/main/skills/developer-growth-analysis/SKILL.md) | [skillcreatorai/ai-agent-skills](https://github.com/skillcreatorai/ai-agent-skills) | 分析代码模式和开发差距，从HackerNews精选学习资源并发送个性化成长报告。 | 671 | 38 | 2026-01-23 | [分析 (analysis)](analysis.md), [编码 (coding)](coding.md), [developer (developer)](developer.md), [Claude](claude.md), [slack (slack)](slack.md), [hacker news (hacker-news)](hacker-news.md) |
+| [developer](https://github.com/aj-geddes/claude-code-bmad-skills/blob/main/bmad-skills/developer/SKILL.md) | [aj-geddes/claude-code-bmad-skills](https://github.com/aj-geddes/claude-code-bmad-skills) | 实现用户故事，编写干净测试代码，遵循最佳实践。 | 228 | 38 | 2026-01-01 | [编码 (coding)](coding.md), [最佳实践 (best-practices)](best-practices.md), [代码审查 (code-review)](code-review.md), [developer (developer)](developer.md) |
+| [context-preserver](https://github.com/daffy0208/ai-dev-standards/blob/main/skills/context-preserver/SKILL.md) | [daffy0208/ai-dev-standards](https://github.com/daffy0208/ai-dev-standards) | 自动保存和恢复开发上下文，减少任务切换或休息时的认知负担。 | 9 | 24 | 2025-12-25 | [context management (context-management)](context-management.md), [任务管理 (task-management)](task-management.md), [adhd (adhd)](adhd.md), [developer (developer)](developer.md) |

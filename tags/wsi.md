@@ -1,0 +1,10 @@
+# Tag: wsi
+
+- Back: [Tags](README.md)
+- Tagged skills: 3
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [histolab](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/scientific/histolab/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | A toolkit for digital pathology image processing of whole slide images (WSI), including tissue detection, segmentation, and dataset preparat | 19K | 77 | 2026-02-03 | [analysis](analysis.md), [image-processing](image-processing.md), [pathology](pathology.md), [wsi](wsi.md), [computational-pathology](computational-pathology.md) |
+| [pathml](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/scientific/pathml/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | A computational pathology toolkit for analyzing whole-slide images and multiparametric data. | 19K | 77 | 2026-02-03 | [analysis](analysis.md), [machine-learning](machine-learning.md), [computational-pathology](computational-pathology.md), [pathology](pathology.md), [wsi](wsi.md) |
+| [pathml](https://github.com/k-dense-ai/claude-scientific-skills/blob/main/scientific-skills/pathml/SKILL.md) | [k-dense-ai/claude-scientific-skills](https://github.com/k-dense-ai/claude-scientific-skills) | A full-featured computational pathology toolkit for advanced WSI analysis, including multiplexed immunofluorescence and ML model training. | 7.8K | 64 | 2026-02-02 | [analysis](analysis.md), [machine-learning](machine-learning.md), [computational-pathology](computational-pathology.md), [wsi](wsi.md) |

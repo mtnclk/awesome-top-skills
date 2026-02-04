@@ -1,0 +1,10 @@
+# 标签：langgraph (langgraph)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 3
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [langgraph-code-review](https://github.com/existential-birds/beagle/blob/main/skills/langgraph-code-review/SKILL.md) | [existential-birds/beagle](https://github.com/existential-birds/beagle) | 审查 LangGraph 代码中的错误、反模式和改进建议。 | 15 | 65 | 2026-02-01 | [代码审查 (code-review)](code-review.md), [最佳实践 (best-practices)](best-practices.md), [langgraph (langgraph)](langgraph.md), [编码 (coding)](coding.md) |
+| [langgraph-architecture](https://github.com/existential-birds/beagle/blob/main/skills/langgraph-architecture/SKILL.md) | [existential-birds/beagle](https://github.com/existential-birds/beagle) | 为 LangGraph 应用提供架构指导，涵盖状态管理、多代理系统和持久化策略。 | 15 | 62 | 2026-02-01 | [架构 (architecture)](architecture.md), [最佳实践 (best-practices)](best-practices.md), [langgraph (langgraph)](langgraph.md) |
+| [langgraph-implementation](https://github.com/existential-birds/beagle/blob/main/skills/langgraph-implementation/SKILL.md) | [existential-birds/beagle](https://github.com/existential-birds/beagle) | 使用 LangGraph 实现状态感知代理图。 | 15 | 45 | 2026-02-01 | [智能体 (agents)](agents.md), [工作流 (workflows)](workflows.md), [langgraph (langgraph)](langgraph.md) |

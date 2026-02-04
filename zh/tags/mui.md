@@ -1,0 +1,14 @@
+# 标签：mui (mui)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 7
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [frontend-dev-guidelines](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/frontend-dev-guidelines/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 提供现代React和TypeScript应用的前端开发指南。 | 6.5K | 336 | 2026-02-02 | [前端 (frontend)](frontend.md), [最佳实践 (best-practices)](best-practices.md), [React](react.md), [TypeScript](typescript.md), [mui (mui)](mui.md), [tanstack (tanstack)](tanstack.md) |
+| [mui](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/development/mui/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 一个用于样式、主题和响应式设计的 Material-UI v7 组件库技能。 | 19K | 90 | 2026-02-03 | [前端 (frontend)](frontend.md), [UI](ui.md), [mui (mui)](mui.md), [component 架构 (component-architecture)](component-architecture.md) |
+| [frontend-dev-guidelines](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/development/frontend-dev-guidelines/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 提供React/TypeScript应用的前端开发指南和现代模式。 | 19K | 88 | 2026-02-03 | [前端 (frontend)](frontend.md), [最佳实践 (best-practices)](best-practices.md), [React](react.md), [TypeScript](typescript.md), [mui (mui)](mui.md) |
+| [frontend-dev-guidelines](https://github.com/mrgoonie/claudekit-skills/blob/main/.claude/skills/frontend-development/SKILL.md) | [mrgoonie/claudekit-skills](https://github.com/mrgoonie/claudekit-skills) | 提供React/TypeScript应用的前端开发指南和现代模式。 | 1.6K | 79 | 2026-02-02 | [前端 (frontend)](frontend.md), [最佳实践 (best-practices)](best-practices.md), [React](react.md), [TypeScript](typescript.md), [mui (mui)](mui.md) |
+| [frontend-engineer](https://github.com/siviter-xyz/dot-agent/blob/main/skills/frontend-engineer/SKILL.md) | [siviter-xyz/dot-agent](https://github.com/siviter-xyz/dot-agent) | React/TypeScript 应用前端开发指南，涵盖现代模式和最佳实践。 | 2 | 60 | 2026-01-20 | [前端 (frontend)](frontend.md), [最佳实践 (best-practices)](best-practices.md), [React](react.md), [TypeScript](typescript.md), [mui (mui)](mui.md) |
+| [mui](https://github.com/softaworks/agent-toolkit/blob/main/skills/mui/SKILL.md) | [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) | 一个用于样式、主题和响应式设计的 Material-UI v7 组件库技能。 | 413 | 56 | 2026-02-02 | [前端 (frontend)](frontend.md), [component library (component-library)](component-library.md), [mui (mui)](mui.md), [UI](ui.md) |
+| [mui-base](https://github.com/pproenca/dot-skills/blob/master/skills/.curated/mui-base/SKILL.md) | [pproenca/dot-skills](https://github.com/pproenca/dot-skills) | 一个用于构建无样式UI组件和组件库的技能。 | 21 | 31 | 2026-01-30 | [component library (component-library)](component-library.md), [UI](ui.md), [前端 (frontend)](frontend.md), [mui (mui)](mui.md), [React](react.md) |

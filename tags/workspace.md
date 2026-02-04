@@ -1,0 +1,12 @@
+# Tag: workspace
+
+- Back: [Tags](README.md)
+- Tagged skills: 5
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/SKILL.md) | [obra/superpowers](https://github.com/obra/superpowers) | Create isolated Git worktrees for feature development with smart directory selection and safety checks. | 43K | 2.8K | 2026-01-30 | [workspace](workspace.md), [git](git.md), [isolation](isolation.md), [task-management](task-management.md), [tooling](tooling.md) |
+| [m11-ecosystem](https://github.com/zhanghandong/rust-skills/blob/main/skills/m11-ecosystem/SKILL.md) | [zhanghandong/rust-skills](https://github.com/zhanghandong/rust-skills) | A skill for handling Rust ecosystem integration, including crates, dependencies, and build configurations. | 635 | 103 | 2026-01-22 | [dependency-management](dependency-management.md), [build-tools](build-tools.md), [rust](rust.md), [cargo](cargo.md), [workspace](workspace.md) |
+| [using-git-worktrees](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/development/using-git-worktrees/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Create isolated Git worktrees for feature development with smart directory selection and safety checks. | 19K | 88 | 2026-02-03 | [git](git.md), [workspace](workspace.md), [isolation](isolation.md), [setup](setup.md), [tooling](tooling.md), [best-practices](best-practices.md) |
+| [monorepo-management](https://github.com/aj-geddes/useful-ai-prompts/blob/main/skills/monorepo-management/SKILL.md) | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | Manage monorepo architectures with Lerna, Turborepo, and Nx for workspace configuration and dependency versioning. | 59 | 41 | 2025-12-28 | [monorepo](monorepo.md), [build-tools](build-tools.md), [dependency-management](dependency-management.md), [workspace](workspace.md), [turbo](turbo.md), [nx](nx.md) |
+| [grepai-workspaces](https://github.com/yoanbernabeu/grepai-skills/blob/main/skills/advanced/grepai-workspaces/SKILL.md) | [yoanbernabeu/grepai-skills](https://github.com/yoanbernabeu/grepai-skills) | Configure multi-project workspaces for monorepos and related projects using GrepAI. | 6 | 38 | 2026-02-01 | [monorepo](monorepo.md), [configuration](configuration.md), [workspace](workspace.md), [grepai](grepai.md) |

@@ -1,0 +1,13 @@
+# Web 开发 / i
+
+- 返回: [分类](../README.md)
+- 数量: 6
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [interactive-portfolio](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/interactive-portfolio/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 打造令人难忘的作品集，吸引雇主和客户。 | 6.5K | 206 | 2026-02-02 | [portfolio (portfolio)](../../../tags/portfolio.md), [网页调研 (web-research)](../../../tags/web-research.md), [设计系统](../../../tags/design-systems.md), [UX (ux)](../../../tags/ux.md) |
+| [i18n](https://github.com/lobehub/lobehub/blob/main/.agents/skills/i18n/SKILL.md) | [lobehub/lobehub](https://github.com/lobehub/lobehub) | 用于在React应用中使用react-i18next进行国际化和本地化的技能。 | 72K | 85 | 2026-02-03 | [translation (translation)](../../../tags/translation.md), [internationalization (internationalization)](../../../tags/internationalization.md), [React](../../../tags/react.md), [tsx (tsx)](../../../tags/tsx.md) |
+| [i18n](https://github.com/lobehub/lobe-chat/blob/main/.agents/skills/i18n/SKILL.md) | [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) | 用于 React 应用程序国际化处理的技能。 | 72K | 77 | 2026-02-03 | [translation (translation)](../../../tags/translation.md), [前端 (frontend)](../../../tags/frontend.md), [React](../../../tags/react.md), [internationalization (internationalization)](../../../tags/internationalization.md), [localization (localization)](../../../tags/localization.md) |
+| [interactive-portfolio](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/creative-design/interactive-portfolio/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 打造能转化访客为工作机会的引人入胜的作品集。 | 19K | 71 | 2026-02-03 | [portfolio (portfolio)](../../../tags/portfolio.md), [设计系统](../../../tags/design-systems.md), [前端 (frontend)](../../../tags/frontend.md) |
+| [image-optimization](https://github.com/aj-geddes/useful-ai-prompts/blob/main/skills/image-optimization/SKILL.md) | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | 优化网页图片以加快加载速度。 | 59 | 55 | 2025-12-28 | [优化 (optimization)](../../../tags/optimization.md), [assets (assets)](../../../tags/assets.md), [image (image)](../../../tags/image.md), [性能优化 (performance)](../../../tags/performance.md) |
+| [internal-linking-optimizer](https://github.com/aaron-he-zhu/seo-geo-claude-skills/blob/main/optimize/internal-linking-optimizer/SKILL.md) | [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | 优化内部链接结构以改善网站架构和SEO。 | 140 | 29 | 2025-12-18 | [seo (seo)](../../../tags/seo.md), [架构 (architecture)](../../../tags/architecture.md), [优化 (optimization)](../../../tags/optimization.md) |

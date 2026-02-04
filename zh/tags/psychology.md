@@ -1,0 +1,11 @@
+# 标签：psychology (psychology)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 4
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [marketing-psychology](https://github.com/coreyhaines31/marketingskills/blob/main/skills/marketing-psychology/SKILL.md) | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 运用心理学原理和心智模型于营销，提升消费者洞察与说服力。 | 5.6K | 5.6K | 2026-01-28 | [营销 (marketing)](marketing.md), [psychology (psychology)](psychology.md), [behavioral science (behavioral-science)](behavioral-science.md), [mental models (mental-models)](mental-models.md), [copywriting (copywriting)](copywriting.md), [策略 (strategy)](strategy.md) |
+| [marketing-psychology](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/marketing-psychology/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 运用行为科学和心智模型制定营销决策。 | 6.5K | 180 | 2026-02-02 | [营销 (marketing)](marketing.md), [分析 (analysis)](analysis.md), [behavioral science (behavioral-science)](behavioral-science.md), [mental models (mental-models)](mental-models.md), [psychology (psychology)](psychology.md) |
+| [marketing-psychology](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/business-marketing/marketing-psychology/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 将心理学原理和心智模型应用于营销策略。 | 19K | 95 | 2026-02-03 | [营销 (marketing)](marketing.md), [audience analysis (audience-analysis)](audience-analysis.md), [behavioral science (behavioral-science)](behavioral-science.md), [mental models (mental-models)](mental-models.md), [psychology (psychology)](psychology.md) |
+| [conversion-psychology](https://github.com/mike-coulbourn/claude-vibes/blob/main/plugins/vibes/skills/conversion-psychology/SKILL.md) | [mike-coulbourn/claude-vibes](https://github.com/mike-coulbourn/claude-vibes) | 运用转化心理学优化视频营销脚本，包括情感触发、社会认同和紧迫感。 | 8 | 30 | 2025-12-21 | [conversion rate 优化 (conversion-rate-optimization)](conversion-rate-optimization.md), [营销 (marketing)](marketing.md), [audience analysis (audience-analysis)](audience-analysis.md), [psychology (psychology)](psychology.md) |

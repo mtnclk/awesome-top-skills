@@ -1,0 +1,11 @@
+# Tag: embedded-systems
+
+- Back: [Tags](README.md)
+- Tagged skills: 4
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [embedded-systems](https://github.com/jeffallan/claude-skills/blob/main/skills/embedded-systems/SKILL.md) | [jeffallan/claude-skills](https://github.com/jeffallan/claude-skills) | A skill for developing firmware, RTOS applications, and optimizing power consumption for microcontrollers like STM32 and ESP32. | 227 | 125 | 2026-02-03 | [coding](coding.md), [tooling](tooling.md), [embedded-systems](embedded-systems.md), [microcontrollers](microcontrollers.md) |
+| [domain-embedded](https://github.com/zhanghandong/rust-skills/blob/main/skills/domain-embedded/SKILL.md) | [zhanghandong/rust-skills](https://github.com/zhanghandong/rust-skills) | A skill for developing embedded and no_std Rust applications with support for MCUs, HAL, and RTIC. | 635 | 83 | 2026-01-22 | [coding](coding.md), [tooling](tooling.md), [embedded-systems](embedded-systems.md), [rust](rust.md), [microcontrollers](microcontrollers.md) |
+| [stm32-freertos-developer](https://github.com/2939387245/agent-skill_stm32-freertos/blob/main/SKILL.md) | [2939387245/agent-skill_stm32-freertos](https://github.com/2939387245/agent-skill_stm32-freertos) | An expert skill for STM32 and FreeRTOS embedded development with Cortex-M support. | 0 | 27 | 2026-01-14 | [coding](coding.md), [tooling](tooling.md), [embedded-systems](embedded-systems.md), [microcontrollers](microcontrollers.md), [freertos](freertos.md) |
+| [arm-cortex-expert](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/arm-cortex-expert/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Expert in firmware and driver development for ARM Cortex-M microcontrollers. | 6.5K | 21 | 2026-02-02 | [coding](coding.md), [embedded-systems](embedded-systems.md), [microcontrollers](microcontrollers.md), [arm-cortex](arm-cortex.md) |

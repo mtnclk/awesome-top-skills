@@ -1,0 +1,5680 @@
+{
+  "version": 1,
+  "generated_at": "2026-02-04T15:17:45.919Z",
+  "categories": {
+    "ai-llm": {
+      "zh": "AI/LLM（大模型）",
+      "bilingual": false
+    },
+    "dev": {
+      "zh": "开发（Dev）",
+      "bilingual": false
+    },
+    "web": {
+      "zh": "Web 开发",
+      "bilingual": false
+    },
+    "devops": {
+      "zh": "DevOps / 运维",
+      "bilingual": false
+    },
+    "data": {
+      "zh": "数据（Data）",
+      "bilingual": false
+    },
+    "research": {
+      "zh": "研究（Research）",
+      "bilingual": false
+    },
+    "security": {
+      "zh": "安全（Security）",
+      "bilingual": false
+    },
+    "productivity": {
+      "zh": "效率（Productivity）",
+      "bilingual": false
+    },
+    "design": {
+      "zh": "设计（Design）",
+      "bilingual": false
+    },
+    "product": {
+      "zh": "产品（Product）",
+      "bilingual": false
+    },
+    "business": {
+      "zh": "商业（Business）",
+      "bilingual": false
+    },
+    "other": {
+      "zh": "其他（Other）",
+      "bilingual": false
+    }
+  },
+  "tags": {
+    "best-practices": {
+      "zh": "最佳实践",
+      "bilingual": true
+    },
+    "frontend": {
+      "zh": "前端",
+      "bilingual": true
+    },
+    "backend": {
+      "zh": "后端",
+      "bilingual": true
+    },
+    "tooling": {
+      "zh": "工具链",
+      "bilingual": true
+    },
+    "api": {
+      "zh": "API",
+      "bilingual": false
+    },
+    "data-analysis": {
+      "zh": "数据分析",
+      "bilingual": true
+    },
+    "coding": {
+      "zh": "编码",
+      "bilingual": true
+    },
+    "workflows": {
+      "zh": "工作流",
+      "bilingual": true
+    },
+    "databases": {
+      "zh": "数据库",
+      "bilingual": true
+    },
+    "planning": {
+      "zh": "规划",
+      "bilingual": true
+    },
+    "automation": {
+      "zh": "自动化",
+      "bilingual": true
+    },
+    "ui": {
+      "zh": "UI",
+      "bilingual": false
+    },
+    "analysis": {
+      "zh": "分析",
+      "bilingual": true
+    },
+    "agents": {
+      "zh": "智能体",
+      "bilingual": true
+    },
+    "architecture": {
+      "zh": "架构",
+      "bilingual": true
+    },
+    "deployment": {
+      "zh": "部署",
+      "bilingual": true
+    },
+    "testing": {
+      "zh": "测试",
+      "bilingual": true
+    },
+    "react": {
+      "zh": "React",
+      "bilingual": false
+    },
+    "documentation": {
+      "zh": "文档",
+      "bilingual": true
+    },
+    "content-creation": {
+      "zh": "内容创作",
+      "bilingual": true
+    },
+    "code-review": {
+      "zh": "代码审查",
+      "bilingual": true
+    },
+    "cli": {
+      "zh": "命令行（CLI）",
+      "bilingual": false
+    },
+    "python": {
+      "zh": "Python",
+      "bilingual": false
+    },
+    "task-management": {
+      "zh": "任务管理",
+      "bilingual": true
+    },
+    "debugging": {
+      "zh": "调试",
+      "bilingual": true
+    },
+    "performance": {
+      "zh": "性能优化",
+      "bilingual": true
+    },
+    "llm-optimization": {
+      "zh": "LLM 优化",
+      "bilingual": true
+    },
+    "mobile": {
+      "zh": "移动开发",
+      "bilingual": true
+    },
+    "data-management": {
+      "zh": "数据管理",
+      "bilingual": true
+    },
+    "claude": {
+      "zh": "Claude",
+      "bilingual": false
+    },
+    "machine-learning": {
+      "zh": "机器学习",
+      "bilingual": true
+    },
+    "setup": {
+      "zh": "环境配置",
+      "bilingual": true
+    },
+    "audit": {
+      "zh": "审计",
+      "bilingual": true
+    },
+    "strategy": {
+      "zh": "策略",
+      "bilingual": true
+    },
+    "llm": {
+      "zh": "LLM",
+      "bilingual": false
+    },
+    "web-research": {
+      "zh": "网页调研",
+      "bilingual": true
+    },
+    "typescript": {
+      "zh": "TypeScript",
+      "bilingual": false
+    },
+    "marketing": {
+      "zh": "营销",
+      "bilingual": true
+    },
+    "configuration": {
+      "zh": "配置",
+      "bilingual": true
+    },
+    "writing": {
+      "zh": "写作",
+      "bilingual": true
+    },
+    "1password": {
+      "zh": "1password",
+      "bilingual": true
+    },
+    "3d": {
+      "zh": "3d",
+      "bilingual": true
+    },
+    "academic-papers": {
+      "zh": "academic papers",
+      "bilingual": true
+    },
+    "access-control": {
+      "zh": "访问控制",
+      "bilingual": false
+    },
+    "accessibility": {
+      "zh": "无障碍",
+      "bilingual": true
+    },
+    "accounting": {
+      "zh": "accounting",
+      "bilingual": true
+    },
+    "activitykit": {
+      "zh": "activitykit",
+      "bilingual": true
+    },
+    "adhd": {
+      "zh": "adhd",
+      "bilingual": true
+    },
+    "adk": {
+      "zh": "adk",
+      "bilingual": true
+    },
+    "admin-panel": {
+      "zh": "admin panel",
+      "bilingual": true
+    },
+    "adobe": {
+      "zh": "adobe",
+      "bilingual": true
+    },
+    "advertising": {
+      "zh": "advertising",
+      "bilingual": true
+    },
+    "agent-execution": {
+      "zh": "agent execution",
+      "bilingual": true
+    },
+    "agentic-systems": {
+      "zh": "agentic systems",
+      "bilingual": true
+    },
+    "agile": {
+      "zh": "agile",
+      "bilingual": true
+    },
+    "ai": {
+      "zh": "AI",
+      "bilingual": true
+    },
+    "ai-applications": {
+      "zh": "AI applications",
+      "bilingual": true
+    },
+    "ai-art": {
+      "zh": "AI art",
+      "bilingual": true
+    },
+    "ai-models": {
+      "zh": "AI models",
+      "bilingual": true
+    },
+    "ai-platform": {
+      "zh": "AI platform",
+      "bilingual": true
+    },
+    "ai-sdk": {
+      "zh": "AI SDK",
+      "bilingual": true
+    },
+    "ai-system-design": {
+      "zh": "AI system design",
+      "bilingual": true
+    },
+    "ai-video": {
+      "zh": "AI video",
+      "bilingual": true
+    },
+    "airflow": {
+      "zh": "airflow",
+      "bilingual": true
+    },
+    "airtable": {
+      "zh": "airtable",
+      "bilingual": true
+    },
+    "alerting": {
+      "zh": "告警",
+      "bilingual": true
+    },
+    "algolia": {
+      "zh": "algolia",
+      "bilingual": true
+    },
+    "algorand": {
+      "zh": "algorand",
+      "bilingual": true
+    },
+    "algorithmic-trading": {
+      "zh": "algorithmic trading",
+      "bilingual": true
+    },
+    "alpine-js": {
+      "zh": "alpine js",
+      "bilingual": true
+    },
+    "amplitude": {
+      "zh": "amplitude",
+      "bilingual": true
+    },
+    "analytics": {
+      "zh": "分析",
+      "bilingual": true
+    },
+    "android": {
+      "zh": "Android",
+      "bilingual": true
+    },
+    "angular": {
+      "zh": "Angular",
+      "bilingual": true
+    },
+    "animation": {
+      "zh": "animation",
+      "bilingual": true
+    },
+    "anki": {
+      "zh": "anki",
+      "bilingual": true
+    },
+    "anomaly-detection": {
+      "zh": "anomaly detection",
+      "bilingual": true
+    },
+    "ansible": {
+      "zh": "ansible",
+      "bilingual": true
+    },
+    "anthropic": {
+      "zh": "anthropic",
+      "bilingual": true
+    },
+    "anti-cheat": {
+      "zh": "anti cheat",
+      "bilingual": true
+    },
+    "apache-airflow": {
+      "zh": "apache airflow",
+      "bilingual": true
+    },
+    "apache-spark": {
+      "zh": "apache spark",
+      "bilingual": true
+    },
+    "api-docs": {
+      "zh": "API docs",
+      "bilingual": true
+    },
+    "api-platform": {
+      "zh": "API platform",
+      "bilingual": true
+    },
+    "apify": {
+      "zh": "apify",
+      "bilingual": true
+    },
+    "apm": {
+      "zh": "apm",
+      "bilingual": true
+    },
+    "apns": {
+      "zh": "apns",
+      "bilingual": true
+    },
+    "apollo": {
+      "zh": "apollo",
+      "bilingual": true
+    },
+    "app-intent": {
+      "zh": "app intent",
+      "bilingual": true
+    },
+    "app-router": {
+      "zh": "app router",
+      "bilingual": true
+    },
+    "app-store": {
+      "zh": "app store",
+      "bilingual": true
+    },
+    "appkit": {
+      "zh": "appkit",
+      "bilingual": true
+    },
+    "apple": {
+      "zh": "apple",
+      "bilingual": true
+    },
+    "apple-silicon": {
+      "zh": "apple silicon",
+      "bilingual": true
+    },
+    "apple-tv": {
+      "zh": "apple tv",
+      "bilingual": true
+    },
+    "apple-vision-pro": {
+      "zh": "apple vision pro",
+      "bilingual": true
+    },
+    "application": {
+      "zh": "application",
+      "bilingual": true
+    },
+    "appsec": {
+      "zh": "appsec",
+      "bilingual": true
+    },
+    "ar-vr": {
+      "zh": "ar vr",
+      "bilingual": true
+    },
+    "argocd": {
+      "zh": "argocd",
+      "bilingual": true
+    },
+    "arkts": {
+      "zh": "arkts",
+      "bilingual": true
+    },
+    "arkui": {
+      "zh": "arkui",
+      "bilingual": true
+    },
+    "arm-cortex": {
+      "zh": "arm cortex",
+      "bilingual": true
+    },
+    "art": {
+      "zh": "art",
+      "bilingual": true
+    },
+    "article": {
+      "zh": "article",
+      "bilingual": true
+    },
+    "aspire": {
+      "zh": "aspire",
+      "bilingual": true
+    },
+    "asset-allocation": {
+      "zh": "asset allocation",
+      "bilingual": true
+    },
+    "assets": {
+      "zh": "assets",
+      "bilingual": true
+    },
+    "assistive-technology": {
+      "zh": "assistive technology",
+      "bilingual": true
+    },
+    "ast": {
+      "zh": "ast",
+      "bilingual": true
+    },
+    "ast-grep": {
+      "zh": "ast grep",
+      "bilingual": true
+    },
+    "astro": {
+      "zh": "astro",
+      "bilingual": true
+    },
+    "astrology": {
+      "zh": "astrology",
+      "bilingual": true
+    },
+    "astronomy": {
+      "zh": "astronomy",
+      "bilingual": true
+    },
+    "async": {
+      "zh": "async",
+      "bilingual": true
+    },
+    "atlassian": {
+      "zh": "atlassian",
+      "bilingual": true
+    },
+    "atomic-css": {
+      "zh": "atomic css",
+      "bilingual": true
+    },
+    "ats-optimization": {
+      "zh": "ats 优化",
+      "bilingual": true
+    },
+    "audience-analysis": {
+      "zh": "audience analysis",
+      "bilingual": true
+    },
+    "audio": {
+      "zh": "audio",
+      "bilingual": true
+    },
+    "audio-generation": {
+      "zh": "audio generation",
+      "bilingual": true
+    },
+    "audio-processing": {
+      "zh": "audio processing",
+      "bilingual": true
+    },
+    "auth": {
+      "zh": "认证",
+      "bilingual": true
+    },
+    "auth0": {
+      "zh": "auth0",
+      "bilingual": true
+    },
+    "autism": {
+      "zh": "autism",
+      "bilingual": true
+    },
+    "automated-ml": {
+      "zh": "automated ML",
+      "bilingual": true
+    },
+    "autoscaling": {
+      "zh": "autoscaling",
+      "bilingual": true
+    },
+    "avalonia": {
+      "zh": "avalonia",
+      "bilingual": true
+    },
+    "avif": {
+      "zh": "avif",
+      "bilingual": true
+    },
+    "aws": {
+      "zh": "aws",
+      "bilingual": true
+    },
+    "azure": {
+      "zh": "azure",
+      "bilingual": true
+    },
+    "background-processing": {
+      "zh": "background processing",
+      "bilingual": true
+    },
+    "backtesting": {
+      "zh": "backtesting",
+      "bilingual": true
+    },
+    "backup": {
+      "zh": "backup",
+      "bilingual": true
+    },
+    "banner": {
+      "zh": "banner",
+      "bilingual": true
+    },
+    "bash": {
+      "zh": "bash",
+      "bilingual": true
+    },
+    "batch-operations": {
+      "zh": "batch operations",
+      "bilingual": true
+    },
+    "battery": {
+      "zh": "battery",
+      "bilingual": true
+    },
+    "bayesian": {
+      "zh": "bayesian",
+      "bilingual": true
+    },
+    "bazel": {
+      "zh": "bazel",
+      "bilingual": true
+    },
+    "bd-deal": {
+      "zh": "bd deal",
+      "bilingual": true
+    },
+    "beads": {
+      "zh": "beads",
+      "bilingual": true
+    },
+    "beam": {
+      "zh": "beam",
+      "bilingual": true
+    },
+    "bed-files": {
+      "zh": "bed files",
+      "bilingual": true
+    },
+    "behavioral-science": {
+      "zh": "behavioral science",
+      "bilingual": true
+    },
+    "benchling": {
+      "zh": "benchling",
+      "bilingual": true
+    },
+    "benchmarking": {
+      "zh": "benchmarking",
+      "bilingual": true
+    },
+    "bert": {
+      "zh": "bert",
+      "bilingual": true
+    },
+    "bicep": {
+      "zh": "bicep",
+      "bilingual": true
+    },
+    "bigcode": {
+      "zh": "bigcode",
+      "bilingual": true
+    },
+    "bigcommerce": {
+      "zh": "bigcommerce",
+      "bilingual": true
+    },
+    "bigquery": {
+      "zh": "bigquery",
+      "bilingual": true
+    },
+    "billing": {
+      "zh": "billing",
+      "bilingual": true
+    },
+    "binary-analysis": {
+      "zh": "binary analysis",
+      "bilingual": true
+    },
+    "bioinformatics": {
+      "zh": "bioinformatics",
+      "bilingual": true
+    },
+    "biome": {
+      "zh": "biome",
+      "bilingual": true
+    },
+    "biomedical": {
+      "zh": "biomedical",
+      "bilingual": true
+    },
+    "biosignal": {
+      "zh": "biosignal",
+      "bilingual": true
+    },
+    "bitbucket": {
+      "zh": "bitbucket",
+      "bilingual": true
+    },
+    "bitcoin": {
+      "zh": "bitcoin",
+      "bilingual": true
+    },
+    "bk-ci": {
+      "zh": "bk CI",
+      "bilingual": true
+    },
+    "blazor": {
+      "zh": "blazor",
+      "bilingual": true
+    },
+    "block-themes": {
+      "zh": "block themes",
+      "bilingual": true
+    },
+    "blockchain": {
+      "zh": "blockchain",
+      "bilingual": true
+    },
+    "blog-posts": {
+      "zh": "blog posts",
+      "bilingual": true
+    },
+    "bmad": {
+      "zh": "bmad",
+      "bilingual": true
+    },
+    "book": {
+      "zh": "book",
+      "bilingual": true
+    },
+    "booking": {
+      "zh": "booking",
+      "bilingual": true
+    },
+    "bootstrapped": {
+      "zh": "bootstrapped",
+      "bilingual": true
+    },
+    "brainstorming": {
+      "zh": "brainstorming",
+      "bilingual": true
+    },
+    "branding": {
+      "zh": "branding",
+      "bilingual": true
+    },
+    "breach-investigation": {
+      "zh": "breach investigation",
+      "bilingual": true
+    },
+    "brownfield": {
+      "zh": "brownfield",
+      "bilingual": true
+    },
+    "browser": {
+      "zh": "browser",
+      "bilingual": true
+    },
+    "browser-automation": {
+      "zh": "browser 自动化",
+      "bilingual": true
+    },
+    "browser-extensions": {
+      "zh": "browser extensions",
+      "bilingual": true
+    },
+    "budget": {
+      "zh": "budget",
+      "bilingual": true
+    },
+    "build-tools": {
+      "zh": "build tools",
+      "bilingual": true
+    },
+    "bukkit": {
+      "zh": "bukkit",
+      "bilingual": true
+    },
+    "bun": {
+      "zh": "bun",
+      "bilingual": true
+    },
+    "burpsuite": {
+      "zh": "burpsuite",
+      "bilingual": true
+    },
+    "business-model": {
+      "zh": "business model",
+      "bilingual": true
+    },
+    "c": {
+      "zh": "c",
+      "bilingual": true
+    },
+    "cache": {
+      "zh": "cache",
+      "bilingual": true
+    },
+    "cag": {
+      "zh": "cag",
+      "bilingual": true
+    },
+    "calendar": {
+      "zh": "calendar",
+      "bilingual": true
+    },
+    "camera": {
+      "zh": "camera",
+      "bilingual": true
+    },
+    "canary-deployments": {
+      "zh": "canary deployments",
+      "bilingual": true
+    },
+    "canton": {
+      "zh": "canton",
+      "bilingual": true
+    },
+    "canva": {
+      "zh": "canva",
+      "bilingual": true
+    },
+    "canvas": {
+      "zh": "canvas",
+      "bilingual": true
+    },
+    "capacitor": {
+      "zh": "capacitor",
+      "bilingual": true
+    },
+    "capacity-planning": {
+      "zh": "capacity 规划",
+      "bilingual": true
+    },
+    "caption": {
+      "zh": "caption",
+      "bilingual": true
+    },
+    "career": {
+      "zh": "career",
+      "bilingual": true
+    },
+    "cargo": {
+      "zh": "cargo",
+      "bilingual": true
+    },
+    "carplay": {
+      "zh": "carplay",
+      "bilingual": true
+    },
+    "cartography": {
+      "zh": "cartography",
+      "bilingual": true
+    },
+    "causal-inference": {
+      "zh": "causal inference",
+      "bilingual": true
+    },
+    "ccpa": {
+      "zh": "ccpa",
+      "bilingual": true
+    },
+    "cdn": {
+      "zh": "cdn",
+      "bilingual": true
+    },
+    "cdp": {
+      "zh": "cdp",
+      "bilingual": true
+    },
+    "celery": {
+      "zh": "celery",
+      "bilingual": true
+    },
+    "certificate": {
+      "zh": "certificate",
+      "bilingual": true
+    },
+    "chain-of-thought": {
+      "zh": "chain of thought",
+      "bilingual": true
+    },
+    "changelog": {
+      "zh": "changelog",
+      "bilingual": true
+    },
+    "channels": {
+      "zh": "channels",
+      "bilingual": true
+    },
+    "character": {
+      "zh": "character",
+      "bilingual": true
+    },
+    "character-design": {
+      "zh": "character design",
+      "bilingual": true
+    },
+    "chart": {
+      "zh": "chart",
+      "bilingual": true
+    },
+    "chart3d": {
+      "zh": "chart3d",
+      "bilingual": true
+    },
+    "chat-interface": {
+      "zh": "chat interface",
+      "bilingual": true
+    },
+    "chatbot": {
+      "zh": "chatbot",
+      "bilingual": true
+    },
+    "chatgpt": {
+      "zh": "chatgpt",
+      "bilingual": true
+    },
+    "cheminformatics": {
+      "zh": "cheminformatics",
+      "bilingual": true
+    },
+    "children": {
+      "zh": "children",
+      "bilingual": true
+    },
+    "china": {
+      "zh": "china",
+      "bilingual": true
+    },
+    "chinese": {
+      "zh": "chinese",
+      "bilingual": true
+    },
+    "chromatic": {
+      "zh": "chromatic",
+      "bilingual": true
+    },
+    "chrome": {
+      "zh": "chrome",
+      "bilingual": true
+    },
+    "chromium": {
+      "zh": "chromium",
+      "bilingual": true
+    },
+    "ci-cd": {
+      "zh": "CI/CD",
+      "bilingual": true
+    },
+    "cilium": {
+      "zh": "cilium",
+      "bilingual": true
+    },
+    "clean-code": {
+      "zh": "clean code",
+      "bilingual": true
+    },
+    "clerk": {
+      "zh": "clerk",
+      "bilingual": true
+    },
+    "clickhouse": {
+      "zh": "clickhouse",
+      "bilingual": true
+    },
+    "clickup": {
+      "zh": "clickup",
+      "bilingual": true
+    },
+    "clinical-research": {
+      "zh": "clinical research",
+      "bilingual": true
+    },
+    "clojure": {
+      "zh": "clojure",
+      "bilingual": true
+    },
+    "cloud": {
+      "zh": "cloud",
+      "bilingual": true
+    },
+    "cloud-compute": {
+      "zh": "cloud compute",
+      "bilingual": true
+    },
+    "cloud-gpu": {
+      "zh": "cloud gpu",
+      "bilingual": true
+    },
+    "cloud-native": {
+      "zh": "cloud native",
+      "bilingual": true
+    },
+    "cloud-storage": {
+      "zh": "cloud storage",
+      "bilingual": true
+    },
+    "cloudbase": {
+      "zh": "cloudbase",
+      "bilingual": true
+    },
+    "cloudflare": {
+      "zh": "cloudflare",
+      "bilingual": true
+    },
+    "cloudkit": {
+      "zh": "cloudkit",
+      "bilingual": true
+    },
+    "clustering": {
+      "zh": "clustering",
+      "bilingual": true
+    },
+    "cms": {
+      "zh": "cms",
+      "bilingual": true
+    },
+    "code": {
+      "zh": "code",
+      "bilingual": true
+    },
+    "code-analysis": {
+      "zh": "code analysis",
+      "bilingual": true
+    },
+    "code-generation": {
+      "zh": "代码生成",
+      "bilingual": false
+    },
+    "code-quality": {
+      "zh": "code quality",
+      "bilingual": true
+    },
+    "codebase": {
+      "zh": "codebase",
+      "bilingual": true
+    },
+    "codebuddy": {
+      "zh": "codebuddy",
+      "bilingual": true
+    },
+    "codeql": {
+      "zh": "codeql",
+      "bilingual": true
+    },
+    "codex": {
+      "zh": "codex",
+      "bilingual": true
+    },
+    "collaborative-fiction": {
+      "zh": "collaborative fiction",
+      "bilingual": true
+    },
+    "color-theory": {
+      "zh": "color theory",
+      "bilingual": true
+    },
+    "combine-framework": {
+      "zh": "combine framework",
+      "bilingual": true
+    },
+    "command-line": {
+      "zh": "command line",
+      "bilingual": true
+    },
+    "commit": {
+      "zh": "commit",
+      "bilingual": true
+    },
+    "communication": {
+      "zh": "communication",
+      "bilingual": true
+    },
+    "community": {
+      "zh": "community",
+      "bilingual": true
+    },
+    "competitive-analysis": {
+      "zh": "competitive analysis",
+      "bilingual": true
+    },
+    "competitive-intelligence": {
+      "zh": "competitive intelligence",
+      "bilingual": true
+    },
+    "compliance": {
+      "zh": "合规",
+      "bilingual": true
+    },
+    "component-api": {
+      "zh": "component API",
+      "bilingual": true
+    },
+    "component-architecture": {
+      "zh": "component 架构",
+      "bilingual": true
+    },
+    "component-library": {
+      "zh": "component library",
+      "bilingual": true
+    },
+    "component-testing": {
+      "zh": "component 测试",
+      "bilingual": true
+    },
+    "compose": {
+      "zh": "compose",
+      "bilingual": true
+    },
+    "compose-multiplatform": {
+      "zh": "compose multiplatform",
+      "bilingual": true
+    },
+    "composio": {
+      "zh": "composio",
+      "bilingual": true
+    },
+    "computational-chemistry": {
+      "zh": "computational chemistry",
+      "bilingual": true
+    },
+    "computational-fluid-dynamics": {
+      "zh": "computational fluid dynamics",
+      "bilingual": true
+    },
+    "computational-pathology": {
+      "zh": "computational pathology",
+      "bilingual": true
+    },
+    "computer-use": {
+      "zh": "computer use",
+      "bilingual": true
+    },
+    "computer-vision": {
+      "zh": "computer vision",
+      "bilingual": true
+    },
+    "concurrency": {
+      "zh": "concurrency",
+      "bilingual": true
+    },
+    "conductor": {
+      "zh": "conductor",
+      "bilingual": true
+    },
+    "confluence": {
+      "zh": "confluence",
+      "bilingual": true
+    },
+    "construction": {
+      "zh": "construction",
+      "bilingual": true
+    },
+    "containerization": {
+      "zh": "containerization",
+      "bilingual": true
+    },
+    "context-management": {
+      "zh": "context management",
+      "bilingual": true
+    },
+    "continuous-learning": {
+      "zh": "continuous learning",
+      "bilingual": true
+    },
+    "contract-testing": {
+      "zh": "contract 测试",
+      "bilingual": true
+    },
+    "conversation-history": {
+      "zh": "conversation history",
+      "bilingual": true
+    },
+    "conversion-rate-optimization": {
+      "zh": "conversion rate 优化",
+      "bilingual": true
+    },
+    "convex": {
+      "zh": "convex",
+      "bilingual": true
+    },
+    "copilot": {
+      "zh": "copilot",
+      "bilingual": true
+    },
+    "copywriting": {
+      "zh": "copywriting",
+      "bilingual": true
+    },
+    "core-data": {
+      "zh": "core data",
+      "bilingual": true
+    },
+    "core-location": {
+      "zh": "core location",
+      "bilingual": true
+    },
+    "core-spotlight": {
+      "zh": "core spotlight",
+      "bilingual": true
+    },
+    "coreml": {
+      "zh": "coreml",
+      "bilingual": true
+    },
+    "correlation": {
+      "zh": "correlation",
+      "bilingual": true
+    },
+    "cosmos": {
+      "zh": "cosmos",
+      "bilingual": true
+    },
+    "cost-optimization": {
+      "zh": "cost 优化",
+      "bilingual": true
+    },
+    "cpp": {
+      "zh": "cpp",
+      "bilingual": true
+    },
+    "cpu": {
+      "zh": "cpu",
+      "bilingual": true
+    },
+    "cqrs": {
+      "zh": "cqrs",
+      "bilingual": true
+    },
+    "creative-writing": {
+      "zh": "creative 写作",
+      "bilingual": true
+    },
+    "crewai": {
+      "zh": "crewai",
+      "bilingual": true
+    },
+    "crm": {
+      "zh": "crm",
+      "bilingual": true
+    },
+    "cross-platform": {
+      "zh": "cross platform",
+      "bilingual": true
+    },
+    "crud": {
+      "zh": "crud",
+      "bilingual": true
+    },
+    "crypto": {
+      "zh": "crypto",
+      "bilingual": true
+    },
+    "csharp": {
+      "zh": "csharp",
+      "bilingual": true
+    },
+    "css": {
+      "zh": "css",
+      "bilingual": true
+    },
+    "csv": {
+      "zh": "csv",
+      "bilingual": true
+    },
+    "culture": {
+      "zh": "culture",
+      "bilingual": true
+    },
+    "currency": {
+      "zh": "currency",
+      "bilingual": true
+    },
+    "curriculum": {
+      "zh": "curriculum",
+      "bilingual": true
+    },
+    "cursor": {
+      "zh": "cursor",
+      "bilingual": true
+    },
+    "customer-data-platform": {
+      "zh": "customer data platform",
+      "bilingual": true
+    },
+    "customer-support": {
+      "zh": "customer support",
+      "bilingual": true
+    },
+    "cv": {
+      "zh": "cv",
+      "bilingual": true
+    },
+    "cypress": {
+      "zh": "cypress",
+      "bilingual": true
+    },
+    "d3-js": {
+      "zh": "d3 js",
+      "bilingual": true
+    },
+    "daily": {
+      "zh": "daily",
+      "bilingual": true
+    },
+    "daml": {
+      "zh": "daml",
+      "bilingual": true
+    },
+    "dapp": {
+      "zh": "dapp",
+      "bilingual": true
+    },
+    "dark-mode": {
+      "zh": "dark mode",
+      "bilingual": true
+    },
+    "dart": {
+      "zh": "dart",
+      "bilingual": true
+    },
+    "dashboard": {
+      "zh": "dashboard",
+      "bilingual": true
+    },
+    "dashscope": {
+      "zh": "dashscope",
+      "bilingual": true
+    },
+    "dask": {
+      "zh": "dask",
+      "bilingual": true
+    },
+    "data-commons": {
+      "zh": "data commons",
+      "bilingual": true
+    },
+    "data-fetching": {
+      "zh": "data fetching",
+      "bilingual": true
+    },
+    "data-pipelines": {
+      "zh": "data pipelines",
+      "bilingual": true
+    },
+    "data-quality": {
+      "zh": "data quality",
+      "bilingual": true
+    },
+    "database": {
+      "zh": "数据库",
+      "bilingual": true
+    },
+    "databricks": {
+      "zh": "databricks",
+      "bilingual": true
+    },
+    "datadog": {
+      "zh": "datadog",
+      "bilingual": true
+    },
+    "dbt": {
+      "zh": "dbt",
+      "bilingual": true
+    },
+    "ddd": {
+      "zh": "ddd",
+      "bilingual": true
+    },
+    "decentralized-systems": {
+      "zh": "decentralized systems",
+      "bilingual": true
+    },
+    "decision-making": {
+      "zh": "decision making",
+      "bilingual": true
+    },
+    "declarative": {
+      "zh": "declarative",
+      "bilingual": true
+    },
+    "deep-learning": {
+      "zh": "深度学习",
+      "bilingual": false
+    },
+    "deepspeed": {
+      "zh": "deepspeed",
+      "bilingual": true
+    },
+    "deliverability": {
+      "zh": "deliverability",
+      "bilingual": true
+    },
+    "deno": {
+      "zh": "deno",
+      "bilingual": true
+    },
+    "dependency-management": {
+      "zh": "依赖管理",
+      "bilingual": false
+    },
+    "design-patterns": {
+      "zh": "design patterns",
+      "bilingual": true
+    },
+    "design-systems": {
+      "zh": "设计系统",
+      "bilingual": false
+    },
+    "desktop-app": {
+      "zh": "desktop app",
+      "bilingual": true
+    },
+    "developer": {
+      "zh": "developer",
+      "bilingual": true
+    },
+    "developer-docs": {
+      "zh": "developer docs",
+      "bilingual": true
+    },
+    "development": {
+      "zh": "development",
+      "bilingual": true
+    },
+    "devsecops": {
+      "zh": "devsecops",
+      "bilingual": true
+    },
+    "devtools": {
+      "zh": "devtools",
+      "bilingual": true
+    },
+    "di-container": {
+      "zh": "di container",
+      "bilingual": true
+    },
+    "diagnosis": {
+      "zh": "diagnosis",
+      "bilingual": true
+    },
+    "diagram": {
+      "zh": "diagram",
+      "bilingual": true
+    },
+    "dialogue": {
+      "zh": "dialogue",
+      "bilingual": true
+    },
+    "dify": {
+      "zh": "dify",
+      "bilingual": true
+    },
+    "digital-product": {
+      "zh": "digital product",
+      "bilingual": true
+    },
+    "digitalocean": {
+      "zh": "digitalocean",
+      "bilingual": true
+    },
+    "dimensionality-reduction": {
+      "zh": "dimensionality reduction",
+      "bilingual": true
+    },
+    "directx": {
+      "zh": "directx",
+      "bilingual": true
+    },
+    "disaster-recovery": {
+      "zh": "disaster recovery",
+      "bilingual": true
+    },
+    "discord": {
+      "zh": "discord",
+      "bilingual": true
+    },
+    "disk-space": {
+      "zh": "disk space",
+      "bilingual": true
+    },
+    "displaylink": {
+      "zh": "displaylink",
+      "bilingual": true
+    },
+    "distributed-systems": {
+      "zh": "distributed systems",
+      "bilingual": true
+    },
+    "django": {
+      "zh": "django",
+      "bilingual": true
+    },
+    "dns": {
+      "zh": "dns",
+      "bilingual": true
+    },
+    "docker": {
+      "zh": "Docker",
+      "bilingual": true
+    },
+    "docs": {
+      "zh": "docs",
+      "bilingual": true
+    },
+    "doctrine": {
+      "zh": "doctrine",
+      "bilingual": true
+    },
+    "document-processing": {
+      "zh": "document processing",
+      "bilingual": true
+    },
+    "docusaurus": {
+      "zh": "docusaurus",
+      "bilingual": true
+    },
+    "docx": {
+      "zh": "docx",
+      "bilingual": true
+    },
+    "dodo-payments": {
+      "zh": "dodo payments",
+      "bilingual": true
+    },
+    "doe": {
+      "zh": "doe",
+      "bilingual": true
+    },
+    "domain-name": {
+      "zh": "domain name",
+      "bilingual": true
+    },
+    "dotnet": {
+      "zh": "dotnet",
+      "bilingual": true
+    },
+    "douyin": {
+      "zh": "douyin",
+      "bilingual": true
+    },
+    "download": {
+      "zh": "download",
+      "bilingual": true
+    },
+    "draft": {
+      "zh": "draft",
+      "bilingual": true
+    },
+    "drawio": {
+      "zh": "drawio",
+      "bilingual": true
+    },
+    "drizzle-orm": {
+      "zh": "drizzle orm",
+      "bilingual": true
+    },
+    "drug-discovery": {
+      "zh": "drug discovery",
+      "bilingual": true
+    },
+    "drupal": {
+      "zh": "drupal",
+      "bilingual": true
+    },
+    "dsl": {
+      "zh": "dsl",
+      "bilingual": true
+    },
+    "dwarf": {
+      "zh": "dwarf",
+      "bilingual": true
+    },
+    "dynamodb": {
+      "zh": "dynamodb",
+      "bilingual": true
+    },
+    "ebpf": {
+      "zh": "ebpf",
+      "bilingual": true
+    },
+    "ecommerce": {
+      "zh": "ecommerce",
+      "bilingual": true
+    },
+    "economic-data": {
+      "zh": "economic data",
+      "bilingual": true
+    },
+    "editing": {
+      "zh": "editing",
+      "bilingual": true
+    },
+    "education": {
+      "zh": "education",
+      "bilingual": true
+    },
+    "educational-content": {
+      "zh": "educational content",
+      "bilingual": true
+    },
+    "effect-ts": {
+      "zh": "effect ts",
+      "bilingual": true
+    },
+    "ehr": {
+      "zh": "ehr",
+      "bilingual": true
+    },
+    "electron": {
+      "zh": "electron",
+      "bilingual": true
+    },
+    "electronics": {
+      "zh": "electronics",
+      "bilingual": true
+    },
+    "electrophysiology": {
+      "zh": "electrophysiology",
+      "bilingual": true
+    },
+    "elevenlabs": {
+      "zh": "elevenlabs",
+      "bilingual": true
+    },
+    "elixir": {
+      "zh": "elixir",
+      "bilingual": true
+    },
+    "elysiajs": {
+      "zh": "elysiajs",
+      "bilingual": true
+    },
+    "email": {
+      "zh": "email",
+      "bilingual": true
+    },
+    "embedded-systems": {
+      "zh": "embedded systems",
+      "bilingual": true
+    },
+    "embedding": {
+      "zh": "embedding",
+      "bilingual": true
+    },
+    "embeddings": {
+      "zh": "embeddings",
+      "bilingual": true
+    },
+    "employee-relations": {
+      "zh": "employee relations",
+      "bilingual": true
+    },
+    "encore": {
+      "zh": "encore",
+      "bilingual": true
+    },
+    "encryption": {
+      "zh": "encryption",
+      "bilingual": true
+    },
+    "end-to-end-testing": {
+      "zh": "端到端测试",
+      "bilingual": false
+    },
+    "engagement": {
+      "zh": "engagement",
+      "bilingual": true
+    },
+    "engineering": {
+      "zh": "engineering",
+      "bilingual": true
+    },
+    "enterprise": {
+      "zh": "enterprise",
+      "bilingual": true
+    },
+    "environment": {
+      "zh": "environment",
+      "bilingual": true
+    },
+    "epub": {
+      "zh": "epub",
+      "bilingual": true
+    },
+    "equity": {
+      "zh": "equity",
+      "bilingual": true
+    },
+    "erp": {
+      "zh": "erp",
+      "bilingual": true
+    },
+    "error-handling": {
+      "zh": "错误处理",
+      "bilingual": false
+    },
+    "eslint": {
+      "zh": "eslint",
+      "bilingual": true
+    },
+    "estimation": {
+      "zh": "estimation",
+      "bilingual": true
+    },
+    "ethereum": {
+      "zh": "ethereum",
+      "bilingual": true
+    },
+    "etl": {
+      "zh": "etl",
+      "bilingual": true
+    },
+    "eu-mdr": {
+      "zh": "eu mdr",
+      "bilingual": true
+    },
+    "eval": {
+      "zh": "eval",
+      "bilingual": true
+    },
+    "evaluation": {
+      "zh": "evaluation",
+      "bilingual": true
+    },
+    "event-handling": {
+      "zh": "event handling",
+      "bilingual": true
+    },
+    "event-planning": {
+      "zh": "event 规划",
+      "bilingual": true
+    },
+    "event-streaming": {
+      "zh": "event streaming",
+      "bilingual": true
+    },
+    "evidence-collection": {
+      "zh": "evidence collection",
+      "bilingual": true
+    },
+    "exa": {
+      "zh": "exa",
+      "bilingual": true
+    },
+    "examples": {
+      "zh": "examples",
+      "bilingual": true
+    },
+    "excalidraw": {
+      "zh": "excalidraw",
+      "bilingual": true
+    },
+    "excel": {
+      "zh": "excel",
+      "bilingual": true
+    },
+    "executive": {
+      "zh": "executive",
+      "bilingual": true
+    },
+    "experiments": {
+      "zh": "experiments",
+      "bilingual": true
+    },
+    "explainable-ai": {
+      "zh": "explainable AI",
+      "bilingual": true
+    },
+    "explainer-video": {
+      "zh": "explainer video",
+      "bilingual": true
+    },
+    "explanation": {
+      "zh": "explanation",
+      "bilingual": true
+    },
+    "expo": {
+      "zh": "expo",
+      "bilingual": true
+    },
+    "express": {
+      "zh": "express",
+      "bilingual": true
+    },
+    "extension": {
+      "zh": "extension",
+      "bilingual": true
+    },
+    "facebook": {
+      "zh": "facebook",
+      "bilingual": true
+    },
+    "fact-checking": {
+      "zh": "fact checking",
+      "bilingual": true
+    },
+    "faker": {
+      "zh": "faker",
+      "bilingual": true
+    },
+    "fal-ai": {
+      "zh": "fal AI",
+      "bilingual": true
+    },
+    "fantasy": {
+      "zh": "fantasy",
+      "bilingual": true
+    },
+    "faq": {
+      "zh": "faq",
+      "bilingual": true
+    },
+    "fastapi": {
+      "zh": "fastapi",
+      "bilingual": true
+    },
+    "faster-whisper": {
+      "zh": "faster whisper",
+      "bilingual": true
+    },
+    "fastify": {
+      "zh": "fastify",
+      "bilingual": true
+    },
+    "fda": {
+      "zh": "fda",
+      "bilingual": true
+    },
+    "feature-development": {
+      "zh": "feature development",
+      "bilingual": true
+    },
+    "feature-engineering": {
+      "zh": "feature engineering",
+      "bilingual": true
+    },
+    "feature-extraction": {
+      "zh": "feature extraction",
+      "bilingual": true
+    },
+    "feature-flag": {
+      "zh": "feature flag",
+      "bilingual": true
+    },
+    "feature-flags": {
+      "zh": "特性开关",
+      "bilingual": false
+    },
+    "feature-ideation": {
+      "zh": "feature ideation",
+      "bilingual": true
+    },
+    "feature-importance": {
+      "zh": "feature importance",
+      "bilingual": true
+    },
+    "feedback": {
+      "zh": "feedback",
+      "bilingual": true
+    },
+    "feishu": {
+      "zh": "feishu",
+      "bilingual": true
+    },
+    "ffi": {
+      "zh": "ffi",
+      "bilingual": true
+    },
+    "ffmpeg": {
+      "zh": "ffmpeg",
+      "bilingual": true
+    },
+    "fhir": {
+      "zh": "fhir",
+      "bilingual": true
+    },
+    "figma": {
+      "zh": "figma",
+      "bilingual": true
+    },
+    "filament": {
+      "zh": "filament",
+      "bilingual": true
+    },
+    "file-storage": {
+      "zh": "file storage",
+      "bilingual": true
+    },
+    "finance": {
+      "zh": "财务",
+      "bilingual": true
+    },
+    "fine-tuning": {
+      "zh": "fine tuning",
+      "bilingual": true
+    },
+    "firebase": {
+      "zh": "firebase",
+      "bilingual": true
+    },
+    "firecrawl": {
+      "zh": "firecrawl",
+      "bilingual": true
+    },
+    "firefox": {
+      "zh": "firefox",
+      "bilingual": true
+    },
+    "firewall": {
+      "zh": "firewall",
+      "bilingual": true
+    },
+    "fixture": {
+      "zh": "fixture",
+      "bilingual": true
+    },
+    "flash-attn": {
+      "zh": "flash attn",
+      "bilingual": true
+    },
+    "flask": {
+      "zh": "flask",
+      "bilingual": true
+    },
+    "flow": {
+      "zh": "flow",
+      "bilingual": true
+    },
+    "fluid-dynamics": {
+      "zh": "fluid dynamics",
+      "bilingual": true
+    },
+    "flutter": {
+      "zh": "flutter",
+      "bilingual": true
+    },
+    "flux": {
+      "zh": "flux",
+      "bilingual": true
+    },
+    "focus": {
+      "zh": "focus",
+      "bilingual": true
+    },
+    "forecasting": {
+      "zh": "forecasting",
+      "bilingual": true
+    },
+    "form": {
+      "zh": "form",
+      "bilingual": true
+    },
+    "formatting": {
+      "zh": "格式化",
+      "bilingual": true
+    },
+    "formik": {
+      "zh": "formik",
+      "bilingual": true
+    },
+    "foundation-models": {
+      "zh": "foundation models",
+      "bilingual": true
+    },
+    "founder": {
+      "zh": "founder",
+      "bilingual": true
+    },
+    "foundry": {
+      "zh": "foundry",
+      "bilingual": true
+    },
+    "fpga": {
+      "zh": "fpga",
+      "bilingual": true
+    },
+    "framer-motion": {
+      "zh": "framer motion",
+      "bilingual": true
+    },
+    "framework": {
+      "zh": "framework",
+      "bilingual": true
+    },
+    "fraud-detection": {
+      "zh": "fraud detection",
+      "bilingual": true
+    },
+    "freertos": {
+      "zh": "freertos",
+      "bilingual": true
+    },
+    "fullstack": {
+      "zh": "fullstack",
+      "bilingual": true
+    },
+    "fumadocs": {
+      "zh": "fumadocs",
+      "bilingual": true
+    },
+    "fundraising": {
+      "zh": "fundraising",
+      "bilingual": true
+    },
+    "fuzzing": {
+      "zh": "fuzzing",
+      "bilingual": true
+    },
+    "game-development": {
+      "zh": "game development",
+      "bilingual": true
+    },
+    "gcp": {
+      "zh": "gcp",
+      "bilingual": true
+    },
+    "gdpr": {
+      "zh": "gdpr",
+      "bilingual": true
+    },
+    "gdscript": {
+      "zh": "gdscript",
+      "bilingual": true
+    },
+    "geist": {
+      "zh": "geist",
+      "bilingual": true
+    },
+    "gemini": {
+      "zh": "gemini",
+      "bilingual": true
+    },
+    "genomics": {
+      "zh": "genomics",
+      "bilingual": true
+    },
+    "geospatial": {
+      "zh": "geospatial",
+      "bilingual": true
+    },
+    "gguf": {
+      "zh": "gguf",
+      "bilingual": true
+    },
+    "ghidra": {
+      "zh": "ghidra",
+      "bilingual": true
+    },
+    "ghost": {
+      "zh": "ghost",
+      "bilingual": true
+    },
+    "gif": {
+      "zh": "gif",
+      "bilingual": true
+    },
+    "git": {
+      "zh": "git",
+      "bilingual": true
+    },
+    "github": {
+      "zh": "github",
+      "bilingual": true
+    },
+    "github-actions": {
+      "zh": "github actions",
+      "bilingual": true
+    },
+    "github-copilot": {
+      "zh": "github copilot",
+      "bilingual": true
+    },
+    "github-trending": {
+      "zh": "github trending",
+      "bilingual": true
+    },
+    "gitlab": {
+      "zh": "gitlab",
+      "bilingual": true
+    },
+    "gitops": {
+      "zh": "gitops",
+      "bilingual": true
+    },
+    "glsl": {
+      "zh": "glsl",
+      "bilingual": true
+    },
+    "gmail": {
+      "zh": "gmail",
+      "bilingual": true
+    },
+    "go": {
+      "zh": "Go",
+      "bilingual": true
+    },
+    "godot": {
+      "zh": "godot",
+      "bilingual": true
+    },
+    "google": {
+      "zh": "google",
+      "bilingual": true
+    },
+    "google-analytics": {
+      "zh": "google 分析",
+      "bilingual": true
+    },
+    "google-sheets": {
+      "zh": "google sheets",
+      "bilingual": true
+    },
+    "google-slides": {
+      "zh": "google slides",
+      "bilingual": true
+    },
+    "google-workspace": {
+      "zh": "google workspace",
+      "bilingual": true
+    },
+    "gpt": {
+      "zh": "gpt",
+      "bilingual": true
+    },
+    "gpt-4": {
+      "zh": "gpt 4",
+      "bilingual": true
+    },
+    "gpt-5": {
+      "zh": "gpt 5",
+      "bilingual": true
+    },
+    "gpu": {
+      "zh": "gpu",
+      "bilingual": true
+    },
+    "gpui": {
+      "zh": "gpui",
+      "bilingual": true
+    },
+    "gradle": {
+      "zh": "gradle",
+      "bilingual": true
+    },
+    "grafana": {
+      "zh": "grafana",
+      "bilingual": true
+    },
+    "grammar": {
+      "zh": "grammar",
+      "bilingual": true
+    },
+    "graph": {
+      "zh": "graph",
+      "bilingual": true
+    },
+    "graph-database": {
+      "zh": "graph 数据库",
+      "bilingual": true
+    },
+    "graph-neural-networks": {
+      "zh": "graph neural networks",
+      "bilingual": true
+    },
+    "graphics": {
+      "zh": "graphics",
+      "bilingual": true
+    },
+    "graphql": {
+      "zh": "GraphQL",
+      "bilingual": true
+    },
+    "grdb": {
+      "zh": "grdb",
+      "bilingual": true
+    },
+    "great-expectations": {
+      "zh": "great expectations",
+      "bilingual": true
+    },
+    "grepai": {
+      "zh": "grepai",
+      "bilingual": true
+    },
+    "growth": {
+      "zh": "growth",
+      "bilingual": true
+    },
+    "grpc": {
+      "zh": "gRPC",
+      "bilingual": true
+    },
+    "grpo": {
+      "zh": "grpo",
+      "bilingual": true
+    },
+    "gsap": {
+      "zh": "gsap",
+      "bilingual": true
+    },
+    "guardrails": {
+      "zh": "guardrails",
+      "bilingual": true
+    },
+    "gui": {
+      "zh": "gui",
+      "bilingual": true
+    },
+    "guide": {
+      "zh": "guide",
+      "bilingual": true
+    },
+    "guidelines": {
+      "zh": "guidelines",
+      "bilingual": true
+    },
+    "hacker-news": {
+      "zh": "hacker news",
+      "bilingual": true
+    },
+    "haproxy": {
+      "zh": "haproxy",
+      "bilingual": true
+    },
+    "hardhat": {
+      "zh": "hardhat",
+      "bilingual": true
+    },
+    "hardware": {
+      "zh": "hardware",
+      "bilingual": true
+    },
+    "harmonyos": {
+      "zh": "harmonyos",
+      "bilingual": true
+    },
+    "headless-chrome": {
+      "zh": "headless chrome",
+      "bilingual": true
+    },
+    "healthcare": {
+      "zh": "healthcare",
+      "bilingual": true
+    },
+    "helm": {
+      "zh": "helm",
+      "bilingual": true
+    },
+    "heroku": {
+      "zh": "heroku",
+      "bilingual": true
+    },
+    "hexagonal": {
+      "zh": "hexagonal",
+      "bilingual": true
+    },
+    "heygen": {
+      "zh": "heygen",
+      "bilingual": true
+    },
+    "hibernate": {
+      "zh": "hibernate",
+      "bilingual": true
+    },
+    "high-performance": {
+      "zh": "high 性能",
+      "bilingual": true
+    },
+    "hipaa": {
+      "zh": "hipaa",
+      "bilingual": true
+    },
+    "hiring": {
+      "zh": "hiring",
+      "bilingual": true
+    },
+    "homebrew": {
+      "zh": "homebrew",
+      "bilingual": true
+    },
+    "hono": {
+      "zh": "hono",
+      "bilingual": true
+    },
+    "hookify": {
+      "zh": "hookify",
+      "bilingual": true
+    },
+    "hooks": {
+      "zh": "hooks",
+      "bilingual": true
+    },
+    "hospitality": {
+      "zh": "hospitality",
+      "bilingual": true
+    },
+    "hotwire": {
+      "zh": "hotwire",
+      "bilingual": true
+    },
+    "hpc": {
+      "zh": "hpc",
+      "bilingual": true
+    },
+    "hr": {
+      "zh": "hr",
+      "bilingual": true
+    },
+    "html": {
+      "zh": "html",
+      "bilingual": true
+    },
+    "html5": {
+      "zh": "html5",
+      "bilingual": true
+    },
+    "htn": {
+      "zh": "htn",
+      "bilingual": true
+    },
+    "http": {
+      "zh": "http",
+      "bilingual": true
+    },
+    "hubspot": {
+      "zh": "hubspot",
+      "bilingual": true
+    },
+    "huggingface": {
+      "zh": "huggingface",
+      "bilingual": true
+    },
+    "huggingface-transformers": {
+      "zh": "huggingface transformers",
+      "bilingual": true
+    },
+    "human-interface-guidelines": {
+      "zh": "human interface guidelines",
+      "bilingual": true
+    },
+    "humanizer": {
+      "zh": "humanizer",
+      "bilingual": true
+    },
+    "humor": {
+      "zh": "humor",
+      "bilingual": true
+    },
+    "hybrid-search": {
+      "zh": "hybrid search",
+      "bilingual": true
+    },
+    "hyperparameter-tuning": {
+      "zh": "hyperparameter tuning",
+      "bilingual": true
+    },
+    "iac": {
+      "zh": "iac",
+      "bilingual": true
+    },
+    "iam": {
+      "zh": "iam",
+      "bilingual": true
+    },
+    "ibm": {
+      "zh": "ibm",
+      "bilingual": true
+    },
+    "icon": {
+      "zh": "icon",
+      "bilingual": true
+    },
+    "iconify": {
+      "zh": "iconify",
+      "bilingual": true
+    },
+    "identity": {
+      "zh": "identity",
+      "bilingual": true
+    },
+    "image": {
+      "zh": "image",
+      "bilingual": true
+    },
+    "image-generation": {
+      "zh": "image generation",
+      "bilingual": true
+    },
+    "image-processing": {
+      "zh": "image processing",
+      "bilingual": true
+    },
+    "image-to-video": {
+      "zh": "image to video",
+      "bilingual": true
+    },
+    "in-app": {
+      "zh": "in app",
+      "bilingual": true
+    },
+    "incident-response": {
+      "zh": "应急响应",
+      "bilingual": false
+    },
+    "inclusive-design": {
+      "zh": "inclusive design",
+      "bilingual": true
+    },
+    "indie-hacker": {
+      "zh": "indie hacker",
+      "bilingual": true
+    },
+    "inertia-js": {
+      "zh": "inertia js",
+      "bilingual": true
+    },
+    "infographic": {
+      "zh": "infographic",
+      "bilingual": true
+    },
+    "information-architecture": {
+      "zh": "information 架构",
+      "bilingual": true
+    },
+    "infrastructure": {
+      "zh": "infrastructure",
+      "bilingual": true
+    },
+    "inngest": {
+      "zh": "inngest",
+      "bilingual": true
+    },
+    "instagram": {
+      "zh": "instagram",
+      "bilingual": true
+    },
+    "instantsearch": {
+      "zh": "instantsearch",
+      "bilingual": true
+    },
+    "instrumentation": {
+      "zh": "instrumentation",
+      "bilingual": true
+    },
+    "insurance": {
+      "zh": "insurance",
+      "bilingual": true
+    },
+    "integration": {
+      "zh": "integration",
+      "bilingual": true
+    },
+    "integration-testing": {
+      "zh": "集成测试",
+      "bilingual": false
+    },
+    "intent": {
+      "zh": "intent",
+      "bilingual": true
+    },
+    "interaction": {
+      "zh": "interaction",
+      "bilingual": true
+    },
+    "interactive": {
+      "zh": "interactive",
+      "bilingual": true
+    },
+    "intercom": {
+      "zh": "intercom",
+      "bilingual": true
+    },
+    "internal-comms": {
+      "zh": "internal comms",
+      "bilingual": true
+    },
+    "internationalization": {
+      "zh": "internationalization",
+      "bilingual": true
+    },
+    "internet": {
+      "zh": "internet",
+      "bilingual": true
+    },
+    "investors": {
+      "zh": "investors",
+      "bilingual": true
+    },
+    "ionic": {
+      "zh": "ionic",
+      "bilingual": true
+    },
+    "ios": {
+      "zh": "iOS",
+      "bilingual": true
+    },
+    "iot": {
+      "zh": "iot",
+      "bilingual": true
+    },
+    "ipados": {
+      "zh": "ipados",
+      "bilingual": true
+    },
+    "iso-13485": {
+      "zh": "iso 13485",
+      "bilingual": true
+    },
+    "iso-14971": {
+      "zh": "iso 14971",
+      "bilingual": true
+    },
+    "iso27001": {
+      "zh": "iso27001",
+      "bilingual": true
+    },
+    "isolation": {
+      "zh": "isolation",
+      "bilingual": true
+    },
+    "jaeger": {
+      "zh": "jaeger",
+      "bilingual": true
+    },
+    "jasmine": {
+      "zh": "jasmine",
+      "bilingual": true
+    },
+    "java": {
+      "zh": "Java",
+      "bilingual": true
+    },
+    "javascript": {
+      "zh": "JavaScript",
+      "bilingual": true
+    },
+    "jax": {
+      "zh": "jax",
+      "bilingual": true
+    },
+    "jenkins": {
+      "zh": "jenkins",
+      "bilingual": true
+    },
+    "jest": {
+      "zh": "jest",
+      "bilingual": true
+    },
+    "jetpack-compose": {
+      "zh": "jetpack compose",
+      "bilingual": true
+    },
+    "jira": {
+      "zh": "jira",
+      "bilingual": true
+    },
+    "jj": {
+      "zh": "jj",
+      "bilingual": true
+    },
+    "jmeter": {
+      "zh": "jmeter",
+      "bilingual": true
+    },
+    "job-queue": {
+      "zh": "job queue",
+      "bilingual": true
+    },
+    "journaling": {
+      "zh": "journaling",
+      "bilingual": true
+    },
+    "journalists": {
+      "zh": "journalists",
+      "bilingual": true
+    },
+    "journey-mapping": {
+      "zh": "journey mapping",
+      "bilingual": true
+    },
+    "jpa": {
+      "zh": "jpa",
+      "bilingual": true
+    },
+    "jquery": {
+      "zh": "jquery",
+      "bilingual": true
+    },
+    "jsdoc": {
+      "zh": "jsdoc",
+      "bilingual": true
+    },
+    "json": {
+      "zh": "json",
+      "bilingual": true
+    },
+    "jssg": {
+      "zh": "jssg",
+      "bilingual": true
+    },
+    "jsx": {
+      "zh": "jsx",
+      "bilingual": true
+    },
+    "jupyter": {
+      "zh": "jupyter",
+      "bilingual": true
+    },
+    "jvm": {
+      "zh": "jvm",
+      "bilingual": true
+    },
+    "jwt": {
+      "zh": "JWT",
+      "bilingual": true
+    },
+    "k-dense-web": {
+      "zh": "k dense web",
+      "bilingual": true
+    },
+    "k6": {
+      "zh": "k6",
+      "bilingual": true
+    },
+    "kafka": {
+      "zh": "Kafka",
+      "bilingual": true
+    },
+    "kernel": {
+      "zh": "kernel",
+      "bilingual": true
+    },
+    "keyboard": {
+      "zh": "keyboard",
+      "bilingual": true
+    },
+    "keyboard-navigation": {
+      "zh": "keyboard navigation",
+      "bilingual": true
+    },
+    "keynote": {
+      "zh": "keynote",
+      "bilingual": true
+    },
+    "knowledge-base": {
+      "zh": "knowledge base",
+      "bilingual": true
+    },
+    "knowledge-transfer": {
+      "zh": "knowledge transfer",
+      "bilingual": true
+    },
+    "kotlin": {
+      "zh": "Kotlin",
+      "bilingual": true
+    },
+    "kubeflow": {
+      "zh": "kubeflow",
+      "bilingual": true
+    },
+    "kubernetes": {
+      "zh": "Kubernetes",
+      "bilingual": true
+    },
+    "lab-equipment": {
+      "zh": "lab equipment",
+      "bilingual": true
+    },
+    "landing-page": {
+      "zh": "landing page",
+      "bilingual": true
+    },
+    "langchain": {
+      "zh": "langchain",
+      "bilingual": true
+    },
+    "langfuse": {
+      "zh": "langfuse",
+      "bilingual": true
+    },
+    "langgraph": {
+      "zh": "langgraph",
+      "bilingual": true
+    },
+    "langsmith": {
+      "zh": "langsmith",
+      "bilingual": true
+    },
+    "laravel": {
+      "zh": "laravel",
+      "bilingual": true
+    },
+    "lark": {
+      "zh": "lark",
+      "bilingual": true
+    },
+    "latex": {
+      "zh": "latex",
+      "bilingual": true
+    },
+    "layout": {
+      "zh": "layout",
+      "bilingual": true
+    },
+    "lead-generation": {
+      "zh": "lead generation",
+      "bilingual": true
+    },
+    "lead-research": {
+      "zh": "lead research",
+      "bilingual": true
+    },
+    "leadership": {
+      "zh": "leadership",
+      "bilingual": true
+    },
+    "learning": {
+      "zh": "learning",
+      "bilingual": true
+    },
+    "legal": {
+      "zh": "legal",
+      "bilingual": true
+    },
+    "lesson-planning": {
+      "zh": "lesson 规划",
+      "bilingual": true
+    },
+    "level-design": {
+      "zh": "level design",
+      "bilingual": true
+    },
+    "lightgbm": {
+      "zh": "lightgbm",
+      "bilingual": true
+    },
+    "lime": {
+      "zh": "lime",
+      "bilingual": true
+    },
+    "linear": {
+      "zh": "linear",
+      "bilingual": true
+    },
+    "linkedin": {
+      "zh": "linkedin",
+      "bilingual": true
+    },
+    "linting": {
+      "zh": "代码规范检查（Lint）",
+      "bilingual": true
+    },
+    "linux": {
+      "zh": "Linux",
+      "bilingual": true
+    },
+    "linux-foundation": {
+      "zh": "Linux foundation",
+      "bilingual": true
+    },
+    "liquid-glass": {
+      "zh": "liquid glass",
+      "bilingual": true
+    },
+    "literature-review": {
+      "zh": "literature review",
+      "bilingual": true
+    },
+    "llamaindex": {
+      "zh": "llamaindex",
+      "bilingual": true
+    },
+    "llc": {
+      "zh": "llc",
+      "bilingual": true
+    },
+    "lmstudio": {
+      "zh": "lmstudio",
+      "bilingual": true
+    },
+    "lnurl": {
+      "zh": "lnurl",
+      "bilingual": true
+    },
+    "load-test": {
+      "zh": "load test",
+      "bilingual": true
+    },
+    "local": {
+      "zh": "local",
+      "bilingual": true
+    },
+    "localization": {
+      "zh": "localization",
+      "bilingual": true
+    },
+    "location": {
+      "zh": "location",
+      "bilingual": true
+    },
+    "log-aggregation": {
+      "zh": "log aggregation",
+      "bilingual": true
+    },
+    "logging": {
+      "zh": "日志",
+      "bilingual": true
+    },
+    "logo": {
+      "zh": "logo",
+      "bilingual": true
+    },
+    "logs": {
+      "zh": "logs",
+      "bilingual": true
+    },
+    "loki": {
+      "zh": "loki",
+      "bilingual": true
+    },
+    "lora": {
+      "zh": "lora",
+      "bilingual": true
+    },
+    "lora-training": {
+      "zh": "lora training",
+      "bilingual": true
+    },
+    "lsp": {
+      "zh": "lsp",
+      "bilingual": true
+    },
+    "macos": {
+      "zh": "macOS",
+      "bilingual": true
+    },
+    "mainactor": {
+      "zh": "mainactor",
+      "bilingual": true
+    },
+    "make": {
+      "zh": "make",
+      "bilingual": true
+    },
+    "mamba": {
+      "zh": "mamba",
+      "bilingual": true
+    },
+    "managed-infrastructure": {
+      "zh": "managed infrastructure",
+      "bilingual": true
+    },
+    "manim": {
+      "zh": "manim",
+      "bilingual": true
+    },
+    "mantine": {
+      "zh": "mantine",
+      "bilingual": true
+    },
+    "mapbox": {
+      "zh": "mapbox",
+      "bilingual": true
+    },
+    "mapping": {
+      "zh": "mapping",
+      "bilingual": true
+    },
+    "markdown": {
+      "zh": "markdown",
+      "bilingual": true
+    },
+    "market-research": {
+      "zh": "market research",
+      "bilingual": true
+    },
+    "market-systems": {
+      "zh": "market systems",
+      "bilingual": true
+    },
+    "mass-spectrometry": {
+      "zh": "mass spectrometry",
+      "bilingual": true
+    },
+    "mastra": {
+      "zh": "mastra",
+      "bilingual": true
+    },
+    "material-design": {
+      "zh": "material design",
+      "bilingual": true
+    },
+    "materials-science": {
+      "zh": "materials science",
+      "bilingual": true
+    },
+    "mathematics": {
+      "zh": "mathematics",
+      "bilingual": true
+    },
+    "matlab": {
+      "zh": "matlab",
+      "bilingual": true
+    },
+    "matplotlib": {
+      "zh": "matplotlib",
+      "bilingual": true
+    },
+    "maven": {
+      "zh": "maven",
+      "bilingual": true
+    },
+    "mcp": {
+      "zh": "mcp",
+      "bilingual": true
+    },
+    "mdx": {
+      "zh": "mdx",
+      "bilingual": true
+    },
+    "media": {
+      "zh": "media",
+      "bilingual": true
+    },
+    "medical": {
+      "zh": "medical",
+      "bilingual": true
+    },
+    "medical-device": {
+      "zh": "medical device",
+      "bilingual": true
+    },
+    "medtech": {
+      "zh": "medtech",
+      "bilingual": true
+    },
+    "medusa": {
+      "zh": "medusa",
+      "bilingual": true
+    },
+    "meeting": {
+      "zh": "会议",
+      "bilingual": true
+    },
+    "megatron": {
+      "zh": "megatron",
+      "bilingual": true
+    },
+    "memory": {
+      "zh": "memory",
+      "bilingual": true
+    },
+    "mental-models": {
+      "zh": "mental models",
+      "bilingual": true
+    },
+    "mermaid": {
+      "zh": "mermaid",
+      "bilingual": true
+    },
+    "message-queue": {
+      "zh": "message queue",
+      "bilingual": true
+    },
+    "messenger": {
+      "zh": "messenger",
+      "bilingual": true
+    },
+    "meta": {
+      "zh": "meta",
+      "bilingual": true
+    },
+    "meta-cognition": {
+      "zh": "meta cognition",
+      "bilingual": true
+    },
+    "metabase": {
+      "zh": "metabase",
+      "bilingual": true
+    },
+    "metabolic-engineering": {
+      "zh": "metabolic engineering",
+      "bilingual": true
+    },
+    "metabolomics": {
+      "zh": "metabolomics",
+      "bilingual": true
+    },
+    "metadata": {
+      "zh": "metadata",
+      "bilingual": true
+    },
+    "metal": {
+      "zh": "metal",
+      "bilingual": true
+    },
+    "metasploit": {
+      "zh": "metasploit",
+      "bilingual": true
+    },
+    "metrics": {
+      "zh": "指标",
+      "bilingual": true
+    },
+    "mgrep": {
+      "zh": "mgrep",
+      "bilingual": true
+    },
+    "microcontrollers": {
+      "zh": "microcontrollers",
+      "bilingual": true
+    },
+    "microscopy": {
+      "zh": "microscopy",
+      "bilingual": true
+    },
+    "microservices": {
+      "zh": "microservices",
+      "bilingual": true
+    },
+    "microsoft-365": {
+      "zh": "microsoft 365",
+      "bilingual": true
+    },
+    "microsoft-teams": {
+      "zh": "microsoft teams",
+      "bilingual": true
+    },
+    "middleware": {
+      "zh": "middleware",
+      "bilingual": true
+    },
+    "migration": {
+      "zh": "migration",
+      "bilingual": true
+    },
+    "minecraft": {
+      "zh": "minecraft",
+      "bilingual": true
+    },
+    "mkdocs": {
+      "zh": "mkdocs",
+      "bilingual": true
+    },
+    "mlflow": {
+      "zh": "mlflow",
+      "bilingual": true
+    },
+    "mlops": {
+      "zh": "mlops",
+      "bilingual": true
+    },
+    "moai-adk": {
+      "zh": "moai adk",
+      "bilingual": true
+    },
+    "mocking": {
+      "zh": "mocking",
+      "bilingual": true
+    },
+    "mockito": {
+      "zh": "mockito",
+      "bilingual": true
+    },
+    "modal": {
+      "zh": "modal",
+      "bilingual": true
+    },
+    "model-monitoring": {
+      "zh": "model 监控",
+      "bilingual": true
+    },
+    "modeling": {
+      "zh": "modeling",
+      "bilingual": true
+    },
+    "moderation": {
+      "zh": "moderation",
+      "bilingual": true
+    },
+    "module-architecture": {
+      "zh": "module 架构",
+      "bilingual": true
+    },
+    "molecular": {
+      "zh": "molecular",
+      "bilingual": true
+    },
+    "monday-com": {
+      "zh": "monday com",
+      "bilingual": true
+    },
+    "mongodb": {
+      "zh": "MongoDB",
+      "bilingual": true
+    },
+    "monitoring": {
+      "zh": "监控",
+      "bilingual": true
+    },
+    "monorepo": {
+      "zh": "monorepo",
+      "bilingual": true
+    },
+    "moodle": {
+      "zh": "moodle",
+      "bilingual": true
+    },
+    "motion-v": {
+      "zh": "motion v",
+      "bilingual": true
+    },
+    "move": {
+      "zh": "move",
+      "bilingual": true
+    },
+    "mqtt": {
+      "zh": "mqtt",
+      "bilingual": true
+    },
+    "msl": {
+      "zh": "msl",
+      "bilingual": true
+    },
+    "msw": {
+      "zh": "msw",
+      "bilingual": true
+    },
+    "mtls": {
+      "zh": "mtls",
+      "bilingual": true
+    },
+    "mui": {
+      "zh": "mui",
+      "bilingual": true
+    },
+    "multi-agent": {
+      "zh": "multi agent",
+      "bilingual": true
+    },
+    "multi-step-arithmetic": {
+      "zh": "multi step arithmetic",
+      "bilingual": true
+    },
+    "multilingual": {
+      "zh": "multilingual",
+      "bilingual": true
+    },
+    "multimodal": {
+      "zh": "multimodal",
+      "bilingual": true
+    },
+    "music": {
+      "zh": "music",
+      "bilingual": true
+    },
+    "mvp": {
+      "zh": "mvp",
+      "bilingual": true
+    },
+    "mybatis-plus": {
+      "zh": "mybatis plus",
+      "bilingual": true
+    },
+    "mysql": {
+      "zh": "MySQL",
+      "bilingual": true
+    },
+    "mystery-novel": {
+      "zh": "mystery novel",
+      "bilingual": true
+    },
+    "myvibe": {
+      "zh": "myvibe",
+      "bilingual": true
+    },
+    "n8n": {
+      "zh": "n8n",
+      "bilingual": true
+    },
+    "nano-banana-pro": {
+      "zh": "nano banana pro",
+      "bilingual": true
+    },
+    "narrative": {
+      "zh": "narrative",
+      "bilingual": true
+    },
+    "narrative-rpg": {
+      "zh": "narrative rpg",
+      "bilingual": true
+    },
+    "native-bindings": {
+      "zh": "native bindings",
+      "bilingual": true
+    },
+    "natural-language-processing": {
+      "zh": "natural language processing",
+      "bilingual": true
+    },
+    "navigation": {
+      "zh": "navigation",
+      "bilingual": true
+    },
+    "neon-postgres": {
+      "zh": "neon Postgres",
+      "bilingual": true
+    },
+    "nestjs": {
+      "zh": "nestjs",
+      "bilingual": true
+    },
+    "netlify": {
+      "zh": "netlify",
+      "bilingual": true
+    },
+    "network": {
+      "zh": "network",
+      "bilingual": true
+    },
+    "networking": {
+      "zh": "networking",
+      "bilingual": true
+    },
+    "neural-networks": {
+      "zh": "neural networks",
+      "bilingual": true
+    },
+    "neural-recording": {
+      "zh": "neural recording",
+      "bilingual": true
+    },
+    "newebpay": {
+      "zh": "newebpay",
+      "bilingual": true
+    },
+    "news": {
+      "zh": "news",
+      "bilingual": true
+    },
+    "newsletter": {
+      "zh": "newsletter",
+      "bilingual": true
+    },
+    "nextjs": {
+      "zh": "Next.js",
+      "bilingual": true
+    },
+    "nginx": {
+      "zh": "nginx",
+      "bilingual": true
+    },
+    "nih": {
+      "zh": "nih",
+      "bilingual": true
+    },
+    "nikto": {
+      "zh": "nikto",
+      "bilingual": true
+    },
+    "nist": {
+      "zh": "nist",
+      "bilingual": true
+    },
+    "nix": {
+      "zh": "nix",
+      "bilingual": true
+    },
+    "nmap": {
+      "zh": "nmap",
+      "bilingual": true
+    },
+    "nodejs": {
+      "zh": "nodejs",
+      "bilingual": true
+    },
+    "nonprofit": {
+      "zh": "nonprofit",
+      "bilingual": true
+    },
+    "nosql": {
+      "zh": "nosql",
+      "bilingual": true
+    },
+    "note-taking": {
+      "zh": "note taking",
+      "bilingual": true
+    },
+    "notion": {
+      "zh": "notion",
+      "bilingual": true
+    },
+    "npm": {
+      "zh": "npm",
+      "bilingual": true
+    },
+    "nsf": {
+      "zh": "nsf",
+      "bilingual": true
+    },
+    "numpy": {
+      "zh": "numpy",
+      "bilingual": true
+    },
+    "nuxt": {
+      "zh": "nuxt",
+      "bilingual": true
+    },
+    "nvidia": {
+      "zh": "nvidia",
+      "bilingual": true
+    },
+    "nx": {
+      "zh": "nx",
+      "bilingual": true
+    },
+    "oauth": {
+      "zh": "OAuth",
+      "bilingual": true
+    },
+    "oauth2": {
+      "zh": "OAuth2",
+      "bilingual": true
+    },
+    "observability": {
+      "zh": "可观测性",
+      "bilingual": true
+    },
+    "observables": {
+      "zh": "observables",
+      "bilingual": true
+    },
+    "obsidian": {
+      "zh": "obsidian",
+      "bilingual": true
+    },
+    "ocr": {
+      "zh": "ocr",
+      "bilingual": true
+    },
+    "octave": {
+      "zh": "octave",
+      "bilingual": true
+    },
+    "odoo": {
+      "zh": "odoo",
+      "bilingual": true
+    },
+    "office": {
+      "zh": "office",
+      "bilingual": true
+    },
+    "offline": {
+      "zh": "offline",
+      "bilingual": true
+    },
+    "oidc": {
+      "zh": "oidc",
+      "bilingual": true
+    },
+    "ollama": {
+      "zh": "ollama",
+      "bilingual": true
+    },
+    "onboarding": {
+      "zh": "onboarding",
+      "bilingual": true
+    },
+    "oop": {
+      "zh": "oop",
+      "bilingual": true
+    },
+    "open-source": {
+      "zh": "open source",
+      "bilingual": true
+    },
+    "openai": {
+      "zh": "openai",
+      "bilingual": true
+    },
+    "openapi": {
+      "zh": "openapi",
+      "bilingual": true
+    },
+    "opencode": {
+      "zh": "opencode",
+      "bilingual": true
+    },
+    "opencv": {
+      "zh": "opencv",
+      "bilingual": true
+    },
+    "opengl": {
+      "zh": "opengl",
+      "bilingual": true
+    },
+    "openrouter": {
+      "zh": "openrouter",
+      "bilingual": true
+    },
+    "opentelemetry": {
+      "zh": "opentelemetry",
+      "bilingual": true
+    },
+    "optimization": {
+      "zh": "优化",
+      "bilingual": true
+    },
+    "orchestration": {
+      "zh": "orchestration",
+      "bilingual": true
+    },
+    "organization": {
+      "zh": "organization",
+      "bilingual": true
+    },
+    "orm": {
+      "zh": "orm",
+      "bilingual": true
+    },
+    "osint": {
+      "zh": "osint",
+      "bilingual": true
+    },
+    "outlook": {
+      "zh": "outlook",
+      "bilingual": true
+    },
+    "output-sanitization": {
+      "zh": "output sanitization",
+      "bilingual": true
+    },
+    "owasp": {
+      "zh": "owasp",
+      "bilingual": true
+    },
+    "p5-js": {
+      "zh": "p5 js",
+      "bilingual": true
+    },
+    "package-validation": {
+      "zh": "package validation",
+      "bilingual": true
+    },
+    "package-versioning": {
+      "zh": "package versioning",
+      "bilingual": true
+    },
+    "packages": {
+      "zh": "packages",
+      "bilingual": true
+    },
+    "packet-capture": {
+      "zh": "packet capture",
+      "bilingual": true
+    },
+    "pagerduty": {
+      "zh": "pagerduty",
+      "bilingual": true
+    },
+    "paid-media": {
+      "zh": "paid media",
+      "bilingual": true
+    },
+    "pandas": {
+      "zh": "pandas",
+      "bilingual": true
+    },
+    "parquet": {
+      "zh": "parquet",
+      "bilingual": true
+    },
+    "parser": {
+      "zh": "parser",
+      "bilingual": true
+    },
+    "partnership": {
+      "zh": "partnership",
+      "bilingual": true
+    },
+    "pathology": {
+      "zh": "pathology",
+      "bilingual": true
+    },
+    "pathway-analysis": {
+      "zh": "pathway analysis",
+      "bilingual": true
+    },
+    "pattern-detection": {
+      "zh": "pattern detection",
+      "bilingual": true
+    },
+    "payload": {
+      "zh": "payload",
+      "bilingual": true
+    },
+    "payment": {
+      "zh": "payment",
+      "bilingual": true
+    },
+    "paypal": {
+      "zh": "paypal",
+      "bilingual": true
+    },
+    "pci-dss": {
+      "zh": "pci dss",
+      "bilingual": true
+    },
+    "pdf": {
+      "zh": "pdf",
+      "bilingual": true
+    },
+    "peft": {
+      "zh": "peft",
+      "bilingual": true
+    },
+    "pen": {
+      "zh": "pen",
+      "bilingual": true
+    },
+    "penetration-testing": {
+      "zh": "渗透测试",
+      "bilingual": false
+    },
+    "percy": {
+      "zh": "percy",
+      "bilingual": true
+    },
+    "performance-optimization": {
+      "zh": "性能优化",
+      "bilingual": true
+    },
+    "perplexity": {
+      "zh": "perplexity",
+      "bilingual": true
+    },
+    "persona-creation": {
+      "zh": "persona creation",
+      "bilingual": true
+    },
+    "personalization": {
+      "zh": "personalization",
+      "bilingual": true
+    },
+    "pgvector": {
+      "zh": "pgvector",
+      "bilingual": true
+    },
+    "pharmaceutical": {
+      "zh": "pharmaceutical",
+      "bilingual": true
+    },
+    "phaser": {
+      "zh": "phaser",
+      "bilingual": true
+    },
+    "phi4-reasoning": {
+      "zh": "phi4 reasoning",
+      "bilingual": true
+    },
+    "phoenix": {
+      "zh": "phoenix",
+      "bilingual": true
+    },
+    "photo": {
+      "zh": "photo",
+      "bilingual": true
+    },
+    "photoshop": {
+      "zh": "photoshop",
+      "bilingual": true
+    },
+    "php": {
+      "zh": "php",
+      "bilingual": true
+    },
+    "physics": {
+      "zh": "physics",
+      "bilingual": true
+    },
+    "pine-script": {
+      "zh": "pine script",
+      "bilingual": true
+    },
+    "pinia": {
+      "zh": "pinia",
+      "bilingual": true
+    },
+    "pino": {
+      "zh": "pino",
+      "bilingual": true
+    },
+    "pinterest": {
+      "zh": "pinterest",
+      "bilingual": true
+    },
+    "pip": {
+      "zh": "pip",
+      "bilingual": true
+    },
+    "pipeline": {
+      "zh": "pipeline",
+      "bilingual": true
+    },
+    "pitch-deck": {
+      "zh": "pitch deck",
+      "bilingual": true
+    },
+    "pixel-art": {
+      "zh": "pixel art",
+      "bilingual": true
+    },
+    "pixi-js": {
+      "zh": "pixi js",
+      "bilingual": true
+    },
+    "plaid": {
+      "zh": "plaid",
+      "bilingual": true
+    },
+    "plantuml": {
+      "zh": "plantuml",
+      "bilingual": true
+    },
+    "platform": {
+      "zh": "platform",
+      "bilingual": true
+    },
+    "platform-engineering": {
+      "zh": "platform engineering",
+      "bilingual": true
+    },
+    "playwright": {
+      "zh": "playwright",
+      "bilingual": true
+    },
+    "plotly": {
+      "zh": "plotly",
+      "bilingual": true
+    },
+    "plugin": {
+      "zh": "plugin",
+      "bilingual": true
+    },
+    "png": {
+      "zh": "png",
+      "bilingual": true
+    },
+    "pnpm": {
+      "zh": "pnpm",
+      "bilingual": true
+    },
+    "pocketbase": {
+      "zh": "pocketbase",
+      "bilingual": true
+    },
+    "podcast": {
+      "zh": "podcast",
+      "bilingual": true
+    },
+    "polkadot": {
+      "zh": "polkadot",
+      "bilingual": true
+    },
+    "portfolio": {
+      "zh": "portfolio",
+      "bilingual": true
+    },
+    "position-interpolation": {
+      "zh": "position interpolation",
+      "bilingual": true
+    },
+    "postgres": {
+      "zh": "Postgres",
+      "bilingual": true
+    },
+    "postgresql": {
+      "zh": "PostgreSQL",
+      "bilingual": true
+    },
+    "posthog": {
+      "zh": "posthog",
+      "bilingual": true
+    },
+    "powerpoint": {
+      "zh": "powerpoint",
+      "bilingual": true
+    },
+    "powershell": {
+      "zh": "powershell",
+      "bilingual": true
+    },
+    "ppo": {
+      "zh": "ppo",
+      "bilingual": true
+    },
+    "pptx": {
+      "zh": "pptx",
+      "bilingual": true
+    },
+    "prd": {
+      "zh": "prd",
+      "bilingual": true
+    },
+    "preflight-validation": {
+      "zh": "preflight validation",
+      "bilingual": true
+    },
+    "presentation": {
+      "zh": "演示",
+      "bilingual": true
+    },
+    "press-release": {
+      "zh": "press 发布",
+      "bilingual": true
+    },
+    "prettier": {
+      "zh": "prettier",
+      "bilingual": true
+    },
+    "pricing": {
+      "zh": "pricing",
+      "bilingual": true
+    },
+    "prioritization": {
+      "zh": "prioritization",
+      "bilingual": true
+    },
+    "prisma": {
+      "zh": "prisma",
+      "bilingual": true
+    },
+    "privacy": {
+      "zh": "隐私",
+      "bilingual": true
+    },
+    "privacy-protection": {
+      "zh": "隐私 protection",
+      "bilingual": true
+    },
+    "privilege-escalation": {
+      "zh": "privilege escalation",
+      "bilingual": true
+    },
+    "problem-definition": {
+      "zh": "problem definition",
+      "bilingual": true
+    },
+    "process-mapping": {
+      "zh": "process mapping",
+      "bilingual": true
+    },
+    "processing": {
+      "zh": "processing",
+      "bilingual": true
+    },
+    "procurement": {
+      "zh": "procurement",
+      "bilingual": true
+    },
+    "product-analytics": {
+      "zh": "product 分析",
+      "bilingual": true
+    },
+    "product-discovery": {
+      "zh": "product discovery",
+      "bilingual": true
+    },
+    "producthunt": {
+      "zh": "producthunt",
+      "bilingual": true
+    },
+    "production-reliability": {
+      "zh": "production reliability",
+      "bilingual": true
+    },
+    "professional-development": {
+      "zh": "professional development",
+      "bilingual": true
+    },
+    "profiling": {
+      "zh": "profiling",
+      "bilingual": true
+    },
+    "programming": {
+      "zh": "programming",
+      "bilingual": true
+    },
+    "progressive-rollouts": {
+      "zh": "progressive rollouts",
+      "bilingual": true
+    },
+    "progressive-web-apps": {
+      "zh": "progressive web apps",
+      "bilingual": true
+    },
+    "project-guidelines": {
+      "zh": "project guidelines",
+      "bilingual": true
+    },
+    "project-management": {
+      "zh": "项目管理",
+      "bilingual": false
+    },
+    "prometheus": {
+      "zh": "prometheus",
+      "bilingual": true
+    },
+    "promptfoo": {
+      "zh": "promptfoo",
+      "bilingual": true
+    },
+    "prompting": {
+      "zh": "prompting",
+      "bilingual": true
+    },
+    "prose": {
+      "zh": "prose",
+      "bilingual": true
+    },
+    "protein": {
+      "zh": "protein",
+      "bilingual": true
+    },
+    "protein-design": {
+      "zh": "protein design",
+      "bilingual": true
+    },
+    "proteomics": {
+      "zh": "proteomics",
+      "bilingual": true
+    },
+    "protocol": {
+      "zh": "protocol",
+      "bilingual": true
+    },
+    "protocol-buffers": {
+      "zh": "protocol buffers",
+      "bilingual": true
+    },
+    "protocols-io": {
+      "zh": "protocols io",
+      "bilingual": true
+    },
+    "prototype": {
+      "zh": "prototype",
+      "bilingual": true
+    },
+    "proxy": {
+      "zh": "proxy",
+      "bilingual": true
+    },
+    "psychology": {
+      "zh": "psychology",
+      "bilingual": true
+    },
+    "pufferenv": {
+      "zh": "pufferenv",
+      "bilingual": true
+    },
+    "pull-request": {
+      "zh": "pull request",
+      "bilingual": true
+    },
+    "pulumi": {
+      "zh": "pulumi",
+      "bilingual": true
+    },
+    "puppeteer": {
+      "zh": "puppeteer",
+      "bilingual": true
+    },
+    "push-notifications": {
+      "zh": "push notifications",
+      "bilingual": true
+    },
+    "pydantic": {
+      "zh": "pydantic",
+      "bilingual": true
+    },
+    "pymc": {
+      "zh": "pymc",
+      "bilingual": true
+    },
+    "pymoo": {
+      "zh": "pymoo",
+      "bilingual": true
+    },
+    "pysam": {
+      "zh": "pysam",
+      "bilingual": true
+    },
+    "pytest": {
+      "zh": "pytest",
+      "bilingual": true
+    },
+    "pytorch": {
+      "zh": "pytorch",
+      "bilingual": true
+    },
+    "qa": {
+      "zh": "QA",
+      "bilingual": true
+    },
+    "qdrant": {
+      "zh": "qdrant",
+      "bilingual": true
+    },
+    "qstash": {
+      "zh": "qstash",
+      "bilingual": true
+    },
+    "quality-management": {
+      "zh": "quality management",
+      "bilingual": true
+    },
+    "quantitative-analysis": {
+      "zh": "quantitative analysis",
+      "bilingual": true
+    },
+    "quantum-computing": {
+      "zh": "quantum computing",
+      "bilingual": true
+    },
+    "quantum-physics": {
+      "zh": "quantum physics",
+      "bilingual": true
+    },
+    "query-optimization": {
+      "zh": "查询优化",
+      "bilingual": true
+    },
+    "queue": {
+      "zh": "queue",
+      "bilingual": true
+    },
+    "quiz-funnel": {
+      "zh": "quiz funnel",
+      "bilingual": true
+    },
+    "qwen3": {
+      "zh": "qwen3",
+      "bilingual": true
+    },
+    "r": {
+      "zh": "r",
+      "bilingual": true
+    },
+    "rabbitmq": {
+      "zh": "rabbitmq",
+      "bilingual": true
+    },
+    "radiology": {
+      "zh": "radiology",
+      "bilingual": true
+    },
+    "rag": {
+      "zh": "RAG（检索增强生成）",
+      "bilingual": true
+    },
+    "rails": {
+      "zh": "rails",
+      "bilingual": true
+    },
+    "railway": {
+      "zh": "railway",
+      "bilingual": true
+    },
+    "ralph": {
+      "zh": "ralph",
+      "bilingual": true
+    },
+    "rapier": {
+      "zh": "rapier",
+      "bilingual": true
+    },
+    "rate-limiting": {
+      "zh": "限流",
+      "bilingual": false
+    },
+    "ray": {
+      "zh": "ray",
+      "bilingual": true
+    },
+    "ray-so": {
+      "zh": "ray so",
+      "bilingual": true
+    },
+    "rbac": {
+      "zh": "rbac",
+      "bilingual": true
+    },
+    "rdkit": {
+      "zh": "rdkit",
+      "bilingual": true
+    },
+    "react-compiler": {
+      "zh": "React compiler",
+      "bilingual": true
+    },
+    "react-native": {
+      "zh": "React native",
+      "bilingual": true
+    },
+    "react-query": {
+      "zh": "React 查询",
+      "bilingual": true
+    },
+    "react-router": {
+      "zh": "React router",
+      "bilingual": true
+    },
+    "react-testing-library": {
+      "zh": "React 测试 library",
+      "bilingual": true
+    },
+    "react-three-fiber": {
+      "zh": "React three fiber",
+      "bilingual": true
+    },
+    "reactive": {
+      "zh": "reactive",
+      "bilingual": true
+    },
+    "reactivity": {
+      "zh": "reactivity",
+      "bilingual": true
+    },
+    "reactjs": {
+      "zh": "reactjs",
+      "bilingual": true
+    },
+    "reactome": {
+      "zh": "reactome",
+      "bilingual": true
+    },
+    "reading": {
+      "zh": "reading",
+      "bilingual": true
+    },
+    "readme": {
+      "zh": "readme",
+      "bilingual": true
+    },
+    "real-estate": {
+      "zh": "real estate",
+      "bilingual": true
+    },
+    "realm": {
+      "zh": "realm",
+      "bilingual": true
+    },
+    "realtime": {
+      "zh": "realtime",
+      "bilingual": true
+    },
+    "reasoning": {
+      "zh": "reasoning",
+      "bilingual": true
+    },
+    "recipe": {
+      "zh": "recipe",
+      "bilingual": true
+    },
+    "recommendation": {
+      "zh": "recommendation",
+      "bilingual": true
+    },
+    "reddit": {
+      "zh": "reddit",
+      "bilingual": true
+    },
+    "redis": {
+      "zh": "Redis",
+      "bilingual": true
+    },
+    "redux": {
+      "zh": "redux",
+      "bilingual": true
+    },
+    "reels": {
+      "zh": "reels",
+      "bilingual": true
+    },
+    "refactor": {
+      "zh": "重构",
+      "bilingual": true
+    },
+    "reference": {
+      "zh": "reference",
+      "bilingual": true
+    },
+    "reflection": {
+      "zh": "reflection",
+      "bilingual": true
+    },
+    "regression": {
+      "zh": "regression",
+      "bilingual": true
+    },
+    "regulatory": {
+      "zh": "regulatory",
+      "bilingual": true
+    },
+    "reinforcement-learning": {
+      "zh": "reinforcement learning",
+      "bilingual": true
+    },
+    "release-channel": {
+      "zh": "发布 channel",
+      "bilingual": true
+    },
+    "release-notes": {
+      "zh": "发布 notes",
+      "bilingual": true
+    },
+    "remix": {
+      "zh": "remix",
+      "bilingual": true
+    },
+    "remotion": {
+      "zh": "remotion",
+      "bilingual": true
+    },
+    "render": {
+      "zh": "render",
+      "bilingual": true
+    },
+    "rendering": {
+      "zh": "rendering",
+      "bilingual": true
+    },
+    "repomix": {
+      "zh": "repomix",
+      "bilingual": true
+    },
+    "report-builder": {
+      "zh": "report builder",
+      "bilingual": true
+    },
+    "repository": {
+      "zh": "repository",
+      "bilingual": true
+    },
+    "requests": {
+      "zh": "requests",
+      "bilingual": true
+    },
+    "requirements": {
+      "zh": "requirements",
+      "bilingual": true
+    },
+    "research-paper": {
+      "zh": "research paper",
+      "bilingual": true
+    },
+    "resemble-ai": {
+      "zh": "resemble AI",
+      "bilingual": true
+    },
+    "resilience": {
+      "zh": "resilience",
+      "bilingual": true
+    },
+    "resource-management": {
+      "zh": "resource management",
+      "bilingual": true
+    },
+    "responsive": {
+      "zh": "responsive",
+      "bilingual": true
+    },
+    "rest": {
+      "zh": "REST",
+      "bilingual": true
+    },
+    "rest-api": {
+      "zh": "REST API",
+      "bilingual": true
+    },
+    "result-type": {
+      "zh": "result type",
+      "bilingual": true
+    },
+    "resume": {
+      "zh": "resume",
+      "bilingual": true
+    },
+    "retention": {
+      "zh": "retention",
+      "bilingual": true
+    },
+    "revenue-optimization": {
+      "zh": "revenue 优化",
+      "bilingual": true
+    },
+    "review": {
+      "zh": "review",
+      "bilingual": true
+    },
+    "rich-text": {
+      "zh": "rich text",
+      "bilingual": true
+    },
+    "risk-management": {
+      "zh": "risk management",
+      "bilingual": true
+    },
+    "rl-training": {
+      "zh": "rl training",
+      "bilingual": true
+    },
+    "rna-seq": {
+      "zh": "rna seq",
+      "bilingual": true
+    },
+    "rnn": {
+      "zh": "rnn",
+      "bilingual": true
+    },
+    "roadmap": {
+      "zh": "roadmap",
+      "bilingual": true
+    },
+    "roblox": {
+      "zh": "roblox",
+      "bilingual": true
+    },
+    "root-cause-analysis": {
+      "zh": "根因分析",
+      "bilingual": false
+    },
+    "routing": {
+      "zh": "routing",
+      "bilingual": true
+    },
+    "rss": {
+      "zh": "rss",
+      "bilingual": true
+    },
+    "ruanyifeng": {
+      "zh": "ruanyifeng",
+      "bilingual": true
+    },
+    "ruby": {
+      "zh": "ruby",
+      "bilingual": true
+    },
+    "rule": {
+      "zh": "rule",
+      "bilingual": true
+    },
+    "runbooks": {
+      "zh": "runbooks",
+      "bilingual": true
+    },
+    "runtime": {
+      "zh": "runtime",
+      "bilingual": true
+    },
+    "rust": {
+      "zh": "Rust",
+      "bilingual": true
+    },
+    "rxjs": {
+      "zh": "rxjs",
+      "bilingual": true
+    },
+    "saas": {
+      "zh": "saas",
+      "bilingual": true
+    },
+    "sales": {
+      "zh": "sales",
+      "bilingual": true
+    },
+    "salesforce": {
+      "zh": "salesforce",
+      "bilingual": true
+    },
+    "sandbox": {
+      "zh": "sandbox",
+      "bilingual": true
+    },
+    "sanity": {
+      "zh": "sanity",
+      "bilingual": true
+    },
+    "sarif": {
+      "zh": "sarif",
+      "bilingual": true
+    },
+    "scalability": {
+      "zh": "scalability",
+      "bilingual": true
+    },
+    "scene-management": {
+      "zh": "scene management",
+      "bilingual": true
+    },
+    "scheduler": {
+      "zh": "scheduler",
+      "bilingual": true
+    },
+    "schema": {
+      "zh": "schema",
+      "bilingual": true
+    },
+    "schema-design": {
+      "zh": "schema design",
+      "bilingual": true
+    },
+    "schema-org": {
+      "zh": "schema org",
+      "bilingual": true
+    },
+    "scientific-data": {
+      "zh": "scientific data",
+      "bilingual": true
+    },
+    "scientific-writing": {
+      "zh": "scientific 写作",
+      "bilingual": true
+    },
+    "scikit-learn": {
+      "zh": "scikit learn",
+      "bilingual": true
+    },
+    "scope": {
+      "zh": "scope",
+      "bilingual": true
+    },
+    "scraping": {
+      "zh": "scraping",
+      "bilingual": true
+    },
+    "screen-reader": {
+      "zh": "screen reader",
+      "bilingual": true
+    },
+    "scripting": {
+      "zh": "scripting",
+      "bilingual": true
+    },
+    "scroll": {
+      "zh": "scroll",
+      "bilingual": true
+    },
+    "sdk": {
+      "zh": "SDK",
+      "bilingual": true
+    },
+    "seaborn": {
+      "zh": "seaborn",
+      "bilingual": true
+    },
+    "search": {
+      "zh": "search",
+      "bilingual": true
+    },
+    "secrets": {
+      "zh": "secrets",
+      "bilingual": true
+    },
+    "secure-coding": {
+      "zh": "secure coding",
+      "bilingual": true
+    },
+    "security-automation": {
+      "zh": "安全自动化",
+      "bilingual": true
+    },
+    "security-documentation": {
+      "zh": "安全文档",
+      "bilingual": true
+    },
+    "security-hardening": {
+      "zh": "安全 hardening",
+      "bilingual": true
+    },
+    "security-patterns": {
+      "zh": "安全 patterns",
+      "bilingual": true
+    },
+    "semantic-html": {
+      "zh": "semantic html",
+      "bilingual": true
+    },
+    "semantic-search": {
+      "zh": "semantic search",
+      "bilingual": true
+    },
+    "semgrep": {
+      "zh": "semgrep",
+      "bilingual": true
+    },
+    "sensor": {
+      "zh": "sensor",
+      "bilingual": true
+    },
+    "sensors": {
+      "zh": "sensors",
+      "bilingual": true
+    },
+    "sentiment": {
+      "zh": "sentiment",
+      "bilingual": true
+    },
+    "sentry": {
+      "zh": "sentry",
+      "bilingual": true
+    },
+    "seo": {
+      "zh": "seo",
+      "bilingual": true
+    },
+    "serialization": {
+      "zh": "serialization",
+      "bilingual": true
+    },
+    "server": {
+      "zh": "server",
+      "bilingual": true
+    },
+    "server-actions": {
+      "zh": "server actions",
+      "bilingual": true
+    },
+    "server-components": {
+      "zh": "server components",
+      "bilingual": true
+    },
+    "server-side-rendering": {
+      "zh": "server side rendering",
+      "bilingual": true
+    },
+    "serverless": {
+      "zh": "serverless",
+      "bilingual": true
+    },
+    "service": {
+      "zh": "service",
+      "bilingual": true
+    },
+    "service-mesh": {
+      "zh": "service mesh",
+      "bilingual": true
+    },
+    "service-reliability": {
+      "zh": "service reliability",
+      "bilingual": true
+    },
+    "service-workers": {
+      "zh": "service workers",
+      "bilingual": true
+    },
+    "session-handling": {
+      "zh": "session handling",
+      "bilingual": true
+    },
+    "session-management": {
+      "zh": "session management",
+      "bilingual": true
+    },
+    "session-store": {
+      "zh": "session store",
+      "bilingual": true
+    },
+    "settings": {
+      "zh": "settings",
+      "bilingual": true
+    },
+    "shadcn": {
+      "zh": "shadcn",
+      "bilingual": true
+    },
+    "shadcn-ui": {
+      "zh": "shadcn UI",
+      "bilingual": true
+    },
+    "shader": {
+      "zh": "shader",
+      "bilingual": true
+    },
+    "shap": {
+      "zh": "shap",
+      "bilingual": true
+    },
+    "shell": {
+      "zh": "shell",
+      "bilingual": true
+    },
+    "shiki": {
+      "zh": "shiki",
+      "bilingual": true
+    },
+    "shopify": {
+      "zh": "shopify",
+      "bilingual": true
+    },
+    "signal-processing": {
+      "zh": "signal processing",
+      "bilingual": true
+    },
+    "signup": {
+      "zh": "signup",
+      "bilingual": true
+    },
+    "simulation": {
+      "zh": "simulation",
+      "bilingual": true
+    },
+    "simulator": {
+      "zh": "simulator",
+      "bilingual": true
+    },
+    "single-cell": {
+      "zh": "single cell",
+      "bilingual": true
+    },
+    "skia": {
+      "zh": "skia",
+      "bilingual": true
+    },
+    "skill-creation": {
+      "zh": "skill creation",
+      "bilingual": true
+    },
+    "skill-discovery": {
+      "zh": "skill discovery",
+      "bilingual": true
+    },
+    "skill-installation": {
+      "zh": "skill installation",
+      "bilingual": true
+    },
+    "skill-management": {
+      "zh": "skill management",
+      "bilingual": true
+    },
+    "skill-usage": {
+      "zh": "skill usage",
+      "bilingual": true
+    },
+    "slack": {
+      "zh": "slack",
+      "bilingual": true
+    },
+    "slides": {
+      "zh": "slides",
+      "bilingual": true
+    },
+    "smart-contract": {
+      "zh": "smart contract",
+      "bilingual": true
+    },
+    "sms": {
+      "zh": "sms",
+      "bilingual": true
+    },
+    "snowflake": {
+      "zh": "snowflake",
+      "bilingual": true
+    },
+    "soc-2": {
+      "zh": "soc 2",
+      "bilingual": true
+    },
+    "social-media": {
+      "zh": "social media",
+      "bilingual": true
+    },
+    "software": {
+      "zh": "software",
+      "bilingual": true
+    },
+    "software-development": {
+      "zh": "software development",
+      "bilingual": true
+    },
+    "software-engineering": {
+      "zh": "software engineering",
+      "bilingual": true
+    },
+    "solana": {
+      "zh": "solana",
+      "bilingual": true
+    },
+    "solidity": {
+      "zh": "solidity",
+      "bilingual": true
+    },
+    "solidjs": {
+      "zh": "solidjs",
+      "bilingual": true
+    },
+    "solidstart": {
+      "zh": "solidstart",
+      "bilingual": true
+    },
+    "solution-design": {
+      "zh": "solution design",
+      "bilingual": true
+    },
+    "sound": {
+      "zh": "sound",
+      "bilingual": true
+    },
+    "spark": {
+      "zh": "spark",
+      "bilingual": true
+    },
+    "speckit": {
+      "zh": "speckit",
+      "bilingual": true
+    },
+    "specstory": {
+      "zh": "specstory",
+      "bilingual": true
+    },
+    "speech": {
+      "zh": "speech",
+      "bilingual": true
+    },
+    "speech-recognition": {
+      "zh": "speech recognition",
+      "bilingual": true
+    },
+    "splice": {
+      "zh": "splice",
+      "bilingual": true
+    },
+    "spm": {
+      "zh": "spm",
+      "bilingual": true
+    },
+    "spreadsheet": {
+      "zh": "spreadsheet",
+      "bilingual": true
+    },
+    "spring": {
+      "zh": "spring",
+      "bilingual": true
+    },
+    "spring-boot": {
+      "zh": "spring boot",
+      "bilingual": true
+    },
+    "sprite-sheet": {
+      "zh": "sprite sheet",
+      "bilingual": true
+    },
+    "sql": {
+      "zh": "SQL",
+      "bilingual": true
+    },
+    "sql-injection": {
+      "zh": "SQL injection",
+      "bilingual": true
+    },
+    "sql-server": {
+      "zh": "SQL server",
+      "bilingual": true
+    },
+    "sqlalchemy": {
+      "zh": "sqlalchemy",
+      "bilingual": true
+    },
+    "sqlite": {
+      "zh": "SQLite",
+      "bilingual": true
+    },
+    "square": {
+      "zh": "square",
+      "bilingual": true
+    },
+    "sse": {
+      "zh": "sse",
+      "bilingual": true
+    },
+    "ssg": {
+      "zh": "ssg",
+      "bilingual": true
+    },
+    "ssh": {
+      "zh": "ssh",
+      "bilingual": true
+    },
+    "ssr": {
+      "zh": "ssr",
+      "bilingual": true
+    },
+    "stable-diffusion": {
+      "zh": "stable diffusion",
+      "bilingual": true
+    },
+    "stakeholder": {
+      "zh": "stakeholder",
+      "bilingual": true
+    },
+    "starknet": {
+      "zh": "starknet",
+      "bilingual": true
+    },
+    "startup": {
+      "zh": "startup",
+      "bilingual": true
+    },
+    "state-management": {
+      "zh": "state management",
+      "bilingual": true
+    },
+    "static-analysis": {
+      "zh": "static analysis",
+      "bilingual": true
+    },
+    "statistical-analysis": {
+      "zh": "statistical analysis",
+      "bilingual": true
+    },
+    "status": {
+      "zh": "status",
+      "bilingual": true
+    },
+    "stitch": {
+      "zh": "stitch",
+      "bilingual": true
+    },
+    "stock": {
+      "zh": "stock",
+      "bilingual": true
+    },
+    "storage": {
+      "zh": "storage",
+      "bilingual": true
+    },
+    "store-setup": {
+      "zh": "store setup",
+      "bilingual": true
+    },
+    "story": {
+      "zh": "story",
+      "bilingual": true
+    },
+    "storybook": {
+      "zh": "storybook",
+      "bilingual": true
+    },
+    "storytelling": {
+      "zh": "storytelling",
+      "bilingual": true
+    },
+    "streak-tracking": {
+      "zh": "streak tracking",
+      "bilingual": true
+    },
+    "streaming": {
+      "zh": "streaming",
+      "bilingual": true
+    },
+    "streamlit": {
+      "zh": "streamlit",
+      "bilingual": true
+    },
+    "stripe": {
+      "zh": "stripe",
+      "bilingual": true
+    },
+    "structural-biology": {
+      "zh": "structural biology",
+      "bilingual": true
+    },
+    "structured-data": {
+      "zh": "structured data",
+      "bilingual": true
+    },
+    "stt": {
+      "zh": "stt",
+      "bilingual": true
+    },
+    "style": {
+      "zh": "style",
+      "bilingual": true
+    },
+    "subscription": {
+      "zh": "subscription",
+      "bilingual": true
+    },
+    "substrate": {
+      "zh": "substrate",
+      "bilingual": true
+    },
+    "summarization": {
+      "zh": "summarization",
+      "bilingual": true
+    },
+    "supabase": {
+      "zh": "supabase",
+      "bilingual": true
+    },
+    "surrealdb": {
+      "zh": "surrealdb",
+      "bilingual": true
+    },
+    "survey": {
+      "zh": "survey",
+      "bilingual": true
+    },
+    "survival-analysis": {
+      "zh": "survival analysis",
+      "bilingual": true
+    },
+    "svelte": {
+      "zh": "Svelte",
+      "bilingual": true
+    },
+    "sveltekit": {
+      "zh": "sveltekit",
+      "bilingual": true
+    },
+    "svg": {
+      "zh": "svg",
+      "bilingual": true
+    },
+    "swagger": {
+      "zh": "swagger",
+      "bilingual": true
+    },
+    "swift": {
+      "zh": "Swift",
+      "bilingual": true
+    },
+    "swiftdata": {
+      "zh": "swiftdata",
+      "bilingual": true
+    },
+    "swiftui": {
+      "zh": "swiftui",
+      "bilingual": true
+    },
+    "symbolic-computation": {
+      "zh": "symbolic computation",
+      "bilingual": true
+    },
+    "symfony": {
+      "zh": "symfony",
+      "bilingual": true
+    },
+    "sync": {
+      "zh": "sync",
+      "bilingual": true
+    },
+    "system-design": {
+      "zh": "系统设计",
+      "bilingual": false
+    },
+    "system-integration": {
+      "zh": "system integration",
+      "bilingual": true
+    },
+    "system-resources": {
+      "zh": "system resources",
+      "bilingual": true
+    },
+    "systems-biology": {
+      "zh": "systems biology",
+      "bilingual": true
+    },
+    "systems-programming": {
+      "zh": "systems programming",
+      "bilingual": true
+    },
+    "systems-thinking": {
+      "zh": "systems thinking",
+      "bilingual": true
+    },
+    "t8-syntax": {
+      "zh": "t8 syntax",
+      "bilingual": true
+    },
+    "tabular-data": {
+      "zh": "tabular data",
+      "bilingual": true
+    },
+    "tag-manager": {
+      "zh": "tag manager",
+      "bilingual": true
+    },
+    "tailwind": {
+      "zh": "tailwind",
+      "bilingual": true
+    },
+    "tailwindcss": {
+      "zh": "tailwindcss",
+      "bilingual": true
+    },
+    "talos-linux": {
+      "zh": "talos Linux",
+      "bilingual": true
+    },
+    "tamagui": {
+      "zh": "tamagui",
+      "bilingual": true
+    },
+    "tanstack": {
+      "zh": "tanstack",
+      "bilingual": true
+    },
+    "tapd": {
+      "zh": "tapd",
+      "bilingual": true
+    },
+    "tauri": {
+      "zh": "tauri",
+      "bilingual": true
+    },
+    "tavily": {
+      "zh": "tavily",
+      "bilingual": true
+    },
+    "taxes": {
+      "zh": "taxes",
+      "bilingual": true
+    },
+    "tdd": {
+      "zh": "tdd",
+      "bilingual": true
+    },
+    "team": {
+      "zh": "team",
+      "bilingual": true
+    },
+    "team-building": {
+      "zh": "team building",
+      "bilingual": true
+    },
+    "teams": {
+      "zh": "teams",
+      "bilingual": true
+    },
+    "technical-analysis": {
+      "zh": "technical analysis",
+      "bilingual": true
+    },
+    "technical-debt": {
+      "zh": "technical debt",
+      "bilingual": true
+    },
+    "technical-documentation": {
+      "zh": "technical 文档",
+      "bilingual": true
+    },
+    "technical-seo": {
+      "zh": "technical seo",
+      "bilingual": true
+    },
+    "technical-writing": {
+      "zh": "technical 写作",
+      "bilingual": true
+    },
+    "telegram": {
+      "zh": "telegram",
+      "bilingual": true
+    },
+    "template": {
+      "zh": "template",
+      "bilingual": true
+    },
+    "temporal": {
+      "zh": "temporal",
+      "bilingual": true
+    },
+    "tensorboard": {
+      "zh": "tensorboard",
+      "bilingual": true
+    },
+    "tensorflow": {
+      "zh": "tensorflow",
+      "bilingual": true
+    },
+    "terminal": {
+      "zh": "terminal",
+      "bilingual": true
+    },
+    "terraform": {
+      "zh": "Terraform",
+      "bilingual": true
+    },
+    "testing-library": {
+      "zh": "测试 library",
+      "bilingual": true
+    },
+    "text": {
+      "zh": "text",
+      "bilingual": true
+    },
+    "text-generation": {
+      "zh": "text generation",
+      "bilingual": true
+    },
+    "text-to-image": {
+      "zh": "text to image",
+      "bilingual": true
+    },
+    "text-to-speech": {
+      "zh": "text to speech",
+      "bilingual": true
+    },
+    "text-to-video": {
+      "zh": "text to video",
+      "bilingual": true
+    },
+    "threads": {
+      "zh": "threads",
+      "bilingual": true
+    },
+    "threat-modeling": {
+      "zh": "威胁建模",
+      "bilingual": false
+    },
+    "threejs": {
+      "zh": "threejs",
+      "bilingual": true
+    },
+    "ticketing-system": {
+      "zh": "ticketing system",
+      "bilingual": true
+    },
+    "tiktok": {
+      "zh": "tiktok",
+      "bilingual": true
+    },
+    "tilt": {
+      "zh": "tilt",
+      "bilingual": true
+    },
+    "time-series": {
+      "zh": "time series",
+      "bilingual": true
+    },
+    "tinybird": {
+      "zh": "tinybird",
+      "bilingual": true
+    },
+    "tldraw": {
+      "zh": "tldraw",
+      "bilingual": true
+    },
+    "tls": {
+      "zh": "tls",
+      "bilingual": true
+    },
+    "tmux": {
+      "zh": "tmux",
+      "bilingual": true
+    },
+    "todoist": {
+      "zh": "todoist",
+      "bilingual": true
+    },
+    "token-budget": {
+      "zh": "token budget",
+      "bilingual": true
+    },
+    "tokenization": {
+      "zh": "tokenization",
+      "bilingual": true
+    },
+    "ton": {
+      "zh": "ton",
+      "bilingual": true
+    },
+    "traces": {
+      "zh": "traces",
+      "bilingual": true
+    },
+    "tracing": {
+      "zh": "链路追踪",
+      "bilingual": true
+    },
+    "tracking": {
+      "zh": "tracking",
+      "bilingual": true
+    },
+    "tracking-plan": {
+      "zh": "tracking plan",
+      "bilingual": true
+    },
+    "trading": {
+      "zh": "trading",
+      "bilingual": true
+    },
+    "tradingview": {
+      "zh": "tradingview",
+      "bilingual": true
+    },
+    "trail-of-bits": {
+      "zh": "trail of bits",
+      "bilingual": true
+    },
+    "training": {
+      "zh": "training",
+      "bilingual": true
+    },
+    "transcription": {
+      "zh": "transcription",
+      "bilingual": true
+    },
+    "transformers": {
+      "zh": "transformers",
+      "bilingual": true
+    },
+    "translation": {
+      "zh": "translation",
+      "bilingual": true
+    },
+    "travel": {
+      "zh": "travel",
+      "bilingual": true
+    },
+    "tree-manipulation": {
+      "zh": "tree manipulation",
+      "bilingual": true
+    },
+    "tree-sitter": {
+      "zh": "tree sitter",
+      "bilingual": true
+    },
+    "trend-analysis": {
+      "zh": "trend analysis",
+      "bilingual": true
+    },
+    "trigger-dev": {
+      "zh": "trigger dev",
+      "bilingual": true
+    },
+    "tripadvisor": {
+      "zh": "tripadvisor",
+      "bilingual": true
+    },
+    "trl": {
+      "zh": "trl",
+      "bilingual": true
+    },
+    "troubleshooting": {
+      "zh": "troubleshooting",
+      "bilingual": true
+    },
+    "trpc": {
+      "zh": "trpc",
+      "bilingual": true
+    },
+    "tsx": {
+      "zh": "tsx",
+      "bilingual": true
+    },
+    "tui": {
+      "zh": "tui",
+      "bilingual": true
+    },
+    "turbo": {
+      "zh": "turbo",
+      "bilingual": true
+    },
+    "turborepo": {
+      "zh": "turborepo",
+      "bilingual": true
+    },
+    "turso": {
+      "zh": "turso",
+      "bilingual": true
+    },
+    "tursodb": {
+      "zh": "tursodb",
+      "bilingual": true
+    },
+    "tutorial": {
+      "zh": "tutorial",
+      "bilingual": true
+    },
+    "tutoring": {
+      "zh": "tutoring",
+      "bilingual": true
+    },
+    "tvos": {
+      "zh": "tvos",
+      "bilingual": true
+    },
+    "twig": {
+      "zh": "twig",
+      "bilingual": true
+    },
+    "twilio": {
+      "zh": "twilio",
+      "bilingual": true
+    },
+    "twitter": {
+      "zh": "twitter",
+      "bilingual": true
+    },
+    "type-safe": {
+      "zh": "type safe",
+      "bilingual": true
+    },
+    "typebox": {
+      "zh": "typebox",
+      "bilingual": true
+    },
+    "typedoc": {
+      "zh": "typedoc",
+      "bilingual": true
+    },
+    "typography": {
+      "zh": "typography",
+      "bilingual": true
+    },
+    "typst": {
+      "zh": "typst",
+      "bilingual": true
+    },
+    "uikit": {
+      "zh": "uikit",
+      "bilingual": true
+    },
+    "uml": {
+      "zh": "uml",
+      "bilingual": true
+    },
+    "uniapp": {
+      "zh": "uniapp",
+      "bilingual": true
+    },
+    "unit-testing": {
+      "zh": "单元测试",
+      "bilingual": false
+    },
+    "unity": {
+      "zh": "unity",
+      "bilingual": true
+    },
+    "unreal": {
+      "zh": "unreal",
+      "bilingual": true
+    },
+    "upgrade": {
+      "zh": "upgrade",
+      "bilingual": true
+    },
+    "upload": {
+      "zh": "upload",
+      "bilingual": true
+    },
+    "upstash": {
+      "zh": "upstash",
+      "bilingual": true
+    },
+    "url-query": {
+      "zh": "url 查询",
+      "bilingual": true
+    },
+    "user-research": {
+      "zh": "用户研究",
+      "bilingual": false
+    },
+    "uspto": {
+      "zh": "uspto",
+      "bilingual": true
+    },
+    "uvicorn": {
+      "zh": "uvicorn",
+      "bilingual": true
+    },
+    "ux": {
+      "zh": "UX",
+      "bilingual": true
+    },
+    "validation": {
+      "zh": "validation",
+      "bilingual": true
+    },
+    "valuation": {
+      "zh": "valuation",
+      "bilingual": true
+    },
+    "vault": {
+      "zh": "vault",
+      "bilingual": true
+    },
+    "vector-database": {
+      "zh": "vector 数据库",
+      "bilingual": true
+    },
+    "vector-search": {
+      "zh": "vector search",
+      "bilingual": true
+    },
+    "vector-stores": {
+      "zh": "vector stores",
+      "bilingual": true
+    },
+    "vercel": {
+      "zh": "vercel",
+      "bilingual": true
+    },
+    "vercel-ai-sdk": {
+      "zh": "vercel AI SDK",
+      "bilingual": true
+    },
+    "version-control": {
+      "zh": "version control",
+      "bilingual": true
+    },
+    "version-manager": {
+      "zh": "version manager",
+      "bilingual": true
+    },
+    "versioning": {
+      "zh": "versioning",
+      "bilingual": true
+    },
+    "video": {
+      "zh": "video",
+      "bilingual": true
+    },
+    "video-generation": {
+      "zh": "video generation",
+      "bilingual": true
+    },
+    "vision-language": {
+      "zh": "vision language",
+      "bilingual": true
+    },
+    "visionkit": {
+      "zh": "visionkit",
+      "bilingual": true
+    },
+    "visionos": {
+      "zh": "visionos",
+      "bilingual": true
+    },
+    "visual-design": {
+      "zh": "visual design",
+      "bilingual": true
+    },
+    "visual-formatting": {
+      "zh": "visual 格式化",
+      "bilingual": true
+    },
+    "visual-storytelling": {
+      "zh": "visual storytelling",
+      "bilingual": true
+    },
+    "visual-testing": {
+      "zh": "visual 测试",
+      "bilingual": true
+    },
+    "visualization": {
+      "zh": "visualization",
+      "bilingual": true
+    },
+    "vite": {
+      "zh": "vite",
+      "bilingual": true
+    },
+    "vitepress": {
+      "zh": "vitepress",
+      "bilingual": true
+    },
+    "vitest": {
+      "zh": "vitest",
+      "bilingual": true
+    },
+    "vllm": {
+      "zh": "vllm",
+      "bilingual": true
+    },
+    "voice": {
+      "zh": "voice",
+      "bilingual": true
+    },
+    "voice-data": {
+      "zh": "voice data",
+      "bilingual": true
+    },
+    "voice-synthesis": {
+      "zh": "voice synthesis",
+      "bilingual": true
+    },
+    "vscode": {
+      "zh": "vscode",
+      "bilingual": true
+    },
+    "vue": {
+      "zh": "Vue",
+      "bilingual": true
+    },
+    "vue-router": {
+      "zh": "Vue router",
+      "bilingual": true
+    },
+    "vueuse": {
+      "zh": "vueuse",
+      "bilingual": true
+    },
+    "vuln-scanning": {
+      "zh": "漏洞扫描",
+      "bilingual": false
+    },
+    "vulnerability-analysis": {
+      "zh": "vulnerability analysis",
+      "bilingual": true
+    },
+    "vulnerability-research": {
+      "zh": "vulnerability research",
+      "bilingual": true
+    },
+    "vyper": {
+      "zh": "vyper",
+      "bilingual": true
+    },
+    "watchos": {
+      "zh": "watchos",
+      "bilingual": true
+    },
+    "wcag": {
+      "zh": "wcag",
+      "bilingual": true
+    },
+    "web-analytics": {
+      "zh": "web 分析",
+      "bilingual": true
+    },
+    "web-applications": {
+      "zh": "web applications",
+      "bilingual": true
+    },
+    "web-audio-api": {
+      "zh": "web audio API",
+      "bilingual": true
+    },
+    "web-development": {
+      "zh": "web development",
+      "bilingual": true
+    },
+    "web-scraping": {
+      "zh": "web scraping",
+      "bilingual": true
+    },
+    "web-server": {
+      "zh": "web server",
+      "bilingual": true
+    },
+    "web-testing": {
+      "zh": "web 测试",
+      "bilingual": true
+    },
+    "web3": {
+      "zh": "web3",
+      "bilingual": true
+    },
+    "webapp": {
+      "zh": "webapp",
+      "bilingual": true
+    },
+    "webdriver": {
+      "zh": "webdriver",
+      "bilingual": true
+    },
+    "webflow": {
+      "zh": "webflow",
+      "bilingual": true
+    },
+    "webgl": {
+      "zh": "webgl",
+      "bilingual": true
+    },
+    "webgpu": {
+      "zh": "webgpu",
+      "bilingual": true
+    },
+    "webhooks": {
+      "zh": "webhooks",
+      "bilingual": true
+    },
+    "webp": {
+      "zh": "webp",
+      "bilingual": true
+    },
+    "webrtc": {
+      "zh": "webrtc",
+      "bilingual": true
+    },
+    "websocket": {
+      "zh": "websocket",
+      "bilingual": true
+    },
+    "webview": {
+      "zh": "webview",
+      "bilingual": true
+    },
+    "wechat": {
+      "zh": "wechat",
+      "bilingual": true
+    },
+    "well-architected": {
+      "zh": "well architected",
+      "bilingual": true
+    },
+    "whatsapp": {
+      "zh": "whatsapp",
+      "bilingual": true
+    },
+    "whisper": {
+      "zh": "whisper",
+      "bilingual": true
+    },
+    "whop-platform": {
+      "zh": "whop platform",
+      "bilingual": true
+    },
+    "widgetkit": {
+      "zh": "widgetkit",
+      "bilingual": true
+    },
+    "windows": {
+      "zh": "Windows",
+      "bilingual": true
+    },
+    "windows-domain": {
+      "zh": "Windows domain",
+      "bilingual": true
+    },
+    "wireframe": {
+      "zh": "wireframe",
+      "bilingual": true
+    },
+    "wireshark": {
+      "zh": "wireshark",
+      "bilingual": true
+    },
+    "wix": {
+      "zh": "wix",
+      "bilingual": true
+    },
+    "woocommerce": {
+      "zh": "woocommerce",
+      "bilingual": true
+    },
+    "wordpress": {
+      "zh": "wordpress",
+      "bilingual": true
+    },
+    "workbox": {
+      "zh": "workbox",
+      "bilingual": true
+    },
+    "workspace": {
+      "zh": "workspace",
+      "bilingual": true
+    },
+    "world-building": {
+      "zh": "world building",
+      "bilingual": true
+    },
+    "wp-cli": {
+      "zh": "wp 命令行（CLI）",
+      "bilingual": true
+    },
+    "wsi": {
+      "zh": "wsi",
+      "bilingual": true
+    },
+    "wwdc": {
+      "zh": "wwdc",
+      "bilingual": true
+    },
+    "wwdc-2025": {
+      "zh": "wwdc 2025",
+      "bilingual": true
+    },
+    "wxt": {
+      "zh": "wxt",
+      "bilingual": true
+    },
+    "x": {
+      "zh": "x",
+      "bilingual": true
+    },
+    "xcode": {
+      "zh": "xcode",
+      "bilingual": true
+    },
+    "xctest": {
+      "zh": "xctest",
+      "bilingual": true
+    },
+    "xctrace": {
+      "zh": "xctrace",
+      "bilingual": true
+    },
+    "xiaohongshu": {
+      "zh": "xiaohongshu",
+      "bilingual": true
+    },
+    "xls": {
+      "zh": "xls",
+      "bilingual": true
+    },
+    "xlsx": {
+      "zh": "xlsx",
+      "bilingual": true
+    },
+    "xml": {
+      "zh": "xml",
+      "bilingual": true
+    },
+    "xss": {
+      "zh": "XSS",
+      "bilingual": true
+    },
+    "yaml": {
+      "zh": "yaml",
+      "bilingual": true
+    },
+    "yara": {
+      "zh": "yara",
+      "bilingual": true
+    },
+    "youtube": {
+      "zh": "youtube",
+      "bilingual": true
+    },
+    "zapier": {
+      "zh": "zapier",
+      "bilingual": true
+    },
+    "zero-trust": {
+      "zh": "zero trust",
+      "bilingual": true
+    },
+    "zig": {
+      "zh": "zig",
+      "bilingual": true
+    },
+    "zipkin": {
+      "zh": "zipkin",
+      "bilingual": true
+    },
+    "zod": {
+      "zh": "zod",
+      "bilingual": true
+    },
+    "zoom": {
+      "zh": "zoom",
+      "bilingual": true
+    },
+    "zustand": {
+      "zh": "zustand",
+      "bilingual": true
+    }
+  },
+  "terms": {
+    "awesome_title": "全网热门 Agent 技能榜",
+    "quick_start": "快速开始",
+    "explore": "探索",
+    "tags": "标签",
+    "categories": "分类",
+    "popular_tags": "热门标签",
+    "generate": "生成",
+    "back": "返回",
+    "highlights": "精选榜单",
+    "all_skills": "所有技能",
+    "top_by_installs": "按下载量（installs）排行",
+    "top_by_stars": "按 Star 数排行",
+    "recently_updated": "最近更新",
+    "browse_by_letter": "按首字母浏览",
+    "top_tags_in_category": "分类热门标签",
+    "count": "数量",
+    "skill": "技能",
+    "repo": "仓库",
+    "summary": "简介",
+    "stars": "⭐",
+    "installs": "⬇️",
+    "updated": "更新"
+  }
+}

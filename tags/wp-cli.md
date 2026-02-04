@@ -1,0 +1,11 @@
+# Tag: wp-cli
+
+- Back: [Tags](README.md)
+- Tagged skills: 4
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [wp-wpcli-and-ops](https://github.com/automattic/agent-skills/blob/trunk/skills/wp-wpcli-and-ops/SKILL.md) | [automattic/agent-skills](https://github.com/automattic/agent-skills) | A skill for managing WordPress operations using WP-CLI, including search-replace, db import/export, plugin/theme management, and automation. | 173 | 57 | 2026-02-01 | [cli](cli.md), [automation](automation.md), [wordpress](wordpress.md), [wp-cli](wp-cli.md) |
+| [wp-performance](https://github.com/automattic/agent-skills/blob/trunk/skills/wp-performance/SKILL.md) | [automattic/agent-skills](https://github.com/automattic/agent-skills) | Optimize WordPress backend performance with profiling, query monitoring, and caching strategies. | 173 | 55 | 2026-02-01 | [performance](performance.md), [optimization](optimization.md), [backend](backend.md), [wordpress](wordpress.md), [wp-cli](wp-cli.md) |
+| [wp-project-triage](https://github.com/automattic/agent-skills/blob/trunk/skills/wp-project-triage/SKILL.md) | [automattic/agent-skills](https://github.com/automattic/agent-skills) | Analyzes WordPress repositories for tooling, tests, and version hints with structured JSON reports. | 173 | 52 | 2026-02-01 | [analysis](analysis.md), [audit](audit.md), [guardrails](guardrails.md), [wordpress](wordpress.md), [wp-cli](wp-cli.md) |
+| [wordpress-advanced-architecture](https://github.com/bobmatnyc/claude-mpm-skills/blob/main/toolchains/php/frameworks/wordpress/advanced-architecture/SKILL.md) | [bobmatnyc/claude-mpm-skills](https://github.com/bobmatnyc/claude-mpm-skills) | Advanced WordPress development with REST API, WP-CLI, and performance optimization. | 10 | 41 | 2026-02-01 | [architecture](architecture.md), [backend](backend.md), [wordpress](wordpress.md), [wp-cli](wp-cli.md), [rest-api](rest-api.md) |

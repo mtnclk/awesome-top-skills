@@ -1,0 +1,12 @@
+# Tag: service-mesh
+
+- Back: [Tags](README.md)
+- Tagged skills: 5
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [service-mesh-observability](https://github.com/wshobson/agents/blob/main/plugins/cloud-infrastructure/skills/service-mesh-observability/SKILL.md) | [wshobson/agents](https://github.com/wshobson/agents) | Implement comprehensive observability for service meshes including distributed tracing, metrics, and visualization. | 28K | 761 | 2026-02-02 | [observability](observability.md), [monitoring](monitoring.md), [service-mesh](service-mesh.md), [tracing](tracing.md), [metrics](metrics.md) |
+| [istio-traffic-management](https://github.com/wshobson/agents/blob/main/plugins/cloud-infrastructure/skills/istio-traffic-management/SKILL.md) | [wshobson/agents](https://github.com/wshobson/agents) | Manage Istio traffic including routing, load balancing, and canary deployments for service mesh policies. | 28K | 743 | 2026-02-02 | [configuration](configuration.md), [deployment](deployment.md), [service-mesh](service-mesh.md), [kubernetes](kubernetes.md), [monitoring](monitoring.md) |
+| [linkerd-patterns](https://github.com/wshobson/agents/blob/main/plugins/cloud-infrastructure/skills/linkerd-patterns/SKILL.md) | [wshobson/agents](https://github.com/wshobson/agents) | Implement Linkerd service mesh patterns for secure, lightweight service deployments with minimal overhead. | 28K | 734 | 2026-02-02 | [service-mesh](service-mesh.md), [deployment](deployment.md), [monitoring](monitoring.md) |
+| [java-microservices](https://github.com/pluginagentmarketplace/custom-plugin-java/blob/main/skills/java-microservices/SKILL.md) | [pluginagentmarketplace/custom-plugin-java](https://github.com/pluginagentmarketplace/custom-plugin-java) | Build microservices using Spring Cloud, service mesh, event-driven architecture, and resilience patterns. | 8 | 45 | 2026-01-05 | [backend](backend.md), [microservices](microservices.md), [spring](spring.md), [service-mesh](service-mesh.md) |
+| [service-mesh-implementation](https://github.com/aj-geddes/useful-ai-prompts/blob/main/skills/service-mesh-implementation/SKILL.md) | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | Implement service mesh (Istio, Linkerd) for service-to-service communication, traffic management, security, and observability. | 59 | 42 | 2025-12-28 | [architecture](architecture.md), [observability](observability.md), [service-mesh](service-mesh.md), [kubernetes](kubernetes.md) |

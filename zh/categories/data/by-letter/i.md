@@ -1,0 +1,12 @@
+# 数据（Data） / i
+
+- 返回: [分类](../README.md)
+- 数量: 5
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [interpreting-culture-index](https://github.com/trailofbits/skills/blob/main/plugins/culture-index/skills/interpreting-culture-index/SKILL.md) | [trailofbits/skills](https://github.com/trailofbits/skills) | 解读文化指数调查、行为评估和人格数据。 | 2.3K | 251 | 2026-02-01 | [分析 (analysis)](../../../tags/analysis.md), [数据分析 (data-analysis)](../../../tags/data-analysis.md), [culture (culture)](../../../tags/culture.md) |
+| [init](https://github.com/astronomer/agents/blob/main/skills/init/SKILL.md) | [astronomer/agents](https://github.com/astronomer/agents) | 初始化仓库模式发现并生成元数据文档。 | 155 | 46 | 2026-02-03 | [数据库 (databases)](../../../tags/databases.md), [数据管理 (data-management)](../../../tags/data-management.md), [环境配置 (setup)](../../../tags/setup.md), [astro (astro)](../../../tags/astro.md) |
+| [imaging-data-commons](https://github.com/k-dense-ai/claude-scientific-skills/blob/main/scientific-skills/imaging-data-commons/SKILL.md) | [k-dense-ai/claude-scientific-skills](https://github.com/k-dense-ai/claude-scientific-skills) | 访问和下载NCI影像数据commons中的公开癌症影像数据。 | 7.8K | 40 | 2026-02-02 | [数据分析 (data-analysis)](../../../tags/data-analysis.md), [数据管理 (data-management)](../../../tags/data-management.md), [data commons (data-commons)](../../../tags/data-commons.md), [pathology (pathology)](../../../tags/pathology.md), [radiology (radiology)](../../../tags/radiology.md) |
+| [incremental-fetch](https://github.com/shipshitdev/library/blob/master/skills/incremental-fetch/SKILL.md) | [shipshitdev/library](https://github.com/shipshitdev/library) | 构建从API获取数据的弹性管道，支持增量更新和历史回填。 | 4 | 25 | 2026-01-25 | [API](../../../tags/api.md), [data pipelines (data-pipelines)](../../../tags/data-pipelines.md), [数据管理 (data-management)](../../../tags/data-management.md), [etl (etl)](../../../tags/etl.md), [scraping (scraping)](../../../tags/scraping.md) |
+| [institutional-flow-tracker](https://github.com/nicepkg/ai-workflow/blob/main/workflows/stock-trader-workflow/.claude/skills/institutional-flow-tracker/SKILL.md) | [nicepkg/ai-workflow](https://github.com/nicepkg/ai-workflow) | 追踪机构投资者持股变化和资金流向，识别聪明钱动向。 | 23 | 21 | 2026-01-20 | [财务 (finance)](../../../tags/finance.md), [分析 (analysis)](../../../tags/analysis.md), [quantitative analysis (quantitative-analysis)](../../../tags/quantitative-analysis.md), [stock (stock)](../../../tags/stock.md), [investors (investors)](../../../tags/investors.md) |

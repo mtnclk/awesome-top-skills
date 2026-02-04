@@ -1,0 +1,14 @@
+# 标签：ssr (ssr)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 7
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [nextjs-app-router-patterns](https://github.com/wshobson/agents/blob/main/plugins/frontend-mobile-development/skills/nextjs-app-router-patterns/SKILL.md) | [wshobson/agents](https://github.com/wshobson/agents) | 掌握 Next.js 14+ 应用路由与服务器组件等高级特性。 | 28K | 1.7K | 2026-02-02 | [前端 (frontend)](frontend.md), [Next.js (nextjs)](nextjs.md), [server components (server-components)](server-components.md), [data fetching (data-fetching)](data-fetching.md), [ssr (ssr)](ssr.md), [ssg (ssg)](ssg.md) |
+| [nuxt](https://github.com/antfu/skills/blob/main/skills/nuxt/SKILL.md) | [antfu/skills](https://github.com/antfu/skills) | Nuxt 全栈 Vue 框架，支持 SSR、自动导入和文件路由。 | 2.7K | 1.6K | 2026-01-31 | [前端 (frontend)](frontend.md), [fullstack (fullstack)](fullstack.md), [Vue (vue)](vue.md), [nuxt (nuxt)](nuxt.md), [ssr (ssr)](ssr.md), [routing (routing)](routing.md) |
+| [angular-ssr](https://github.com/analogjs/angular-skills/blob/main/skills/angular-ssr/SKILL.md) | [analogjs/angular-skills](https://github.com/analogjs/angular-skills) | 在Angular v20+中实现服务器端渲染和水合。 | 240 | 311 | 2026-01-29 | [前端 (frontend)](frontend.md), [环境配置 (setup)](setup.md), [Angular (angular)](angular.md), [ssr (ssr)](ssr.md) |
+| [tiptap](https://github.com/jezweb/claude-skills/blob/main/skills/tiptap/SKILL.md) | [jezweb/claude-skills](https://github.com/jezweb/claude-skills) | 使用 Tiptap 框架为 React 和 Tailwind CSS 创建富文本编辑器。 | 245 | 253 | 2026-02-02 | [前端 (frontend)](frontend.md), [rich text (rich-text)](rich-text.md), [React](react.md), [tailwind (tailwind)](tailwind.md), [ssr (ssr)](ssr.md) |
+| [tanstack-start](https://github.com/jezweb/claude-skills/blob/main/skills/tanstack-start/SKILL.md) | [jezweb/claude-skills](https://github.com/jezweb/claude-skills) | 使用 TanStack Start 在 Cloudflare Workers 上构建全栈 React 应用，支持 SSR | 245 | 99 | 2026-02-02 | [fullstack (fullstack)](fullstack.md), [React](react.md), [ssr (ssr)](ssr.md), [tanstack (tanstack)](tanstack.md), [cloudflare (cloudflare)](cloudflare.md), [前端 (frontend)](frontend.md) |
+| [server-side-rendering](https://github.com/aj-geddes/useful-ai-prompts/blob/main/skills/server-side-rendering/SKILL.md) | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | 实现服务端渲染以生成动态内容。 | 59 | 43 | 2025-12-28 | [后端 (backend)](backend.md), [前端 (frontend)](frontend.md), [ssr (ssr)](ssr.md) |
+| [svelte5-runes-static](https://github.com/bobmatnyc/claude-mpm-skills/blob/main/toolchains/javascript/frameworks/svelte5-runes-static/SKILL.md) | [bobmatnyc/claude-mpm-skills](https://github.com/bobmatnyc/claude-mpm-skills) | Svelte 5 runes 与 SvelteKit 静态适配器模式，支持水合安全的状态和响应式。 | 10 | 22 | 2026-02-01 | [前端 (frontend)](frontend.md), [component 架构 (component-architecture)](component-architecture.md), [Svelte (svelte)](svelte.md), [sveltekit (sveltekit)](sveltekit.md), [ssg (ssg)](ssg.md), [ssr (ssr)](ssr.md) |

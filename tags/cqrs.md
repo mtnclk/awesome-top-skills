@@ -1,0 +1,11 @@
+# Tag: cqrs
+
+- Back: [Tags](README.md)
+- Tagged skills: 4
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [cqrs-implementation](https://github.com/wshobson/agents/blob/main/plugins/backend-development/skills/cqrs-implementation/SKILL.md) | [wshobson/agents](https://github.com/wshobson/agents) | Implement Command Query Responsibility Segregation for scalable architectures, separating read and write models to optimize query performanc | 28K | 852 | 2026-02-02 | [architecture](architecture.md), [backend](backend.md), [cqrs](cqrs.md), [data-management](data-management.md), [performance](performance.md), [query-optimization](query-optimization.md) |
+| [projection-patterns](https://github.com/wshobson/agents/blob/main/plugins/backend-development/skills/projection-patterns/SKILL.md) | [wshobson/agents](https://github.com/wshobson/agents) | Build read models and projections from event streams for CQRS implementations. | 28K | 830 | 2026-02-02 | [architecture](architecture.md), [data-management](data-management.md), [cqrs](cqrs.md), [event-streaming](event-streaming.md) |
+| [event-sourcing](https://github.com/aj-geddes/useful-ai-prompts/blob/main/skills/event-sourcing/SKILL.md) | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | Implement event sourcing and CQRS patterns for audit trails and historical data querying. | 59 | 49 | 2025-12-28 | [architecture](architecture.md), [backend](backend.md), [data-management](data-management.md), [cqrs](cqrs.md), [event-streaming](event-streaming.md) |
+| [symfony:cqrs-and-handlers](https://github.com/makfly/superpowers-symfony/blob/main/skills/cqrs-and-handlers/SKILL.md) | [makfly/superpowers-symfony](https://github.com/makfly/superpowers-symfony) | A Symfony CQRS and handlers skill for managing complex application logic. | 51 | 25 | 2026-01-14 | [backend](backend.md), [architecture](architecture.md), [cqrs](cqrs.md), [symfony](symfony.md) |

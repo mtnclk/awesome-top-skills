@@ -1,0 +1,12 @@
+# Tag: mdx
+
+- Back: [Tags](README.md)
+- Tagged skills: 5
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [update-docs](https://github.com/vercel/next.js/blob/canary/.claude/skills/update-docs/SKILL.md) | [vercel/next.js](https://github.com/vercel/next.js) | A skill for updating Next.js documentation based on code changes, guiding users through a structured workflow. | 137K | 459 | 2026-02-03 | [documentation](documentation.md), [workflows](workflows.md), [nextjs](nextjs.md), [mdx](mdx.md) |
+| [writing-docs](https://github.com/remotion-dev/remotion/blob/main/.claude/skills/writing-docs/SKILL.md) | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | A skill for writing and editing Remotion documentation, including adding docs pages and editing MDX files. | 35K | 188 | 2026-02-02 | [documentation](documentation.md), [technical-writing](technical-writing.md), [docs](docs.md), [mdx](mdx.md) |
+| [fumadocs-mdx-structure](https://github.com/theorcdev/8bitcn-ui/blob/main/.claude/skills/fumadocs-mdx-structure/SKILL.md) | [theorcdev/8bitcn-ui](https://github.com/theorcdev/8bitcn-ui) | Generate MDX documentation files with proper frontmatter and component integration for Fumadocs. | 1.6K | 30 | 2026-01-27 | [documentation](documentation.md), [content-creation](content-creation.md), [mdx](mdx.md), [fumadocs](fumadocs.md) |
+| [nextra-writer](https://github.com/shipshitdev/library/blob/master/skills/nextra-writer/SKILL.md) | [shipshitdev/library](https://github.com/shipshitdev/library) | Creates clear technical documentation using Nextra, Next.js, and MDX. | 4 | 29 | 2026-01-25 | [documentation](documentation.md), [technical-writing](technical-writing.md), [nextjs](nextjs.md), [mdx](mdx.md) |
+| [docusaurus](https://github.com/anton-abyzov/specweave/blob/develop/plugins/specweave-docs/skills/docusaurus/SKILL.md) | [anton-abyzov/specweave](https://github.com/anton-abyzov/specweave) | A Docusaurus 3.x documentation framework for MDX authoring, theming, versioning, and i18n. | 30 | 24 | 2026-02-03 | [documentation](documentation.md), [static-analysis](static-analysis.md), [tooling](tooling.md), [mdx](mdx.md), [docusaurus](docusaurus.md) |

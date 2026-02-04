@@ -1,0 +1,11 @@
+# Tag: algorithmic-trading
+
+- Back: [Tags](README.md)
+- Tagged skills: 4
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [trading-expert](https://github.com/personamanagmentlayer/pcl/blob/main/stdlib/domains/trading-expert/SKILL.md) | [personamanagmentlayer/pcl](https://github.com/personamanagmentlayer/pcl) | Expert-level algorithmic trading, market systems, and quantitative analysis. | 1 | 39 | 2026-02-02 | [finance](finance.md), [trading](trading.md), [algorithmic-trading](algorithmic-trading.md), [quantitative-analysis](quantitative-analysis.md), [market-systems](market-systems.md) |
+| [market-regimes](https://github.com/0xhubed/agent-trading-arena/blob/main/skills/market-regimes/SKILL.md) | [0xhubed/agent-trading-arena](https://github.com/0xhubed/agent-trading-arena) | Detects market regimes and applies regime-specific trading strategies for optimal market condition analysis. | 1 | 23 | 2026-01-18 | [finance](finance.md), [analysis](analysis.md), [technical-analysis](technical-analysis.md), [algorithmic-trading](algorithmic-trading.md) |
+| [dividend-growth-pullback-screener](https://github.com/nicepkg/ai-workflow/blob/main/workflows/stock-trader-workflow/.claude/skills/dividend-growth-pullback-screener/SKILL.md) | [nicepkg/ai-workflow](https://github.com/nicepkg/ai-workflow) | Find high-quality dividend growth stocks with temporary pullbacks using RSI indicators. | 23 | 21 | 2026-01-20 | [finance](finance.md), [analysis](analysis.md), [quantitative-analysis](quantitative-analysis.md), [algorithmic-trading](algorithmic-trading.md), [technical-analysis](technical-analysis.md) |
+| [pair-trade-screener](https://github.com/nicepkg/ai-workflow/blob/main/workflows/stock-trader-workflow/.claude/skills/pair-trade-screener/SKILL.md) | [nicepkg/ai-workflow](https://github.com/nicepkg/ai-workflow) | A statistical arbitrage tool for pair trading opportunity identification and analysis. | 23 | 21 | 2026-01-20 | [statistical-analysis](statistical-analysis.md), [quantitative-analysis](quantitative-analysis.md), [finance](finance.md), [algorithmic-trading](algorithmic-trading.md), [backtesting](backtesting.md) |

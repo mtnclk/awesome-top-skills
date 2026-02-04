@@ -1,0 +1,12 @@
+# 标签：opentelemetry (opentelemetry)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 5
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [golang-observability-opentelemetry](https://github.com/bobmatnyc/claude-mpm-skills/blob/main/toolchains/golang/observability/SKILL.md) | [bobmatnyc/claude-mpm-skills](https://github.com/bobmatnyc/claude-mpm-skills) | 使用 OpenTelemetry、Prometheus 和 slog 为 Go 应用程序添加可观测性。 | 10 | 33 | 2026-02-01 | [可观测性 (observability)](observability.md), [监控 (monitoring)](monitoring.md), [Go (go)](go.md), [opentelemetry (opentelemetry)](opentelemetry.md), [prometheus (prometheus)](prometheus.md) |
+| [performance-engineer](https://github.com/rmyndharis/antigravity-skills/blob/main/skills/performance-engineer/SKILL.md) | [rmyndharis/antigravity-skills](https://github.com/rmyndharis/antigravity-skills) | 通过可观测性、追踪和可扩展性技术优化系统性能。 | 220 | 29 | 2026-01-18 | [性能优化 (performance)](performance.md), [可观测性 (observability)](observability.md), [监控 (monitoring)](monitoring.md), [opentelemetry (opentelemetry)](opentelemetry.md), [load test (load-test)](load-test.md) |
+| [performance-engineer](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/performance-engineer/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 专注于可观测性、应用优化和可扩展系统性能的性能工程师。 | 6.5K | 28 | 2026-02-02 | [可观测性 (observability)](observability.md), [性能优化 (performance)](performance.md), [监控 (monitoring)](monitoring.md), [opentelemetry (opentelemetry)](opentelemetry.md), [链路追踪 (tracing)](tracing.md) |
+| [qa-observability](https://github.com/vasilyu1983/ai-agents-public/blob/main/frameworks/shared-skills/skills/qa-observability/SKILL.md) | [vasilyu1983/ai-agents-public](https://github.com/vasilyu1983/ai-agents-public) | 实现并验证质量工程的可观测性，包括 OpenTelemetry、SLO 和 APM 集成。 | 29 | 24 | 2026-01-26 | [可观测性 (observability)](observability.md), [监控 (monitoring)](monitoring.md), [链路追踪 (tracing)](tracing.md), [opentelemetry (opentelemetry)](opentelemetry.md), [apm (apm)](apm.md), [prometheus (prometheus)](prometheus.md) |
+| [azure-monitor-opentelemetry-py](https://github.com/microsoft/agent-skills/blob/main/.github/skills/azure-monitor-opentelemetry-py/SKILL.md) | [microsoft/agent-skills](https://github.com/microsoft/agent-skills) | 为Python设置Azure监控OpenTelemetry自动检测。 | 339 | 21 | 2026-02-03 | [监控 (monitoring)](monitoring.md), [可观测性 (observability)](observability.md), [instrumentation (instrumentation)](instrumentation.md), [azure (azure)](azure.md), [opentelemetry (opentelemetry)](opentelemetry.md) |

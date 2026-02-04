@@ -1,0 +1,10 @@
+# 标签：jupyter (jupyter)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 3
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [labarchive-integration](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/scientific/labarchive-integration/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 集成电子实验记录本API，用于程序化管理条目和附件。 | 19K | 78 | 2026-02-03 | [API](api.md), [integration (integration)](integration.md), [数据管理 (data-management)](data-management.md), [lab equipment (lab-equipment)](lab-equipment.md), [jupyter (jupyter)](jupyter.md), [protocols io (protocols-io)](protocols-io.md) |
+| [labarchive-integration](https://github.com/k-dense-ai/claude-scientific-skills/blob/main/scientific-skills/labarchive-integration/SKILL.md) | [k-dense-ai/claude-scientific-skills](https://github.com/k-dense-ai/claude-scientific-skills) | 集成电子实验记录本API以管理条目和附件。 | 7.8K | 63 | 2026-02-02 | [API](api.md), [数据管理 (data-management)](data-management.md), [integration (integration)](integration.md), [lab equipment (lab-equipment)](lab-equipment.md), [jupyter (jupyter)](jupyter.md), [protocols io (protocols-io)](protocols-io.md) |
+| [jupyter](https://github.com/openhands/skills/blob/main/skills/jupyter/SKILL.md) | [openhands/skills](https://github.com/openhands/skills) | 一个用于程序化读取、修改、执行和转换Jupyter笔记本的技能。 | 47 | 23 | 2026-02-02 | [数据分析 (data-analysis)](data-analysis.md), [note taking (note-taking)](note-taking.md), [jupyter (jupyter)](jupyter.md), [数据管理 (data-management)](data-management.md) |

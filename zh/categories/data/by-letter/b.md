@@ -1,0 +1,10 @@
+# 数据（Data） / b
+
+- 返回: [分类](../README.md)
+- 数量: 3
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [backtesting-trading-strategies](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/blob/main/plugins/crypto/trading-strategy-backtester/skills/backtesting-trading-strategies/SKILL.md) | [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | 使用历史数据回测交易策略并计算绩效指标。 | 1.2K | 24 | 2026-02-01 | [财务 (finance)](../../../tags/finance.md), [quantitative analysis (quantitative-analysis)](../../../tags/quantitative-analysis.md), [backtesting (backtesting)](../../../tags/backtesting.md), [trading (trading)](../../../tags/trading.md), [crypto (crypto)](../../../tags/crypto.md) |
+| [building-dashboards](https://github.com/axiomhq/skills/blob/main/skills/building-dashboards/SKILL.md) | [axiomhq/skills](https://github.com/axiomhq/skills) | 通过API设计和构建Axiom仪表板，支持多种图表类型和SmartFilters。 | 2 | 24 | 2026-01-28 | [visualization (visualization)](../../../tags/visualization.md), [dashboard (dashboard)](../../../tags/dashboard.md), [API](../../../tags/api.md), [chart (chart)](../../../tags/chart.md) |
+| [bv](https://github.com/dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations/blob/main/skills/bv/SKILL.md) | [dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations](https://github.com/dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations) | 面向Beads项目的图感知故障排查引擎，计算PageRank、介数中心性等。 | 41 | 23 | 2026-01-30 | [分析 (analysis)](../../../tags/analysis.md), [visualization (visualization)](../../../tags/visualization.md), [graph (graph)](../../../tags/graph.md) |

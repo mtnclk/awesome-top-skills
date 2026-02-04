@@ -1,0 +1,12 @@
+# Tag: cypress
+
+- Back: [Tags](README.md)
+- Tagged skills: 5
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [e2e-testing-patterns](https://github.com/wshobson/agents/blob/main/plugins/developer-essentials/skills/e2e-testing-patterns/SKILL.md) | [wshobson/agents](https://github.com/wshobson/agents) | Master end-to-end testing with Playwright and Cypress for reliable test suites. | 28K | 1.4K | 2026-02-02 | [testing](testing.md), [integration-testing](integration-testing.md), [end-to-end-testing](end-to-end-testing.md), [playwright](playwright.md), [cypress](cypress.md) |
+| [clerk-testing](https://github.com/clerk/skills/blob/main/skills/testing/SKILL.md) | [clerk/skills](https://github.com/clerk/skills) | End-to-end testing for Clerk applications using Playwright or Cypress. | 0 | 124 | 2026-02-02 | [end-to-end-testing](end-to-end-testing.md), [testing](testing.md), [auth](auth.md), [clerk](clerk.md), [playwright](playwright.md), [cypress](cypress.md) |
+| [e2e-testing-automation](https://github.com/aj-geddes/useful-ai-prompts/blob/main/skills/e2e-testing-automation/SKILL.md) | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | Automate end-to-end testing for web applications using tools like Cypress and Playwright. | 59 | 50 | 2025-12-28 | [end-to-end-testing](end-to-end-testing.md), [browser-automation](browser-automation.md), [testing](testing.md), [cypress](cypress.md), [playwright](playwright.md) |
+| [cypress](https://github.com/bobmatnyc/claude-mpm-skills/blob/main/toolchains/javascript/testing/cypress/SKILL.md) | [bobmatnyc/claude-mpm-skills](https://github.com/bobmatnyc/claude-mpm-skills) | Cypress testing patterns for web apps including reliable selectors, stable waits, and network stubbing. | 10 | 35 | 2026-02-01 | [end-to-end-testing](end-to-end-testing.md), [component-testing](component-testing.md), [browser-automation](browser-automation.md), [cypress](cypress.md) |
+| [e2e-testing-patterns](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/e2e-testing-patterns/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Master end-to-end testing with Playwright and Cypress for reliable test suites. | 6.5K | 21 | 2026-02-02 | [end-to-end-testing](end-to-end-testing.md), [browser-automation](browser-automation.md), [playwright](playwright.md), [cypress](cypress.md) |

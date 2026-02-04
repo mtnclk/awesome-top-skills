@@ -1,0 +1,12 @@
+# 标签：developer docs (developer-docs)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 5
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [technical-writing](https://github.com/anton-abyzov/specweave/blob/develop/plugins/specweave-docs/skills/technical-writing/SKILL.md) | [anton-abyzov/specweave](https://github.com/anton-abyzov/specweave) | 技术写作专家，专注API文档、README、教程和变更日志管理。 | 30 | 35 | 2026-02-03 | [文档 (documentation)](documentation.md), [technical 写作 (technical-writing)](technical-writing.md), [写作 (writing)](writing.md), [developer docs (developer-docs)](developer-docs.md), [API docs (api-docs)](api-docs.md) |
+| [api-documenter](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/api-documenter/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 使用 OpenAPI 3.1 和 AI 工具创建交互式 API 文档和开发者门户。 | 6.5K | 31 | 2026-02-02 | [文档 (documentation)](documentation.md), [API](api.md), [工具链 (tooling)](tooling.md), [openapi (openapi)](openapi.md), [developer docs (developer-docs)](developer-docs.md) |
+| [docs](https://github.com/shipshitdev/library/blob/master/skills/docs/SKILL.md) | [shipshitdev/library](https://github.com/shipshitdev/library) | 生成清晰的技术文档和开发者指南。 | 4 | 28 | 2026-01-25 | [文档 (documentation)](documentation.md), [technical 写作 (technical-writing)](technical-writing.md), [developer docs (developer-docs)](developer-docs.md) |
+| [technical-writer](https://github.com/daffy0208/ai-dev-standards/blob/main/skills/technical-writer/SKILL.md) | [daffy0208/ai-dev-standards](https://github.com/daffy0208/ai-dev-standards) | 为开发者和用户创建清晰的技术文档，涵盖API、用户指南和最佳实践。 | 9 | 25 | 2025-12-25 | [文档 (documentation)](documentation.md), [technical 写作 (technical-writing)](technical-writing.md), [写作 (writing)](writing.md), [developer docs (developer-docs)](developer-docs.md) |
+| [documentation-engineer](https://github.com/404kidwiz/claude-supercode-skills/blob/main/documentation-engineer-skill/SKILL.md) | [404kidwiz/claude-supercode-skills](https://github.com/404kidwiz/claude-supercode-skills) | 技术文档与知识管理专家，用于创建综合文档系统和改善开发者知识共享。 | 7 | 22 | 2026-01-16 | [文档 (documentation)](documentation.md), [knowledge base (knowledge-base)](knowledge-base.md), [technical 文档 (technical-documentation)](technical-documentation.md), [developer docs (developer-docs)](developer-docs.md) |

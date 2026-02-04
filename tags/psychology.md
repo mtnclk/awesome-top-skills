@@ -1,0 +1,11 @@
+# Tag: psychology
+
+- Back: [Tags](README.md)
+- Tagged skills: 4
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [marketing-psychology](https://github.com/coreyhaines31/marketingskills/blob/main/skills/marketing-psychology/SKILL.md) | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | A skill applying psychological principles and mental models to marketing for better consumer understanding and persuasion. | 5.6K | 5.6K | 2026-01-28 | [marketing](marketing.md), [psychology](psychology.md), [behavioral-science](behavioral-science.md), [mental-models](mental-models.md), [copywriting](copywriting.md), [strategy](strategy.md) |
+| [marketing-psychology](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/marketing-psychology/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Apply behavioral science and mental models to marketing decisions with a leverage and feasibility scoring system. | 6.5K | 180 | 2026-02-02 | [marketing](marketing.md), [analysis](analysis.md), [behavioral-science](behavioral-science.md), [mental-models](mental-models.md), [psychology](psychology.md) |
+| [marketing-psychology](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/business-marketing/marketing-psychology/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Apply psychological principles and mental models to marketing strategies. | 19K | 95 | 2026-02-03 | [marketing](marketing.md), [audience-analysis](audience-analysis.md), [behavioral-science](behavioral-science.md), [mental-models](mental-models.md), [psychology](psychology.md) |
+| [conversion-psychology](https://github.com/mike-coulbourn/claude-vibes/blob/main/plugins/vibes/skills/conversion-psychology/SKILL.md) | [mike-coulbourn/claude-vibes](https://github.com/mike-coulbourn/claude-vibes) | Optimize video marketing scripts using conversion psychology principles like emotional triggers, social proof, and urgency. | 8 | 30 | 2025-12-21 | [conversion-rate-optimization](conversion-rate-optimization.md), [marketing](marketing.md), [audience-analysis](audience-analysis.md), [psychology](psychology.md) |

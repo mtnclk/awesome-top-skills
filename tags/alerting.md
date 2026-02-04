@@ -1,0 +1,10 @@
+# Tag: alerting
+
+- Back: [Tags](README.md)
+- Tagged skills: 3
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [slo-implementation](https://github.com/wshobson/agents/blob/main/plugins/observability-monitoring/skills/slo-implementation/SKILL.md) | [wshobson/agents](https://github.com/wshobson/agents) | Implement SLIs/SLOs with error budgets and alerting for service reliability. | 28K | 745 | 2026-02-02 | [monitoring](monitoring.md), [observability](observability.md), [performance](performance.md), [metrics](metrics.md), [alerting](alerting.md) |
+| [alert-management](https://github.com/aj-geddes/useful-ai-prompts/blob/main/skills/alert-management/SKILL.md) | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | Manage alerts and incidents using PagerDuty for effective incident coordination and escalation policies. | 59 | 44 | 2025-12-28 | [monitoring](monitoring.md), [alerting](alerting.md), [pagerduty](pagerduty.md), [incident-response](incident-response.md) |
+| [monitoring-setup](https://github.com/eddiebe147/claude-settings/blob/main/skills/monitoring-setup/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | Guide for setting up monitoring dashboards, alerting, metrics collection, and observability. | 14 | 43 | 2026-01-22 | [monitoring](monitoring.md), [observability](observability.md), [setup](setup.md), [dashboard](dashboard.md), [alerting](alerting.md) |

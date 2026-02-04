@@ -1,0 +1,10 @@
+# Tag: d3-js
+
+- Back: [Tags](README.md)
+- Tagged skills: 3
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [d3-viz](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/claude-d3js-skill/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Create interactive data visualizations with D3.js for custom charts, graphs, and complex SVG-based visuals. | 6.5K | 216 | 2026-02-02 | [visualization](visualization.md), [data-analysis](data-analysis.md), [frontend](frontend.md), [d3-js](d3-js.md), [svg](svg.md) |
+| [d3-viz](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/creative-design/claude-d3js-skill/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Create interactive data visualizations with D3.js for charts, graphs, and complex SVG-based designs. | 19K | 76 | 2026-02-03 | [visualization](visualization.md), [diagram](diagram.md), [d3-js](d3-js.md), [interactive](interactive.md) |
+| [d3-viz](https://github.com/chrisvoncsefalvay/claude-d3js-skill/blob/main/SKILL.md) | [chrisvoncsefalvay/claude-d3js-skill](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | Create interactive data visualizations with d3.js for charts, graphs, and complex SVG-based designs. | 90 | 28 | 2025-10-18 | [visualization](visualization.md), [data-analysis](data-analysis.md), [d3-js](d3-js.md) |

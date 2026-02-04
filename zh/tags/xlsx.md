@@ -1,0 +1,12 @@
+# 标签：xlsx (xlsx)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 5
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [office](https://github.com/jezweb/claude-skills/blob/main/skills/office/SKILL.md) | [jezweb/claude-skills](https://github.com/jezweb/claude-skills) | 使用 TypeScript 生成 Office 文档（DOCX、XLSX、PDF、PPTX）。 | 245 | 209 | 2026-02-02 | [document processing (document-processing)](document-processing.md), [office (office)](office.md), [TypeScript](typescript.md), [docx (docx)](docx.md), [xlsx (xlsx)](xlsx.md), [pdf (pdf)](pdf.md) |
+| [markdown-converter](https://github.com/intellectronica/agent-skills/blob/main/skills/markdown-converter/SKILL.md) | [intellectronica/agent-skills](https://github.com/intellectronica/agent-skills) | 将PDF、Word、Excel、HTML等多种格式转换为Markdown。 | 171 | 109 | 2026-02-02 | [document processing (document-processing)](document-processing.md), [conversion rate 优化 (conversion-rate-optimization)](conversion-rate-optimization.md), [pdf (pdf)](pdf.md), [docx (docx)](docx.md), [pptx (pptx)](pptx.md), [xlsx (xlsx)](xlsx.md) |
+| [markitdown](https://github.com/k-dense-ai/claude-scientific-skills/blob/main/scientific-skills/markitdown/SKILL.md) | [k-dense-ai/claude-scientific-skills](https://github.com/k-dense-ai/claude-scientific-skills) | 将PDF、DOCX、PPTX、XLSX、图像、音频、HTML、CSV、JSON、XML、ZIP、YouTube链接和EP | 7.8K | 90 | 2026-02-02 | [document processing (document-processing)](document-processing.md), [conversion rate 优化 (conversion-rate-optimization)](conversion-rate-optimization.md), [pdf (pdf)](pdf.md), [docx (docx)](docx.md), [pptx (pptx)](pptx.md), [xlsx (xlsx)](xlsx.md) |
+| [document-xlsx](https://github.com/vasilyu1983/ai-agents-public/blob/main/frameworks/shared-skills/skills/document-xlsx/SKILL.md) | [vasilyu1983/ai-agents-public](https://github.com/vasilyu1983/ai-agents-public) | 创建、编辑、审计和提取Excel电子表格。 | 29 | 26 | 2026-01-26 | [document processing (document-processing)](document-processing.md), [excel (excel)](excel.md), [xlsx (xlsx)](xlsx.md) |
+| [xlsx-generator](https://github.com/jwynia/agent-skills/blob/main/skills/general/document-processing/spreadsheet/xlsx-generator/SKILL.md) | [jwynia/agent-skills](https://github.com/jwynia/agent-skills) | 程序化生成和操作Excel XLSX文件，支持模板和数据提取。 | 13 | 26 | 2026-02-02 | [数据管理 (data-management)](data-management.md), [数据分析 (data-analysis)](data-analysis.md), [excel (excel)](excel.md), [spreadsheet (spreadsheet)](spreadsheet.md), [xlsx (xlsx)](xlsx.md) |

@@ -1,0 +1,14 @@
+# 标签：QA (qa)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 7
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [qa-test-planner](https://github.com/softaworks/agent-toolkit/blob/main/skills/qa-test-planner/SKILL.md) | [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) | 生成全面的QA测试计划、测试用例和错误报告，并集成Figma。 | 413 | 2.9K | 2026-02-02 | [测试 (testing)](testing.md), [quality management (quality-management)](quality-management.md), [figma (figma)](figma.md), [QA (qa)](qa.md) |
+| [qa-test-planner](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/ai-research/qa-test-planner/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 生成全面的QA测试计划和用例，集成Figma。 | 19K | 88 | 2026-02-03 | [测试 (testing)](testing.md), [quality management (quality-management)](quality-management.md), [QA (qa)](qa.md), [figma (figma)](figma.md), [mcp (mcp)](mcp.md) |
+| [qa-expert](https://github.com/daymade/claude-code-skills/blob/main/qa-expert/SKILL.md) | [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills) | 用于建立全面QA测试流程的技能，包括测试策略、缺陷跟踪和安全测试。 | 539 | 52 | 2026-01-29 | [测试 (testing)](testing.md), [quality management (quality-management)](quality-management.md), [QA (qa)](qa.md), [owasp (owasp)](owasp.md) |
+| [qa-regression](https://github.com/skillcreatorai/ai-agent-skills/blob/main/skills/qa-regression/SKILL.md) | [skillcreatorai/ai-agent-skills](https://github.com/skillcreatorai/ai-agent-skills) | 自动化QA回归测试，复用测试技能。 | 671 | 43 | 2026-01-23 | [测试 (testing)](testing.md), [自动化 (automation)](automation.md), [端到端测试](end-to-end-testing.md), [QA (qa)](qa.md) |
+| [test-cases](https://github.com/cexll/myclaude/blob/master/skills/test-cases/SKILL.md) | [cexll/myclaude](https://github.com/cexll/myclaude) | 根据PRD文档或用户需求生成全面的测试用例。 | 2.1K | 40 | 2026-01-28 | [测试 (testing)](testing.md), [quality management (quality-management)](quality-management.md), [prd (prd)](prd.md), [QA (qa)](qa.md) |
+| [qa-agent-testing](https://github.com/vasilyu1983/ai-agents-public/blob/main/frameworks/shared-skills/skills/qa-agent-testing/SKILL.md) | [vasilyu1983/ai-agents-public](https://github.com/vasilyu1983/ai-agents-public) | 用于智能体系统的质量保证框架，支持场景套件、确定性控制和评分标准。 | 29 | 24 | 2026-01-26 | [智能体 (agents)](agents.md), [测试 (testing)](testing.md), [QA (qa)](qa.md), [agentic systems (agentic-systems)](agentic-systems.md) |
+| [router-qa](https://github.com/vasilyu1983/ai-agents-public/blob/main/frameworks/shared-skills/skills/router-qa/SKILL.md) | [vasilyu1983/ai-agents-public](https://github.com/vasilyu1983/ai-agents-public) | 编排QA任务，包括端到端测试、API契约和LLM代理测试。 | 29 | 21 | 2026-01-26 | [测试 (testing)](testing.md), [QA (qa)](qa.md), [端到端测试](end-to-end-testing.md), [playwright (playwright)](playwright.md), [可观测性 (observability)](observability.md), [调试 (debugging)](debugging.md) |

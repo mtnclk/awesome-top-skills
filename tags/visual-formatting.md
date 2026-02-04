@@ -1,0 +1,13 @@
+# Tag: visual-formatting
+
+- Back: [Tags](README.md)
+- Tagged skills: 6
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [brand-guidelines](https://github.com/anthropics/skills/blob/main/skills/brand-guidelines/SKILL.md) | [anthropics/skills](https://github.com/anthropics/skills) | Applies Anthropic's brand guidelines for consistent visual styling across artifacts. | 61K | 3K | 2025-12-20 | [branding](branding.md), [visual-formatting](visual-formatting.md), [anthropic](anthropic.md) |
+| [brand-guidelines](https://github.com/composiohq/awesome-claude-skills/blob/master/brand-guidelines/SKILL.md) | [composiohq/awesome-claude-skills](https://github.com/composiohq/awesome-claude-skills) | Applies Anthropic's brand guidelines for consistent visual styling across artifacts. | 29K | 173 | 2026-02-03 | [branding](branding.md), [visual-formatting](visual-formatting.md), [anthropic](anthropic.md) |
+| [brand-guidelines](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/brand-guidelines-anthropic/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Applies Anthropic's brand guidelines including colors and typography to artifacts. | 6.5K | 167 | 2026-02-02 | [branding](branding.md), [design-systems](design-systems.md), [visual-formatting](visual-formatting.md), [anthropic](anthropic.md) |
+| [brand-guidelines](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/business-marketing/brand-guidelines-anthropic/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Applies Anthropic's brand guidelines for consistent visual styling across artifacts. | 19K | 90 | 2026-02-03 | [branding](branding.md), [design-systems](design-systems.md), [visual-formatting](visual-formatting.md), [anthropic](anthropic.md) |
+| [brand-guidelines](https://github.com/skillcreatorai/ai-agent-skills/blob/main/skills/brand-guidelines/SKILL.md) | [skillcreatorai/ai-agent-skills](https://github.com/skillcreatorai/ai-agent-skills) | Applies brand colors and typography to artifacts for consistent branded content. | 671 | 37 | 2026-01-23 | [branding](branding.md), [design-systems](design-systems.md), [visual-formatting](visual-formatting.md) |
+| [brand-guidelines](https://github.com/aiskillstore/marketplace/blob/main/skills/brand-guidelines/SKILL.md) | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | Applies Anthropic's brand guidelines including colors and typography to artifacts. | 137 | 25 | 2026-02-03 | [branding](branding.md), [design-systems](design-systems.md), [visual-formatting](visual-formatting.md), [anthropic](anthropic.md) |

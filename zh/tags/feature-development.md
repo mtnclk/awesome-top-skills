@@ -1,0 +1,13 @@
+# 标签：feature development (feature-development)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 6
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [feature-dev](https://github.com/notedit/happy-skills/blob/main/skills/feature-dev/SKILL.md) | [notedit/happy-skills](https://github.com/notedit/happy-skills) | 引导式功能开发技能，注重代码库理解和系统实现。 | 296 | 33 | 2026-01-25 | [编码 (coding)](coding.md), [架构 (architecture)](architecture.md), [feature development (feature-development)](feature-development.md) |
+| [kiro-skill](https://github.com/feiskyer/claude-code-settings/blob/main/skills/kiro-skill/SKILL.md) | [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) | 交互式功能开发工作流，从想法到实现生成需求、设计文档和任务列表。 | 1.2K | 31 | 2026-01-27 | [feature development (feature-development)](feature-development.md), [规划 (planning)](planning.md), [工作流 (workflows)](workflows.md), [interactive (interactive)](interactive.md) |
+| [mvp-builder](https://github.com/daffy0208/ai-dev-standards/blob/main/skills/mvp-builder/SKILL.md) | [daffy0208/ai-dev-standards](https://github.com/daffy0208/ai-dev-standards) | 快速构建和验证最小可行产品，优先开发功能。 | 9 | 28 | 2025-12-25 | [mvp (mvp)](mvp.md), [规划 (planning)](planning.md), [product 分析 (product-analytics)](product-analytics.md), [feature development (feature-development)](feature-development.md) |
+| [do](https://github.com/cexll/myclaude/blob/master/skills/do/SKILL.md) | [cexll/myclaude](https://github.com/cexll/myclaude) | 一个结构化的功能开发技能，使用7阶段工作流和代码代理进行探索、架构和审查。 | 2.1K | 24 | 2026-01-28 | [工作流 (workflows)](workflows.md), [编码 (coding)](coding.md), [code analysis (code-analysis)](code-analysis.md), [代码审查 (code-review)](code-review.md), [feature development (feature-development)](feature-development.md) |
+| [backend-development-feature-development](https://github.com/rmyndharis/antigravity-skills/blob/main/skills/backend-development-feature-development/SKILL.md) | [rmyndharis/antigravity-skills](https://github.com/rmyndharis/antigravity-skills) | 协调端到端后端功能开发，从需求到部署。 | 220 | 24 | 2026-01-18 | [后端 (backend)](backend.md), [feature development (feature-development)](feature-development.md), [项目管理](project-management.md) |
+| [brainstorming-laravel](https://github.com/iserter/laravel-claude-agents/blob/main/.claude/skills/brainstorming/SKILL.md) | [iserter/laravel-claude-agents](https://github.com/iserter/laravel-claude-agents) | 通过协作式提问和探索，将粗略想法转化为结构化的Laravel功能设计。 | 9 | 23 | 2025-12-06 | [brainstorming (brainstorming)](brainstorming.md), [laravel (laravel)](laravel.md), [feature development (feature-development)](feature-development.md), [编码 (coding)](coding.md) |

@@ -1,0 +1,12 @@
+# Tag: web-scraping
+
+- Back: [Tags](README.md)
+- Tagged skills: 5
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [apify-actor-development](https://github.com/apify/agent-skills/blob/main/skills/apify-actor-development/SKILL.md) | [apify/agent-skills](https://github.com/apify/agent-skills) | Develop, debug, and deploy Apify Actors for web scraping and automation tasks. | 132 | 141 | 2026-01-29 | [automation](automation.md), [deployment](deployment.md), [serverless](serverless.md), [web-scraping](web-scraping.md) |
+| [competitive-ads-extractor](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/business-marketing/competitive-ads-extractor/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Extracts and analyzes competitors' ads from ad libraries to inspire ad campaign improvements. | 19K | 95 | 2026-02-03 | [competitive-analysis](competitive-analysis.md), [marketing](marketing.md), [advertising](advertising.md), [web-scraping](web-scraping.md) |
+| [web-to-markdown](https://github.com/softaworks/agent-toolkit/blob/main/skills/web-to-markdown/SKILL.md) | [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) | Converts webpage URLs to clean Markdown using Puppeteer and Readability. | 413 | 52 | 2026-02-02 | [scraping](scraping.md), [conversion-rate-optimization](conversion-rate-optimization.md), [web-scraping](web-scraping.md), [markdown](markdown.md) |
+| [actionbook](https://github.com/actionbook/actionbook/blob/main/skills/actionbook/SKILL.md) | [actionbook/actionbook](https://github.com/actionbook/actionbook) | Automate multi-step website tasks with browser automation, web scraping, and UI testing. | 170 | 35 | 2026-01-30 | [browser-automation](browser-automation.md), [web-scraping](web-scraping.md), [automation](automation.md), [ui](ui.md), [task-management](task-management.md) |
+| [browser-automation](https://github.com/browserbase/agent-browse/blob/main/.claude/skills/browser-automation/SKILL.md) | [browserbase/agent-browse](https://github.com/browserbase/agent-browse) | Automate web browser interactions using natural language via CLI commands for browsing, scraping, and data extraction. | 426 | 34 | 2026-01-14 | [browser-automation](browser-automation.md), [automation](automation.md), [cli](cli.md), [web-scraping](web-scraping.md) |

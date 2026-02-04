@@ -1,0 +1,12 @@
+# Tag: developer-docs
+
+- Back: [Tags](README.md)
+- Tagged skills: 5
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [technical-writing](https://github.com/anton-abyzov/specweave/blob/develop/plugins/specweave-docs/skills/technical-writing/SKILL.md) | [anton-abyzov/specweave](https://github.com/anton-abyzov/specweave) | A technical writing expert for API docs, READMEs, tutorials, and changelog management with style guides and OpenAPI support. | 30 | 35 | 2026-02-03 | [documentation](documentation.md), [technical-writing](technical-writing.md), [writing](writing.md), [developer-docs](developer-docs.md), [api-docs](api-docs.md) |
+| [api-documenter](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/api-documenter/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Create interactive API documentation and developer portals using OpenAPI 3.1 and AI tools. | 6.5K | 31 | 2026-02-02 | [documentation](documentation.md), [api](api.md), [tooling](tooling.md), [openapi](openapi.md), [developer-docs](developer-docs.md) |
+| [docs](https://github.com/shipshitdev/library/blob/master/skills/docs/SKILL.md) | [shipshitdev/library](https://github.com/shipshitdev/library) | Generates clear technical documentation for software projects and developer guides. | 4 | 28 | 2026-01-25 | [documentation](documentation.md), [technical-writing](technical-writing.md), [developer-docs](developer-docs.md) |
+| [technical-writer](https://github.com/daffy0208/ai-dev-standards/blob/main/skills/technical-writer/SKILL.md) | [daffy0208/ai-dev-standards](https://github.com/daffy0208/ai-dev-standards) | Create clear technical documentation for developers and users, covering APIs, user guides, and best practices. | 9 | 25 | 2025-12-25 | [documentation](documentation.md), [technical-writing](technical-writing.md), [writing](writing.md), [developer-docs](developer-docs.md) |
+| [documentation-engineer](https://github.com/404kidwiz/claude-supercode-skills/blob/main/documentation-engineer-skill/SKILL.md) | [404kidwiz/claude-supercode-skills](https://github.com/404kidwiz/claude-supercode-skills) | A technical documentation and knowledge management expert for creating comprehensive documentation systems and improving developer knowledge | 7 | 22 | 2026-01-16 | [documentation](documentation.md), [knowledge-base](knowledge-base.md), [technical-documentation](technical-documentation.md), [developer-docs](developer-docs.md) |

@@ -1,0 +1,13 @@
+# 其他（Other） / t
+
+- 返回: [分类](../README.md)
+- 数量: 6
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [technical-writer](https://github.com/eddiebe147/claude-settings/blob/main/skills/technical-writer/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | 创建清晰准确的技术文档。 | 14 | 63 | 2026-01-22 | [文档 (documentation)](../../../tags/documentation.md), [technical 写作 (technical-writing)](../../../tags/technical-writing.md), [写作 (writing)](../../../tags/writing.md), [内容创作 (content-creation)](../../../tags/content-creation.md) |
+| [troubleshooting-guide](https://github.com/aj-geddes/useful-ai-prompts/blob/main/skills/troubleshooting-guide/SKILL.md) | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | 创建全面的故障排除指南、FAQ文档、已知问题列表和调试指南。 | 59 | 44 | 2025-12-28 | [文档 (documentation)](../../../tags/documentation.md), [troubleshooting (troubleshooting)](../../../tags/troubleshooting.md), [faq (faq)](../../../tags/faq.md), [调试 (debugging)](../../../tags/debugging.md) |
+| [technical-writer](https://github.com/daffy0208/ai-dev-standards/blob/main/skills/technical-writer/SKILL.md) | [daffy0208/ai-dev-standards](https://github.com/daffy0208/ai-dev-standards) | 为开发者和用户创建清晰的技术文档，涵盖API、用户指南和最佳实践。 | 9 | 25 | 2025-12-25 | [文档 (documentation)](../../../tags/documentation.md), [technical 写作 (technical-writing)](../../../tags/technical-writing.md), [写作 (writing)](../../../tags/writing.md), [developer docs (developer-docs)](../../../tags/developer-docs.md) |
+| [tutorial-docs](https://github.com/existential-birds/beagle/blob/main/skills/tutorial-docs/SKILL.md) | [existential-birds/beagle](https://github.com/existential-birds/beagle) | 通过引导式实践教学的文档教程模式。 | 15 | 24 | 2026-02-01 | [文档 (documentation)](../../../tags/documentation.md), [tutorial (tutorial)](../../../tags/tutorial.md), [learning (learning)](../../../tags/learning.md) |
+| [tech-lead](https://github.com/lotosbin/claude-skills) | [lotosbin/claude-skills](https://github.com/lotosbin/claude-skills) | 一个提供技术领导力指导的技能。 | 8 | 24 | 2026-01-20 | [leadership (leadership)](../../../tags/leadership.md), [最佳实践 (best-practices)](../../../tags/best-practices.md), [项目管理](../../../tags/project-management.md) |
+| [technical-writing](https://github.com/supercent-io/skills-template/blob/main/.agent-skills/documentation/technical-writing/SKILL.md) | [supercent-io/skills-template](https://github.com/supercent-io/skills-template) | 编写清晰全面的技术文档，包括规范、架构文档和API文档。 | 10 | 23 | 2026-01-28 | [文档 (documentation)](../../../tags/documentation.md), [technical 写作 (technical-writing)](../../../tags/technical-writing.md), [写作 (writing)](../../../tags/writing.md) |

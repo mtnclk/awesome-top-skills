@@ -1,0 +1,11 @@
+# 标签：profiling (profiling)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 4
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [profiling-optimization](https://github.com/aj-geddes/useful-ai-prompts/blob/main/skills/profiling-optimization/SKILL.md) | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | 使用CPU分析、火焰图和基准测试来分析和优化应用性能。 | 59 | 42 | 2025-12-28 | [性能优化 (performance)](performance.md), [优化 (optimization)](optimization.md), [profiling (profiling)](profiling.md), [cpu (cpu)](cpu.md), [benchmarking (benchmarking)](benchmarking.md) |
+| [performance-profiling](https://github.com/vudovn/antigravity-kit/blob/main/.agent/skills/performance-profiling/SKILL.md) | [vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit) | 学习性能分析原理，包括测量、分析和优化技术。 | 4K | 31 | 2026-02-01 | [性能优化 (performance)](performance.md), [优化 (optimization)](optimization.md), [分析 (analysis)](analysis.md), [profiling (profiling)](profiling.md) |
+| [axiom-performance-profiling](https://github.com/charleswiltgen/axiom/blob/main/.claude-plugin/plugins/axiom/skills/axiom-performance-profiling/SKILL.md) | [charleswiltgen/axiom](https://github.com/charleswiltgen/axiom) | 用于 macOS 性能分析的技能，帮助识别慢应用、内存问题和电池耗电。 | 371 | 24 | 2026-01-31 | [调试 (debugging)](debugging.md), [性能优化 (performance)](performance.md), [profiling (profiling)](profiling.md), [macOS (macos)](macos.md), [xcode (xcode)](xcode.md) |
+| [axiom-xctrace-ref](https://github.com/charleswiltgen/axiom/blob/main/.claude-plugin/plugins/axiom/skills/axiom-xctrace-ref/SKILL.md) | [charleswiltgen/axiom](https://github.com/charleswiltgen/axiom) | 用于自动化 Instruments 性能分析和无头性能测试的 xctrace CLI 技能。 | 371 | 24 | 2026-01-31 | [CI/CD (ci-cd)](ci-cd.md), [命令行（CLI）](cli.md), [性能优化 (performance)](performance.md), [profiling (profiling)](profiling.md), [xctrace (xctrace)](xctrace.md) |

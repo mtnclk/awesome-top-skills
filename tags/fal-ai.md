@@ -1,0 +1,14 @@
+# Tag: fal-ai
+
+- Back: [Tags](README.md)
+- Tagged skills: 7
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [fal-generate](https://github.com/ilkerzg/agent-skills/blob/main/skills/claude.ai/fal-generate/SKILL.md) | [ilkerzg/agent-skills](https://github.com/ilkerzg/agent-skills) | Generate images and videos using fal.ai AI models with queue support for various creative tasks. | 14 | 37 | 2026-01-27 | [image-generation](image-generation.md), [video-generation](video-generation.md), [text-to-image](text-to-image.md), [fal-ai](fal-ai.md) |
+| [fal-image-edit](https://github.com/ilkerzg/agent-skills/blob/main/skills/claude.ai/fal-image-edit/SKILL.md) | [ilkerzg/agent-skills](https://github.com/ilkerzg/agent-skills) | Edit images using AI on fal.ai with features like style transfer and object removal. | 14 | 31 | 2026-01-27 | [image-generation](image-generation.md), [text-to-image](text-to-image.md), [fal-ai](fal-ai.md) |
+| [fal-workflow](https://github.com/ilkerzg/agent-skills/blob/main/skills/claude.ai/fal-workflow/SKILL.md) | [ilkerzg/agent-skills](https://github.com/ilkerzg/agent-skills) | Generates production-ready fal.ai workflow JSON files for complex AI pipelines. | 14 | 26 | 2026-01-27 | [workflows](workflows.md), [tooling](tooling.md), [fal-ai](fal-ai.md) |
+| [generate-image](https://github.com/richardanaya/agent-skills/blob/main/.opencode/skill/generate-image/SKILL.md) | [richardanaya/agent-skills](https://github.com/richardanaya/agent-skills) | Generate images using Nano Banana Pro and FAL AI services. | 0 | 25 | 2026-02-01 | [image-generation](image-generation.md), [text-to-image](text-to-image.md), [fal-ai](fal-ai.md), [nano-banana-pro](nano-banana-pro.md) |
+| [fal-platform](https://github.com/ilkerzg/agent-skills/blob/main/skills/claude.ai/fal-platform/SKILL.md) | [ilkerzg/agent-skills](https://github.com/ilkerzg/agent-skills) | Manage models, pricing, usage tracking, and cost estimation via fal.ai Platform APIs. | 14 | 24 | 2026-01-27 | [api](api.md), [pricing](pricing.md), [fal-ai](fal-ai.md) |
+| [fal-upscale](https://github.com/ilkerzg/agent-skills/blob/main/skills/claude.ai/fal-upscale/SKILL.md) | [ilkerzg/agent-skills](https://github.com/ilkerzg/agent-skills) | Upscales and enhances image resolution using AI for tasks like 'upscale image' or 'enhance resolution'. | 14 | 22 | 2026-01-27 | [image-generation](image-generation.md), [text-to-image](text-to-image.md), [fal-ai](fal-ai.md) |
+| [fal-audio](https://github.com/ilkerzg/agent-skills/blob/main/skills/claude.ai/fal-audio/SKILL.md) | [ilkerzg/agent-skills](https://github.com/ilkerzg/agent-skills) | A skill for text-to-speech and speech-to-text using fal.ai models. | 14 | 21 | 2026-01-27 | [text-to-speech](text-to-speech.md), [transcription](transcription.md), [audio-generation](audio-generation.md), [fal-ai](fal-ai.md) |

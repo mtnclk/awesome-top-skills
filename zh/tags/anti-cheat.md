@@ -1,0 +1,12 @@
+# 标签：anti cheat (anti-cheat)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 5
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [anti-reversing-techniques](https://github.com/wshobson/agents/blob/main/plugins/reverse-engineering/skills/anti-reversing-techniques/SKILL.md) | [wshobson/agents](https://github.com/wshobson/agents) | 分析软件二进制文件中的反逆向和混淆技术。 | 28K | 760 | 2026-02-02 | [binary analysis (binary-analysis)](binary-analysis.md), [调试 (debugging)](debugging.md), [渗透测试](penetration-testing.md), [anti cheat (anti-cheat)](anti-cheat.md), [vulnerability research (vulnerability-research)](vulnerability-research.md) |
+| [reverse-engineering-tools](https://github.com/gmh5225/awesome-game-security/blob/main/.claude/skills/reverse-engineering/SKILL.md) | [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) | 游戏安全研究中使用的逆向工程工具和技术指南。 | 2.7K | 45 | 2026-02-02 | [binary analysis (binary-analysis)](binary-analysis.md), [调试 (debugging)](debugging.md), [vulnerability analysis (vulnerability-analysis)](vulnerability-analysis.md), [game development (game-development)](game-development.md), [anti cheat (anti-cheat)](anti-cheat.md) |
+| [game-hacking-techniques](https://github.com/gmh5225/awesome-game-security/blob/main/.claude/skills/game-hacking/SKILL.md) | [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) | 游戏黑客技术指南，涵盖内存操作和外挂开发。 | 2.7K | 32 | 2026-02-02 | [渗透测试](penetration-testing.md), [vulnerability analysis (vulnerability-analysis)](vulnerability-analysis.md), [binary analysis (binary-analysis)](binary-analysis.md), [anti cheat (anti-cheat)](anti-cheat.md) |
+| [mobile-security](https://github.com/gmh5225/awesome-game-security/blob/main/.claude/skills/mobile-security/SKILL.md) | [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) | 移动游戏安全指南，涵盖Android和iOS平台的逆向工程、APK分析及反作弊系统。 | 2.7K | 31 | 2026-02-02 | [移动开发 (mobile)](mobile.md), [appsec (appsec)](appsec.md), [渗透测试](penetration-testing.md), [Android (android)](android.md), [iOS (ios)](ios.md), [anti cheat (anti-cheat)](anti-cheat.md) |
+| [anti-cheat-systems](https://github.com/gmh5225/awesome-game-security/blob/main/.claude/skills/anti-cheat/SKILL.md) | [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) | 本技能用于研究游戏防护系统的反作弊机制与绕过技术。 | 2.7K | 28 | 2026-02-02 | [vulnerability analysis (vulnerability-analysis)](vulnerability-analysis.md), [渗透测试](penetration-testing.md), [anti cheat (anti-cheat)](anti-cheat.md) |

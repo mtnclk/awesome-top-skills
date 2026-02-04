@@ -1,0 +1,11 @@
+# Tag: journey-mapping
+
+- Back: [Tags](README.md)
+- Tagged skills: 4
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [ux-researcher-designer](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/creative-design/ux-researcher-designer/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | A UX research and design toolkit for senior designers including persona generation, journey mapping, and usability testing. | 19K | 237 | 2026-02-03 | [user-research](user-research.md), [ux](ux.md), [design-systems](design-systems.md), [persona-creation](persona-creation.md), [journey-mapping](journey-mapping.md) |
+| [ux-researcher-designer](https://github.com/alirezarezvani/claude-skills/blob/main/product-team/ux-researcher-designer/SKILL.md) | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | A UX research and design toolkit for senior designers, including persona generation, journey mapping, and usability testing. | 1.5K | 71 | 2026-02-02 | [user-research](user-research.md), [ux](ux.md), [journey-mapping](journey-mapping.md), [persona-creation](persona-creation.md) |
+| [user-journeys](https://github.com/alinaqi/claude-bootstrap/blob/main/skills/user-journeys/SKILL.md) | [alinaqi/claude-bootstrap](https://github.com/alinaqi/claude-bootstrap) | A skill for mapping user journeys and validating UX flows. | 471 | 42 | 2026-01-20 | [ux](ux.md), [user-research](user-research.md), [journey-mapping](journey-mapping.md) |
+| [customer-journey-mapper](https://github.com/eddiebe147/claude-settings/blob/main/skills/customer-journey-mapper/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | Map customer journeys to optimize touchpoints and experiences. | 14 | 41 | 2026-01-22 | [customer-support](customer-support.md), [journey-mapping](journey-mapping.md), [ux](ux.md) |

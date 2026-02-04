@@ -1,0 +1,10 @@
+# 标签：encryption (encryption)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 3
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [data-encryption](https://github.com/aj-geddes/useful-ai-prompts/blob/main/skills/data-encryption/SKILL.md) | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | 使用AES、RSA、TLS和适当密钥管理实现强加密。 | 59 | 49 | 2025-12-28 | [secrets (secrets)](secrets.md), [数据管理 (data-management)](data-management.md), [encryption (encryption)](encryption.md), [认证 (auth)](auth.md), [合规 (compliance)](compliance.md) |
+| [sqlcipher-encrypted-database-expert](https://github.com/martinholovsky/claude-skills-generator/blob/main/skills/sqlcipher/SKILL.md) | [martinholovsky/claude-skills-generator](https://github.com/martinholovsky/claude-skills-generator) | SQLCipher 加密数据库开发专家，专注加密密钥管理、轮换、安全数据处理和密码学最佳实践。 | 21 | 26 | 2025-12-06 | [数据库 (databases)](databases.md), [encryption (encryption)](encryption.md), [最佳实践 (best-practices)](best-practices.md), [SQL (sql)](sql.md) |
+| [axiom-file-protection-ref](https://github.com/charleswiltgen/axiom/blob/main/.claude-plugin/plugins/axiom/skills/axiom-file-protection-ref/SKILL.md) | [charleswiltgen/axiom](https://github.com/charleswiltgen/axiom) | 提供iOS文件加密和数据保护API的综合参考。 | 371 | 24 | 2026-01-31 | [API](api.md), [encryption (encryption)](encryption.md), [iOS (ios)](ios.md), [file storage (file-storage)](file-storage.md) |

@@ -1,0 +1,11 @@
+# 标签：book (book)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 4
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [reading-list-manager](https://github.com/eddiebe147/claude-settings/blob/main/skills/reading-list-manager/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | 管理阅读清单，跟踪进度并记笔记。 | 14 | 40 | 2026-01-22 | [note taking (note-taking)](note-taking.md), [reading (reading)](reading.md), [任务管理 (task-management)](task-management.md), [book (book)](book.md), [article (article)](article.md) |
+| [book-illustrator](https://github.com/jamesrochabrun/skills/blob/main/skills/book-illustrator/SKILL.md) | [jamesrochabrun/skills](https://github.com/jamesrochabrun/skills) | 儿童绘本插画师指南，关注适龄风格、角色设计和视觉叙事。 | 35 | 26 | 2026-01-14 | [image generation (image-generation)](image-generation.md), [visual storytelling (visual-storytelling)](visual-storytelling.md), [children (children)](children.md), [book (book)](book.md), [character design (character-design)](character-design.md), [color theory (color-theory)](color-theory.md) |
+| [ebook-analysis](https://github.com/jwynia/agent-skills/blob/main/skills/general/document-processing/analysis/ebook-analysis/SKILL.md) | [jwynia/agent-skills](https://github.com/jwynia/agent-skills) | 分析电子书以提取概念、实体和引用，并按类型或层级分类。 | 13 | 23 | 2026-02-02 | [分析 (analysis)](analysis.md), [document processing (document-processing)](document-processing.md), [book (book)](book.md), [epub (epub)](epub.md) |
+| [non-fiction-revision](https://github.com/jwynia/agent-skills/blob/main/skills/general/writing/revision/non-fiction-revision/SKILL.md) | [jwynia/agent-skills](https://github.com/jwynia/agent-skills) | 该技能用于诊断和指导非小说类书籍的修订，提升论点强度、论据时效性和结构清晰度。 | 13 | 21 | 2026-02-02 | [review (review)](review.md), [写作 (writing)](writing.md), [nonprofit (nonprofit)](nonprofit.md), [book (book)](book.md) |

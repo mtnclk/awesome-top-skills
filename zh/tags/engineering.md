@@ -1,0 +1,13 @@
+# 标签：engineering (engineering)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 6
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [cto-advisor](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/business-marketing/cto-advisor/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 为工程团队提供技术领导力指导、架构决策和技术战略。 | 19K | 128 | 2026-02-03 | [策略 (strategy)](strategy.md), [架构 (architecture)](architecture.md), [technical analysis (technical-analysis)](technical-analysis.md), [team (team)](team.md), [engineering (engineering)](engineering.md) |
+| [technical-roadmaps](https://github.com/refoundai/lenny-skills/blob/main/skills/technical-roadmaps/SKILL.md) | [refoundai/lenny-skills](https://github.com/refoundai/lenny-skills) | 帮助用户制定技术路线图，包括工程工作、技术债务优先级和架构对齐。 | 52 | 77 | 2026-01-31 | [规划 (planning)](planning.md), [roadmap (roadmap)](roadmap.md), [策略 (strategy)](strategy.md), [engineering (engineering)](engineering.md) |
+| [design-engineering](https://github.com/refoundai/lenny-skills/blob/main/skills/design-engineering/SKILL.md) | [refoundai/lenny-skills](https://github.com/refoundai/lenny-skills) | 帮助用户理解并建立设计工程能力，包括创建职能、招聘工程师和连接设计与工程团队。 | 52 | 68 | 2026-01-31 | [最佳实践 (best-practices)](best-practices.md), [规划 (planning)](planning.md), [engineering (engineering)](engineering.md) |
+| [engineering-culture](https://github.com/refoundai/lenny-skills/blob/main/skills/engineering-culture/SKILL.md) | [refoundai/lenny-skills](https://github.com/refoundai/lenny-skills) | 通过提升开发者体验和技术卓越来构建强大的工程文化。 | 52 | 68 | 2026-01-31 | [最佳实践 (best-practices)](best-practices.md), [规划 (planning)](planning.md), [culture (culture)](culture.md), [engineering (engineering)](engineering.md) |
+| [cto-advisor](https://github.com/alirezarezvani/claude-skills/blob/main/c-level-advisor/cto-advisor/SKILL.md) | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 为工程团队提供技术领导力指导，包括架构决策、技术战略和团队扩展。 | 1.5K | 67 | 2026-02-02 | [策略 (strategy)](strategy.md), [架构 (architecture)](architecture.md), [technical analysis (technical-analysis)](technical-analysis.md), [engineering (engineering)](engineering.md), [team (team)](team.md) |
+| [cto-advisor](https://github.com/shipshitdev/library/blob/master/skills/cto-advisor/SKILL.md) | [shipshitdev/library](https://github.com/shipshitdev/library) | 为工程团队提供技术领导力指导，包括架构决策、技术战略和债务分析。 | 4 | 25 | 2026-01-25 | [策略 (strategy)](strategy.md), [架构 (architecture)](architecture.md), [technical debt (technical-debt)](technical-debt.md), [team (team)](team.md), [engineering (engineering)](engineering.md) |

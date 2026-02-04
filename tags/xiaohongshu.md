@@ -1,0 +1,13 @@
+# Tag: xiaohongshu
+
+- Back: [Tags](README.md)
+- Tagged skills: 6
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [baoyu-xhs-images](https://github.com/jimliu/baoyu-skills/blob/main/skills/baoyu-xhs-images/SKILL.md) | [jimliu/baoyu-skills](https://github.com/jimliu/baoyu-skills) | Generates Xiaohongshu infographics with 10 styles and 8 layouts for Chinese social media engagement. | 3.5K | 2.1K | 2026-02-02 | [content-creation](content-creation.md), [image-generation](image-generation.md), [infographic](infographic.md), [xiaohongshu](xiaohongshu.md) |
+| [write-xiaohongshu](https://github.com/adjfks/corner-skills/blob/main/skills/write-xiaohongshu/SKILL.md) | [adjfks/corner-skills](https://github.com/adjfks/corner-skills) | Writes and publishes Xiaohongshu notes with title and body limits, analyzing top-performing posts for patterns. | 0 | 53 | 2026-01-31 | [content-creation](content-creation.md), [writing](writing.md), [social-media](social-media.md), [xiaohongshu](xiaohongshu.md) |
+| [xhs-note-creator](https://github.com/comeonzhj/auto-redbook-skills/blob/main/SKILL.md) | [comeonzhj/auto-redbook-skills](https://github.com/comeonzhj/auto-redbook-skills) | A skill for creating Xiaohongshu note materials including titles, content, and images. | 328 | 52 | 2026-01-29 | [content-creation](content-creation.md), [text-generation](text-generation.md), [xiaohongshu](xiaohongshu.md) |
+| [xiaohongshu-converter](https://github.com/z0gsh1u/oh-my-writing-skill/blob/master/.claude/skills/xiaohongshu-converter/SKILL.md) | [z0gsh1u/oh-my-writing-skill](https://github.com/z0gsh1u/oh-my-writing-skill) | Converts general writing content into a style suitable for Xiaohongshu platform. | 4 | 42 | 2026-01-31 | [content-creation](content-creation.md), [writing](writing.md), [xiaohongshu](xiaohongshu.md) |
+| [xiaohongshu-note-analyzer](https://github.com/softbread/xiaohongshu-doctor/blob/master/skill_extracted/xiaohongshu-note-analyzer/SKILL.md) | [softbread/xiaohongshu-doctor](https://github.com/softbread/xiaohongshu-doctor) | Analyze Xiaohongshu note quality, keywords, title attractiveness, sensitivity risks, commercialization, and interaction potential. | 0 | 38 | 2026-01-15 | [analysis](analysis.md), [content-creation](content-creation.md), [marketing](marketing.md), [xiaohongshu](xiaohongshu.md) |
+| [xiaohongshu-images](https://github.com/iamzifei/xiaohongshu-images-skill/blob/main/SKILL.md) | [iamzifei/xiaohongshu-images-skill](https://github.com/iamzifei/xiaohongshu-images-skill) | Converts markdown/HTML to styled 3:4 ratio images for Xiaohongshu posts. | 3 | 34 | 2026-01-24 | [text-to-image](text-to-image.md), [image-generation](image-generation.md), [xiaohongshu](xiaohongshu.md) |

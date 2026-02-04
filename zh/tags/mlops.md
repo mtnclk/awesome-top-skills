@@ -1,0 +1,12 @@
+# 标签：mlops (mlops)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 5
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [ml-pipeline-workflow](https://github.com/wshobson/agents/blob/main/plugins/machine-learning-ops/skills/ml-pipeline-workflow/SKILL.md) | [wshobson/agents](https://github.com/wshobson/agents) | 构建从数据准备到模型部署和生产的工作流端到端MLOps管道。 | 28K | 797 | 2026-02-02 | [机器学习 (machine-learning)](machine-learning.md), [data pipelines (data-pipelines)](data-pipelines.md), [mlops (mlops)](mlops.md), [部署 (deployment)](deployment.md), [工作流 (workflows)](workflows.md), [自动化 (automation)](automation.md) |
+| [senior-ml-engineer](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/development/senior-ml-engineer/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 世界级机器学习工程技能，用于生产化ML模型、MLOps和构建可扩展ML系统。 | 19K | 180 | 2026-02-03 | [机器学习 (machine-learning)](machine-learning.md), [部署 (deployment)](deployment.md), [mlops (mlops)](mlops.md), [pytorch (pytorch)](pytorch.md), [tensorflow (tensorflow)](tensorflow.md), [LLM](llm.md) |
+| [lamindb](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/scientific/lamindb/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 用于管理生物数据集并确保数据可重现性的技能。 | 19K | 78 | 2026-02-03 | [数据管理 (data-management)](data-management.md), [数据分析 (data-analysis)](data-analysis.md), [bioinformatics (bioinformatics)](bioinformatics.md), [genomics (genomics)](genomics.md), [single cell (single-cell)](single-cell.md), [mlops (mlops)](mlops.md) |
+| [senior-ml-engineer](https://github.com/alirezarezvani/claude-skills/blob/main/engineering-team/senior-ml-engineer/SKILL.md) | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 面向ML工程师的技能，用于模型生产化、构建MLOps流水线和集成LLMs。 | 1.5K | 64 | 2026-02-02 | [机器学习 (machine-learning)](machine-learning.md), [部署 (deployment)](deployment.md), [mlops (mlops)](mlops.md), [LLM](llm.md), [model 监控 (model-monitoring)](model-monitoring.md) |
+| [ai-mlops](https://github.com/vasilyu1983/ai-agents-public/blob/main/frameworks/shared-skills/skills/ai-mlops/SKILL.md) | [vasilyu1983/ai-agents-public](https://github.com/vasilyu1983/ai-agents-public) | 用于生产环境部署和运营ML系统的MLOps和安全技能。 | 29 | 22 | 2026-01-26 | [机器学习 (machine-learning)](machine-learning.md), [部署 (deployment)](deployment.md), [mlops (mlops)](mlops.md), [LLM](llm.md) |

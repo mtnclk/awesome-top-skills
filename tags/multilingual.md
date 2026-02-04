@@ -1,0 +1,12 @@
+# Tag: multilingual
+
+- Back: [Tags](README.md)
+- Tagged skills: 5
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [whisper](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/ai-research/multimodal-whisper/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | OpenAI's speech recognition model supporting 99 languages, transcription, translation, and language identification. | 19K | 121 | 2026-02-03 | [transcription](transcription.md), [speech-recognition](speech-recognition.md), [audio](audio.md), [multilingual](multilingual.md) |
+| [sentencepiece](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/ai-research/tokenization-sentencepiece/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | A language-independent tokenizer for text preprocessing in NLP tasks, supporting BPE and Unigram algorithms. | 19K | 89 | 2026-02-03 | [text-generation](text-generation.md), [tokenization](tokenization.md), [multilingual](multilingual.md), [llm](llm.md) |
+| [ocr-document-processor](https://github.com/dkyazzentwatwa/chatgpt-skills/blob/main/ocr-document-processor/SKILL.md) | [dkyazzentwatwa/chatgpt-skills](https://github.com/dkyazzentwatwa/chatgpt-skills) | Extracts text from images and scanned PDFs using OCR with support for 100+ languages and structured output. | 8 | 62 | 2025-12-17 | [document-processing](document-processing.md), [text-generation](text-generation.md), [ocr](ocr.md), [multilingual](multilingual.md) |
+| [translation-assistant](https://github.com/eddiebe147/claude-settings/blob/main/skills/translation-assistant/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | A skill for handling multilingual translation tasks with quality and cultural sensitivity. | 14 | 46 | 2026-01-22 | [translation](translation.md), [text-generation](text-generation.md), [multilingual](multilingual.md) |
+| [moai-workflow-project](https://github.com/modu-ai/moai-adk/blob/main/.claude/skills/moai-workflow-project/SKILL.md) | [modu-ai/moai-adk](https://github.com/modu-ai/moai-adk) | An integrated project management system with documentation, language initialization, and template optimization modules. | 618 | 24 | 2026-02-01 | [project-management](project-management.md), [documentation](documentation.md), [setup](setup.md), [template](template.md), [multilingual](multilingual.md) |

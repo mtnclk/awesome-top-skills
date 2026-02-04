@@ -1,0 +1,15 @@
+# 标签：pnpm (pnpm)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 8
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [pnpm](https://github.com/antfu/skills/blob/main/skills/pnpm/SKILL.md) | [antfu/skills](https://github.com/antfu/skills) | 一个具有严格依赖解析的 Node.js 包管理器。 | 2.7K | 2K | 2026-01-31 | [依赖管理](dependency-management.md), [build tools (build-tools)](build-tools.md), [pnpm (pnpm)](pnpm.md), [nodejs (nodejs)](nodejs.md) |
+| [monorepo-management](https://github.com/wshobson/agents/blob/main/plugins/developer-essentials/skills/monorepo-management/SKILL.md) | [wshobson/agents](https://github.com/wshobson/agents) | 使用 Turborepo、Nx 和 pnpm 管理多包仓库。 | 28K | 1.2K | 2026-02-02 | [monorepo (monorepo)](monorepo.md), [build tools (build-tools)](build-tools.md), [依赖管理](dependency-management.md), [pnpm (pnpm)](pnpm.md), [turborepo (turborepo)](turborepo.md), [nx (nx)](nx.md) |
+| [component-refactoring](https://github.com/langgenius/dify/blob/main/.agents/skills/component-refactoring/SKILL.md) | [langgenius/dify](https://github.com/langgenius/dify) | 根据复杂度分析和用户请求重构 Dify 前端的复杂 React 组件。 | 128K | 891 | 2026-02-03 | [重构 (refactor)](refactor.md), [代码审查 (code-review)](code-review.md), [前端 (frontend)](frontend.md), [React](react.md), [pnpm (pnpm)](pnpm.md) |
+| [pnpm](https://github.com/onmax/nuxt-skills/blob/main/skills/pnpm/SKILL.md) | [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) | 使用 pnpm 管理 Node.js 依赖，支持工作区设置、CLI 命令和 CI 配置。 | 493 | 117 | 2026-02-02 | [依赖管理](dependency-management.md), [build tools (build-tools)](build-tools.md), [pnpm (pnpm)](pnpm.md), [nodejs (nodejs)](nodejs.md) |
+| [arch-tsdown-monorepo](https://github.com/hairyf/skills/blob/main/skills/arch-tsdown-monorepo/SKILL.md) | [hairyf/skills](https://github.com/hairyf/skills) | 一个使用 pnpm 和 tsdown 的 TypeScript 库多包项目模板。 | 1 | 30 | 2026-02-02 | [monorepo (monorepo)](monorepo.md), [build tools (build-tools)](build-tools.md), [TypeScript](typescript.md), [pnpm (pnpm)](pnpm.md) |
+| [pnpm](https://github.com/hairyf/skills/blob/main/skills/pnpm/SKILL.md) | [hairyf/skills](https://github.com/hairyf/skills) | 一个具有严格依赖解析的 Node.js 包管理器。 | 1 | 28 | 2026-02-02 | [依赖管理](dependency-management.md), [build tools (build-tools)](build-tools.md), [pnpm (pnpm)](pnpm.md) |
+| [arch-tsdown](https://github.com/hairyf/skills/blob/main/skills/arch-tsdown/SKILL.md) | [hairyf/skills](https://github.com/hairyf/skills) | 使用 tsdown、pnpm、Vitest 和 npm Trusted Publisher 的 TypeScript 库 | 1 | 27 | 2026-02-02 | [build tools (build-tools)](build-tools.md), [工具链 (tooling)](tooling.md), [TypeScript](typescript.md), [pnpm (pnpm)](pnpm.md), [vitest (vitest)](vitest.md) |
+| [svelte-deployment](https://github.com/spences10/svelte-skills-kit/blob/main/plugins/svelte-skills/skills/svelte-deployment/SKILL.md) | [spences10/svelte-skills-kit](https://github.com/spences10/svelte-skills-kit) | Svelte 应用部署指南，含适配器、Vite 配置和 pnpm 设置。 | 21 | 25 | 2026-02-02 | [部署 (deployment)](deployment.md), [build tools (build-tools)](build-tools.md), [Svelte (svelte)](svelte.md), [vite (vite)](vite.md), [pnpm (pnpm)](pnpm.md) |

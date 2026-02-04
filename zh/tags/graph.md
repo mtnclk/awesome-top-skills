@@ -1,0 +1,12 @@
+# 标签：graph (graph)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 5
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [networkx](https://github.com/k-dense-ai/claude-scientific-skills/blob/main/scientific-skills/networkx/SKILL.md) | [k-dense-ai/claude-scientific-skills](https://github.com/k-dense-ai/claude-scientific-skills) | 用于创建、分析和可视化复杂网络图的Python工具包。 | 7.8K | 71 | 2026-02-02 | [分析 (analysis)](analysis.md), [visualization (visualization)](visualization.md), [graph (graph)](graph.md), [Python](python.md) |
+| [knowledge-graph-builder](https://github.com/eddiebe147/claude-settings/blob/main/skills/knowledge-graph-builder/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | 构建知识图谱以连接概念、文章和解决方案。 | 14 | 45 | 2026-01-22 | [knowledge base (knowledge-base)](knowledge-base.md), [数据分析 (data-analysis)](data-analysis.md), [graph (graph)](graph.md) |
+| [knowledge-base-manager](https://github.com/daffy0208/ai-dev-standards/blob/main/skills/knowledge-base-manager/SKILL.md) | [daffy0208/ai-dev-standards](https://github.com/daffy0208/ai-dev-standards) | 管理综合知识库，整合RAG和图谱系统以实现智能信息检索。 | 9 | 34 | 2025-12-25 | [knowledge base (knowledge-base)](knowledge-base.md), [文档 (documentation)](documentation.md), [context management (context-management)](context-management.md), [RAG（检索增强生成） (rag)](rag.md), [graph (graph)](graph.md) |
+| [bv](https://github.com/dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations/blob/main/skills/bv/SKILL.md) | [dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations](https://github.com/dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations) | 面向Beads项目的图感知故障排查引擎，计算PageRank、介数中心性等。 | 41 | 23 | 2026-01-30 | [分析 (analysis)](analysis.md), [visualization (visualization)](visualization.md), [graph (graph)](graph.md) |
+| [capability-graph-builder](https://github.com/daffy0208/ai-dev-standards/blob/main/skills/capability-graph-builder/SKILL.md) | [daffy0208/ai-dev-standards](https://github.com/daffy0208/ai-dev-standards) | 使用 Codex 从清单构建可查询的能力图谱。 | 9 | 23 | 2025-12-25 | [架构 (architecture)](architecture.md), [分析 (analysis)](analysis.md), [codex (codex)](codex.md), [graph (graph)](graph.md) |

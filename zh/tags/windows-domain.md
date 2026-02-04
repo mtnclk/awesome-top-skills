@@ -1,0 +1,9 @@
+# 标签：Windows domain (windows-domain)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 2
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [active-directory-attacks](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/active-directory-attacks/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 用于执行 Active Directory 攻击和渗透测试的技能。 | 6.5K | 161 | 2026-02-02 | [渗透测试](penetration-testing.md), [漏洞扫描](vuln-scanning.md), [Windows domain (windows-domain)](windows-domain.md) |
+| [active-directory-attacks](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/security/active-directory-attacks/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 用于执行活动目录攻击和渗透测试的技能。 | 19K | 59 | 2026-02-03 | [渗透测试](penetration-testing.md), [vulnerability analysis (vulnerability-analysis)](vulnerability-analysis.md), [Windows domain (windows-domain)](windows-domain.md) |

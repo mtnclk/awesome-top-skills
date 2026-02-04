@@ -1,0 +1,11 @@
+# 标签：tokenization (tokenization)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 4
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [token-integration-analyzer](https://github.com/trailofbits/skills/blob/main/plugins/building-secure-contracts/skills/token-integration-analyzer/SKILL.md) | [trailofbits/skills](https://github.com/trailofbits/skills) | 分析代币实现是否符合ERC20/ERC721标准并检测异常模式。 | 2.3K | 337 | 2026-02-01 | [审计 (audit)](audit.md), [分析 (analysis)](analysis.md), [smart contract (smart-contract)](smart-contract.md), [tokenization (tokenization)](tokenization.md) |
+| [huggingface-tokenizers](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/ai-research/tokenization-huggingface-tokenizers/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 高性能NLP分词器，支持BPE、WordPiece和Unigram算法。 | 19K | 100 | 2026-02-03 | [tokenization (tokenization)](tokenization.md), [LLM 优化 (llm-optimization)](llm-optimization.md), [huggingface (huggingface)](huggingface.md), [Rust (rust)](rust.md), [transformers (transformers)](transformers.md) |
+| [sentencepiece](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/ai-research/tokenization-sentencepiece/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 支持 BPE 和 Unigram 算法的语言无关分词器。 | 19K | 89 | 2026-02-03 | [text generation (text-generation)](text-generation.md), [tokenization (tokenization)](tokenization.md), [multilingual (multilingual)](multilingual.md), [LLM](llm.md) |
+| [toon-formatter](https://github.com/raintree-technology/claude-starter/blob/main/skills/toon-formatter/SKILL.md) | [raintree-technology/claude-starter](https://github.com/raintree-technology/claude-starter) | TOON 格式化工具，用于结构化数据，节省 30-60% 的 token。 | 41 | 23 | 2026-01-21 | [格式化 (formatting)](formatting.md), [structured data (structured-data)](structured-data.md), [tokenization (tokenization)](tokenization.md), [数据管理 (data-management)](data-management.md), [优化 (optimization)](optimization.md) |

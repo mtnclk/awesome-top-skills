@@ -1,0 +1,9 @@
+# 标签：semgrep (semgrep)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 2
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [semgrep-rule-creator](https://github.com/trailofbits/skills/blob/main/plugins/semgrep-rule-creator/skills/semgrep-rule-creator/SKILL.md) | [trailofbits/skills](https://github.com/trailofbits/skills) | 创建自定义Semgrep规则以检测安全漏洞和代码模式。 | 2.3K | 265 | 2026-02-01 | [static analysis (static-analysis)](static-analysis.md), [代码审查 (code-review)](code-review.md), [漏洞扫描](vuln-scanning.md), [semgrep (semgrep)](semgrep.md) |
+| [semgrep-rule-variant-creator](https://github.com/trailofbits/skills/blob/main/plugins/semgrep-rule-variant-creator/skills/semgrep-rule-variant-creator/SKILL.md) | [trailofbits/skills](https://github.com/trailofbits/skills) | 创建Semgrep规则的语言变体以实现跨语言移植。 | 2.3K | 238 | 2026-02-01 | [static analysis (static-analysis)](static-analysis.md), [代码规范检查（Lint） (linting)](linting.md), [semgrep (semgrep)](semgrep.md), [rule (rule)](rule.md) |

@@ -1,0 +1,11 @@
+# security / n
+
+- Back: [Category](../README.md)
+- Count: 4
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [network-101](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/network-101/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | A skill for setting up web servers, configuring network services, and performing penetration testing tasks. | 6.5K | 166 | 2026-02-02 | [penetration-testing](../../../tags/penetration-testing.md), [networking](../../../tags/networking.md), [configuration](../../../tags/configuration.md), [setup](../../../tags/setup.md), [testing](../../../tags/testing.md) |
+| [network-101](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/utilities/network-101/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | A skill for setting up web servers, configuring network services, and performing penetration testing tasks. | 19K | 61 | 2026-02-03 | [penetration-testing](../../../tags/penetration-testing.md), [networking](../../../tags/networking.md), [configuration](../../../tags/configuration.md), [setup](../../../tags/setup.md), [testing](../../../tags/testing.md) |
+| [network-security-groups](https://github.com/aj-geddes/useful-ai-prompts/blob/main/skills/network-security-groups/SKILL.md) | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | Configure network security groups and firewall rules for traffic control and network segmentation. | 59 | 43 | 2025-12-28 | [configuration](../../../tags/configuration.md), [networking](../../../tags/networking.md), [firewall](../../../tags/firewall.md) |
+| [network-engineer](https://github.com/404kidwiz/claude-supercode-skills/blob/main/network-engineer-skill/SKILL.md) | [404kidwiz/claude-supercode-skills](https://github.com/404kidwiz/claude-supercode-skills) | Designs secure network architectures with zero-trust principles for cloud and hybrid environments. | 7 | 31 | 2026-01-16 | [architecture](../../../tags/architecture.md), [networking](../../../tags/networking.md), [zero-trust](../../../tags/zero-trust.md) |

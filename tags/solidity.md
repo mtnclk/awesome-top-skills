@@ -1,0 +1,12 @@
+# Tag: solidity
+
+- Back: [Tags](README.md)
+- Tagged skills: 5
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [solidity-security](https://github.com/wshobson/agents/blob/main/plugins/blockchain-web3/skills/solidity-security/SKILL.md) | [wshobson/agents](https://github.com/wshobson/agents) | Learn secure Solidity coding practices to prevent vulnerabilities in smart contracts. | 28K | 882 | 2026-02-02 | [best-practices](best-practices.md), [audit](audit.md), [smart-contract](smart-contract.md), [solidity](solidity.md), [blockchain](blockchain.md) |
+| [secure-workflow-guide](https://github.com/trailofbits/skills/blob/main/plugins/building-secure-contracts/skills/secure-workflow-guide/SKILL.md) | [trailofbits/skills](https://github.com/trailofbits/skills) | A guide for Trail of Bits' 5-step secure development workflow including Slither scans and security diagram generation. | 2.3K | 372 | 2026-02-01 | [workflows](workflows.md), [static-analysis](static-analysis.md), [vuln-scanning](vuln-scanning.md), [smart-contract](smart-contract.md), [solidity](solidity.md) |
+| [entry-point-analyzer](https://github.com/trailofbits/skills/blob/main/plugins/entry-point-analyzer/skills/entry-point-analyzer/SKILL.md) | [trailofbits/skills](https://github.com/trailofbits/skills) | Analyzes smart contract entry points for security auditing, detecting state-changing functions and categorizing by access level. | 2.3K | 268 | 2026-02-01 | [audit](audit.md), [analysis](analysis.md), [smart-contract](smart-contract.md), [solidity](solidity.md), [vyper](vyper.md) |
+| [solidity-development](https://github.com/pluginagentmarketplace/custom-plugin-blockchain/blob/main/skills/solidity-development/SKILL.md) | [pluginagentmarketplace/custom-plugin-blockchain](https://github.com/pluginagentmarketplace/custom-plugin-blockchain) | Master Solidity smart contract development with patterns, testing, and best practices. | 1 | 33 | 2026-01-05 | [smart-contract](smart-contract.md), [solidity](solidity.md), [coding](coding.md), [best-practices](best-practices.md), [testing](testing.md) |
+| [solidity-gas-optimization](https://github.com/pseudoyu/agent-skills/blob/main/skills/solidity-gas-optimization/SKILL.md) | [pseudoyu/agent-skills](https://github.com/pseudoyu/agent-skills) | Optimize Solidity smart contracts for gas efficiency based on RareSkills guidelines. | 3 | 28 | 2026-01-19 | [best-practices](best-practices.md), [optimization](optimization.md), [solidity](solidity.md), [smart-contract](smart-contract.md) |

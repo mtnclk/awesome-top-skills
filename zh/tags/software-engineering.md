@@ -1,0 +1,13 @@
+# 标签：software engineering (software-engineering)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 6
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [spec-workflow](https://github.com/tencentcloudbase/skills/blob/main/skills/spec-workflow/SKILL.md) | [tencentcloudbase/skills](https://github.com/tencentcloudbase/skills) | 标准软件工程工作流，用于需求分析、技术设计和任务规划。 | 9 | 63 | 2026-02-02 | [规划 (planning)](planning.md), [工作流 (workflows)](workflows.md), [项目管理](project-management.md), [software engineering (software-engineering)](software-engineering.md) |
+| [software-engineer](https://github.com/siviter-xyz/dot-agent/blob/main/skills/software-engineer/SKILL.md) | [siviter-xyz/dot-agent](https://github.com/siviter-xyz/dot-agent) | 专注于代码风格、文档和开发流程的核心软件工程原则。 | 2 | 59 | 2026-01-20 | [最佳实践 (best-practices)](best-practices.md), [编码 (coding)](coding.md), [工具链 (tooling)](tooling.md), [software engineering (software-engineering)](software-engineering.md) |
+| [feature-spec](https://github.com/pproenca/dot-skills/blob/master/skills/.experimental/feature-spec/SKILL.md) | [pproenca/dot-skills](https://github.com/pproenca/dot-skills) | 软件工程师制定功能规范和规划产品开发的技能。 | 21 | 43 | 2026-01-30 | [规划 (planning)](planning.md), [prd (prd)](prd.md), [最佳实践 (best-practices)](best-practices.md), [software engineering (software-engineering)](software-engineering.md) |
+| [software-architecture](https://github.com/neolabhq/context-engineering-kit/blob/master/plugins/ddd/skills/software-architecture/SKILL.md) | [neolabhq/context-engineering-kit](https://github.com/neolabhq/context-engineering-kit) | 质量导向的软件架构指南，适用于设计和开发任务。 | 378 | 33 | 2026-02-02 | [架构 (architecture)](architecture.md), [最佳实践 (best-practices)](best-practices.md), [software engineering (software-engineering)](software-engineering.md) |
+| [software-architecture-design](https://github.com/vasilyu1983/ai-agents-public/blob/main/frameworks/shared-skills/skills/software-architecture-design/SKILL.md) | [vasilyu1983/ai-agents-public](https://github.com/vasilyu1983/ai-agents-public) | 设计系统架构，选择单体/微服务/无服务器，规划可扩展性并做技术决策。 | 29 | 33 | 2026-01-26 | [架构 (architecture)](architecture.md), [最佳实践 (best-practices)](best-practices.md), [系统设计](system-design.md), [software engineering (software-engineering)](software-engineering.md) |
+| [designing-architecture](https://github.com/cloudai-x/claude-workflow-v2/blob/main/skills/designing-architecture/SKILL.md) | [cloudai-x/claude-workflow-v2](https://github.com/cloudai-x/claude-workflow-v2) | 设计软件架构并为项目选择合适的模式。 | 1.2K | 27 | 2026-01-16 | [架构 (architecture)](architecture.md), [最佳实践 (best-practices)](best-practices.md), [系统设计](system-design.md), [software engineering (software-engineering)](software-engineering.md) |

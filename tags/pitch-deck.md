@@ -1,0 +1,13 @@
+# Tag: pitch-deck
+
+- Back: [Tags](README.md)
+- Tagged skills: 6
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [pitch-deck-builder](https://github.com/eddiebe147/claude-settings/blob/main/skills/pitch-deck-builder/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | Create compelling investor pitch decks that tell your story and secure funding. | 14 | 46 | 2026-01-22 | [pitch-deck](pitch-deck.md), [content-creation](content-creation.md), [marketing](marketing.md), [presentation](presentation.md) |
+| [pitch-deck-creator](https://github.com/eddiebe147/claude-settings/blob/main/skills/pitch-deck-creator/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | Create compelling investor pitch decks to tell your story and secure funding. | 14 | 42 | 2026-01-22 | [content-creation](content-creation.md), [pitch-deck](pitch-deck.md), [marketing](marketing.md) |
+| [board-meeting-prep](https://github.com/eddiebe147/claude-settings/blob/main/skills/board-meeting-prep/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | Prepare board meeting decks and materials for effective governance. | 14 | 40 | 2026-01-22 | [meeting](meeting.md), [planning](planning.md), [presentation](presentation.md), [powerpoint](powerpoint.md), [pitch-deck](pitch-deck.md) |
+| [investor-relations](https://github.com/eddiebe147/claude-settings/blob/main/skills/investor-relations/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | This skill manages investor relations including communications, pitch materials, and fundraising. | 14 | 40 | 2026-01-22 | [finance](finance.md), [communication](communication.md), [pitch-deck](pitch-deck.md), [fundraising](fundraising.md) |
+| [fundraise-advisor](https://github.com/shipshitdev/library/blob/master/skills/fundraise-advisor/SKILL.md) | [shipshitdev/library](https://github.com/shipshitdev/library) | Helps users raise funding, create pitch decks, and navigate investor meetings. | 4 | 26 | 2026-01-25 | [finance](finance.md), [fundraising](fundraising.md), [pitch-deck](pitch-deck.md), [investors](investors.md) |
+| [pitch-deck](https://github.com/ailabs-393/ai-labs-claude-skills/blob/main/packages/skills/pitch-deck/SKILL.md) | [ailabs-393/ai-labs-claude-skills](https://github.com/ailabs-393/ai-labs-claude-skills) | Generate professional PowerPoint pitch decks for startups and businesses with a standard 10-slide structure. | 291 | 22 | 2025-11-11 | [content-creation](content-creation.md), [presentation](presentation.md), [powerpoint](powerpoint.md), [pitch-deck](pitch-deck.md) |

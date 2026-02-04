@@ -1,0 +1,9 @@
+# 研究（Research） / q
+
+- 返回: [分类](../README.md)
+- 数量: 2
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [qutip](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/scientific/qutip/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 使用QuTiP模拟和分析量子力学系统。 | 19K | 83 | 2026-02-03 | [simulation (simulation)](../../../tags/simulation.md), [quantum computing (quantum-computing)](../../../tags/quantum-computing.md), [quantum physics (quantum-physics)](../../../tags/quantum-physics.md), [分析 (analysis)](../../../tags/analysis.md), [数据分析 (data-analysis)](../../../tags/data-analysis.md), [工具链 (tooling)](../../../tags/tooling.md) |
+| [qutip](https://github.com/k-dense-ai/claude-scientific-skills/blob/main/scientific-skills/qutip/SKILL.md) | [k-dense-ai/claude-scientific-skills](https://github.com/k-dense-ai/claude-scientific-skills) | 用于开放量子系统的量子物理模拟库，适用于研究主方程、林德布拉德动力学和退相干。 | 7.8K | 63 | 2026-02-02 | [simulation (simulation)](../../../tags/simulation.md), [quantum physics (quantum-physics)](../../../tags/quantum-physics.md), [physics (physics)](../../../tags/physics.md), [Python](../../../tags/python.md), [机器学习 (machine-learning)](../../../tags/machine-learning.md) |

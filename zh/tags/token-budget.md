@@ -1,0 +1,10 @@
+# 标签：token budget (token-budget)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 3
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [context-window-management](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/context-window-management/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 通过摘要、修剪和路由等策略管理LLM上下文窗口，避免上下文腐化。 | 6.5K | 218 | 2026-02-02 | [context management (context-management)](context-management.md), [LLM 优化 (llm-optimization)](llm-optimization.md), [summarization (summarization)](summarization.md), [token budget (token-budget)](token-budget.md) |
+| [context-window-management](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/ai-research/context-window-management/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 通过摘要、修剪和路由等策略管理LLM上下文窗口，避免上下文腐化。 | 19K | 96 | 2026-02-03 | [context management (context-management)](context-management.md), [LLM 优化 (llm-optimization)](llm-optimization.md), [summarization (summarization)](summarization.md), [token budget (token-budget)](token-budget.md) |
+| [moai-foundation-context](https://github.com/modu-ai/moai-adk/blob/main/.claude/skills/moai-foundation-context/SKILL.md) | [modu-ai/moai-adk](https://github.com/modu-ai/moai-adk) | 企业级上下文与会话管理，优化令牌预算并保持状态持久化。 | 618 | 27 | 2026-02-01 | [context management (context-management)](context-management.md), [session management (session-management)](session-management.md), [token budget (token-budget)](token-budget.md) |

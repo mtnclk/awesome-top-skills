@@ -1,0 +1,14 @@
+# 标签：organization (organization)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 7
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [team-composition-analysis](https://github.com/wshobson/agents/blob/main/plugins/startup-business-analyst/skills/team-composition-analysis/SKILL.md) | [wshobson/agents](https://github.com/wshobson/agents) | 分析团队构成和组织结构以支持初创企业规划。 | 28K | 768 | 2026-02-02 | [规划 (planning)](planning.md), [策略 (strategy)](strategy.md), [organization (organization)](organization.md), [team (team)](team.md) |
+| [file-organizer](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/file-organizer/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 自动整理文件和文件夹，查找重复项并建议更好的结构。 | 6.5K | 193 | 2026-02-02 | [自动化 (automation)](automation.md), [file storage (file-storage)](file-storage.md), [任务管理 (task-management)](task-management.md), [organization (organization)](organization.md) |
+| [clerk-orgs](https://github.com/clerk/skills/blob/main/skills/orgs/SKILL.md) | [clerk/skills](https://github.com/clerk/skills) | 用于管理B2B SaaS组织的技能，包括多租户、基于角色的访问和SSO。 | 0 | 118 | 2026-02-02 | [认证 (auth)](auth.md), [organization (organization)](organization.md), [clerk (clerk)](clerk.md) |
+| [file-organizer](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/productivity/file-organizer/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 自动整理文件和文件夹，查找重复项并建议更好的结构。 | 19K | 101 | 2026-02-03 | [自动化 (automation)](automation.md), [file storage (file-storage)](file-storage.md), [任务管理 (task-management)](task-management.md), [organization (organization)](organization.md) |
+| [organizational-design](https://github.com/refoundai/lenny-skills/blob/main/skills/organizational-design/SKILL.md) | [refoundai/lenny-skills](https://github.com/refoundai/lenny-skills) | 帮助设计有效的组织结构，包括团队设置和重组策略。 | 52 | 67 | 2026-01-31 | [规划 (planning)](planning.md), [策略 (strategy)](strategy.md), [organization (organization)](organization.md) |
+| [organizational-transformation](https://github.com/refoundai/lenny-skills/blob/main/skills/organizational-transformation/SKILL.md) | [refoundai/lenny-skills](https://github.com/refoundai/lenny-skills) | 帮助组织向现代产品实践转型，包括从功能团队转向产品团队。 | 52 | 65 | 2026-01-31 | [策略 (strategy)](strategy.md), [规划 (planning)](planning.md), [organization (organization)](organization.md), [team (team)](team.md) |
+| [digitalocean-teams](https://github.com/bobmatnyc/claude-mpm-skills/blob/main/toolchains/platforms/deployment/digitalocean-teams/SKILL.md) | [bobmatnyc/claude-mpm-skills](https://github.com/bobmatnyc/claude-mpm-skills) | 管理 DigitalOcean 团队和组织的账单、访问控制、角色和成员资格。 | 10 | 22 | 2026-02-01 | [billing (billing)](billing.md), [访问控制](access-control.md), [organization (organization)](organization.md), [digitalocean (digitalocean)](digitalocean.md), [部署 (deployment)](deployment.md) |

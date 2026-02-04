@@ -1,0 +1,12 @@
+# Tag: instrumentation
+
+- Back: [Tags](README.md)
+- Tagged skills: 5
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [posthog-instrumentation](https://github.com/posthog/posthog-for-claude/blob/main/skills/posthog-instrumentation/SKILL.md) | [posthog/posthog-for-claude](https://github.com/posthog/posthog-for-claude) | Automatically adds PostHog analytics instrumentation to code for tracking and event implementation. | 1 | 51 | 2026-01-30 | [analytics](analytics.md), [instrumentation](instrumentation.md), [posthog](posthog.md) |
+| [axiom-swiftui-performance](https://github.com/charleswiltgen/axiom/blob/main/.claude-plugin/plugins/axiom/skills/axiom-swiftui-performance/SKILL.md) | [charleswiltgen/axiom](https://github.com/charleswiltgen/axiom) | Optimize SwiftUI performance using Instruments and WWDC 2025 patterns for slow UI, lagging scrolls, and frame drops. | 371 | 28 | 2026-01-31 | [performance](performance.md), [optimization](optimization.md), [swiftui](swiftui.md), [instrumentation](instrumentation.md) |
+| [axiom-swiftui-debugging-diag](https://github.com/charleswiltgen/axiom/blob/main/.claude-plugin/plugins/axiom/skills/axiom-swiftui-debugging-diag/SKILL.md) | [charleswiltgen/axiom](https://github.com/charleswiltgen/axiom) | A skill for systematic SwiftUI view debugging using Instruments integration. | 371 | 27 | 2026-01-31 | [debugging](debugging.md), [ui](ui.md), [swiftui](swiftui.md), [instrumentation](instrumentation.md) |
+| [axiom-concurrency-profiling](https://github.com/charleswiltgen/axiom/blob/main/.claude-plugin/plugins/axiom/skills/axiom-concurrency-profiling/SKILL.md) | [charleswiltgen/axiom](https://github.com/charleswiltgen/axiom) | Profile async/await performance and diagnose actor contention with Swift Concurrency Instruments. | 371 | 22 | 2026-01-31 | [debugging](debugging.md), [performance](performance.md), [concurrency](concurrency.md), [swift](swift.md), [instrumentation](instrumentation.md) |
+| [azure-monitor-opentelemetry-py](https://github.com/microsoft/agent-skills/blob/main/.github/skills/azure-monitor-opentelemetry-py/SKILL.md) | [microsoft/agent-skills](https://github.com/microsoft/agent-skills) | Setup Azure Monitor OpenTelemetry for Python with auto-instrumentation. | 339 | 21 | 2026-02-03 | [monitoring](monitoring.md), [observability](observability.md), [instrumentation](instrumentation.md), [azure](azure.md), [opentelemetry](opentelemetry.md) |

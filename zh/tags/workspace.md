@@ -1,0 +1,12 @@
+# 标签：workspace (workspace)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 5
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/SKILL.md) | [obra/superpowers](https://github.com/obra/superpowers) | 为功能开发创建隔离的 Git 工作树，具备智能目录选择和安全检查。 | 43K | 2.8K | 2026-01-30 | [workspace (workspace)](workspace.md), [git (git)](git.md), [isolation (isolation)](isolation.md), [任务管理 (task-management)](task-management.md), [工具链 (tooling)](tooling.md) |
+| [m11-ecosystem](https://github.com/zhanghandong/rust-skills/blob/main/skills/m11-ecosystem/SKILL.md) | [zhanghandong/rust-skills](https://github.com/zhanghandong/rust-skills) | 用于处理 Rust 生态集成的技能，包括 crates、依赖和构建配置。 | 635 | 103 | 2026-01-22 | [依赖管理](dependency-management.md), [build tools (build-tools)](build-tools.md), [Rust (rust)](rust.md), [cargo (cargo)](cargo.md), [workspace (workspace)](workspace.md) |
+| [using-git-worktrees](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/development/using-git-worktrees/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 为功能开发创建隔离的 Git 工作树，具备智能目录选择和安全检查。 | 19K | 88 | 2026-02-03 | [git (git)](git.md), [workspace (workspace)](workspace.md), [isolation (isolation)](isolation.md), [环境配置 (setup)](setup.md), [工具链 (tooling)](tooling.md), [最佳实践 (best-practices)](best-practices.md) |
+| [monorepo-management](https://github.com/aj-geddes/useful-ai-prompts/blob/main/skills/monorepo-management/SKILL.md) | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | 使用 Lerna、Turborepo 和 Nx 管理单体仓库架构。 | 59 | 41 | 2025-12-28 | [monorepo (monorepo)](monorepo.md), [build tools (build-tools)](build-tools.md), [依赖管理](dependency-management.md), [workspace (workspace)](workspace.md), [turbo (turbo)](turbo.md), [nx (nx)](nx.md) |
+| [grepai-workspaces](https://github.com/yoanbernabeu/grepai-skills/blob/main/skills/advanced/grepai-workspaces/SKILL.md) | [yoanbernabeu/grepai-skills](https://github.com/yoanbernabeu/grepai-skills) | 为单体仓库和相关项目配置多项目工作区。 | 6 | 38 | 2026-02-01 | [monorepo (monorepo)](monorepo.md), [配置 (configuration)](configuration.md), [workspace (workspace)](workspace.md), [grepai (grepai)](grepai.md) |

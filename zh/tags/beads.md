@@ -1,0 +1,12 @@
+# 标签：beads (beads)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 5
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [ralph-tui-prd](https://github.com/subsy/ralph-tui/blob/main/skills/ralph-tui-prd/SKILL.md) | [subsy/ralph-tui](https://github.com/subsy/ralph-tui) | 生成产品需求文档（PRD），包含用户故事，可用于任务编排。 | 1.7K | 2.4K | 2026-02-02 | [prd (prd)](prd.md), [规划 (planning)](planning.md), [任务管理 (task-management)](task-management.md), [beads (beads)](beads.md) |
+| [ralph-tui-create-beads](https://github.com/subsy/ralph-tui/blob/main/skills/ralph-tui-create-beads/SKILL.md) | [subsy/ralph-tui](https://github.com/subsy/ralph-tui) | 将PRD转换为beads以供ralph-tui执行，为每个用户故事创建子beads。 | 1.7K | 1.9K | 2026-02-02 | [prd (prd)](prd.md), [任务管理 (task-management)](task-management.md), [beads (beads)](beads.md) |
+| [ralph-tui-create-beads-rust](https://github.com/subsy/ralph-tui/blob/main/skills/ralph-tui-create-beads-rust/SKILL.md) | [subsy/ralph-tui](https://github.com/subsy/ralph-tui) | 将PRD转换为beads以供ralph-tui执行。 | 1.7K | 1.9K | 2026-02-02 | [任务管理 (task-management)](task-management.md), [规划 (planning)](planning.md), [beads (beads)](beads.md), [Rust (rust)](rust.md) |
+| [create-beads-orchestration](https://github.com/avivk5498/claude-code-beads-orchestration/blob/main/SKILL.md) | [avivk5498/claude-code-beads-orchestration](https://github.com/avivk5498/claude-code-beads-orchestration) | 使用 beads 任务跟踪创建精简的多代理编排。 | 62 | 48 | 2026-02-02 | [智能体 (agents)](agents.md), [orchestration (orchestration)](orchestration.md), [multi agent (multi-agent)](multi-agent.md), [beads (beads)](beads.md), [任务管理 (task-management)](task-management.md) |
+| [beads-workflow](https://github.com/dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations/blob/main/skills/beads-workflow/SKILL.md) | [dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations](https://github.com/dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations) | 将markdown计划转换为带依赖的任务（beads）以供代理执行。 | 41 | 28 | 2026-01-30 | [规划 (planning)](planning.md), [任务管理 (task-management)](task-management.md), [工作流 (workflows)](workflows.md), [beads (beads)](beads.md) |

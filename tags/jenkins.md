@@ -1,0 +1,12 @@
+# Tag: jenkins
+
+- Back: [Tags](README.md)
+- Tagged skills: 5
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [jenkins-pipeline](https://github.com/aj-geddes/useful-ai-prompts/blob/main/skills/jenkins-pipeline/SKILL.md) | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | Create Jenkins declarative and scripted pipelines with stages, agents, parameters, and plugins for automated deployments. | 59 | 64 | 2025-12-28 | [ci-cd](ci-cd.md), [deployment](deployment.md), [jenkins](jenkins.md), [pipeline](pipeline.md) |
+| [cicd-pipeline-setup](https://github.com/aj-geddes/useful-ai-prompts/blob/main/skills/cicd-pipeline-setup/SKILL.md) | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | Set up CI/CD pipelines using GitHub Actions, GitLab CI, Jenkins, or CircleCI for automated testing and deployment. | 59 | 48 | 2025-12-28 | [ci-cd](ci-cd.md), [deployment](deployment.md), [automation](automation.md), [github-actions](github-actions.md), [jenkins](jenkins.md) |
+| [ml-pipeline-automation](https://github.com/aj-geddes/useful-ai-prompts/blob/main/skills/ml-pipeline-automation/SKILL.md) | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | Automate end-to-end ML pipelines with Airflow, Kubeflow, and Jenkins for data processing, training, validation, and deployment. | 59 | 38 | 2025-12-28 | [machine-learning](machine-learning.md), [automation](automation.md), [ci-cd](ci-cd.md), [airflow](airflow.md), [kubeflow](kubeflow.md), [jenkins](jenkins.md) |
+| [cicd-expert](https://github.com/martinholovsky/claude-skills-generator/blob/main/skills/cicd-expert/SKILL.md) | [martinholovsky/claude-skills-generator](https://github.com/martinholovsky/claude-skills-generator) | Expert CI/CD pipeline engineer for GitHub Actions, GitLab CI, Jenkins with security and deployment strategies. | 21 | 37 | 2025-12-06 | [ci-cd](ci-cd.md), [automation](automation.md), [github-actions](github-actions.md), [gitlab](gitlab.md), [jenkins](jenkins.md) |
+| [triage-ci-flake](https://github.com/payloadcms/payload/blob/main/.claude/skills/triage-ci-flake/SKILL.md) | [payloadcms/payload](https://github.com/payloadcms/payload) | Triaging CI flake issues after PR merges or investigating flaky test failures. | 40K | 29 | 2026-02-03 | [ci-cd](ci-cd.md), [debugging](debugging.md), [testing](testing.md), [github-actions](github-actions.md), [jenkins](jenkins.md) |

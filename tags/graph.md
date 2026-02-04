@@ -1,0 +1,12 @@
+# Tag: graph
+
+- Back: [Tags](README.md)
+- Tagged skills: 5
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [networkx](https://github.com/k-dense-ai/claude-scientific-skills/blob/main/scientific-skills/networkx/SKILL.md) | [k-dense-ai/claude-scientific-skills](https://github.com/k-dense-ai/claude-scientific-skills) | A Python toolkit for creating, analyzing, and visualizing complex networks and graphs. | 7.8K | 71 | 2026-02-02 | [analysis](analysis.md), [visualization](visualization.md), [graph](graph.md), [python](python.md) |
+| [knowledge-graph-builder](https://github.com/eddiebe147/claude-settings/blob/main/skills/knowledge-graph-builder/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | Build knowledge graphs connecting concepts, articles, and solutions. | 14 | 45 | 2026-01-22 | [knowledge-base](knowledge-base.md), [data-analysis](data-analysis.md), [graph](graph.md) |
+| [knowledge-base-manager](https://github.com/daffy0208/ai-dev-standards/blob/main/skills/knowledge-base-manager/SKILL.md) | [daffy0208/ai-dev-standards](https://github.com/daffy0208/ai-dev-standards) | Manage comprehensive knowledge bases integrating RAG and graph-based systems for intelligent information retrieval. | 9 | 34 | 2025-12-25 | [knowledge-base](knowledge-base.md), [documentation](documentation.md), [context-management](context-management.md), [rag](rag.md), [graph](graph.md) |
+| [bv](https://github.com/dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations/blob/main/skills/bv/SKILL.md) | [dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations](https://github.com/dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations) | A graph-aware triage engine for Beads projects that computes PageRank, betweenness, and critical path. | 41 | 23 | 2026-01-30 | [analysis](analysis.md), [visualization](visualization.md), [graph](graph.md) |
+| [capability-graph-builder](https://github.com/daffy0208/ai-dev-standards/blob/main/skills/capability-graph-builder/SKILL.md) | [daffy0208/ai-dev-standards](https://github.com/daffy0208/ai-dev-standards) | Builds queryable capability graphs from manifests using Codex for relationship inference between skills, resources, and capabilities. | 9 | 23 | 2025-12-25 | [architecture](architecture.md), [analysis](analysis.md), [codex](codex.md), [graph](graph.md) |

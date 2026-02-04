@@ -1,0 +1,10 @@
+# 标签：turbo (turbo)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 3
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [turborepo](https://github.com/vercel/turborepo/blob/main/skills/turborepo/SKILL.md) | [vercel/turborepo](https://github.com/vercel/turborepo) | Turborepo 单体仓库构建系统指南，涵盖任务流水线、缓存和 CI 优化。 | 30K | 2.3K | 2026-02-03 | [monorepo (monorepo)](monorepo.md), [build tools (build-tools)](build-tools.md), [工具链 (tooling)](tooling.md), [turbo (turbo)](turbo.md), [turborepo (turborepo)](turborepo.md) |
+| [turborepo](https://github.com/antfu/skills/blob/main/skills/turborepo/SKILL.md) | [antfu/skills](https://github.com/antfu/skills) | Turborepo 单体仓库构建系统指南，涵盖任务流水线、缓存和CI优化。 | 2.7K | 1.3K | 2026-01-31 | [monorepo (monorepo)](monorepo.md), [build tools (build-tools)](build-tools.md), [工具链 (tooling)](tooling.md), [turbo (turbo)](turbo.md), [nx (nx)](nx.md) |
+| [monorepo-management](https://github.com/aj-geddes/useful-ai-prompts/blob/main/skills/monorepo-management/SKILL.md) | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | 使用 Lerna、Turborepo 和 Nx 管理单体仓库架构。 | 59 | 41 | 2025-12-28 | [monorepo (monorepo)](monorepo.md), [build tools (build-tools)](build-tools.md), [依赖管理](dependency-management.md), [workspace (workspace)](workspace.md), [turbo (turbo)](turbo.md), [nx (nx)](nx.md) |

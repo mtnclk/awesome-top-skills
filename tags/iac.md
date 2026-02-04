@@ -1,0 +1,12 @@
+# Tag: iac
+
+- Back: [Tags](README.md)
+- Tagged skills: 5
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [aws-cdk-development](https://github.com/zxkane/aws-skills/blob/main/plugins/aws-cdk/skills/aws-cdk-development/SKILL.md) | [zxkane/aws-skills](https://github.com/zxkane/aws-skills) | Expert in AWS CDK for building cloud infrastructure with TypeScript/Python. | 124 | 80 | 2026-01-16 | [infrastructure](infrastructure.md), [deployment](deployment.md), [aws](aws.md), [cloud](cloud.md), [iac](iac.md) |
+| [terraform-infrastructure](https://github.com/aj-geddes/useful-ai-prompts/blob/main/skills/terraform-infrastructure/SKILL.md) | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | Manages cloud infrastructure using Terraform for modular, scalable deployments across multiple clouds. | 59 | 48 | 2025-12-28 | [infrastructure](infrastructure.md), [iac](iac.md), [terraform](terraform.md), [deployment](deployment.md), [cloud](cloud.md) |
+| [cloud-architect](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/cloud-architect/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Expert cloud architect specializing in multi-cloud infrastructure design, IaC, and cost optimization. | 6.5K | 27 | 2026-02-02 | [architecture](architecture.md), [cloud](cloud.md), [cost-optimization](cost-optimization.md), [iac](iac.md), [aws](aws.md), [azure](azure.md) |
+| [terraform](https://github.com/bobmatnyc/claude-mpm-skills/blob/main/universal/infrastructure/terraform/SKILL.md) | [bobmatnyc/claude-mpm-skills](https://github.com/bobmatnyc/claude-mpm-skills) | Terraform infrastructure-as-code workflow patterns including state management, module design, and CI guardrails. | 10 | 23 | 2026-02-01 | [infrastructure](infrastructure.md), [iac](iac.md), [guardrails](guardrails.md), [terraform](terraform.md) |
+| [terraform-specialist](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/terraform-specialist/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Expert Terraform/OpenTofu specialist for advanced IaC automation, state management, and enterprise infrastructure patterns. | 6.5K | 22 | 2026-02-02 | [iac](iac.md), [terraform](terraform.md), [infrastructure](infrastructure.md), [automation](automation.md), [deployment](deployment.md), [ci-cd](ci-cd.md) |

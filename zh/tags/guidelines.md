@@ -1,0 +1,13 @@
+# 标签：guidelines (guidelines)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 6
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [cc-skill-project-guidelines-example](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/cc-skill-project-guidelines-example/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 一个用于创建和遵循项目指南的技能。 | 6.5K | 163 | 2026-02-02 | [项目管理](project-management.md), [最佳实践 (best-practices)](best-practices.md), [guidelines (guidelines)](guidelines.md) |
+| [cc-skill-project-guidelines-example](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/development/cc-skill-project-guidelines-example/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 项目指南与最佳实践技能模板。 | 19K | 68 | 2026-02-03 | [项目管理](project-management.md), [最佳实践 (best-practices)](best-practices.md), [guidelines (guidelines)](guidelines.md) |
+| [avalonia-layout-zafiro](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/development/avalonia-layout-zafiro/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 提供使用 Zafiro.Avalonia 的现代 Avalonia UI 布局指南。 | 19K | 61 | 2026-02-03 | [UI](ui.md), [guidelines (guidelines)](guidelines.md), [avalonia (avalonia)](avalonia.md), [layout (layout)](layout.md) |
+| [ipados-design-guidelines](https://github.com/ehmo/platform-design-skills/blob/main/skills/ipados/SKILL.md) | [ehmo/platform-design-skills](https://github.com/ehmo/platform-design-skills) | 提供苹果iPad设计指南，用于构建优化界面和多任务功能。 | 134 | 39 | 2026-02-01 | [UI](ui.md), [UX (ux)](ux.md), [guidelines (guidelines)](guidelines.md), [apple (apple)](apple.md), [ipados (ipados)](ipados.md) |
+| [visionos-design-guidelines](https://github.com/ehmo/platform-design-skills/blob/main/skills/visionos/SKILL.md) | [ehmo/platform-design-skills](https://github.com/ehmo/platform-design-skills) | 提供苹果Vision Pro应用开发的人机界面指南，专注于空间计算和沉浸式体验。 | 134 | 27 | 2026-02-01 | [guidelines (guidelines)](guidelines.md), [UI](ui.md), [visionos (visionos)](visionos.md), [apple vision pro (apple-vision-pro)](apple-vision-pro.md) |
+| [brand-analyzer](https://github.com/ailabs-393/ai-labs-claude-skills/blob/main/packages/skills/brand-analyzer/SKILL.md) | [ailabs-393/ai-labs-claude-skills](https://github.com/ailabs-393/ai-labs-claude-skills) | 分析品牌元素并制定可执行的品牌指南。 | 291 | 21 | 2025-11-11 | [branding (branding)](branding.md), [分析 (analysis)](analysis.md), [审计 (audit)](audit.md), [guidelines (guidelines)](guidelines.md) |

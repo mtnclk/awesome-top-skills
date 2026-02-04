@@ -1,0 +1,13 @@
+# 标签：technical seo (technical-seo)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 6
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [seo-aeo-best-practices](https://github.com/sanity-io/agent-toolkit/blob/main/skills/seo-aeo-best-practices/SKILL.md) | [sanity-io/agent-toolkit](https://github.com/sanity-io/agent-toolkit) | SEO和AEO最佳实践，包括EEAT原则、结构化数据和技术SEO。 | 72 | 172 | 2026-01-27 | [seo (seo)](seo.md), [最佳实践 (best-practices)](best-practices.md), [structured data (structured-data)](structured-data.md), [technical seo (technical-seo)](technical-seo.md) |
+| [seo-audit](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/business-marketing/seo-audit/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 审计和诊断网站SEO问题，包括技术SEO和排名问题。 | 19K | 104 | 2026-02-03 | [审计 (audit)](audit.md), [seo (seo)](seo.md), [technical seo (technical-seo)](technical-seo.md) |
+| [roier-seo](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/web-development/roier-seo/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 技术SEO审计师，自动运行Lighthouse/PageSpeed审计并修复问题。 | 19K | 73 | 2026-02-03 | [seo (seo)](seo.md), [审计 (audit)](audit.md), [性能优化 (performance)](performance.md), [technical seo (technical-seo)](technical-seo.md) |
+| [site-architecture](https://github.com/alinaqi/claude-bootstrap/blob/main/skills/site-architecture/SKILL.md) | [alinaqi/claude-bootstrap](https://github.com/alinaqi/claude-bootstrap) | 优化网站架构以提升技术SEO表现。 | 471 | 40 | 2026-01-20 | [seo (seo)](seo.md), [technical seo (technical-seo)](technical-seo.md), [前端 (frontend)](frontend.md) |
+| [marketing-seo-complete](https://github.com/vasilyu1983/ai-agents-public/blob/main/frameworks/shared-skills/skills/marketing-seo-complete/SKILL.md) | [vasilyu1983/ai-agents-public](https://github.com/vasilyu1983/ai-agents-public) | 全面SEO技能，涵盖技术审计、营销策略和多平台运营流程。 | 29 | 33 | 2026-01-26 | [seo (seo)](seo.md), [营销 (marketing)](marketing.md), [策略 (strategy)](strategy.md), [分析 (analytics)](analytics.md), [technical seo (technical-seo)](technical-seo.md) |
+| [technical-seo-checker](https://github.com/aaron-he-zhu/seo-geo-claude-skills/blob/main/optimize/technical-seo-checker/SKILL.md) | [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | 执行技术SEO审计，涵盖网站速度、可爬取性、索引性、移动友好性、安全性和结构化数据。 | 140 | 32 | 2025-12-18 | [审计 (audit)](audit.md), [seo (seo)](seo.md), [technical seo (technical-seo)](technical-seo.md) |

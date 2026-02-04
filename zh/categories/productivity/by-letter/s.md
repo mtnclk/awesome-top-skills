@@ -1,0 +1,14 @@
+# 效率（Productivity） / s
+
+- 返回: [分类](../README.md)
+- 数量: 7
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [setting-okrs-goals](https://github.com/refoundai/lenny-skills/blob/main/skills/setting-okrs-goals/SKILL.md) | [refoundai/lenny-skills](https://github.com/refoundai/lenny-skills) | 帮助用户设定有效的OKR和目标。 | 52 | 71 | 2026-01-31 | [规划 (planning)](../../../tags/planning.md), [策略 (strategy)](../../../tags/strategy.md), [team (team)](../../../tags/team.md) |
+| [sprint-planner](https://github.com/eddiebe147/claude-settings/blob/main/skills/sprint-planner/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | 规划和执行敏捷冲刺，跟踪速度和容量规划。 | 14 | 42 | 2026-01-22 | [规划 (planning)](../../../tags/planning.md), [项目管理](../../../tags/project-management.md), [agile (agile)](../../../tags/agile.md) |
+| [slack-message-writer](https://github.com/eddiebe147/claude-settings/blob/main/skills/slack-message-writer/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | 撰写有效的团队沟通 Slack 消息。 | 14 | 40 | 2026-01-22 | [communication (communication)](../../../tags/communication.md), [写作 (writing)](../../../tags/writing.md), [slack (slack)](../../../tags/slack.md) |
+| [scrum-master](https://github.com/aj-geddes/claude-code-bmad-skills) | [aj-geddes/claude-code-bmad-skills](https://github.com/aj-geddes/claude-code-bmad-skills) | 一个用于管理敏捷开发流程和团队协作的Scrum Master技能。 | 228 | 39 | 2026-01-01 | [项目管理](../../../tags/project-management.md), [规划 (planning)](../../../tags/planning.md), [agile (agile)](../../../tags/agile.md) |
+| [session-documenter](https://github.com/shipshitdev/library/blob/master/skills/session-documenter/SKILL.md) | [shipshitdev/library](https://github.com/shipshitdev/library) | 自动记录会话工作内容，跟踪决策、文件变更和上下文以保持连续性。 | 4 | 29 | 2026-01-25 | [session management (session-management)](../../../tags/session-management.md), [context management (context-management)](../../../tags/context-management.md), [文档 (documentation)](../../../tags/documentation.md), [任务管理 (task-management)](../../../tags/task-management.md) |
+| [sprint-retrospective](https://github.com/supercent-io/skills-template/blob/main/.agent-skills/project-management/sprint-retrospective/SKILL.md) | [supercent-io/skills-template](https://github.com/supercent-io/skills-template) | 促进有效的冲刺回顾，推动团队持续改进与协作。 | 10 | 21 | 2026-01-28 | [规划 (planning)](../../../tags/planning.md), [agile (agile)](../../../tags/agile.md), [会议 (meeting)](../../../tags/meeting.md) |
+| [standup-meeting](https://github.com/supercent-io/skills-template/blob/main/.agent-skills/project-management/standup-meeting/SKILL.md) | [supercent-io/skills-template](https://github.com/supercent-io/skills-template) | 促进敏捷团队的有效每日站会，管理时间和解决障碍。 | 10 | 21 | 2026-01-28 | [会议 (meeting)](../../../tags/meeting.md), [agile (agile)](../../../tags/agile.md), [team (team)](../../../tags/team.md) |

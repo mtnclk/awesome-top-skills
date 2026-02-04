@@ -1,0 +1,13 @@
+# Tag: dart
+
+- Back: [Tags](README.md)
+- Tagged skills: 6
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [flutter-expert](https://github.com/jeffallan/claude-skills/blob/main/skills/flutter-expert/SKILL.md) | [jeffallan/claude-skills](https://github.com/jeffallan/claude-skills) | A skill for building cross-platform apps with Flutter and Dart, covering widgets, state management, and performance optimization. | 227 | 885 | 2026-02-03 | [mobile](mobile.md), [flutter](flutter.md), [dart](dart.md), [coding](coding.md), [tooling](tooling.md), [performance](performance.md) |
+| [flutter](https://github.com/alinaqi/claude-bootstrap/blob/main/skills/flutter/SKILL.md) | [alinaqi/claude-bootstrap](https://github.com/alinaqi/claude-bootstrap) | A Flutter development skill with Riverpod, Freezed, go_router, and mocktail. | 471 | 113 | 2026-01-20 | [mobile](mobile.md), [coding](coding.md), [tooling](tooling.md), [flutter](flutter.md), [dart](dart.md) |
+| [flutter-development](https://github.com/aj-geddes/useful-ai-prompts/blob/main/skills/flutter-development/SKILL.md) | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | Build cross-platform mobile apps with Flutter and Dart, covering widgets, state management, and navigation. | 59 | 90 | 2025-12-28 | [mobile](mobile.md), [frontend](frontend.md), [coding](coding.md), [flutter](flutter.md), [dart](dart.md) |
+| [flutter-expert](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/flutter-expert/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. | 6.5K | 33 | 2026-02-02 | [mobile](mobile.md), [frontend](frontend.md), [coding](coding.md), [flutter](flutter.md), [dart](dart.md) |
+| [moai-lang-flutter](https://github.com/modu-ai/moai-adk/blob/main/.claude/skills/moai-lang-flutter/SKILL.md) | [modu-ai/moai-adk](https://github.com/modu-ai/moai-adk) | A Flutter/Dart specialist skill for cross-platform app development using Riverpod and go_router. | 618 | 32 | 2026-02-01 | [mobile](mobile.md), [frontend](frontend.md), [flutter](flutter.md), [dart](dart.md) |
+| [dart-drift](https://github.com/madteacher/mad-agents-skills/blob/main/dart-drift/SKILL.md) | [madteacher/mad-agents-skills](https://github.com/madteacher/mad-agents-skills) | A complete guide for using the drift database library in Dart applications with SQLite and PostgreSQL support. | 23 | 28 | 2026-01-28 | [databases](databases.md), [setup](setup.md), [dart](dart.md), [sqlite](sqlite.md), [postgresql](postgresql.md) |

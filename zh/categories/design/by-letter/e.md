@@ -1,0 +1,12 @@
+# 设计（Design） / e
+
+- 返回: [分类](../README.md)
+- 数量: 5
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [excalidraw-diagram](https://github.com/axtonliu/axton-obsidian-visual-skills/blob/main/excalidraw-diagram/SKILL.md) | [axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills) | 根据文本生成Excalidraw图表，支持多种输出格式。 | 1.1K | 231 | 2026-02-02 | [diagram (diagram)](../../../tags/diagram.md), [visualization (visualization)](../../../tags/visualization.md), [excalidraw (excalidraw)](../../../tags/excalidraw.md), [text to image (text-to-image)](../../../tags/text-to-image.md) |
+| [excalidraw](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/creative-design/excalidraw/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 处理Excalidraw图表文件和可视化。 | 19K | 140 | 2026-02-03 | [diagram (diagram)](../../../tags/diagram.md), [visualization (visualization)](../../../tags/visualization.md), [excalidraw (excalidraw)](../../../tags/excalidraw.md) |
+| [emilkowal-animations](https://github.com/pproenca/dot-skills/blob/master/skills/.experimental/emilkowal-animations/SKILL.md) | [pproenca/dot-skills](https://github.com/pproenca/dot-skills) | React、CSS 和 Framer Motion 的网页界面动画最佳实践。 | 21 | 66 | 2026-01-30 | [最佳实践 (best-practices)](../../../tags/best-practices.md), [UI](../../../tags/ui.md), [animation (animation)](../../../tags/animation.md), [React](../../../tags/react.md), [framer motion (framer-motion)](../../../tags/framer-motion.md) |
+| [excalidraw](https://github.com/softaworks/agent-toolkit/blob/main/skills/excalidraw/SKILL.md) | [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) | 处理 Excalidraw 图表操作和架构可视化。 | 413 | 60 | 2026-02-02 | [diagram (diagram)](../../../tags/diagram.md), [visualization (visualization)](../../../tags/visualization.md), [excalidraw (excalidraw)](../../../tags/excalidraw.md) |
+| [elite-powerpoint-designer](https://github.com/willem4130/claude-code-skills/blob/main/skills/elite-powerpoint-designer/SKILL.md) | [willem4130/claude-code-skills](https://github.com/willem4130/claude-code-skills) | 创建专业级演示文稿，包含设计、品牌和动画。 | 0 | 36 | 2025-11-11 | [内容创作 (content-creation)](../../../tags/content-creation.md), [branding (branding)](../../../tags/branding.md), [visual design (visual-design)](../../../tags/visual-design.md), [powerpoint (powerpoint)](../../../tags/powerpoint.md), [演示 (presentation)](../../../tags/presentation.md) |

@@ -1,0 +1,11 @@
+# 标签：plotly (plotly)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 4
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [scientific-visualization](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/scientific/scientific-visualization/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 使用matplotlib/seaborn/plotly创建出版级科学图表。 | 19K | 173 | 2026-02-03 | [visualization (visualization)](visualization.md), [数据分析 (data-analysis)](data-analysis.md), [scientific 写作 (scientific-writing)](scientific-writing.md), [matplotlib (matplotlib)](matplotlib.md), [plotly (plotly)](plotly.md), [seaborn (seaborn)](seaborn.md) |
+| [plotly](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/scientific/plotly/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 使用 Plotly 创建交互式图表和可视化。 | 19K | 99 | 2026-02-03 | [visualization (visualization)](visualization.md), [数据分析 (data-analysis)](data-analysis.md), [plotly (plotly)](plotly.md), [Python](python.md) |
+| [plotly](https://github.com/k-dense-ai/claude-scientific-skills/blob/main/scientific-skills/plotly/SKILL.md) | [k-dense-ai/claude-scientific-skills](https://github.com/k-dense-ai/claude-scientific-skills) | 交互式可视化库，适用于仪表板、探索性分析和演示。 | 7.8K | 78 | 2026-02-02 | [visualization (visualization)](visualization.md), [数据分析 (data-analysis)](data-analysis.md), [plotly (plotly)](plotly.md), [chart (chart)](chart.md) |
+| [csv-data-visualizer](https://github.com/ailabs-393/ai-labs-claude-skills/blob/main/packages/skills/csv-data-visualizer/SKILL.md) | [ailabs-393/ai-labs-claude-skills](https://github.com/ailabs-393/ai-labs-claude-skills) | 使用Plotly创建交互式数据可视化和统计图表。 | 291 | 32 | 2025-11-11 | [数据分析 (data-analysis)](data-analysis.md), [visualization (visualization)](visualization.md), [csv (csv)](csv.md), [plotly (plotly)](plotly.md) |

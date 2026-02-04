@@ -1,0 +1,10 @@
+# 标签：focus (focus)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 3
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [focus-timer](https://github.com/eddiebe147/claude-settings/blob/main/skills/focus-timer/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | 使用番茄工作法和深度工作技巧的结构化专注时间管理工具。 | 14 | 41 | 2026-01-22 | [任务管理 (task-management)](task-management.md), [focus (focus)](focus.md), [工作流 (workflows)](workflows.md) |
+| [deep-productivity](https://github.com/hexbee/hello-skills/blob/main/skills/deep-productivity/SKILL.md) | [hexbee/hello-skills](https://github.com/hexbee/hello-skills) | 通过结构化框架和目标层级掌握深度工作生产力。 | 0 | 26 | 2026-02-01 | [规划 (planning)](planning.md), [任务管理 (task-management)](task-management.md), [工作流 (workflows)](workflows.md), [focus (focus)](focus.md) |
+| [focus-session-manager](https://github.com/daffy0208/ai-dev-standards/blob/main/skills/focus-session-manager/SKILL.md) | [daffy0208/ai-dev-standards](https://github.com/daffy0208/ai-dev-standards) | 使用ADHD优化的番茄工作法管理专注时间和休息，防止倦怠并提高效率。 | 9 | 23 | 2025-12-25 | [session management (session-management)](session-management.md), [focus (focus)](focus.md), [adhd (adhd)](adhd.md) |

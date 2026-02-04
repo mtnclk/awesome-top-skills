@@ -1,0 +1,9 @@
+# Tag: dify
+
+- Back: [Tags](README.md)
+- Tagged skills: 2
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [orpc-contract-first](https://github.com/langgenius/dify/blob/main/.agents/skills/orpc-contract-first/SKILL.md) | [langgenius/dify](https://github.com/langgenius/dify) | A skill for implementing oRPC contract-first API patterns in Dify frontend, useful for API layer development. | 128K | 480 | 2026-02-03 | [api](api.md), [frontend](frontend.md), [contract-testing](contract-testing.md), [dify](dify.md), [tanstack](tanstack.md) |
+| [dify-dsl-generator](https://github.com/wwwzhouhui/skills_collection/blob/main/dify-dsl-generator/SKILL.md) | [wwwzhouhui/skills_collection](https://github.com/wwwzhouhui/skills_collection) | Generates Dify workflow DSL/YAML files based on business requirements. | 70 | 33 | 2026-01-31 | [workflows](workflows.md), [code-generation](code-generation.md), [dify](dify.md), [dsl](dsl.md) |

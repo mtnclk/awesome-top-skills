@@ -1,0 +1,12 @@
+# 标签：性能优化 (performance-optimization)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 5
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [m10-performance](https://github.com/rustfs/rustfs) | [rustfs/rustfs](https://github.com/rustfs/rustfs) | 优化LLM性能和效率。 | 21K | 21 | 2026-02-03 | [性能优化 (performance)](performance.md), [性能优化 (performance-optimization)](performance-optimization.md), [LLM](llm.md) |
+| [observability-engineer](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/observability-engineer/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 构建生产就绪的监控、日志和追踪系统，管理SLI/SLO并制定应急响应流程。 | 6.5K | 21 | 2026-02-02 | [监控 (monitoring)](monitoring.md), [可观测性 (observability)](observability.md), [性能优化 (performance-optimization)](performance-optimization.md), [infrastructure (infrastructure)](infrastructure.md), [production reliability (production-reliability)](production-reliability.md) |
+| [unity-developer](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/unity-developer/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 使用优化的C#脚本、高效渲染和资源管理开发Unity游戏。 | 6.5K | 21 | 2026-02-02 | [game development (game-development)](game-development.md), [unity (unity)](unity.md), [csharp (csharp)](csharp.md), [性能优化 (performance-optimization)](performance-optimization.md) |
+| [react-native-specialist](https://github.com/404kidwiz/claude-supercode-skills/blob/main/react-native-specialist-skill/SKILL.md) | [404kidwiz/claude-supercode-skills](https://github.com/404kidwiz/claude-supercode-skills) | React Native专家，专注于新架构、TurboModules、Fabric和Expo，擅长原生模块开发与性能优化 | 7 | 21 | 2026-01-16 | [移动开发 (mobile)](mobile.md), [前端 (frontend)](frontend.md), [性能优化 (performance-optimization)](performance-optimization.md), [React native (react-native)](react-native.md), [expo (expo)](expo.md) |
+| [frontend-architect](https://github.com/tomlord1122/tomtom-skill/blob/master/skills/frontend-architect/SKILL.md) | [tomlord1122/tomtom-skill](https://github.com/tomlord1122/tomtom-skill) | 前端架构专家技能，用于规划组件架构、状态管理和性能优化。 | 0 | 21 | 2026-01-30 | [架构 (architecture)](architecture.md), [前端 (frontend)](frontend.md), [component 架构 (component-architecture)](component-architecture.md), [state management (state-management)](state-management.md), [性能优化 (performance-optimization)](performance-optimization.md) |

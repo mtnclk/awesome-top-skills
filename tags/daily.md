@@ -1,0 +1,10 @@
+# Tag: daily
+
+- Back: [Tags](README.md)
+- Tagged skills: 3
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [daily-news-report](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/daily-news-report/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Automatically scrapes and summarizes technical news into daily Markdown reports. | 6.5K | 86 | 2026-02-02 | [scraping](scraping.md), [content-creation](content-creation.md), [automation](automation.md), [markdown](markdown.md), [daily](daily.md) |
+| [daily-planner](https://github.com/eddiebe147/claude-settings/blob/main/skills/daily-planner/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | Helps plan your day with structured daily planning sessions. | 14 | 42 | 2026-01-22 | [planning](planning.md), [task-management](task-management.md), [daily](daily.md) |
+| [daily-news-report](https://github.com/rookie-ricardo/erduo-skills/blob/main/skills/daily-news-report/SKILL.md) | [rookie-ricardo/erduo-skills](https://github.com/rookie-ricardo/erduo-skills) | Generates daily tech news reports by scraping predefined URLs and filtering high-quality content. | 261 | 40 | 2026-02-02 | [scraping](scraping.md), [content-creation](content-creation.md), [markdown](markdown.md), [daily](daily.md), [report-builder](report-builder.md) |

@@ -1,0 +1,12 @@
+# Tag: canvas
+
+- Back: [Tags](README.md)
+- Tagged skills: 5
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [legacy-circuit-mockups](https://github.com/github/awesome-copilot/blob/main/skills/legacy-circuit-mockups/SKILL.md) | [github/awesome-copilot](https://github.com/github/awesome-copilot) | Generate breadboard circuit mockups and visual diagrams using HTML5 Canvas. | 20K | 60 | 2026-02-03 | [diagram](diagram.md), [visualization](visualization.md), [frontend](frontend.md), [html5](html5.md), [canvas](canvas.md), [electronics](electronics.md) |
+| [canvas-design](https://github.com/skillcreatorai/ai-agent-skills/blob/main/skills/canvas-design/SKILL.md) | [skillcreatorai/ai-agent-skills](https://github.com/skillcreatorai/ai-agent-skills) | Create beautiful visual art and designs in PNG and PDF formats using design principles. | 671 | 34 | 2026-01-23 | [visual-testing](visual-testing.md), [assets](assets.md), [canvas](canvas.md), [image-generation](image-generation.md) |
+| [agent-canvas](https://github.com/whq25/agent-canvas/blob/main/skills/agent-canvas/SKILL.md) | [whq25/agent-canvas](https://github.com/whq25/agent-canvas) | Draw diagrams and visualizations on an Excalidraw canvas for idea sketching and visualization tasks. | 3 | 30 | 2026-01-31 | [diagram](diagram.md), [visualization](visualization.md), [excalidraw](excalidraw.md), [canvas](canvas.md) |
+| [canvas-design](https://github.com/aiskillstore/marketplace/blob/main/skills/canvas-design/SKILL.md) | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | Create beautiful visual art and designs in PNG and PDF formats using design principles. | 137 | 29 | 2026-02-03 | [visual-design](visual-design.md), [art](art.md), [image-generation](image-generation.md), [canvas](canvas.md), [png](png.md), [pdf](pdf.md) |
+| [business-model-canvas](https://github.com/scientiacapital/skills/blob/main/active/business-model-canvas-skill/SKILL.md) | [scientiacapital/skills](https://github.com/scientiacapital/skills) | Design business models using Alexander Osterwalder's 9 building blocks for strategic planning and analysis. | 1 | 24 | 2026-01-19 | [strategy](strategy.md), [planning](planning.md), [business-model](business-model.md), [canvas](canvas.md) |

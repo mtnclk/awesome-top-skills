@@ -1,0 +1,12 @@
+# Tag: zero-trust
+
+- Back: [Tags](README.md)
+- Tagged skills: 5
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [mtls-configuration](https://github.com/wshobson/agents/blob/main/plugins/cloud-infrastructure/skills/mtls-configuration/SKILL.md) | [wshobson/agents](https://github.com/wshobson/agents) | Configure mutual TLS (mTLS) for secure service-to-service communication in zero-trust networks. | 28K | 749 | 2026-02-02 | [configuration](configuration.md), [auth](auth.md), [backend](backend.md), [mtls](mtls.md), [zero-trust](zero-trust.md) |
+| [zero-trust-architecture](https://github.com/aj-geddes/useful-ai-prompts/blob/main/skills/zero-trust-architecture/SKILL.md) | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | Implement a Zero Trust security model with identity verification, microsegmentation, and continuous monitoring for secure cloud-native apps. | 59 | 46 | 2025-12-28 | [architecture](architecture.md), [zero-trust](zero-trust.md), [vuln-scanning](vuln-scanning.md) |
+| [cybersecurity-analyst](https://github.com/rysweet/amplihack/blob/main/.claude/skills/cybersecurity-analyst/SKILL.md) | [rysweet/amplihack](https://github.com/rysweet/amplihack) | Analyzes cybersecurity events using threat modeling, attack surface analysis, and risk-based frameworks like MITRE ATT&CK. | 17 | 37 | 2026-02-03 | [vulnerability-analysis](vulnerability-analysis.md), [risk-management](risk-management.md), [threat-modeling](threat-modeling.md), [security-automation](security-automation.md), [zero-trust](zero-trust.md) |
+| [network-engineer](https://github.com/404kidwiz/claude-supercode-skills/blob/main/network-engineer-skill/SKILL.md) | [404kidwiz/claude-supercode-skills](https://github.com/404kidwiz/claude-supercode-skills) | Designs secure network architectures with zero-trust principles for cloud and hybrid environments. | 7 | 31 | 2026-01-16 | [architecture](architecture.md), [networking](networking.md), [zero-trust](zero-trust.md) |
+| [software-security-appsec](https://github.com/vasilyu1983/ai-agents-public/blob/main/frameworks/shared-skills/skills/software-security-appsec/SKILL.md) | [vasilyu1983/ai-agents-public](https://github.com/vasilyu1983/ai-agents-public) | A modern application security skill aligned with OWASP Top 10:2025, NIST SSDF, and zero trust principles. | 29 | 24 | 2026-01-26 | [appsec](appsec.md), [auth](auth.md), [compliance](compliance.md), [owasp](owasp.md), [zero-trust](zero-trust.md), [nist](nist.md) |

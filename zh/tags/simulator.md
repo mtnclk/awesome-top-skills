@@ -1,0 +1,11 @@
+# 标签：simulator (simulator)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 4
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill/blob/main/ios-simulator-skill/SKILL.md) | [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) | 使用21个生产就绪脚本自动化iOS应用测试、构建和模拟器管理。 | 446 | 104 | 2026-01-16 | [移动开发 (mobile)](mobile.md), [自动化 (automation)](automation.md), [测试 (testing)](testing.md), [iOS (ios)](ios.md), [simulator (simulator)](simulator.md) |
+| [axe-ios-simulator](https://github.com/0xbigboss/claude-code/blob/main/.claude/skills/axe-ios-simulator/SKILL.md) | [0xbigboss/claude-code](https://github.com/0xbigboss/claude-code) | 使用AXe CLI自动化iOS模拟器交互，支持手势、文本输入、截图和可访问性检查。 | 35 | 47 | 2026-01-31 | [自动化 (automation)](automation.md), [移动开发 (mobile)](mobile.md), [iOS (ios)](ios.md), [simulator (simulator)](simulator.md), [测试 (testing)](testing.md), [UI](ui.md) |
+| [axiom-axe-ref](https://github.com/charleswiltgen/axiom/blob/main/.claude-plugin/plugins/axiom/skills/axiom-axe-ref/SKILL.md) | [charleswiltgen/axiom](https://github.com/charleswiltgen/axiom) | 使用 AXe CLI 自动化 iOS 模拟器 UI 交互。 | 371 | 24 | 2026-01-31 | [自动化 (automation)](automation.md), [UI](ui.md), [移动开发 (mobile)](mobile.md), [iOS (ios)](ios.md), [simulator (simulator)](simulator.md) |
+| [axiom-deep-link-debugging](https://github.com/charleswiltgen/axiom/blob/main/.claude-plugin/plugins/axiom/skills/axiom-deep-link-debugging/SKILL.md) | [charleswiltgen/axiom](https://github.com/charleswiltgen/axiom) | 用于测试和模拟器导航的调试链接。 | 371 | 22 | 2026-01-31 | [调试 (debugging)](debugging.md), [测试 (testing)](testing.md), [工具链 (tooling)](tooling.md), [simulator (simulator)](simulator.md), [自动化 (automation)](automation.md) |

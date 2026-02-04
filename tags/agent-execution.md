@@ -1,0 +1,12 @@
+# Tag: agent-execution
+
+- Back: [Tags](README.md)
+- Tagged skills: 5
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [using-workflows](https://github.com/andrelandgraf/fullstackrecipes/blob/main/.agents/skills/using-workflows/SKILL.md) | [andrelandgraf/fullstackrecipes](https://github.com/andrelandgraf/fullstackrecipes) | Create and run durable workflows with steps, streaming, and agent execution. | 6 | 31 | 2026-01-25 | [workflows](workflows.md), [automation](automation.md), [task-management](task-management.md), [streaming](streaming.md), [agent-execution](agent-execution.md) |
+| [workflow-setup](https://github.com/andrelandgraf/fullstackrecipes/blob/main/.agents/skills/workflow-setup/SKILL.md) | [andrelandgraf/fullstackrecipes](https://github.com/andrelandgraf/fullstackrecipes) | Set up and configure a workflow development kit for durable AI agent workflows with step-level persistence and stream resumption. | 6 | 31 | 2026-01-25 | [workflows](workflows.md), [tooling](tooling.md), [setup](setup.md), [agent-execution](agent-execution.md) |
+| [context-network](https://github.com/jwynia/agent-skills/blob/main/skills/general/meta/context-network/SKILL.md) | [jwynia/agent-skills](https://github.com/jwynia/agent-skills) | Manage and evolve context networks for LLM agents across their lifecycle. | 13 | 30 | 2026-02-02 | [context-management](context-management.md), [llm-optimization](llm-optimization.md), [agent-execution](agent-execution.md) |
+| [agent-folder-init](https://github.com/shipshitdev/library/blob/master/skills/agent-folder-init/SKILL.md) | [shipshitdev/library](https://github.com/shipshitdev/library) | Initialize a comprehensive .agent/ folder structure for AI-first development with documentation, session tracking, and task management. | 4 | 29 | 2026-01-25 | [setup](setup.md), [tooling](tooling.md), [project-management](project-management.md), [agent-execution](agent-execution.md) |
+| [agent-swarm-workflow](https://github.com/dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations/blob/main/skills/agent-swarm-workflow/SKILL.md) | [dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations](https://github.com/dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations) | A multi-agent workflow implementation using NTM, Agent Mail, Beads, and BV for execution after planning and bead creation. | 41 | 21 | 2026-01-30 | [agents](agents.md), [workflows](workflows.md), [agent-execution](agent-execution.md), [multi-agent](multi-agent.md) |

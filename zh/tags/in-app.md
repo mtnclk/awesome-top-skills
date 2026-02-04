@@ -1,0 +1,12 @@
+# 标签：in app (in-app)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 5
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [paywall-upgrade-cro](https://github.com/coreyhaines31/marketingskills/blob/main/skills/paywall-upgrade-cro/SKILL.md) | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 优化应用内付费墙、升级界面和功能门禁以促进免费转付费。 | 5.6K | 3K | 2026-01-28 | [conversion rate 优化 (conversion-rate-optimization)](conversion-rate-optimization.md), [revenue 优化 (revenue-optimization)](revenue-optimization.md), [upgrade (upgrade)](upgrade.md), [payment (payment)](payment.md), [in app (in-app)](in-app.md) |
+| [paywall-upgrade-cro](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/paywall-upgrade-cro/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 优化应用内付费墙和升级流程以提高免费转付费率。 | 6.5K | 168 | 2026-02-02 | [conversion rate 优化 (conversion-rate-optimization)](conversion-rate-optimization.md), [revenue 优化 (revenue-optimization)](revenue-optimization.md), [in app (in-app)](in-app.md) |
+| [revenuecat](https://github.com/rawveg/skillsforge-marketplace/blob/main/revenuecat/SKILL.md) | [rawveg/skillsforge-marketplace](https://github.com/rawveg/skillsforge-marketplace) | 协助处理 RevenueCat 应用内订阅和购买。 | 15 | 86 | 2026-01-17 | [payment (payment)](payment.md), [subscription (subscription)](subscription.md), [in app (in-app)](in-app.md), [revenue 优化 (revenue-optimization)](revenue-optimization.md) |
+| [paywall-upgrade-cro](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/business-marketing/paywall-upgrade-cro/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 优化应用内付费墙和升级流程以提高免费转付费率。 | 19K | 69 | 2026-02-03 | [conversion rate 优化 (conversion-rate-optimization)](conversion-rate-optimization.md), [revenue 优化 (revenue-optimization)](revenue-optimization.md), [in app (in-app)](in-app.md) |
+| [axiom-in-app-purchases](https://github.com/charleswiltgen/axiom/blob/main/.claude-plugin/plugins/axiom/skills/axiom-in-app-purchases/SKILL.md) | [charleswiltgen/axiom](https://github.com/charleswiltgen/axiom) | 实现应用内购买和订阅管理，使用 StoreKit 2 和测试驱动方法。 | 371 | 27 | 2026-01-31 | [payment (payment)](payment.md), [移动开发 (mobile)](mobile.md), [apple (apple)](apple.md), [in app (in-app)](in-app.md), [测试 (testing)](testing.md), [架构 (architecture)](architecture.md) |

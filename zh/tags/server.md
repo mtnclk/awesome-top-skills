@@ -1,0 +1,12 @@
+# 标签：server (server)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 5
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [smtp-penetration-testing](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/smtp-penetration-testing/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 执行SMTP安全测试，包括用户枚举、中继测试和凭证暴力破解。 | 6.5K | 159 | 2026-02-02 | [渗透测试](penetration-testing.md), [漏洞扫描](vuln-scanning.md), [email (email)](email.md), [server (server)](server.md) |
+| [server-management](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/development/server-management/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 教授服务器管理原则，包括流程管理、监控策略和扩展决策。 | 19K | 80 | 2026-02-03 | [监控 (monitoring)](monitoring.md), [规划 (planning)](planning.md), [capacity 规划 (capacity-planning)](capacity-planning.md), [server (server)](server.md) |
+| [smtp-penetration-testing](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/security/smtp-penetration-testing/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 用于执行SMTP渗透测试和评估邮件服务器安全性的技能。 | 19K | 61 | 2026-02-03 | [渗透测试](penetration-testing.md), [vulnerability analysis (vulnerability-analysis)](vulnerability-analysis.md), [email (email)](email.md), [server (server)](server.md) |
+| [server-management](https://github.com/vudovn/antigravity-kit/blob/main/.agent/skills/server-management/SKILL.md) | [vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit) | 教授服务器管理原则，包括流程管理、监控策略和扩展决策。 | 4K | 30 | 2026-02-01 | [监控 (monitoring)](monitoring.md), [规划 (planning)](planning.md), [server (server)](server.md) |
+| [wix-cli-backend-api](https://github.com/wix/skills/blob/master/wix-cli/skills/wix-cli-backend-api/SKILL.md) | [wix/skills](https://github.com/wix/skills) | 用于构建REST API端点和后端HTTP处理器的技能。 | 0 | 26 | 2026-02-02 | [后端 (backend)](backend.md), [API](api.md), [REST API (rest-api)](rest-api.md), [http (http)](http.md), [server (server)](server.md) |

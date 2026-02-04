@@ -1,0 +1,13 @@
+# 标签：community (community)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 6
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [central-station](https://github.com/railwayapp/railway-skills/blob/main/plugins/railway/skills/central-station/SKILL.md) | [railwayapp/railway-skills](https://github.com/railwayapp/railway-skills) | 用于搜索中央车站线程、社区讨论和Railway知识库的技能。 | 86 | 110 | 2026-02-03 | [knowledge base (knowledge-base)](knowledge-base.md), [community (community)](community.md), [网页调研 (web-research)](web-research.md), [railway (railway)](railway.md) |
+| [community-building](https://github.com/refoundai/lenny-skills/blob/main/skills/community-building/SKILL.md) | [refoundai/lenny-skills](https://github.com/refoundai/lenny-skills) | 帮助用户建立和扩展产品社区，包括扩大大使计划和推动社区驱动增长。 | 52 | 68 | 2026-01-31 | [community (community)](community.md), [audience analysis (audience-analysis)](audience-analysis.md), [规划 (planning)](planning.md), [product 分析 (product-analytics)](product-analytics.md), [用户研究](user-research.md) |
+| [community-builder](https://github.com/eddiebe147/claude-settings/blob/main/skills/community-builder/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | 通过参与策略和增长技巧构建和扩展在线社区。 | 14 | 41 | 2026-01-22 | [audience analysis (audience-analysis)](audience-analysis.md), [community (community)](community.md), [营销 (marketing)](marketing.md) |
+| [community-manager](https://github.com/eddiebe147/claude-settings/blob/main/skills/community-manager/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | 管理在线社区，包括参与策略、审核和关系建设。 | 14 | 40 | 2026-01-22 | [community (community)](community.md), [engagement (engagement)](engagement.md), [moderation (moderation)](moderation.md), [audience analysis (audience-analysis)](audience-analysis.md), [customer support (customer-support)](customer-support.md) |
+| [ugc-campaign-planner](https://github.com/eddiebe147/claude-settings/blob/main/skills/ugc-campaign-planner/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | 规划执行用户生成内容活动，构建社区和真实性。 | 14 | 40 | 2026-01-22 | [营销 (marketing)](marketing.md), [audience analysis (audience-analysis)](audience-analysis.md), [community (community)](community.md) |
+| [hackernews](https://github.com/andrejones92/canifi-life-os/blob/working-branch/skills/hackernews/SKILL.md) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | 支持管理 Hacker News 提交和科技社区互动。 | 5 | 32 | 2026-01-09 | [网页调研 (web-research)](web-research.md), [community (community)](community.md), [hacker news (hacker-news)](hacker-news.md) |

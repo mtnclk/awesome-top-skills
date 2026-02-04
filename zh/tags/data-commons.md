@@ -1,0 +1,11 @@
+# 标签：data commons (data-commons)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 4
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [datacommons-client](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/scientific/datacommons-client/SKILL.md) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 访问和查询来自Data Commons平台的公共统计数据。 | 19K | 78 | 2026-02-03 | [数据分析 (data-analysis)](data-analysis.md), [数据管理 (data-management)](data-management.md), [API](api.md), [data commons (data-commons)](data-commons.md) |
+| [datacommons-client](https://github.com/k-dense-ai/claude-scientific-skills/blob/main/scientific-skills/datacommons-client/SKILL.md) | [k-dense-ai/claude-scientific-skills](https://github.com/k-dense-ai/claude-scientific-skills) | 访问和查询来自Data Commons平台的公共统计数据。 | 7.8K | 67 | 2026-02-02 | [数据分析 (data-analysis)](data-analysis.md), [数据管理 (data-management)](data-management.md), [data commons (data-commons)](data-commons.md) |
+| [pytdc](https://github.com/k-dense-ai/claude-scientific-skills/blob/main/scientific-skills/pytdc/SKILL.md) | [k-dense-ai/claude-scientific-skills](https://github.com/k-dense-ai/claude-scientific-skills) | 用于治疗ML和药物预测的AI就绪药物发现数据集和基准。 | 7.8K | 64 | 2026-02-02 | [机器学习 (machine-learning)](machine-learning.md), [数据分析 (data-analysis)](data-analysis.md), [drug discovery (drug-discovery)](drug-discovery.md), [data commons (data-commons)](data-commons.md) |
+| [imaging-data-commons](https://github.com/k-dense-ai/claude-scientific-skills/blob/main/scientific-skills/imaging-data-commons/SKILL.md) | [k-dense-ai/claude-scientific-skills](https://github.com/k-dense-ai/claude-scientific-skills) | 访问和下载NCI影像数据commons中的公开癌症影像数据。 | 7.8K | 40 | 2026-02-02 | [数据分析 (data-analysis)](data-analysis.md), [数据管理 (data-management)](data-management.md), [data commons (data-commons)](data-commons.md), [pathology (pathology)](pathology.md), [radiology (radiology)](radiology.md) |
