@@ -1,0 +1,135 @@
+# Agent Skills Index
+URL_TEMPLATE: https://raw.githubusercontent.com/{repo}/main/skills/{path}/SKILL.md
+COLUMNS: id;repo;path;summary
+
+## PRODUCTIVITY SKILLS (TOP 800)
+pptx;anthropics/skills;main/skills/pptx;This skill handles all .pptx file operations including creation, editing, and extraction.
+internal-comms;anthropics/skills;main/skills/internal-comms;A skill for writing various types of internal communications like reports and updates.
+file-organizer;composiohq/awesome-claude-skills;;Automatically organizes files and folders, finds duplicates, and suggests better structures to reduce cognitive load.
+invoice-organizer;composiohq/awesome-claude-skills;;Automatically organizes invoices and receipts for tax preparation with key information extraction and file renaming.
+internal-comms;composiohq/awesome-claude-skills;;A skill for writing various types of internal communications like reports and updates.
+raffle-winner-picker;composiohq/awesome-claude-skills;;Random winner picker for giveaways, raffles, and contests with fair selection.
+obsidian-markdown;davila7/claude-code-templates;document-processing/obsidian-markdown;Create and edit Obsidian Flavored Markdown with wikilinks, embeds, callouts, properties, and other Obsidian-specific syntax.
+pptx;davila7/claude-code-templates;document-processing/pptx-official;Create, edit, and analyze PowerPoint presentations (.pptx files) with support for layouts, comments, and speaker notes.
+obsidian-bases;davila7/claude-code-templates;document-processing/obsidian-bases;Create and edit Obsidian Bases files with views, filters, and formulas.
+notion-knowledge-capture;davila7/claude-code-templates;productivity/notion-knowledge-capture;Capture conversations and decisions into structured Notion pages for wiki entries, how-tos, and FAQs.
+file-organizer;davila7/claude-code-templates;productivity/file-organizer;Automatically organizes files and folders, finds duplicates, and suggests better structures.
+invoice-organizer;davila7/claude-code-templates;productivity/invoice-organizer;Automatically organizes invoices and receipts for tax preparation with key information extraction and file renaming.
+internal-comms;davila7/claude-code-templates;enterprise-communication/internal-comms-anthropic;A skill for writing various types of internal communications like reports and updates.
+raffle-winner-picker;davila7/claude-code-templates;productivity/raffle-winner-picker;Random winner picker for giveaways, raffles, and contests with fair selection.
+daily-meeting-update;davila7/claude-code-templates;enterprise-communication/daily-meeting-update;Generates interactive daily meeting updates by pulling activity from GitHub, Jira, and Claude sessions.
+professional-communication;davila7/claude-code-templates;enterprise-communication/professional-communication;A guide for technical communication tailored for software developers, covering emails, team messaging, and meeting agendas.
+obsidian-clipper-template-creator;davila7/claude-code-templates;productivity/obsidian-clipper-template-creator;Create templates for Obsidian Web Clipper with available variables and formatting guidance.
+difficult-workplace-conversations;davila7/claude-code-templates;enterprise-communication/difficult-workplace-conversations;A structured approach for handling difficult workplace conversations, conflicts, and feedback.
+github-project-management;ruvnet/claude-flow;github-project-management;Manage GitHub projects with swarm-coordinated issue tracking and sprint planning.
+obsidian-markdown;kepano/obsidian-skills;obsidian-markdown;Create and edit Obsidian Flavored Markdown with wikilinks, embeds, callouts, properties, and other Obsidian-specific syntax.
+obsidian-bases;kepano/obsidian-skills;obsidian-bases;Create and edit Obsidian Bases files with views, filters, and formulas.
+pptx;k-dense-ai/claude-scientific-skills;;A toolkit for creating and editing PowerPoint presentations programmatically.
+file-todos;everyinc/compound-engineering-plugin;file-todos;Manages file-based todo tracking with workflows for creation, status management, and integration.
+file-organizer;sickn33/antigravity-awesome-skills;file-organizer;Automatically organizes files and folders, finds duplicates, and suggests better structures.
+pptx;sickn33/antigravity-awesome-skills;pptx-official;Create, edit, and analyze PowerPoint presentations (.pptx files) with support for layouts, comments, and speaker notes.
+internal-comms;sickn33/antigravity-awesome-skills;internal-comms-anthropic;A skill for writing various types of internal communications like reports and updates.
+clickup;civitai/civitai;clickup;Interact with ClickUp tasks and documents for task management and project coordination.
+obsidian-clipper-template-creator;sickn33/antigravity-awesome-skills;obsidian-clipper-template-creator;Create templates for Obsidian Web Clipper with available variables and formatting guidance.
+daily-meeting-update;softaworks/agent-toolkit;daily-meeting-update;Generates interactive daily meeting updates by pulling activity from GitHub, Jira, and Claude sessions.
+professional-communication;softaworks/agent-toolkit;professional-communication;A guide for technical communication tailored for software developers, covering emails, team messaging, and meeting agendas.
+difficult-workplace-conversations;softaworks/agent-toolkit;difficult-workplace-conversations;A structured approach for handling difficult workplace conversations, conflicts, and feedback.
+notion-knowledge-capture;openai/skills;main/skills/.curated/notion-knowledge-capture;Capture conversations and decisions into structured Notion pages for wiki entries, how-tos, and FAQs.
+obsidian-canvas-creator;axtonliu/axton-obsidian-visual-skills;;Create Obsidian Canvas files from text content with MindMap and freeform layouts.
+job-application;skillcreatorai/ai-agent-skills;job-application;Create tailored job applications and cover letters using your CV and preferred style.
+pptx;skillcreatorai/ai-agent-skills;pptx;Create, edit, and analyze PowerPoint presentations (.pptx files).
+file-organizer;skillcreatorai/ai-agent-skills;file-organizer;Automatically organizes files and folders, finds duplicates, and suggests better structures to reduce cognitive load.
+invoice-organizer;skillcreatorai/ai-agent-skills;invoice-organizer;Automatically organizes invoices and receipts for tax preparation with key information extraction and file renaming.
+raffle-winner-picker;skillcreatorai/ai-agent-skills;raffle-winner-picker;Random winner picker for giveaways, raffles, and contests with fair selection.
+macos-cleaner;daymade/claude-code-skills;;A skill for analyzing and reclaiming macOS disk space through intelligent cleanup recommendations.
+project-planning;jezweb/claude-skills;project-planning;Generate structured project planning documents with phases, criteria, and exit conditions.
+team-coordination;alinaqi/claude-bootstrap;team-coordination;Manages multi-person projects with shared state, task claiming, and handoffs.
+project-workflow;jezweb/claude-skills;project-workflow;A set of integrated slash commands for managing the entire project lifecycle, from idea exploration to release preparation.
+project-session-management;jezweb/claude-skills;project-session-management;Manage project sessions with SESSION.md and git checkpoints for continuous progress tracking.
+personal-assistant;ailabs-393/ai-labs-claude-skills;personal-assistant;A personal assistant skill for managing schedules, tasks, reminders, and productivity with intelligent context handling.
+resume-manager;ailabs-393/ai-labs-claude-skills;resume-manager;A skill for managing resumes, career experiences, and job application preparation.
+scrum-master;aj-geddes/claude-code-bmad-skills;;A Scrum Master skill for managing agile development processes and team coordination.
+anki-connect;intellectronica/agent-skills;anki-connect;Interact with Anki using AnkiConnect for managing decks, notes, cards, and media.
+todoist-api;intellectronica/agent-skills;todoist-api;Interact with Todoist REST API v2 using curl and jq for task/project management.
+internal-comms;aiskillstore/marketplace;internal-comms;A skill for writing various types of internal communications like reports and updates.
+pptx;aiskillstore/marketplace;pptx;Create, edit, and analyze PowerPoint presentations (.pptx files) with support for layouts, comments, and speaker notes.
+personal-productivity;refoundai/lenny-skills;personal-productivity;Helps users manage time and tasks more effectively, ideal for those overwhelmed with work or seeking better focus.
+written-communication;refoundai/lenny-skills;written-communication;Improves written communication clarity, conciseness, and persuasiveness for memos, emails, and strategy documents.
+giving-presentations;refoundai/lenny-skills;giving-presentations;Helps users create and deliver compelling presentations, including dealing with presentation anxiety and practicing for keynotes.
+setting-okrs-goals;refoundai/lenny-skills;setting-okrs-goals;Helps users set effective OKRs and goals for quarterly objectives, key results, and team targets.
+conducting-interviews;refoundai/lenny-skills;conducting-interviews;This skill helps design effective hiring interview processes and evaluate candidates.
+writing-job-descriptions;refoundai/lenny-skills;writing-job-descriptions;Helps users write effective job descriptions for hiring and role definition.
+having-difficult-conversations;refoundai/lenny-skills;having-difficult-conversations;Navigate difficult conversations including feedback, performance talks, and conflict resolution.
+running-effective-meetings;refoundai/lenny-skills;running-effective-meetings;Helps users run more effective meetings by addressing meeting overload, improving meeting culture, and facilitating decision-making.
+building-a-promotion-case;refoundai/lenny-skills;building-a-promotion-case;Helps users prepare for career promotions by building their advancement case and understanding blockers.
+building-team-culture;refoundai/lenny-skills;building-team-culture;This skill helps build and maintain strong team culture, including defining values, creating psychological safety, and managing cultural cha
+delegating-work;refoundai/lenny-skills;delegating-work;This skill helps users delegate tasks effectively, build team autonomy, and balance hands-on vs hands-off management.
+running-offsites;refoundai/lenny-skills;running-offsites;Plan and run effective team offsites for remote team cohesion and strategic planning.
+running-effective-1-1s;refoundai/lenny-skills;running-effective-1-1s;Helps managers run effective one-on-one meetings and improve career conversations with reports.
+managing-timelines;refoundai/lenny-skills;managing-timelines;Helps users set and hit realistic deadlines for project timelines.
+finding-mentors-sponsors;refoundai/lenny-skills;finding-mentors-sponsors;Helps users find mentors and sponsors for career growth and professional network building.
+energy-management;refoundai/lenny-skills;energy-management;Helps users manage energy for sustained performance, including scheduling and identifying energy drains.
+team-rituals;refoundai/lenny-skills;team-rituals;Design effective team rituals to build culture and improve communication.
+managing-up;refoundai/lenny-skills;managing-up;This skill helps users work effectively with their manager and executives, focusing on communication and relationship building.
+onboarding-new-hires;refoundai/lenny-skills;onboarding-new-hires;This skill helps with onboarding new hires by creating effective plans and ramping up employees faster.
+post-mortems-retrospectives;refoundai/lenny-skills;post-mortems-retrospectives;This skill helps users run effective post-mortems and retrospectives for project reviews and team learning improvement.
+career-transitions;refoundai/lenny-skills;career-transitions;Helps users navigate career transitions and pivots, including role changes, sabbaticals, and job evaluations.
+agile-sprint-planning;aj-geddes/useful-ai-prompts;agile-sprint-planning;Plan and execute effective sprints using Agile methodologies to maximize team productivity.
+novel-writer-workflow-guide;wordflowlab/novel-writer-skills;quality-assurance/workflow-guide;A guide for novel writers to organize their writing process using a seven-step methodology.
+capacity-planning;aj-geddes/useful-ai-prompts;capacity-planning;Plan team capacity, allocate resources, and balance workloads across projects.
+retrospective-facilitation;aj-geddes/useful-ai-prompts;retrospective-facilitation;Facilitate effective retrospectives to capture lessons learned and identify improvements.
+google-calendar;sanjay3290/postgres-skill;google-calendar;Manage Google Calendar events, including creating, updating, deleting, and finding free time.
+presentation-maker;eddiebe147/claude-settings;presentation-maker;Create PowerPoint presentations with slides, layouts, charts, and multimedia.
+content-calendar-planner;eddiebe147/claude-settings;content-calendar-planner;Plan and organize content calendars for consistent publishing.
+learning-path-creator;eddiebe147/claude-settings;learning-path-creator;Create personalized learning paths for skills and career development.
+project-planner;eddiebe147/claude-settings;project-planner;Create comprehensive project plans with timelines, dependencies, and resource allocation.
+pptx-generator;jwynia/agent-skills;general/document-processing/presentation/pptx-generator;Generate and manipulate PowerPoint PPTX files programmatically with template support.
+idea-capturer;eddiebe147/claude-settings;idea-capturer;Capture, organize, and develop ideas using structured thinking frameworks.
+task-manager;eddiebe147/claude-settings;task-manager;Organize, prioritize, and track tasks with intelligent delegation and progress monitoring.
+goal-setter;eddiebe147/claude-settings;goal-setter;Helps set and track meaningful goals using proven frameworks and accountability systems.
+decision-helper;eddiebe147/claude-settings;decision-helper;Helps make better decisions using structured frameworks and mental models.
+meeting-notes-taker;eddiebe147/claude-settings;meeting-notes-taker;This skill summarizes meetings into clear, actionable notes with decisions and next steps.
+sprint-planner;eddiebe147/claude-settings;sprint-planner;Plan and execute Agile sprints with velocity tracking and capacity planning.
+resume/cv-creator;eddiebe147/claude-settings;resume-cv-creator;Create professional resumes and CVs with formatting, templates, and ATS optimization.
+habit-tracker;eddiebe147/claude-settings;habit-tracker;Track and build positive habits using behavioral science and streak tracking.
+daily-planner;eddiebe147/claude-settings;daily-planner;Helps plan your day with structured daily planning sessions.
+pptx-presentation-builder;supercent-io/skills-template;;Create professional PPTX presentations with brand-aligned layouts using structured briefs and validation steps.
+focus-timer;eddiebe147/claude-settings;focus-timer;A structured focus timer using Pomodoro and deep work techniques.
+launch-planner;eddiebe147/claude-settings;launch-planner;Plan and orchestrate successful product and company launches with timeline and tasks.
+wiki-maintainer;eddiebe147/claude-settings;wiki-maintainer;Maintains and organizes internal wikis and knowledge base documentation.
+time-blocker;eddiebe147/claude-settings;time-blocker;Block time for focused work using calendar-based time management strategies.
+milestone-tracker;eddiebe147/claude-settings;milestone-tracker;Track project milestones with progress monitoring and deadline management.
+reading-list-manager;eddiebe147/claude-settings;reading-list-manager;Manage reading lists with progress tracking and note-taking features.
+journal-prompter;eddiebe147/claude-settings;journal-prompter;Provides daily journaling prompts and frameworks for personal reflection and growth.
+internal-memo-creator;eddiebe147/claude-settings;internal-memo-creator;Create clear and professional internal memos for company communication.
+slack-message-writer;eddiebe147/claude-settings;slack-message-writer;Write effective Slack messages for team communication.
+resource-allocator;eddiebe147/claude-settings;resource-allocator;Optimize team resource allocation across projects with capacity planning and workload balancing.
+meeting-scheduler;eddiebe147/claude-settings;meeting-scheduler;Automatically schedule and coordinate meetings with agenda creation and follow-up.
+retrospective-facilitator;eddiebe147/claude-settings;retrospective-facilitator;Facilitate team retrospectives with structured formats and actionable outcomes.
+word-processor-expert;eddiebe147/claude-settings;;A skill for expert-level word processing tasks.
+project-manager;404kidwiz/claude-supercode-skills;;A project management expert skill for planning, executing, monitoring, and closing projects using traditional and agile methodologies.
+excel-mcp;sbroenne/mcp-server-excel;excel-mcp;Automate Microsoft Excel tasks on Windows using COM interop.
+cv-creator;erichowens/some_claude_skills;cv-creator;Creates professional CVs and resumes in multiple formats with ATS optimization.
+task-breakdown;jwynia/agent-skills;general/productivity/task-breakdown;Break down overwhelming tasks for neurodivergent users with ADHD/autism-aware strategies.
+powerpoint-automation;aktsmm/agent-skills;;Automatically create professional PowerPoint presentations from various sources like articles and existing PPTX files.
+calendar;aviz85/claude-skills-library;;A skill for managing calendar events and scheduling tasks.
+youtube-downloader;aviz85/claude-skills-library;youtube-downloader;Download YouTube videos with quality presets.
+beads;johnlindquist/claude;beads;Manage tasks and issues using the bd CLI for sprint planning and project organization.
+task-breakdown-specialist;daffy0208/ai-dev-standards;task-breakdown-specialist;Breaks large tasks into ADHD-friendly micro-tasks to reduce activation energy and boost momentum.
+zoom-meeting;aviz85/claude-skills-library;;A skill for managing Zoom meetings.
+resume-builder;dkyazzentwatwa/chatgpt-skills;;Generate professional PDF resumes from structured data with multiple templates and ATS-friendly output.
+session-documenter;shipshitdev/library;session-documenter;Automatically documents session work, tracking decisions, file changes, and context for continuity.
+context-preserver;daffy0208/ai-dev-standards;context-preserver;Automatically saves and restores development context to reduce cognitive load when switching tasks or taking breaks.
+task-planning;supercent-io/skills-template;;Plan and organize software development tasks effectively with breakdown, user stories, and sprint planning.
+microsoft-word;andrejones92/canifi-life-os;microsoft-word;Enables document creation and editing in Microsoft Word Online via Playwright MCP.
+focus-session-manager;daffy0208/ai-dev-standards;focus-session-manager;Manages focus sessions and breaks using an ADHD-optimized Pomodoro technique to prevent burnout and boost productivity.
+internal-comms-3p-updates;bobmatnyc/claude-mpm-skills;;A framework for creating concise 3P updates (Progress, Plans, Problems) for executives and stakeholders.
+standup-meeting;supercent-io/skills-template;;Facilitate effective daily standup meetings for agile teams with time management and blocker resolution.
+sprint-retrospective;supercent-io/skills-template;;Facilitates effective sprint retrospectives for continuous team improvement and collaboration.
+deep-productivity;hexbee/hello-skills;deep-productivity;A skill for mastering deep work productivity through structured frameworks and goal hierarchies.
+kayak;andrejones92/canifi-life-os;kayak;Compare and track flight, hotel, and rental car prices across travel sites.
+linkedin-learning;andrejones92/canifi-life-os;linkedin-learning;Access LinkedIn Learning courses and track professional development.
+apple-music;andrejones92/canifi-life-os;apple-music;Manage Apple Music library, playlists, and radio stations.
+internal-comms;shipshitdev/library;internal-comms;A skill for writing various types of internal communications like reports and updates.
+pptx;dedalus-erp-pas/foundation-skills;pptx;Create, edit, and analyze PowerPoint presentations (.pptx files) with support for layouts, comments, and speaker notes.
+progress-report;drillan/speckit-gates;progress-report;A skill that displays a progress dashboard showing phase completion, blocked tasks, and remaining work estimate.

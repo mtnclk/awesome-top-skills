@@ -1,7 +1,7 @@
 # Tag: fal-ai
 
 - Back: [Tags](README.md)
-- Tagged skills: 7
+- Tagged skills: 8
 
 | Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
 | - | - | - | -: | -: | - | - |
@@ -12,3 +12,4 @@
 | [fal-platform](https://github.com/ilkerzg/agent-skills/blob/main/skills/claude.ai/fal-platform/SKILL.md) | [ilkerzg/agent-skills](https://github.com/ilkerzg/agent-skills) | Manage models, pricing, usage tracking, and cost estimation via fal.ai Platform APIs. | 14 | 24 | 2026-01-27 | [api](api.md), [pricing](pricing.md), [fal-ai](fal-ai.md) |
 | [fal-upscale](https://github.com/ilkerzg/agent-skills/blob/main/skills/claude.ai/fal-upscale/SKILL.md) | [ilkerzg/agent-skills](https://github.com/ilkerzg/agent-skills) | Upscales and enhances image resolution using AI for tasks like 'upscale image' or 'enhance resolution'. | 14 | 22 | 2026-01-27 | [image-generation](image-generation.md), [text-to-image](text-to-image.md), [fal-ai](fal-ai.md) |
 | [fal-audio](https://github.com/ilkerzg/agent-skills/blob/main/skills/claude.ai/fal-audio/SKILL.md) | [ilkerzg/agent-skills](https://github.com/ilkerzg/agent-skills) | A skill for text-to-speech and speech-to-text using fal.ai models. | 14 | 21 | 2026-01-27 | [text-to-speech](text-to-speech.md), [transcription](transcription.md), [audio-generation](audio-generation.md), [fal-ai](fal-ai.md) |
+| [fal-image-edit](https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-image-edit/SKILL.md) | [fal-ai-community/skills](https://github.com/fal-ai-community/skills) | Edit images using AI on fal.ai with features like style transfer and object removal. | 14 | 21 | 2026-01-27 | [image-generation](image-generation.md), [text-to-image](text-to-image.md), [fal-ai](fal-ai.md) |

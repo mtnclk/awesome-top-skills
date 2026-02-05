@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-02-04T15:17:45.919Z",
+  "generated_at": "2026-02-05T16:07:23.048Z",
   "categories": {
     "ai-llm": {
       "zh": "AI/LLM（大模型）",
@@ -284,6 +284,10 @@
       "zh": "AI art",
       "bilingual": true
     },
+    "ai-assisted": {
+      "zh": "AI assisted",
+      "bilingual": true
+    },
     "ai-models": {
       "zh": "AI models",
       "bilingual": true
@@ -362,6 +366,14 @@
     },
     "ansible": {
       "zh": "ansible",
+      "bilingual": true
+    },
+    "ant-design": {
+      "zh": "ant design",
+      "bilingual": true
+    },
+    "antd": {
+      "zh": "antd",
       "bilingual": true
     },
     "anthropic": {
@@ -716,6 +728,10 @@
       "zh": "bmad",
       "bilingual": true
     },
+    "boilerplate": {
+      "zh": "boilerplate",
+      "bilingual": true
+    },
     "book": {
       "zh": "book",
       "bilingual": true
@@ -774,6 +790,10 @@
     },
     "burpsuite": {
       "zh": "burpsuite",
+      "bilingual": true
+    },
+    "business-intelligence": {
+      "zh": "business intelligence",
       "bilingual": true
     },
     "business-model": {
@@ -1118,6 +1138,10 @@
     },
     "computational-pathology": {
       "zh": "computational pathology",
+      "bilingual": true
+    },
+    "computer-science": {
+      "zh": "computer science",
       "bilingual": true
     },
     "computer-use": {
@@ -1696,6 +1720,10 @@
       "zh": "estimation",
       "bilingual": true
     },
+    "etf": {
+      "zh": "etf",
+      "bilingual": true
+    },
     "ethereum": {
       "zh": "ethereum",
       "bilingual": true
@@ -2080,6 +2108,10 @@
       "zh": "glsl",
       "bilingual": true
     },
+    "gluestack-ui": {
+      "zh": "gluestack UI",
+      "bilingual": true
+    },
     "gmail": {
       "zh": "gmail",
       "bilingual": true
@@ -2228,6 +2260,10 @@
       "zh": "harmonyos",
       "bilingual": true
     },
+    "headless-browser": {
+      "zh": "headless browser",
+      "bilingual": true
+    },
     "headless-chrome": {
       "zh": "headless chrome",
       "bilingual": true
@@ -2266,6 +2302,10 @@
     },
     "hiring": {
       "zh": "hiring",
+      "bilingual": true
+    },
+    "home-assistant": {
+      "zh": "home assistant",
       "bilingual": true
     },
     "homebrew": {
@@ -2708,6 +2748,10 @@
       "zh": "leadership",
       "bilingual": true
     },
+    "lean": {
+      "zh": "lean",
+      "bilingual": true
+    },
     "learning": {
       "zh": "learning",
       "bilingual": true
@@ -2992,6 +3036,10 @@
       "zh": "metasploit",
       "bilingual": true
     },
+    "methodology": {
+      "zh": "methodology",
+      "bilingual": true
+    },
     "metrics": {
       "zh": "指标",
       "bilingual": true
@@ -3200,6 +3248,10 @@
       "zh": "neon Postgres",
       "bilingual": true
     },
+    "neovim": {
+      "zh": "neovim",
+      "bilingual": true
+    },
     "nestjs": {
       "zh": "nestjs",
       "bilingual": true
@@ -3282,6 +3334,10 @@
     },
     "notion": {
       "zh": "notion",
+      "bilingual": true
+    },
+    "novel": {
+      "zh": "novel",
       "bilingual": true
     },
     "npm": {
@@ -3398,6 +3454,10 @@
     },
     "optimization": {
       "zh": "优化",
+      "bilingual": true
+    },
+    "oracle": {
+      "zh": "oracle",
       "bilingual": true
     },
     "orchestration": {
@@ -3620,10 +3680,6 @@
       "zh": "platform",
       "bilingual": true
     },
-    "platform-engineering": {
-      "zh": "platform engineering",
-      "bilingual": true
-    },
     "playwright": {
       "zh": "playwright",
       "bilingual": true
@@ -3795,6 +3851,10 @@
     "project-management": {
       "zh": "项目管理",
       "bilingual": false
+    },
+    "project-scaffolding": {
+      "zh": "project scaffolding",
+      "bilingual": true
     },
     "prometheus": {
       "zh": "prometheus",
@@ -4106,6 +4166,10 @@
     },
     "release-notes": {
       "zh": "发布 notes",
+      "bilingual": true
+    },
+    "reliability": {
+      "zh": "reliability",
       "bilingual": true
     },
     "remix": {
@@ -4604,6 +4668,14 @@
       "zh": "spark",
       "bilingual": true
     },
+    "spec": {
+      "zh": "spec",
+      "bilingual": true
+    },
+    "spec-driven-development": {
+      "zh": "spec driven development",
+      "bilingual": true
+    },
     "speckit": {
       "zh": "speckit",
       "bilingual": true
@@ -4958,6 +5030,10 @@
     },
     "template": {
       "zh": "template",
+      "bilingual": true
+    },
+    "template-management": {
+      "zh": "template management",
       "bilingual": true
     },
     "temporal": {
@@ -5420,6 +5496,10 @@
       "zh": "wcag",
       "bilingual": true
     },
+    "weather": {
+      "zh": "weather",
+      "bilingual": true
+    },
     "web-analytics": {
       "zh": "web 分析",
       "bilingual": true
@@ -5594,10 +5674,6 @@
     },
     "xiaohongshu": {
       "zh": "xiaohongshu",
-      "bilingual": true
-    },
-    "xls": {
-      "zh": "xls",
       "bilingual": true
     },
     "xlsx": {

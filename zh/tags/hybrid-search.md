@@ -1,10 +1,11 @@
 # 标签：hybrid search (hybrid-search)
 
 - 返回: [标签（中文）](README.md)
-- 命中技能: 3
+- 命中技能: 4
 
 | 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
 | - | - | - | -: | -: | - | - |
 | [hybrid-search-implementation](https://github.com/wshobson/agents/blob/main/plugins/llm-application-dev/skills/hybrid-search-implementation/SKILL.md) | [wshobson/agents](https://github.com/wshobson/agents) | 实现混合搜索，结合向量和关键词方法以提升RAG系统和搜索引擎的检索效果。 | 28K | 798 | 2026-02-02 | [RAG（检索增强生成） (rag)](rag.md), [search (search)](search.md), [hybrid search (hybrid-search)](hybrid-search.md), [vector 数据库 (vector-database)](vector-database.md), [查询优化 (query-optimization)](query-optimization.md) |
-| [qmd](https://github.com/levineam/qmd-skill/blob/main/SKILL.md) | [levineam/qmd-skill](https://github.com/levineam/qmd-skill) | 本地混合搜索工具，适用于标记笔记和文档。 | 346 | 47 | 2026-01-28 | [hybrid search (hybrid-search)](hybrid-search.md), [markdown (markdown)](markdown.md), [note taking (note-taking)](note-taking.md), [document processing (document-processing)](document-processing.md) |
-| [azure-search-documents-py](https://github.com/microsoft/agent-skills/blob/main/.github/skills/azure-search-documents-py/SKILL.md) | [microsoft/agent-skills](https://github.com/microsoft/agent-skills) | 用于向量、混合和语义搜索的 Azure AI 搜索 Python SDK。 | 339 | 22 | 2026-02-03 | [vector search (vector-search)](vector-search.md), [hybrid search (hybrid-search)](hybrid-search.md), [semantic search (semantic-search)](semantic-search.md), [azure (azure)](azure.md), [AI SDK (ai-sdk)](ai-sdk.md), [智能体 (agents)](agents.md) |
+| [qmd](https://github.com/levineam/qmd-skill/blob/main/SKILL.md) | [levineam/qmd-skill](https://github.com/levineam/qmd-skill) | 本地混合搜索工具，适用于标记笔记和文档。 | 358 | 47 | 2026-01-28 | [hybrid search (hybrid-search)](hybrid-search.md), [markdown (markdown)](markdown.md), [note taking (note-taking)](note-taking.md), [document processing (document-processing)](document-processing.md) |
+| [qmd](https://github.com/tobi/qmd/blob/main/skills/qmd/SKILL.md) | [tobi/qmd](https://github.com/tobi/qmd) | 本地混合搜索引擎，用于搜索个人知识库、笔记和文档。 | 6.1K | 28 | 2026-02-02 | [knowledge base (knowledge-base)](knowledge-base.md), [search (search)](search.md), [hybrid search (hybrid-search)](hybrid-search.md), [markdown (markdown)](markdown.md), [local (local)](local.md) |
+| [azure-search-documents-py](https://github.com/microsoft/agent-skills/blob/main/.github/skills/azure-search-documents-py/SKILL.md) | [microsoft/agent-skills](https://github.com/microsoft/agent-skills) | 用于向量、混合和语义搜索的 Azure AI 搜索 Python SDK。 | 445 | 25 | 2026-02-03 | [vector search (vector-search)](vector-search.md), [hybrid search (hybrid-search)](hybrid-search.md), [semantic search (semantic-search)](semantic-search.md), [azure (azure)](azure.md), [AI SDK (ai-sdk)](ai-sdk.md), [智能体 (agents)](agents.md) |

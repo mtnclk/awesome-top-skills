@@ -5,5 +5,5 @@
 
 | 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
 | - | - | - | -: | -: | - | - |
-| [kapso-ops](https://github.com/gokapso/agent-skills) | [gokapso/agent-skills](https://github.com/gokapso/agent-skills) | 一个用于管理操作和配置的工具。 | 28 | 80 | 2026-02-01 | [工具链 (tooling)](../../../tags/tooling.md), [环境配置 (setup)](../../../tags/setup.md), [自动化 (automation)](../../../tags/automation.md) |
+| [kapso-ops](https://github.com/gokapso/agent-skills) | [gokapso/agent-skills](https://github.com/gokapso/agent-skills) | 一个用于管理操作和配置的工具。 | 29 | 80 | 2026-02-01 | [工具链 (tooling)](../../../tags/tooling.md), [环境配置 (setup)](../../../tags/setup.md), [自动化 (automation)](../../../tags/automation.md) |
 | [kiss-principle](https://github.com/markpitt/claude-skills/blob/main/skills/kiss-principle/SKILL.md) | [markpitt/claude-skills](https://github.com/markpitt/claude-skills) | 应用K.I.S.S.原则简化系统，提高可维护性，优雅地解决问题。 | 6 | 24 | 2025-12-05 | [最佳实践 (best-practices)](../../../tags/best-practices.md), [架构 (architecture)](../../../tags/architecture.md), [规划 (planning)](../../../tags/planning.md), [code (code)](../../../tags/code.md) |

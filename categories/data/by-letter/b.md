@@ -1,10 +1,11 @@
 # data / b
 
 - Back: [Category](../README.md)
-- Count: 3
+- Count: 4
 
 | Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
 | - | - | - | -: | -: | - | - |
 | [backtesting-trading-strategies](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/blob/main/plugins/crypto/trading-strategy-backtester/skills/backtesting-trading-strategies/SKILL.md) | [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | Backtest trading strategies using historical data and calculate performance metrics. | 1.2K | 24 | 2026-02-01 | [finance](../../../tags/finance.md), [quantitative-analysis](../../../tags/quantitative-analysis.md), [backtesting](../../../tags/backtesting.md), [trading](../../../tags/trading.md), [crypto](../../../tags/crypto.md) |
 | [building-dashboards](https://github.com/axiomhq/skills/blob/main/skills/building-dashboards/SKILL.md) | [axiomhq/skills](https://github.com/axiomhq/skills) | Create and configure Axiom dashboards using API with support for various chart types and SmartFilters. | 2 | 24 | 2026-01-28 | [visualization](../../../tags/visualization.md), [dashboard](../../../tags/dashboard.md), [api](../../../tags/api.md), [chart](../../../tags/chart.md) |
 | [bv](https://github.com/dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations/blob/main/skills/bv/SKILL.md) | [dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations](https://github.com/dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations) | A graph-aware triage engine for Beads projects that computes PageRank, betweenness, and critical path. | 41 | 23 | 2026-01-30 | [analysis](../../../tags/analysis.md), [visualization](../../../tags/visualization.md), [graph](../../../tags/graph.md) |
+| [building-dbt-semantic-layer](https://github.com/dbt-labs/dbt-agent-skills/blob/main/skills/building-dbt-semantic-layer/SKILL.md) | [dbt-labs/dbt-agent-skills](https://github.com/dbt-labs/dbt-agent-skills) | Create or modify dbt Semantic Layer components including semantic models, metrics, and dimensions using MetricFlow. | 13 | 22 | 2026-02-03 | [data-analysis](../../../tags/data-analysis.md), [analytics](../../../tags/analytics.md), [dbt](../../../tags/dbt.md), [metrics](../../../tags/metrics.md) |

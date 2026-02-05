@@ -1,11 +1,12 @@
 # 标签：algorithmic trading (algorithmic-trading)
 
 - 返回: [标签（中文）](README.md)
-- 命中技能: 4
+- 命中技能: 5
 
 | 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
 | - | - | - | -: | -: | - | - |
 | [trading-expert](https://github.com/personamanagmentlayer/pcl/blob/main/stdlib/domains/trading-expert/SKILL.md) | [personamanagmentlayer/pcl](https://github.com/personamanagmentlayer/pcl) | 专家级算法交易、市场系统和量化分析。 | 1 | 39 | 2026-02-02 | [财务 (finance)](finance.md), [trading (trading)](trading.md), [algorithmic trading (algorithmic-trading)](algorithmic-trading.md), [quantitative analysis (quantitative-analysis)](quantitative-analysis.md), [market systems (market-systems)](market-systems.md) |
 | [market-regimes](https://github.com/0xhubed/agent-trading-arena/blob/main/skills/market-regimes/SKILL.md) | [0xhubed/agent-trading-arena](https://github.com/0xhubed/agent-trading-arena) | 检测市场周期并应用特定交易策略。 | 1 | 23 | 2026-01-18 | [财务 (finance)](finance.md), [分析 (analysis)](analysis.md), [technical analysis (technical-analysis)](technical-analysis.md), [algorithmic trading (algorithmic-trading)](algorithmic-trading.md) |
+| [quant-analyst](https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/quant-analyst/SKILL.md) | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 构建金融模型，回测交易策略，分析市场数据。 | 6.9K | 22 | 2026-02-03 | [财务 (finance)](finance.md), [quantitative analysis (quantitative-analysis)](quantitative-analysis.md), [statistical analysis (statistical-analysis)](statistical-analysis.md), [backtesting (backtesting)](backtesting.md), [algorithmic trading (algorithmic-trading)](algorithmic-trading.md) |
 | [dividend-growth-pullback-screener](https://github.com/nicepkg/ai-workflow/blob/main/workflows/stock-trader-workflow/.claude/skills/dividend-growth-pullback-screener/SKILL.md) | [nicepkg/ai-workflow](https://github.com/nicepkg/ai-workflow) | 利用RSI指标寻找高质量股息增长股票的短期回调机会。 | 23 | 21 | 2026-01-20 | [财务 (finance)](finance.md), [分析 (analysis)](analysis.md), [quantitative analysis (quantitative-analysis)](quantitative-analysis.md), [algorithmic trading (algorithmic-trading)](algorithmic-trading.md), [technical analysis (technical-analysis)](technical-analysis.md) |
 | [pair-trade-screener](https://github.com/nicepkg/ai-workflow/blob/main/workflows/stock-trader-workflow/.claude/skills/pair-trade-screener/SKILL.md) | [nicepkg/ai-workflow](https://github.com/nicepkg/ai-workflow) | 用于识别和分析配对交易机会的统计套利工具。 | 23 | 21 | 2026-01-20 | [statistical analysis (statistical-analysis)](statistical-analysis.md), [quantitative analysis (quantitative-analysis)](quantitative-analysis.md), [财务 (finance)](finance.md), [algorithmic trading (algorithmic-trading)](algorithmic-trading.md), [backtesting (backtesting)](backtesting.md) |

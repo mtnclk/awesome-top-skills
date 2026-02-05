@@ -1,9 +1,11 @@
 # Tag: apollo
 
 - Back: [Tags](README.md)
-- Tagged skills: 2
+- Tagged skills: 4
 
 | Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
 | - | - | - | -: | -: | - | - |
-| [apollo-connectors](https://github.com/apollographql/skills/blob/main/skills/apollo-connectors/SKILL.md) | [apollographql/skills](https://github.com/apollographql/skills) | Helps integrate REST APIs into GraphQL supergraphs using Apollo Connectors. | 10 | 111 | 2026-02-02 | [api](api.md), [graphql](graphql.md), [backend](backend.md), [rest](rest.md), [apollo](apollo.md) |
+| [apollo-server](https://github.com/apollographql/skills/blob/main/skills/apollo-server/SKILL.md) | [apollographql/skills](https://github.com/apollographql/skills) | A skill for building GraphQL servers with Apollo Server 5.x, covering setup, resolvers, auth, plugins, and troubleshooting. | 11 | 149 | 2026-02-03 | [api](api.md), [backend](backend.md), [graphql](graphql.md), [apollo](apollo.md) |
+| [apollo-connectors](https://github.com/apollographql/skills/blob/main/skills/apollo-connectors/SKILL.md) | [apollographql/skills](https://github.com/apollographql/skills) | Integrate REST APIs into GraphQL supergraphs using Apollo Connectors. | 11 | 135 | 2026-02-03 | [api](api.md), [graphql](graphql.md), [apollo](apollo.md) |
+| [skill-creator](https://github.com/apollographql/skills/blob/main/skills/skill-creator/SKILL.md) | [apollographql/skills](https://github.com/apollographql/skills) | A guide for creating effective skills for Apollo GraphQL and GraphQL development. | 11 | 39 | 2026-02-03 | [skill-creation](skill-creation.md), [best-practices](best-practices.md), [documentation](documentation.md), [apollo](apollo.md), [graphql](graphql.md) |
 | [apollo-graphql-best-practices](https://github.com/maximepzv/skills/blob/master/apollo-graphql-best-practices/SKILL.md) | [maximepzv/skills](https://github.com/maximepzv/skills) | Best practices for Apollo GraphQL development including Client and Server configurations. | 0 | 23 | 2026-01-23 | [best-practices](best-practices.md), [graphql](graphql.md), [apollo](apollo.md), [backend](backend.md) |

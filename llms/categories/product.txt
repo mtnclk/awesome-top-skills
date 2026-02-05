@@ -1,0 +1,112 @@
+# Agent Skills Index
+URL_TEMPLATE: https://raw.githubusercontent.com/{repo}/main/skills/{path}/SKILL.md
+COLUMNS: id;repo;path;summary
+
+## PRODUCT SKILLS (TOP 800)
+prd;github/awesome-copilot;prd;Generate high-quality PRDs with executive summaries, user stories, and risk analysis for software and AI features.
+product-strategist;davila7/claude-code-templates;business-marketing/product-strategist;A strategic product leadership toolkit for Head of Product, including OKR cascade generation, market analysis, vision setting, and team scal
+agile-product-owner;davila7/claude-code-templates;business-marketing/agile-product-owner;An Agile product ownership toolkit for Senior Product Owners including user story generation, sprint planning, and backlog management.
+product-manager-toolkit;davila7/claude-code-templates;business-marketing/product-manager-toolkit;A comprehensive toolkit for product managers including RICE prioritization, customer interview analysis, PRD templates, and go-to-market str
+linear;davila7/claude-code-templates;productivity/linear;Manage issues, projects, and team workflows in Linear.
+requirements-clarity;davila7/claude-code-templates;productivity/requirements-clarity;Clarify ambiguous requirements through focused dialogue before implementation, using Why? and Simpler? checks.
+launch-strategy;davila7/claude-code-templates;business-marketing/launch-strategy;Plan product launches, feature announcements, and release strategies with phased approaches and channel planning.
+app-store-optimization;davila7/claude-code-templates;business-marketing/app-store-optimization;A complete App Store Optimization (ASO) toolkit for researching, optimizing, and tracking mobile app performance.
+game-changing-features;davila7/claude-code-templates;productivity/game-changing-features;Identifies high-impact product opportunities and improvements for strategic thinking.
+signup-flow-cro;davila7/claude-code-templates;business-marketing/signup-flow-cro;Optimize user signup and registration flows to reduce drop-off and improve conversion rates.
+ai-wrapper-product;davila7/claude-code-templates;business-marketing/ai-wrapper-product;Build AI-powered products that wrap APIs into focused tools with cost management and rate limiting.
+page-cro;davila7/claude-code-templates;business-marketing/page-cro;Optimize marketing pages for better conversions, including homepage, landing pages, and blog posts.
+onboarding-cro;davila7/claude-code-templates;business-marketing/onboarding-cro;Optimizes post-signup onboarding, user activation, and first-run experience to improve time-to-value.
+ab-test-setup;davila7/claude-code-templates;business-marketing/ab-test-setup;Plan, design, and implement A/B tests or experiments with variant copy and multivariate testing.
+prd;snarktank/ralph;prd;Generate a Product Requirements Document (PRD) for new features or projects.
+launch-strategy;coreyhaines31/marketingskills;launch-strategy;Plan product launches, feature announcements, and release strategies with phased approaches and channel planning.
+page-cro;coreyhaines31/marketingskills;page-cro;Optimize marketing pages for better conversions, including homepage, landing pages, and blog posts.
+onboarding-cro;coreyhaines31/marketingskills;onboarding-cro;Optimizes post-signup onboarding, user activation, and first-run experience to improve time-to-value.
+signup-flow-cro;coreyhaines31/marketingskills;signup-flow-cro;Optimize user signup and registration flows to reduce drop-off and improve conversion rates.
+ab-test-setup;coreyhaines31/marketingskills;ab-test-setup;Plan, design, and implement A/B tests or experiments with variant copy and multivariate testing.
+product-manager-toolkit;sickn33/antigravity-awesome-skills;product-manager-toolkit;A comprehensive toolkit for product managers including RICE prioritization, customer interview analysis, PRD templates, and go-to-market str
+app-store-optimization;sickn33/antigravity-awesome-skills;app-store-optimization;A complete App Store Optimization (ASO) toolkit for researching, optimizing, and tracking mobile app performance.
+ai-wrapper-product;sickn33/antigravity-awesome-skills;ai-wrapper-product;Build AI-powered products that wrap APIs into focused tools with cost management and rate limiting.
+ab-test-setup;sickn33/antigravity-awesome-skills;ab-test-setup;A structured guide for setting up A/B tests with mandatory gates for hypothesis, metrics, and execution readiness.
+launch-strategy;sickn33/antigravity-awesome-skills;launch-strategy;Plan product launches, feature announcements, and release strategies with phased approaches and channel planning.
+signup-flow-cro;sickn33/antigravity-awesome-skills;signup-flow-cro;Optimize user signup and registration flows to reduce drop-off and improve conversion rates.
+onboarding-cro;sickn33/antigravity-awesome-skills;onboarding-cro;Optimizes post-signup onboarding, user activation, and first-run experience to improve time-to-value.
+ralph-init;yeachan-heo/oh-my-claudecode;ralph-init;Initialize a Product Requirements Document (PRD) for structured Ralph-loop execution.
+ralph-tui-prd;subsy/ralph-tui;ralph-tui-prd;Generates Product Requirements Documents (PRDs) with user stories for task orchestration, convertible to beads issues or prd.json.
+linear;openai/skills;main/skills/.curated/linear;Manage issues, projects, and team workflows in Linear.
+game-changing-features;softaworks/agent-toolkit;game-changing-features;Identifies high-impact product opportunities and improvements for strategic thinking.
+product-requirements;cexll/myclaude;product-requirements;An interactive Product Owner skill for gathering requirements, analyzing features, and generating PRDs with quality scoring and iterative di
+agile-product-owner;alirezarezvani/claude-skills;;An Agile product owner skill for backlog management, sprint planning, and user story writing.
+product-manager-toolkit;alirezarezvani/claude-skills;;A comprehensive toolkit for product managers including RICE prioritization, customer interview analysis, PRD templates, and go-to-market str
+product-strategist;alirezarezvani/claude-skills;;A strategic product leadership toolkit for Head of Product, including OKR cascade generation, market analysis, vision setting, and team scal
+app-store-optimization;alirezarezvani/claude-skills;;An App Store Optimization toolkit for keyword research, metadata optimization, and performance tracking on Apple and Google Play stores.
+product-master;huangserva/skill-prompt-generator;;A skill for mastering product management processes and documentation.
+avoid-feature-creep;waynesutton/convexskills;avoid-feature-creep;Prevent feature creep during software and AI product development to maintain focus and ship faster.
+requirements-engineering;jasonkneen/kiro;requirements-engineering;Transform vague feature ideas into clear, testable requirements using EARS format.
+requirements-clarity;softaworks/agent-toolkit;requirements-clarity;Clarify ambiguous requirements through focused dialogue before implementation, using Why? and Simpler? checks.
+feature-forge;jeffallan/claude-skills;feature-forge;Define new features, gather requirements, and write specifications using EARS format.
+product-manager;aj-geddes/claude-code-bmad-skills;bmm/pm;A skill for product requirements and planning specialization.
+writing-prds;refoundai/lenny-skills;writing-prds;A skill to help users write effective Product Requirements Documents (PRDs) for product development and engineering teams.
+defining-product-vision;refoundai/lenny-skills;defining-product-vision;This skill helps users define and articulate compelling product visions, aligning teams on long-term direction and distinguishing vision fro
+ai-product-strategy;refoundai/lenny-skills;ai-product-strategy;Define AI product strategy, including roadmap planning and build-vs-buy decisions.
+user-onboarding;refoundai/lenny-skills;user-onboarding;Helps design effective product onboarding experiences to improve activation rates and user retention.
+writing-specs-designs;refoundai/lenny-skills;writing-specs-designs;Assists in creating effective technical specifications and design documents for product requirements.
+positioning-messaging;refoundai/lenny-skills;positioning-messaging;Helps users craft product positioning and messaging for launches, differentiation, and value propositions.
+technical-roadmaps;refoundai/lenny-skills;technical-roadmaps;This skill helps users create technical roadmaps for engineering work, tech debt prioritization, and architecture alignment.
+launch-marketing;refoundai/lenny-skills;launch-marketing;A skill for planning and executing product launches, including PR outreach and go-to-market campaigns.
+prioritizing-roadmap;refoundai/lenny-skills;prioritizing-roadmap;Helps prioritize product roadmaps and backlogs by guiding decisions on feature sequencing, resource allocation, and stakeholder requests.
+working-backwards;refoundai/lenny-skills;working-backwards;Apply the working backwards methodology for product definition and planning.
+designing-growth-loops;refoundai/lenny-skills;designing-growth-loops;Helps design and optimize growth loops for viral mechanics, referral programs, and product-led acquisition.
+usability-testing;refoundai/lenny-skills;usability-testing;Helps users conduct effective usability testing for product design and validation.
+writing-north-star-metrics;refoundai/lenny-skills;writing-north-star-metrics;Helps users define their North Star metric for product success tracking.
+retention-engagement;refoundai/lenny-skills;retention-engagement;Improve user retention and engagement by optimizing activation flows and building habit-forming products.
+analyzing-user-feedback;refoundai/lenny-skills;analyzing-user-feedback;Analyze customer feedback including NPS responses, support tickets, and user research to identify patterns and insights.
+behavioral-product-design;refoundai/lenny-skills;behavioral-product-design;Apply behavioral science to product design for habit formation and user retention.
+product-taste-intuition;refoundai/lenny-skills;product-taste-intuition;Helps users develop product taste and intuition for better decision-making.
+evaluating-candidates;refoundai/lenny-skills;evaluating-candidates;Helps users make better hiring decisions by evaluating candidates, conducting reference checks, and reviewing work samples.
+measuring-product-market-fit;refoundai/lenny-skills;measuring-product-market-fit;Assess product-market fit through user engagement, retention, and surveys.
+planning-under-uncertainty;refoundai/lenny-skills;planning-under-uncertainty;Helps plan products and strategies under uncertainty, useful for ambiguous timelines and fast-moving markets.
+community-building;refoundai/lenny-skills;community-building;Helps users build and grow product communities, including scaling ambassador programs and driving community-led growth.
+scoping-cutting;refoundai/lenny-skills;scoping-cutting;Helps users define MVPs, manage scope creep, and make feature tradeoffs effectively.
+shipping-products;refoundai/lenny-skills;shipping-products;Helps users ship products faster with better quality by improving release practices and velocity.
+product-operations;refoundai/lenny-skills;product-operations;This skill helps users build and scale product operations functions, focusing on cross-functional coordination and process standardization.
+dogfooding;refoundai/lenny-skills;dogfooding;Helps implement effective dogfooding practices to build user empathy and improve product adoption.
+cross-functional-collaboration;refoundai/lenny-skills;cross-functional-collaboration;This skill helps users work effectively across different functions, especially in managing PM-engineering relationships and resolving cross-
+coaching-pms;refoundai/lenny-skills;coaching-pms;This skill helps coaches develop product managers by guiding performance reviews, team capability building, and career planning.
+organizational-transformation;refoundai/lenny-skills;organizational-transformation;Helps transform organizations towards modern product practices, including shifting from feature teams to product teams and driving cultural
+user-story-writing;aj-geddes/useful-ai-prompts;user-story-writing;Helps write effective user stories with clear acceptance criteria for development guidance.
+requirements-gathering;aj-geddes/useful-ai-prompts;requirements-gathering;A skill for systematically gathering and validating stakeholder requirements to ensure clarity and completeness before development.
+user-persona-creation;aj-geddes/useful-ai-prompts;user-persona-creation;Create detailed user personas to guide product decisions and ensure user-centered design.
+technical-roadmap-planning;aj-geddes/useful-ai-prompts;technical-roadmap-planning;Plan technical roadmaps aligned with business goals, covering technology investments and infrastructure improvements.
+prd-generator;jamesrochabrun/skills;main/skills/prd-generator;Generate comprehensive Product Requirements Documents (PRDs) for product managers.
+discover-product;rand/cc-polymath;discover-product;Discover product management skills automatically for tasks like roadmap, user stories, and strategy.
+requirements-analysis;jwynia/agent-skills;tech/development/architecture/requirements-analysis;Analyze requirements problems and guide discovery of real needs and constraints.
+product-management;vasilyu1983/ai-agents-public;product-management;Operational product management skill focusing on discovery, strategy, roadmaps, metrics, and leadership using templates and checklists.
+spec-driven-brainstorming;anton-abyzov/specweave;spec-driven-brainstorming;A product discovery expert that helps teams brainstorm features, break down epics, and prioritize using frameworks like MoSCoW and RICE.
+feature-spec;pproenca/dot-skills;.experimental/feature-spec;A skill for software engineers to create feature specifications and plan product development.
+prd-mastery:-context-aware;gocallum/nextjs16-agent-skills;;A skill for mastering PRD creation with context awareness.
+a/b-test-designer;eddiebe147/claude-settings;ab-test-designer;Design statistically valid A/B tests for marketing optimization.
+mvp-planner;eddiebe147/claude-settings;mvp-planner;Plan and scope minimum viable products with feature prioritization.
+roadmap-builder;eddiebe147/claude-settings;roadmap-builder;Build strategic product roadmaps with theme-based planning and stakeholder alignment.
+pricing-page-optimizer;eddiebe147/claude-settings;pricing-page-optimizer;Optimize pricing page presentation for maximum conversion.
+onboarding-designer;eddiebe147/claude-settings;onboarding-designer;Design effective user onboarding flows to drive activation, adoption, and retention.
+product-launch-coordinator;eddiebe147/claude-settings;product-launch-coordinator;Coordinate product launches across channels with timing, messaging, and campaigns.
+pmf-analyzer;eddiebe147/claude-settings;pmf-analyzer;Analyze product-market fit using frameworks, metrics, and customer signals.
+customer-journey-mapper;eddiebe147/claude-settings;customer-journey-mapper;Map customer journeys to optimize touchpoints and experiences.
+nps-survey-creator;eddiebe147/claude-settings;nps-survey-creator;Create, deploy, and analyze NPS surveys to measure customer loyalty.
+client-onboarding-designer;eddiebe147/claude-settings;client-onboarding-designer;Design smooth client onboarding experiences to ensure success and retention.
+marketing-product-analytics;vasilyu1983/ai-agents-public;marketing-product-analytics;A skill for product analytics instrumentation and strategy, covering event taxonomy, tracking plans, and user behavior analysis.
+task-prd-creator;shipshitdev/library;task-prd-creator;Creates structured task files and PRDs for new features, enhancements, or bug fixes.
+product-analyst;daffy0208/ai-dev-standards;product-analyst;Analyze user metrics and behavior to drive product decisions.
+product-analytics;daffy0208/ai-dev-standards;product-analytics;Track events, funnels, cohorts, and metrics to measure product performance and user behavior.
+using-user-stories;andrelandgraf/fullstackrecipes;using-user-stories;Use user stories to document and track feature implementation with clear acceptance criteria.
+prd;snarktank/amp-skills;;A skill for creating and managing product requirement documents (PRD).
+user-stories-setup;andrelandgraf/fullstackrecipes;user-stories-setup;Setup structured user story format with testable acceptance criteria for feature requirements.
+mvp-builder;daffy0208/ai-dev-standards;mvp-builder;Build and validate minimum viable products with rapid development and feature prioritization.
+customer-feedback-analyzer;daffy0208/ai-dev-standards;customer-feedback-analyzer;Analyze customer feedback from multiple channels to identify patterns and inform product decisions.
+product-strategist;daffy0208/ai-dev-standards;product-strategist;Validates product-market fit and strategic direction for new products and feature prioritization.
+product-manager;lotosbin/claude-skills;;A skill for product managers to handle product-related tasks and planning.
+mvp-architect;shipshitdev/library;mvp-architect;Helps scope MVPs, define minimum viable features, and plan early product development.
+task-estimation;supercent-io/skills-template;;Accurately estimate software development tasks using story points, t-shirt sizing, planning poker, and best practices.
+roadmap-analyzer;shipshitdev/library;roadmap-analyzer;Analyze project features against ideal customer profile needs to identify gaps and recommend roadmap priorities.
+retention-engine;shipshitdev/library;retention-engine;A skill for reducing customer churn and increasing lifetime value through retention strategies and subscription optimization.
+requirements-specification;pluginagentmarketplace/custom-plugin-product-manager;requirements;Master requirements gathering, user story writing, and acceptance criteria definition for clear specifications.
