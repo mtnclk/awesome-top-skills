@@ -1,0 +1,13 @@
+# Tag: guides
+
+- Back: [Tags](README.md)
+- Tagged skills: 6
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [odoo-18](https://github.com/unclecatvn/agent-skills/blob/18.0/skills/odoo-18.0/SKILL.md) | [unclecatvn/agent-skills](https://github.com/unclecatvn/agent-skills) | Master index for Odoo 18 guides providing quick reference to detailed guides for each topic when working with Odoo 18 code. | 10 | 38 | 2026-02-10 | [documentation](documentation.md), [guides](guides.md), [odoo](odoo.md) |
+| [howto-docs](https://github.com/existential-birds/beagle/blob/main/plugins/beagle-docs/skills/howto-docs/SKILL.md) | [existential-birds/beagle](https://github.com/existential-birds/beagle) | How-To guide patterns for documentation - task-oriented guides for users with specific goals | 22 | 28 | 2026-02-13 | [documentation](documentation.md), [writing](writing.md), [guides](guides.md), [task-management](task-management.md) |
+| [voltagent-docs-bundle](https://github.com/voltagent/skills/blob/main/skills/voltagent-docs-bundle/SKILL.md) | [voltagent/skills](https://github.com/voltagent/skills) | Look up VoltAgent documentation with version-matched API signatures, guides, and examples from node_modules. | 4 | 25 | 2026-01-27 | [documentation](documentation.md), [api](api.md), [guides](guides.md), [voltagent](voltagent.md), [node-modules](node-modules.md) |
+| [walkthrough](https://github.com/alexanderop/walkthrough) | [alexanderop/walkthrough](https://github.com/alexanderop/walkthrough) | A walkthrough skill for providing step-by-step guidance and tutorials. | 12 | 24 | 2026-02-09 | [documentation](documentation.md), [guides](guides.md), [workflows](workflows.md) |
+| [pumpfun](https://github.com/sendaifun/skills/blob/main/skills/pumpfun/SKILL.md) | [sendaifun/skills](https://github.com/sendaifun/skills) | Complete PumpFun Protocol guide for building token launches, bonding curves, and AMM integrations on Solana with SDK coverage. | 43 | 22 | 2026-02-04 | [documentation](documentation.md), [guides](guides.md), [solana](solana.md), [blockchain](blockchain.md) |
+| [writing-documentation-with-diataxis](https://github.com/sammcj/agentic-coding/blob/main/Skills/diataxis-documentation/SKILL.md) | [sammcj/agentic-coding](https://github.com/sammcj/agentic-coding) | Applies Diataxis framework for creating/improving technical documentation including tutorials, how-to guides, reference docs, and explanatio | 82 | 21 | 2026-02-12 | [documentation](documentation.md), [writing](writing.md), [best-practices](best-practices.md), [technical-writing](technical-writing.md), [guides](guides.md) |

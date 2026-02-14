@@ -1,0 +1,11 @@
+# 标签：product 策略 (product-strategy)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 4
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [competitor-teardown](https://github.com/1nfsh/s/blob/main/skills/competitor-teardown/SKILL.md) | [1nfsh/s](https://github.com/1nfsh/s) | 结构化竞争分析，包含功能矩阵、SWOT、定位图和UX审查，用于市场研究和竞争情报。 | 0 | 80 | 2026-02-13 | [competitive analysis (competitive-analysis)](competitive-analysis.md), [market research (market-research)](market-research.md), [business intelligence (business-intelligence)](business-intelligence.md), [swot analysis (swot-analysis)](swot-analysis.md), [product 策略 (product-strategy)](product-strategy.md) |
+| [competitor-teardown](https://github.com/1nfsh/skills/blob/main/skills/competitor-teardown/SKILL.md) | [1nfsh/skills](https://github.com/1nfsh/skills) | 结构化竞争分析，包含功能矩阵、SWOT、定位图和UX审查，用于市场研究和竞争情报。 | 1 | 69 | 2026-02-11 | [competitive analysis (competitive-analysis)](competitive-analysis.md), [market research (market-research)](market-research.md), [business intelligence (business-intelligence)](business-intelligence.md), [swot analysis (swot-analysis)](swot-analysis.md), [product 策略 (product-strategy)](product-strategy.md) |
+| [product-spec-kit](https://github.com/diegoeis/product-spec-kit/blob/main/SKILL.md) | [diegoeis/product-spec-kit](https://github.com/diegoeis/product-spec-kit) | 全面的产品管理技能，用于创建PRD、发布计划、用户故事，管理产品团队。 | 12 | 25 | 2025-11-19 | [文档 (documentation)](documentation.md), [规划 (planning)](planning.md), [product 策略 (product-strategy)](product-strategy.md), [prd (prd)](prd.md), [项目管理](project-management.md), [工作流 (workflows)](workflows.md) |
+| [roadmap-planner](https://github.com/anton-abyzov/specweave) | [anton-abyzov/specweave](https://github.com/anton-abyzov/specweave) | 用于规划和创建路线图以指导项目或产品开发的技能。 | 55 | 21 | 2026-02-14 | [规划 (planning)](planning.md), [策略 (strategy)](strategy.md), [roadmap (roadmap)](roadmap.md), [项目管理](project-management.md), [product 策略 (product-strategy)](product-strategy.md) |

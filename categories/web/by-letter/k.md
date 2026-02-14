@@ -1,8 +1,9 @@
 # web / k
 
 - Back: [Category](../README.md)
-- Count: 1
+- Count: 2
 
 | Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
 | - | - | - | -: | -: | - | - |
-| [keyword-research](https://github.com/aaron-he-zhu/seo-geo-claude-skills/blob/main/research/keyword-research/SKILL.md) | [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | Discover high-value keywords with search intent analysis and content opportunity mapping for SEO strategies. | 146 | 67 | 2025-12-18 | [seo](../../../tags/seo.md), [analysis](../../../tags/analysis.md), [web-research](../../../tags/web-research.md) |
+| [konsta-ui](https://github.com/cap-go/capacitor-skills/blob/main/skills/konsta-ui/SKILL.md) | [cap-go/capacitor-skills](https://github.com/cap-go/capacitor-skills) | Guide to using Konsta UI for pixel-perfect iOS and Material Design components in Capacitor apps with React, Vue, and Svelte support. | 11 | 24 | 2026-02-12 | [ui](../../../tags/ui.md), [design-systems](../../../tags/design-systems.md), [capacitor](../../../tags/capacitor.md), [react](../../../tags/react.md), [vue](../../../tags/vue.md), [svelte](../../../tags/svelte.md) |
+| [kernel-agent-browser](https://github.com/kernel/skills/blob/main/plugins/kernel-cli/skills/kernel-agent-browser/SKILL.md) | [kernel/skills](https://github.com/kernel/skills) | Best practices for using agent-browser with Kernel cloud browsers, handling bot detection, iframes, login persistence, and session managemen | 1 | 23 | 2026-02-11 | [browser-automation](../../../tags/browser-automation.md), [best-practices](../../../tags/best-practices.md), [kernel](../../../tags/kernel.md), [agent-browser](../../../tags/agent-browser.md) |

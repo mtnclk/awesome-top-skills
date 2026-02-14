@@ -1,0 +1,11 @@
+# 标签：ctf (ctf)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 4
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [ctf-pwn](https://github.com/cyberkaida/reverse-engineering-assistant/blob/main/ReVa/skills/ctf-pwn/SKILL.md) | [cyberkaida/reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant) | 通过发现和利用内存损坏漏洞来解决CTF二进制利用挑战。 | 581 | 36 | 2026-02-09 | [渗透测试](penetration-testing.md), [vulnerability analysis (vulnerability-analysis)](vulnerability-analysis.md), [binary analysis (binary-analysis)](binary-analysis.md), [exploitation (exploitation)](exploitation.md), [ctf (ctf)](ctf.md), [memory corruption (memory-corruption)](memory-corruption.md) |
+| [ctf-rev](https://github.com/cyberkaida/reverse-engineering-assistant/blob/main/ReVa/skills/ctf-rev/SKILL.md) | [cyberkaida/reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant) | 通过系统分析解决CTF逆向工程挑战，寻找标志、密钥或密码。 | 581 | 28 | 2026-02-09 | [binary analysis (binary-analysis)](binary-analysis.md), [vulnerability analysis (vulnerability-analysis)](vulnerability-analysis.md), [challenges (challenges)](challenges.md), [ctf (ctf)](ctf.md) |
+| [ctf-solver](https://github.com/hacktronai/skills/blob/main/ctf-solver/SKILL.md) | [hacktronai/skills](https://github.com/hacktronai/skills) | 通过分析挑战描述、源代码和交互式环境来解决CTF夺旗挑战。 | 87 | 26 | 2025-12-27 | [渗透测试](penetration-testing.md), [vulnerability analysis (vulnerability-analysis)](vulnerability-analysis.md), [ctf (ctf)](ctf.md), [安全审计 (security-audit)](security-audit.md), [分析 (analysis)](analysis.md) |
+| [ctf-crypto](https://github.com/cyberkaida/reverse-engineering-assistant/blob/main/ReVa/skills/ctf-crypto/SKILL.md) | [cyberkaida/reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant) | 通过识别和利用二进制文件中的弱加密实现来解决CTF密码学挑战，提取密钥或解密数据。 | 581 | 21 | 2026-02-09 | [cryptography (cryptography)](cryptography.md), [binary analysis (binary-analysis)](binary-analysis.md), [vulnerability analysis (vulnerability-analysis)](vulnerability-analysis.md), [ctf (ctf)](ctf.md), [crypto (crypto)](crypto.md) |

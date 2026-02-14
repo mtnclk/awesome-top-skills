@@ -1,10 +1,12 @@
 # Tag: logo
 
 - Back: [Tags](README.md)
-- Tagged skills: 3
+- Tagged skills: 5
 
 | Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
 | - | - | - | -: | -: | - | - |
-| [logo-creator](https://github.com/resciencelab/opc-skills/blob/main/skills/logo-creator/SKILL.md) | [resciencelab/opc-skills](https://github.com/resciencelab/opc-skills) | Create logos using AI image generation with style discussion, variations, and export options. | 58 | 217 | 2026-02-03 | [image-generation](image-generation.md), [branding](branding.md), [assets](assets.md), [svg](svg.md), [logo](logo.md) |
-| [svg-logo-designer](https://github.com/rknall/claude-skills/blob/main/svg-logo-designer/SKILL.md) | [rknall/claude-skills](https://github.com/rknall/claude-skills) | Design professional SVG logos from descriptions with multiple layout options. | 13 | 64 | 2025-10-20 | [branding](branding.md), [image-generation](image-generation.md), [svg](svg.md), [logo](logo.md) |
-| [logo-ideator](https://github.com/eddiebe147/claude-settings/blob/main/skills/logo-ideator/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | Generate creative logo concepts and design directions. | 15 | 53 | 2026-01-22 | [branding](branding.md), [image-generation](image-generation.md), [logo](logo.md) |
+| [logo-creator](https://github.com/resciencelab/opc-skills/blob/main/skills/logo-creator/SKILL.md) | [resciencelab/opc-skills](https://github.com/resciencelab/opc-skills) | Create logos using AI image generation with style discussion, variations, and export options. | 90 | 361 | 2026-02-13 | [image-generation](image-generation.md), [branding](branding.md), [assets](assets.md), [svg](svg.md), [logo](logo.md) |
+| [svg-logo-designer](https://github.com/rknall/claude-skills/blob/main/svg-logo-designer/SKILL.md) | [rknall/claude-skills](https://github.com/rknall/claude-skills) | Design professional SVG logos from descriptions with multiple layout options. | 17 | 64 | 2025-10-20 | [branding](branding.md), [image-generation](image-generation.md), [svg](svg.md), [logo](logo.md) |
+| [logo-design-guide](https://github.com/1nfsh/skills/blob/main/skills/logo-design-guide/SKILL.md) | [1nfsh/skills](https://github.com/1nfsh/skills) | Logo design principles and AI image generation best practices for creating logos. Covers logo types, prompting techniques, scalability rules | 1 | 63 | 2026-02-11 | [branding](branding.md), [image-generation](image-generation.md), [logo](logo.md), [ai](ai.md), [visual-design](visual-design.md) |
+| [logo-ideator](https://github.com/eddiebe147/claude-settings) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | Generate creative logo concepts and design directions. | 15 | 61 | 2026-01-22 | [branding](branding.md), [image-generation](image-generation.md), [logo](logo.md) |
+| [gemini-logo-remover](https://github.com/bear2u/my-skills/blob/master/skills/gemini-logo-remover/SKILL.md) | [bear2u/my-skills](https://github.com/bear2u/my-skills) | Remove Gemini logos, watermarks, or AI-generated image markers using OpenCV inpainting for clean image output. | 745 | 21 | 2026-02-08 | [image-processing](image-processing.md), [editing](editing.md), [opencv](opencv.md), [gemini](gemini.md), [logo](logo.md), [ux](ux.md) |

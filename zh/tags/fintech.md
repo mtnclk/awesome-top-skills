@@ -1,0 +1,9 @@
+# 标签：fintech (fintech)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 2
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [finance-expert](https://github.com/personamanagmentlayer/pcl/blob/main/stdlib/domains/finance-expert/SKILL.md) | [personamanagmentlayer/pcl](https://github.com/personamanagmentlayer/pcl) | 专家级金融系统、金融科技、银行、支付和金融技术 | 4 | 85 | 2026-02-09 | [财务 (finance)](finance.md), [分析 (analysis)](analysis.md), [fintech (fintech)](fintech.md), [banking (banking)](banking.md), [payments (payments)](payments.md) |
+| [revolut](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | 用于Revolut数字银行和金融服务平台的技能 | 5 | 30 | 2026-01-09 | [财务 (finance)](finance.md), [payment (payment)](payment.md), [banking (banking)](banking.md), [fintech (fintech)](fintech.md) |

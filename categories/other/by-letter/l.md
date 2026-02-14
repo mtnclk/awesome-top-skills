@@ -1,0 +1,13 @@
+# other / l
+
+- Back: [Category](../README.md)
+- Count: 6
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [labcorp](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | LabCorp data analysis and healthcare API integration tools | 5 | 31 | 2026-01-09 | [data-analysis](../../../tags/data-analysis.md), [healthcare](../../../tags/healthcare.md), [api](../../../tags/api.md) |
+| [lemonade](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | A productivity tool for task and project management | 5 | 31 | 2026-01-09 | [task-management](../../../tags/task-management.md), [planning](../../../tags/planning.md), [project-management](../../../tags/project-management.md) |
+| [lattice](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Lattice tool for workflow management and automation tasks. | 5 | 30 | 2026-01-09 | [tooling](../../../tags/tooling.md), [workflows](../../../tags/workflows.md), [lattice](../../../tags/lattice.md) |
+| [lifx](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Control and manage LIFX smart lighting devices through API integration. | 5 | 30 | 2026-01-09 | [automation](../../../tags/automation.md), [lifx](../../../tags/lifx.md), [workflows](../../../tags/workflows.md) |
+| [lose-it](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | A skill for managing weight loss goals and tracking progress. | 5 | 30 | 2026-01-09 | [task-management](../../../tags/task-management.md), [workflows](../../../tags/workflows.md), [fitness](../../../tags/fitness.md), [healthcare](../../../tags/healthcare.md) |
+| [local-places](https://github.com/steipete/clawdis) | [steipete/clawdis](https://github.com/steipete/clawdis) | A skill for handling local places and location-based services | 192K | 22 | 2026-02-14 | [places](../../../tags/places.md), [workflows](../../../tags/workflows.md), [tooling](../../../tags/tooling.md) |

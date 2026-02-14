@@ -1,7 +1,7 @@
 # Tag: wix
 
 - Back: [Tags](README.md)
-- Tagged skills: 6
+- Tagged skills: 7
 
 | Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
 | - | - | - | -: | -: | - | - |
@@ -11,3 +11,4 @@
 | [wix-cli-service-plugin](https://github.com/wix/skills/blob/master/wix-cli/skills/wix-cli-service-plugin/SKILL.md) | [wix/skills](https://github.com/wix/skills) | A CLI plugin for extending Wix business solutions with custom backend logic. | 0 | 45 | 2026-02-03 | [backend](backend.md), [cli](cli.md), [wix](wix.md) |
 | [wix-cli-site-plugin](https://github.com/wix/skills/blob/master/wix-cli/skills/wix-cli-site-plugin/SKILL.md) | [wix/skills](https://github.com/wix/skills) | A CLI tool for building interactive components for Wix business solutions. | 0 | 45 | 2026-02-03 | [cli](cli.md), [build-tools](build-tools.md), [wix](wix.md) |
 | [wix-cli-site-widget](https://github.com/wix/skills/blob/master/wix-cli/skills/wix-cli-site-widget/SKILL.md) | [wix/skills](https://github.com/wix/skills) | Build interactive widgets and configurable site components for Wix. | 0 | 45 | 2026-02-03 | [frontend](frontend.md), [component-library](component-library.md), [wix](wix.md) |
+| [wix](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Wix-based website building and management skill template | 5 | 33 | 2026-01-09 | [cms](cms.md), [wix](wix.md), [frontend](frontend.md) |

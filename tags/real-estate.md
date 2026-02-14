@@ -1,0 +1,15 @@
+# Tag: real-estate
+
+- Back: [Tags](README.md)
+- Tagged skills: 8
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [real-estate-analyst](https://github.com/eddiebe147/claude-settings) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | A skill for real estate property analysis, investment evaluation, and market research. | 15 | 52 | 2026-01-22 | [analysis](analysis.md), [finance](finance.md), [real-estate](real-estate.md) |
+| [realtor-com](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Real estate research and lead generation tool for property professionals | 5 | 33 | 2026-01-09 | [real-estate](real-estate.md), [web-research](web-research.md), [lead-generation](lead-generation.md) |
+| [zillow](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Real estate data analysis and property insights using Zillow API | 5 | 33 | 2026-01-09 | [real-estate](real-estate.md), [data-analysis](data-analysis.md), [zillow](zillow.md) |
+| [loopnet](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | A skill for real estate lead generation and property data scraping from LoopNet platform | 5 | 32 | 2026-01-09 | [lead-generation](lead-generation.md), [real-estate](real-estate.md), [web-research](web-research.md), [scraping](scraping.md) |
+| [redfin](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Redfin skill for real estate data and property research | 5 | 31 | 2026-01-09 | [real-estate](real-estate.md), [web-research](web-research.md), [scraping](scraping.md) |
+| [apartments-com](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Web scraping and research tool for apartments.com real estate listings | 5 | 30 | 2026-01-09 | [web-research](web-research.md), [scraping](scraping.md), [real-estate](real-estate.md), [apartments-com](apartments-com.md) |
+| [offerpad](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | A skill named offerpad, potentially related to real estate tasks and workflow management. | 5 | 30 | 2026-01-09 | [task-management](task-management.md), [workflows](workflows.md), [real-estate](real-estate.md) |
+| [trulia](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Trulia skill for real estate data research and analysis | 5 | 30 | 2026-01-09 | [web-research](web-research.md), [real-estate](real-estate.md), [scraping](scraping.md), [data-analysis](data-analysis.md) |

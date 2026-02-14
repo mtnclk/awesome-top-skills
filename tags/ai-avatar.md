@@ -1,0 +1,10 @@
+# Tag: ai-avatar
+
+- Back: [Tags](README.md)
+- Tagged skills: 3
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [talking-head-production](https://github.com/1nfsh/s/blob/main/skills/talking-head-production/SKILL.md) | [1nfsh/s](https://github.com/1nfsh/s) | AI-powered talking head video production with avatars, lipsync, and voiceover for spokesperson videos, courses, social media, and presentati | 0 | 98 | 2026-02-13 | [video-generation](video-generation.md), [content-creation](content-creation.md), [ai-avatar](ai-avatar.md), [lipsync](lipsync.md), [voiceover](voiceover.md) |
+| [talking-head-production](https://github.com/1nfsh/skills/blob/main/skills/talking-head-production/SKILL.md) | [1nfsh/skills](https://github.com/1nfsh/skills) | AI-powered talking head video production with avatars, lipsync, and voiceover for spokesperson videos, courses, social media, and presentati | 1 | 78 | 2026-02-11 | [video-generation](video-generation.md), [content-creation](content-creation.md), [ai-avatar](ai-avatar.md), [lipsync](lipsync.md), [voiceover](voiceover.md) |
+| [heygen-avatars](https://github.com/yonatangross/orchestkit) | [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) | Create and manage HeyGen avatars for video generation and content creation. | 74 | 28 | 2026-02-13 | [content-creation](content-creation.md), [video-generation](video-generation.md), [heygen](heygen.md), [ai-avatar](ai-avatar.md) |

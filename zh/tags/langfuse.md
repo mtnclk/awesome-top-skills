@@ -1,9 +1,10 @@
 # 标签：langfuse (langfuse)
 
 - 返回: [标签（中文）](README.md)
-- 命中技能: 2
+- 命中技能: 3
 
 | 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
 | - | - | - | -: | -: | - | - |
-| [langfuse-api](https://github.com/langfuse/skills/blob/main/skills/langfuse-api/SKILL.md) | [langfuse/skills](https://github.com/langfuse/skills) | 与 Langfuse API 交互，查询追踪、获取提示和管理评分。 | 3 | 31 | 2026-01-23 | [API](api.md), [LLM](llm.md), [langfuse (langfuse)](langfuse.md) |
-| [langfuse-observability](https://github.com/langfuse/skills/blob/main/skills/langfuse-observability/SKILL.md) | [langfuse/skills](https://github.com/langfuse/skills) | 使用 Langfuse 进行 LLM 应用观测和审计。 | 3 | 28 | 2026-01-23 | [可观测性 (observability)](observability.md), [监控 (monitoring)](monitoring.md), [langfuse (langfuse)](langfuse.md) |
+| [langfuse-observability](https://github.com/langfuse/skills/blob/main/skills/langfuse-observability/SKILL.md) | [langfuse/skills](https://github.com/langfuse/skills) | 使用 Langfuse 进行 LLM 应用观测和审计。 | 5 | 107 | 2026-02-13 | [可观测性 (observability)](observability.md), [监控 (monitoring)](monitoring.md), [langfuse (langfuse)](langfuse.md) |
+| [langfuse-api](https://github.com/langfuse/skills) | [langfuse/skills](https://github.com/langfuse/skills) | Langfuse API集成，用于LLM应用可观测性平台 | 5 | 57 | 2026-02-13 | [API](api.md), [工具链 (tooling)](tooling.md), [langfuse (langfuse)](langfuse.md), [可观测性 (observability)](observability.md) |
+| [langfuse-prompt-migration](https://github.com/langfuse/skills/blob/main/skills/langfuse-prompt-migration/SKILL.md) | [langfuse/skills](https://github.com/langfuse/skills) | 将硬编码提示迁移到Langfuse进行版本控制和免部署迭代。 | 5 | 40 | 2026-02-13 | [migration (migration)](migration.md), [prompting (prompting)](prompting.md), [version control (version-control)](version-control.md), [langfuse (langfuse)](langfuse.md) |

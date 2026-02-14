@@ -1,0 +1,11 @@
+# 标签：project scaffolding (project-scaffolding)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 4
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [secondme-init](https://github.com/mindverse/second-me-skills/blob/main/skills/secondme-init/SKILL.md) | [mindverse/second-me-skills](https://github.com/mindverse/second-me-skills) | 初始化 SecondMe 项目配置和功能模块选择，创建 state.json 和 CLAUDE.md | 14 | 59 | 2026-02-11 | [环境配置 (setup)](setup.md), [配置 (configuration)](configuration.md), [project scaffolding (project-scaffolding)](project-scaffolding.md), [secondme (secondme)](secondme.md) |
+| [start-from-scratch](https://github.com/tambo-ai/tambo/blob/main/plugins/tambo/skills/start-from-scratch/SKILL.md) | [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | 指导从零开始创建新的Tambo项目，提供技术推荐。 | 9.4K | 31 | 2026-02-13 | [project scaffolding (project-scaffolding)](project-scaffolding.md), [环境配置 (setup)](setup.md), [tech stack (tech-stack)](tech-stack.md), [tambo (tambo)](tambo.md) |
+| [moai-workflow-templates](https://github.com/modu-ai/moai-adk/blob/main/.claude/skills/moai-workflow-templates/SKILL.md) | [modu-ai/moai-adk](https://github.com/modu-ai/moai-adk) | 代码模板、反馈模板、脚手架和项目优化工作流的模板管理系统。 | 720 | 26 | 2026-02-12 | [工作流 (workflows)](workflows.md), [template management (template-management)](template-management.md), [代码生成](code-generation.md), [boilerplate (boilerplate)](boilerplate.md), [project scaffolding (project-scaffolding)](project-scaffolding.md) |
+| [dotnet-project-structure](https://github.com/aaronontheweb/dotnet-skills/blob/master/skills/project-structure/SKILL.md) | [aaronontheweb/dotnet-skills](https://github.com/aaronontheweb/dotnet-skills) | 现代 .NET 项目结构，包含 .slnx 格式、Directory.Build.props、中央包管理、SourceL | 322 | 23 | 2026-02-13 | [架构 (architecture)](architecture.md), [最佳实践 (best-practices)](best-practices.md), [dotnet (dotnet)](dotnet.md), [project scaffolding (project-scaffolding)](project-scaffolding.md), [配置 (configuration)](configuration.md), [依赖管理](dependency-management.md) |

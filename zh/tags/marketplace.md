@@ -1,0 +1,13 @@
+# 标签：marketplace (marketplace)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 6
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [search-for-service](https://github.com/coinbase/agentic-wallet-skills/blob/main/skills/search-for-service/SKILL.md) | [coinbase/agentic-wallet-skills](https://github.com/coinbase/agentic-wallet-skills) | 搜索和浏览x402集市市场以查找付费API服务，用于寻找可用服务、发现API或找到外部服务来完成任务。 | 28 | 847 | 2026-02-12 | [API](api.md), [search (search)](search.md), [marketplace (marketplace)](marketplace.md) |
+| [airbnb](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Airbnb相关技能，用于管理预订、定价和民宿服务 | 5 | 37 | 2026-01-09 | [booking (booking)](booking.md), [hospitality (hospitality)](hospitality.md), [travel (travel)](travel.md), [marketplace (marketplace)](marketplace.md), [pricing (pricing)](pricing.md) |
+| [etsy](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Etsy电商和市场运营技能 | 5 | 37 | 2026-01-09 | [marketplace (marketplace)](marketplace.md), [etsy (etsy)](etsy.md), [营销 (marketing)](marketing.md) |
+| [aliexpress](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | 速卖通电商平台集成和管理工具 | 5 | 33 | 2026-01-09 | [marketplace (marketplace)](marketplace.md), [aliexpress (aliexpress)](aliexpress.md), [营销 (marketing)](marketing.md) |
+| [ebay](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | eBay市场集成和管理功能，用于在线销售和购买活动。 | 5 | 33 | 2026-01-09 | [marketplace (marketplace)](marketplace.md), [sales (sales)](sales.md), [营销 (marketing)](marketing.md) |
+| [taskrabbit](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | 任务管理和客户服务技能，适用于任务型服务平台 | 5 | 30 | 2026-01-09 | [任务管理 (task-management)](task-management.md), [customer support (customer-support)](customer-support.md), [booking (booking)](booking.md), [marketplace (marketplace)](marketplace.md) |

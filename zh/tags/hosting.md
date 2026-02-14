@@ -1,0 +1,12 @@
+# 标签：hosting (hosting)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 5
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [firebase-hosting-basics](https://github.com/firebase/firebase-tools) | [firebase/firebase-tools](https://github.com/firebase/firebase-tools) | 学习 Firebase 托管基础，用于部署具有 CDN、SSL 和自定义域名的 Web 应用。 | 4.3K | 24 | 2026-02-14 | [hosting (hosting)](hosting.md), [部署 (deployment)](deployment.md), [firebase (firebase)](firebase.md), [web applications (web-applications)](web-applications.md) |
+| [firebase-app-hosting-basics](https://github.com/firebase/skills/blob/main/skills/firebase-app-hosting-basics/SKILL.md) | [firebase/skills](https://github.com/firebase/skills) | 使用 Firebase 应用托管部署和管理带有后端的 Next.js/Angular 应用。 | 85 | 24 | 2026-02-13 | [部署 (deployment)](deployment.md), [hosting (hosting)](hosting.md), [firebase (firebase)](firebase.md), [Next.js (nextjs)](nextjs.md), [Angular (angular)](angular.md) |
+| [firebase-app-hosting-basics](https://github.com/firebase/firebase-tools) | [firebase/firebase-tools](https://github.com/firebase/firebase-tools) | Firebase 应用托管基础，用于 Web 应用部署和管理。 | 4.3K | 22 | 2026-02-14 | [hosting (hosting)](hosting.md), [环境配置 (setup)](setup.md), [firebase (firebase)](firebase.md), [web applications (web-applications)](web-applications.md) |
+| [firebase-hosting-basics](https://github.com/firebase/skills/blob/main/skills/firebase-hosting-basics/SKILL.md) | [firebase/skills](https://github.com/firebase/skills) | 用于通过 Firebase Hosting Classic 部署静态网页和单页应用的技能。不适用于 Firebase A | 85 | 22 | 2026-02-13 | [部署 (deployment)](deployment.md), [hosting (hosting)](hosting.md), [firebase (firebase)](firebase.md), [static generation (static-generation)](static-generation.md), [spa (spa)](spa.md) |
+| [coolify-deploy](https://github.com/v1truv1us/ai-eng-system/blob/main/skills/coolify-deploy/SKILL.md) | [v1truv1us/ai-eng-system](https://github.com/v1truv1us/ai-eng-system) | 使用最佳实践部署应用到 Coolify 平台 | 4 | 21 | 2026-02-08 | [部署 (deployment)](deployment.md), [最佳实践 (best-practices)](best-practices.md), [coolify (coolify)](coolify.md), [hosting (hosting)](hosting.md) |

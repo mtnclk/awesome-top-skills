@@ -1,0 +1,9 @@
+# 标签：text extraction (text-extraction)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 2
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [extracting-pdf-text](https://github.com/letta-ai/skills/blob/main/tools/extracting-pdf-text/SKILL.md) | [letta-ai/skills](https://github.com/letta-ai/skills) | 从PDF中提取文本供LLM使用，支持RAG、文档分析和文本提取。 | 51 | 41 | 2026-02-10 | [document processing (document-processing)](document-processing.md), [text extraction (text-extraction)](text-extraction.md), [pdf (pdf)](pdf.md), [ocr (ocr)](ocr.md), [RAG（检索增强生成） (rag)](rag.md) |
+| [ocr-service](https://github.com/lin-a1/skills-agent/blob/main/services/ocr_service/SKILL.md) | [lin-a1/skills-agent](https://github.com/lin-a1/skills-agent) | 高精度OCR服务，支持多语言多格式图像文字检测提取，提供文本区域坐标和置信度评分。 | 6 | 26 | 2026-01-15 | [分析 (analysis)](analysis.md), [document processing (document-processing)](document-processing.md), [ocr (ocr)](ocr.md), [image processing (image-processing)](image-processing.md), [text extraction (text-extraction)](text-extraction.md) |

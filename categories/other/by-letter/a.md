@@ -1,0 +1,15 @@
+# other / a
+
+- Back: [Category](../README.md)
+- Count: 8
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [apple-homekit](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Apple HomeKit integration for home automation and device management | 5 | 36 | 2026-01-09 | [automation](../../../tags/automation.md), [integration](../../../tags/integration.md), [apple](../../../tags/apple.md), [homekit](../../../tags/homekit.md) |
+| [acorns](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | A skill named 'acorns' with no description provided. | 5 | 30 | 2026-01-09 | [task-management](../../../tags/task-management.md), [finance](../../../tags/finance.md), [automation](../../../tags/automation.md) |
+| [anchor](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | A tool for managing and organizing tasks and workflows. | 5 | 30 | 2026-01-09 | [tooling](../../../tags/tooling.md), [task-management](../../../tags/task-management.md), [workflows](../../../tags/workflows.md) |
+| [angi](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | A skill named angi, likely related to tooling and task management based on its name. | 5 | 30 | 2026-01-09 | [tooling](../../../tags/tooling.md), [task-management](../../../tags/task-management.md), [workflows](../../../tags/workflows.md) |
+| [apple-tv-plus](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Apple TV+ content creation and management tools | 5 | 30 | 2026-01-09 | [content-creation](../../../tags/content-creation.md), [media](../../../tags/media.md), [apple-tv](../../../tags/apple-tv.md) |
+| [arlo](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Arlo: A tool for managing and automating tasks with workflow capabilities. | 5 | 30 | 2026-01-09 | [tooling](../../../tags/tooling.md), [task-management](../../../tags/task-management.md), [automation](../../../tags/automation.md) |
+| [august](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | A skill for managing tasks and workflows related to August planning and scheduling. | 5 | 30 | 2026-01-09 | [task-management](../../../tags/task-management.md), [workflows](../../../tags/workflows.md), [calendar](../../../tags/calendar.md), [meeting](../../../tags/meeting.md) |
+| [atlas](https://github.com/openai/skills) | [openai/skills](https://github.com/openai/skills) | A tool for managing and orchestrating workflows, focusing on system operations and infrastructure management tasks. | 8.4K | 25 | 2026-02-12 | [tooling](../../../tags/tooling.md), [workflows](../../../tags/workflows.md), [atlas](../../../tags/atlas.md) |

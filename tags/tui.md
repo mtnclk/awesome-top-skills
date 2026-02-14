@@ -1,0 +1,10 @@
+# Tag: tui
+
+- Back: [Tags](README.md)
+- Tagged skills: 3
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [bubbletea](https://github.com/ggprompts/tfe/blob/main/.claude/skills/bubbletea/SKILL.md) | [ggprompts/tfe](https://github.com/ggprompts/tfe) | Build terminal user interfaces with Go and Bubbletea framework using Elm architecture, dual-pane layouts, mouse/keyboard handling, and Lipgl | 9 | 26 | 2025-12-20 | [ui](ui.md), [coding](coding.md), [go](go.md), [tui](tui.md), [terminal](terminal.md) |
+| [textual](https://github.com/johnlarkin1/claude-code-extensions/blob/main/skills/textual/SKILL.md) | [johnlarkin1/claude-code-extensions](https://github.com/johnlarkin1/claude-code-extensions) | Build terminal user interface (TUI) applications with the Textual framework for Python. Handle screens, widgets, styling, events, and testin | 15 | 24 | 2026-02-12 | [ui](ui.md), [coding](coding.md), [python](python.md), [terminal](terminal.md), [tui](tui.md) |
+| [discover-tui](https://github.com/rand/cc-polymath/blob/main/skills/discover-tui/SKILL.md) | [rand/cc-polymath](https://github.com/rand/cc-polymath) | Automatically discovers terminal UI skills for Ratatui, Bubbletea, ncurses, and TUI development tasks. | 71 | 23 | 2026-02-03 | [cli](cli.md), [terminal](terminal.md), [tui](tui.md), [tooling](tooling.md), [workflows](workflows.md) |

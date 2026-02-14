@@ -1,0 +1,18 @@
+# 标签：fitness (fitness)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 11
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [apple-fitness](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | 用于在苹果设备上管理和跟踪健身活动的技能 | 5 | 35 | 2026-01-09 | [fitness (fitness)](fitness.md), [apple (apple)](apple.md), [iOS (ios)](ios.md), [任务管理 (task-management)](task-management.md) |
+| [myfitnesspal](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | 用于与MyFitnessPal交互以管理健身和营养追踪的技能。 | 5 | 35 | 2026-01-09 | [fitness (fitness)](fitness.md), [tracking (tracking)](tracking.md), [wellness (wellness)](wellness.md), [任务管理 (task-management)](task-management.md) |
+| [strava](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Strava 健身追踪和活动数据管理技能 | 5 | 32 | 2026-01-09 | [fitness (fitness)](fitness.md), [数据管理 (data-management)](data-management.md), [API](api.md) |
+| [cronometer](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | 一个用于管理与生产力、时间管理、健身和医疗保健相关的各种任务和活动的技能。 | 5 | 31 | 2026-01-09 | [任务管理 (task-management)](task-management.md), [fitness (fitness)](fitness.md), [healthcare (healthcare)](healthcare.md) |
+| [fitbit](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | 通过API集成管理Fitbit健康和健身数据的技能。 | 5 | 31 | 2026-01-09 | [fitness (fitness)](fitness.md), [healthcare (healthcare)](healthcare.md), [数据管理 (data-management)](data-management.md), [API](api.md) |
+| [oura](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Oura戒指健康数据分析工具 | 5 | 31 | 2026-01-09 | [数据分析 (data-analysis)](data-analysis.md), [fitness (fitness)](fitness.md), [工作流 (workflows)](workflows.md) |
+| [peloton](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Peloton 健身数据分析和API集成工具 | 5 | 31 | 2026-01-09 | [fitness (fitness)](fitness.md), [API](api.md), [数据分析 (data-analysis)](data-analysis.md) |
+| [garmin-connect](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | 佳明连接健身健康数据管理 | 5 | 30 | 2026-01-09 | [fitness (fitness)](fitness.md), [healthcare (healthcare)](healthcare.md), [garmin (garmin)](garmin.md), [API](api.md) |
+| [lose-it](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | 用于管理减肥目标和跟踪进度的技能。 | 5 | 30 | 2026-01-09 | [任务管理 (task-management)](task-management.md), [工作流 (workflows)](workflows.md), [fitness (fitness)](fitness.md), [healthcare (healthcare)](healthcare.md) |
+| [nike-run-club](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Nike Run Club 技能，用于健身追踪和跑步活动 | 5 | 30 | 2026-01-09 | [fitness (fitness)](fitness.md), [移动开发 (mobile)](mobile.md), [tracking (tracking)](tracking.md) |
+| [noom](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Noom健康应用相关技能 | 5 | 30 | 2026-01-09 | [wellness (wellness)](wellness.md), [fitness (fitness)](fitness.md), [工作流 (workflows)](workflows.md) |

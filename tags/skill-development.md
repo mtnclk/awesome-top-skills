@@ -1,0 +1,12 @@
+# Tag: skill-development
+
+- Back: [Tags](README.md)
+- Tagged skills: 5
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [skillshare](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | A learning platform for skill development and education. | 5 | 30 | 2026-01-09 | [learning-management](learning-management.md), [education](education.md), [skill-development](skill-development.md), [marketing](marketing.md) |
+| [anthropics-skill-development](https://github.com/smithery/ai) | [smithery/ai](https://github.com/smithery/ai) | Skill for developing and creating new skills specifically for Anthropic AI systems. | 0 | 28 |  | [skill-development](skill-development.md), [anthropic](anthropic.md), [agents](agents.md) |
+| [skill-creator](https://github.com/getsentry/skills/blob/main/plugins/sentry-skills/skills/skill-creator/SKILL.md) | [getsentry/skills](https://github.com/getsentry/skills) | Create new agent skills following the Agent Skills specification for building, scaffolding, and managing AI agent capabilities. | 236 | 26 | 2026-02-14 | [skill-creation](skill-creation.md), [skill-development](skill-development.md), [agents](agents.md), [documentation](documentation.md), [workflows](workflows.md) |
+| [skill-creator](https://github.com/steipete/clawdis/blob/main/skills/skill-creator/SKILL.md) | [steipete/clawdis](https://github.com/steipete/clawdis) | Create or update AgentSkills for designing, structuring, or packaging skills with scripts, references, and assets. | 192K | 21 | 2026-02-14 | [skill-creation](skill-creation.md), [skill-development](skill-development.md), [agents](agents.md), [assets](assets.md) |
+| [skill-coach](https://github.com/erichowens/some_claude_skills/blob/main/.claude/skills/skill-coach/SKILL.md) | [erichowens/some_claude_skills](https://github.com/erichowens/some_claude_skills) | Guides creation of high-quality Agent Skills with domain expertise, anti-pattern detection, and progressive disclosure best practices. | 33 | 21 | 2026-02-14 | [skill-development](skill-development.md), [best-practices](best-practices.md), [agents](agents.md), [review](review.md), [quality-management](quality-management.md) |

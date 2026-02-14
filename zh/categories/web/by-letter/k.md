@@ -1,8 +1,9 @@
 # Web 开发 / k
 
 - 返回: [分类](../README.md)
-- 数量: 1
+- 数量: 2
 
 | 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
 | - | - | - | -: | -: | - | - |
-| [keyword-research](https://github.com/aaron-he-zhu/seo-geo-claude-skills/blob/main/research/keyword-research/SKILL.md) | [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | 通过搜索意图分析和内容机会映射发现高价值关键词，用于SEO策略。 | 146 | 67 | 2025-12-18 | [seo (seo)](../../../tags/seo.md), [分析 (analysis)](../../../tags/analysis.md), [网页调研 (web-research)](../../../tags/web-research.md) |
+| [konsta-ui](https://github.com/cap-go/capacitor-skills/blob/main/skills/konsta-ui/SKILL.md) | [cap-go/capacitor-skills](https://github.com/cap-go/capacitor-skills) | 使用Konsta UI为Capacitor应用创建完美iOS和Material Design组件的指南，支持React、 | 11 | 24 | 2026-02-12 | [UI](../../../tags/ui.md), [设计系统](../../../tags/design-systems.md), [capacitor (capacitor)](../../../tags/capacitor.md), [React](../../../tags/react.md), [Vue (vue)](../../../tags/vue.md), [Svelte (svelte)](../../../tags/svelte.md) |
+| [kernel-agent-browser](https://github.com/kernel/skills/blob/main/plugins/kernel-cli/skills/kernel-agent-browser/SKILL.md) | [kernel/skills](https://github.com/kernel/skills) | 使用 agent-browser 与 Kernel 云浏览器的最佳实践，处理机器人检测、iframe、登录持久性和会话管 | 1 | 23 | 2026-02-11 | [browser 自动化 (browser-automation)](../../../tags/browser-automation.md), [最佳实践 (best-practices)](../../../tags/best-practices.md), [kernel (kernel)](../../../tags/kernel.md), [agent browser (agent-browser)](../../../tags/agent-browser.md) |

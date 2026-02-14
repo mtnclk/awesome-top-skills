@@ -1,0 +1,12 @@
+# 标签：implementation (implementation)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 5
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [rag-implementation](https://github.com/giuseppe-trisciuoglio/developer-kit) | [giuseppe-trisciuoglio/developer-kit](https://github.com/giuseppe-trisciuoglio/developer-kit) | 实现RAG（检索增强生成）系统以增强AI能力。 | 97 | 76 | 2026-02-12 | [RAG（检索增强生成） (rag)](rag.md), [implementation (implementation)](implementation.md), [knowledge base (knowledge-base)](knowledge-base.md), [search (search)](search.md) |
+| [allium](https://github.com/juxt/allium/blob/main/SKILL.md) | [juxt/allium](https://github.com/juxt/allium) | 一种LLM原生语言，用于在实现的同时强化意图。通过清晰度提升速度。 | 26 | 31 | 2026-02-14 | [implementation (implementation)](implementation.md), [velocity (velocity)](velocity.md), [LLM native (llm-native)](llm-native.md), [智能体 (agents)](agents.md) |
+| [design-lab](https://github.com/0xdesign/design-plugin/blob/main/design-and-refine/skills/design-lab/SKILL.md) | [0xdesign/design-plugin](https://github.com/0xdesign/design-plugin) | 进行设计访谈，在临时设计实验室中生成UI变体，收集反馈并制定实施计划。 | 505 | 30 | 2026-01-24 | [UI](ui.md), [设计系统](design-systems.md), [feedback (feedback)](feedback.md), [implementation (implementation)](implementation.md) |
+| [openspec-implementation](https://github.com/forztf/open-skilled-sdd/blob/main/skills/openspec-implementation/SKILL.md) | [forztf/open-skilled-sdd](https://github.com/forztf/open-skilled-sdd) | 通过顺序执行任务并进行测试和验证来实现已批准的规范提案。 | 5 | 26 | 2025-11-28 | [implementation (implementation)](implementation.md), [任务管理 (task-management)](task-management.md), [测试 (testing)](testing.md), [validation (validation)](validation.md) |
+| [developer](https://github.com/keiji-miyake/agent-skills/blob/main/skills/developer/SKILL.md) | [keiji-miyake/agent-skills](https://github.com/keiji-miyake/agent-skills) | 实施和编码专家，根据设计文档实现高质量代码，遵守项目规范和结构。 | 1 | 21 | 2026-02-08 | [编码 (coding)](coding.md), [代码生成](code-generation.md), [implementation (implementation)](implementation.md), [code quality (code-quality)](code-quality.md) |

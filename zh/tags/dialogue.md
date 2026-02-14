@@ -1,9 +1,11 @@
 # 标签：dialogue (dialogue)
 
 - 返回: [标签（中文）](README.md)
-- 命中技能: 2
+- 命中技能: 4
 
 | 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
 | - | - | - | -: | -: | - | - |
-| [dialogue](https://github.com/jwynia/agent-skills/blob/main/skills/creative/fiction/character/dialogue/SKILL.md) | [jwynia/agent-skills](https://github.com/jwynia/agent-skills) | 分析并改进创作中的对话，识别平板对话、角色声音重复和缺乏潜台词。 | 13 | 24 | 2026-02-04 | [分析 (analysis)](analysis.md), [写作 (writing)](writing.md), [dialogue (dialogue)](dialogue.md) |
-| [natural-dialogue-techniques](https://github.com/wordflowlab/novel-writer-skills/blob/main/templates/skills/writing-techniques/dialogue-techniques/SKILL.md) | [wordflowlab/novel-writer-skills](https://github.com/wordflowlab/novel-writer-skills) | 提供自然、符合角色的对话技巧，揭示角色并推进情节。 | 67 | 22 | 2025-10-20 | [写作 (writing)](writing.md), [dialogue (dialogue)](dialogue.md), [character (character)](character.md) |
+| [dialogue-audio](https://github.com/1nfsh/s/blob/main/skills/dialogue-audio/SKILL.md) | [1nfsh/s](https://github.com/1nfsh/s) | 使用Dia TTS创建多说话人对话音频，涵盖说话人标签、情感控制、节奏、对话流程和后期制作。 | 0 | 84 | 2026-02-13 | [audio generation (audio-generation)](audio-generation.md), [text to speech (text-to-speech)](text-to-speech.md), [内容创作 (content-creation)](content-creation.md), [dialogue (dialogue)](dialogue.md), [voice synthesis (voice-synthesis)](voice-synthesis.md) |
+| [dialogue-audio](https://github.com/1nfsh/skills/blob/main/skills/dialogue-audio/SKILL.md) | [1nfsh/skills](https://github.com/1nfsh/skills) | 使用Dia TTS创建多说话人对话音频，涵盖说话人标签、情感控制、节奏、对话流程和后期制作。 | 1 | 77 | 2026-02-11 | [audio generation (audio-generation)](audio-generation.md), [text to speech (text-to-speech)](text-to-speech.md), [内容创作 (content-creation)](content-creation.md), [dialogue (dialogue)](dialogue.md), [voice synthesis (voice-synthesis)](voice-synthesis.md) |
+| [dialogue](https://github.com/jwynia/agent-skills/blob/main/skills/creative/fiction/character/dialogue/SKILL.md) | [jwynia/agent-skills](https://github.com/jwynia/agent-skills) | 分析并改进创作中的对话，识别平板对话、角色声音重复和缺乏潜台词。 | 21 | 41 | 2026-02-08 | [分析 (analysis)](analysis.md), [写作 (writing)](writing.md), [dialogue (dialogue)](dialogue.md) |
+| [natural-dialogue-techniques](https://github.com/wordflowlab/novel-writer-skills/blob/main/templates/skills/writing-techniques/dialogue-techniques/SKILL.md) | [wordflowlab/novel-writer-skills](https://github.com/wordflowlab/novel-writer-skills) | 提供自然、符合角色的对话技巧，揭示角色并推进情节。 | 77 | 22 | 2025-10-20 | [写作 (writing)](writing.md), [dialogue (dialogue)](dialogue.md), [character (character)](character.md) |

@@ -1,0 +1,10 @@
+# 标签：film (film)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 3
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [storyboard-creation](https://github.com/1nfsh/s/blob/main/skills/storyboard-creation/SKILL.md) | [1nfsh/s](https://github.com/1nfsh/s) | 影视视频分镜制作，涵盖镜头词汇、连续性规则和面板布局，用于视频规划和前期制作。 | 0 | 96 | 2026-02-13 | [内容创作 (content-creation)](content-creation.md), [规划 (planning)](planning.md), [video (video)](video.md), [film (film)](film.md), [animation (animation)](animation.md) |
+| [storyboard-creation](https://github.com/1nfsh/skills/blob/main/skills/storyboard-creation/SKILL.md) | [1nfsh/skills](https://github.com/1nfsh/skills) | 影视视频分镜制作，涵盖镜头词汇、连续性规则和面板布局，用于视频规划和前期制作。 | 1 | 62 | 2026-02-11 | [内容创作 (content-creation)](content-creation.md), [规划 (planning)](planning.md), [video (video)](video.md), [film (film)](film.md), [animation (animation)](animation.md) |
+| [dna-extraction](https://github.com/jwynia/agent-skills/blob/main/skills/creative/fiction/application/dna-extraction/SKILL.md) | [jwynia/agent-skills](https://github.com/jwynia/agent-skills) | 从现有作品中提取功能DNA，用于改编、分析、套路映射和分离结构与风格。 | 21 | 27 | 2026-02-08 | [分析 (analysis)](analysis.md), [内容创作 (content-creation)](content-creation.md), [tv (tv)](tv.md), [film (film)](film.md), [books (books)](books.md) |

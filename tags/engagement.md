@@ -1,9 +1,11 @@
 # Tag: engagement
 
 - Back: [Tags](README.md)
-- Tagged skills: 2
+- Tagged skills: 4
 
 | Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
 | - | - | - | -: | -: | - | - |
-| [retention-engagement](https://github.com/refoundai/lenny-skills/blob/main/skills/retention-engagement/SKILL.md) | [refoundai/lenny-skills](https://github.com/refoundai/lenny-skills) | Improve user retention and engagement by optimizing activation flows and building habit-forming products. | 66 | 72 | 2026-01-31 | [analytics](analytics.md), [product-analytics](product-analytics.md), [user-research](user-research.md), [retention](retention.md), [engagement](engagement.md) |
-| [community-manager](https://github.com/eddiebe147/claude-settings/blob/main/skills/community-manager/SKILL.md) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | Manage online communities with engagement strategies, moderation, and relationship building. | 15 | 40 | 2026-01-22 | [community](community.md), [engagement](engagement.md), [moderation](moderation.md), [audience-analysis](audience-analysis.md), [customer-support](customer-support.md) |
+| [retention-engagement](https://github.com/refoundai/lenny-skills/blob/main/skills/retention-engagement/SKILL.md) | [refoundai/lenny-skills](https://github.com/refoundai/lenny-skills) | Improve user retention and engagement by optimizing activation flows and building habit-forming products. | 223 | 72 | 2026-01-31 | [analytics](analytics.md), [product-analytics](product-analytics.md), [user-research](user-research.md), [retention](retention.md), [engagement](engagement.md) |
+| [community-manager](https://github.com/eddiebe147/claude-settings) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | Manage online communities with engagement strategies, moderation, and relationship building. | 15 | 45 | 2026-01-22 | [community](community.md), [engagement](engagement.md), [moderation](moderation.md), [audience-analysis](audience-analysis.md), [customer-support](customer-support.md) |
+| [hooked-ux](https://github.com/wondelai/skills/blob/main/hooked-ux/SKILL.md) | [wondelai/skills](https://github.com/wondelai/skills) | Hook Model framework for building habit-forming products based on Nir Eyal's 'Hooked'. Increase user engagement, design habit loops, audit r | 102 | 42 | 2026-02-13 | [ux](ux.md), [product-analytics](product-analytics.md), [engagement](engagement.md), [habit-forming-products](habit-forming-products.md), [nir-eyal](nir-eyal.md), [hook-model](hook-model.md) |
+| [socialbee](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Social media management and automation tool for marketing and content creation. | 5 | 30 | 2026-01-09 | [marketing](marketing.md), [social-media](social-media.md), [automation](automation.md), [content-creation](content-creation.md), [engagement](engagement.md) |

@@ -1,0 +1,12 @@
+# Tag: headless-browser
+
+- Back: [Tags](README.md)
+- Tagged skills: 5
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [agent-browser](https://github.com/1nfsh/skills/blob/main/skills/agentic-browser/SKILL.md) | [1nfsh/skills](https://github.com/1nfsh/skills) | Automate browser tasks for AI agents using Playwright and inference.sh. | 1 | 1.3K | 2026-02-11 | [browser-automation](browser-automation.md), [web-scraping](web-scraping.md), [automation](automation.md), [browser](browser.md), [playwright](playwright.md), [headless-browser](headless-browser.md) |
+| [agentic-browser](https://github.com/inference-sh/skills/blob/main/skills/agentic-browser/SKILL.md) | [inference-sh/skills](https://github.com/inference-sh/skills) | Automate browser tasks for AI agents using Playwright and inference.sh. | 21 | 34 | 2026-02-11 | [browser-automation](browser-automation.md), [web-scraping](web-scraping.md), [automation](automation.md), [browser](browser.md), [playwright](playwright.md), [headless-browser](headless-browser.md) |
+| [browserless](https://github.com/vm0-ai/vm0-skills/blob/main/browserless/SKILL.md) | [vm0-ai/vm0-skills](https://github.com/vm0-ai/vm0-skills) | Headless browser as a service for screenshots, PDFs, scraping, and automation | 39 | 29 | 2026-02-10 | [browser-automation](browser-automation.md), [scraping](scraping.md), [headless-browser](headless-browser.md), [web-testing](web-testing.md) |
+| [agent-browser](https://github.com/inference-sh/agent-skills/blob/main/skills/agentic-browser/SKILL.md) | [inference-sh/agent-skills](https://github.com/inference-sh/agent-skills) | Automate browser tasks for AI agents using Playwright and inference.sh. | 21 | 29 | 2026-02-11 | [browser-automation](browser-automation.md), [web-scraping](web-scraping.md), [automation](automation.md), [browser](browser.md), [playwright](playwright.md), [headless-browser](headless-browser.md) |
+| [agent-browser](https://github.com/inferencesh/skills/blob/main/skills/agentic-browser/SKILL.md) | [inferencesh/skills](https://github.com/inferencesh/skills) | Automate browser tasks for AI agents using Playwright and inference.sh. | 1 | 26 | 2026-02-11 | [browser-automation](browser-automation.md), [web-scraping](web-scraping.md), [automation](automation.md), [browser](browser.md), [playwright](playwright.md), [headless-browser](headless-browser.md) |

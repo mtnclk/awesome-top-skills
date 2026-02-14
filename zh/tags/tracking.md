@@ -1,9 +1,14 @@
 # 标签：tracking (tracking)
 
 - 返回: [标签（中文）](README.md)
-- 命中技能: 2
+- 命中技能: 7
 
 | 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
 | - | - | - | -: | -: | - | - |
-| [analytics-tracking](https://github.com/eddiebe147/claude-settings) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | 用于实施分析跟踪以监控用户行为和性能指标的技能。 | 15 | 33 | 2026-01-22 | [分析 (analytics)](analytics.md), [数据分析 (data-analysis)](data-analysis.md), [tracking (tracking)](tracking.md) |
-| [using-analytics](https://github.com/andrelandgraf/fullstackrecipes/blob/main/.agents/skills/using-analytics/SKILL.md) | [andrelandgraf/fullstackrecipes](https://github.com/andrelandgraf/fullstackrecipes) | 使用 Vercel Web Analytics 跟踪自定义事件和转化。 | 6 | 32 | 2026-02-03 | [分析 (analytics)](analytics.md), [tracking (tracking)](tracking.md), [vercel (vercel)](vercel.md), [web 分析 (web-analytics)](web-analytics.md) |
+| [analytics-tracking](https://github.com/eddiebe147/claude-settings) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | 用于实施分析跟踪以监控用户行为和性能指标的技能。 | 15 | 36 | 2026-01-22 | [分析 (analytics)](analytics.md), [数据分析 (data-analysis)](data-analysis.md), [tracking (tracking)](tracking.md) |
+| [myfitnesspal](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | 用于与MyFitnessPal交互以管理健身和营养追踪的技能。 | 5 | 35 | 2026-01-09 | [fitness (fitness)](fitness.md), [tracking (tracking)](tracking.md), [wellness (wellness)](wellness.md), [任务管理 (task-management)](task-management.md) |
+| [using-analytics](https://github.com/andrelandgraf/fullstackrecipes/blob/main/.agents/skills/using-analytics/SKILL.md) | [andrelandgraf/fullstackrecipes](https://github.com/andrelandgraf/fullstackrecipes) | 使用 Vercel Web Analytics 跟踪自定义事件和转化。 | 8 | 32 | 2026-02-03 | [分析 (analytics)](analytics.md), [tracking (tracking)](tracking.md), [vercel (vercel)](vercel.md), [web 分析 (web-analytics)](web-analytics.md) |
+| [google-analytics](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | 用于跟踪和分析网站数据的 Google Analytics 技能 | 5 | 31 | 2026-01-09 | [分析 (analytics)](analytics.md), [数据分析 (data-analysis)](data-analysis.md), [google 分析 (google-analytics)](google-analytics.md), [tracking (tracking)](tracking.md) |
+| [nike-run-club](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Nike Run Club 技能，用于健身追踪和跑步活动 | 5 | 30 | 2026-01-09 | [fitness (fitness)](fitness.md), [移动开发 (mobile)](mobile.md), [tracking (tracking)](tracking.md) |
+| [flightclaw](https://github.com/jackculpan/flightclaw/blob/master/SKILL.md) | [jackculpan/flightclaw](https://github.com/jackculpan/flightclaw) | 使用Google Flights数据跟踪航班价格，自动监控并提供降价提醒。 | 15 | 29 | 2026-02-12 | [tracking (tracking)](tracking.md), [pricing (pricing)](pricing.md), [自动化 (automation)](automation.md), [google flights (google-flights)](google-flights.md), [Python](python.md) |
+| [gdpr-ccpa-privacy-auditor](https://github.com/jorgealves/agent_skills/blob/main/gdpr-ccpa-privacy-auditor/SKILL.md) | [jorgealves/agent_skills](https://github.com/jorgealves/agent_skills) | 审计Web应用程序以确保隐私政策与实际数据收集实践一致，识别cookie、跟踪脚本和用户数据处理方面的差异。 | 0 | 24 | 2026-01-25 | [审计 (audit)](audit.md), [合规 (compliance)](compliance.md), [隐私 (privacy)](privacy.md), [web applications (web-applications)](web-applications.md), [cookies (cookies)](cookies.md), [tracking (tracking)](tracking.md) |

@@ -1,0 +1,9 @@
+# Tag: text-extraction
+
+- Back: [Tags](README.md)
+- Tagged skills: 2
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [extracting-pdf-text](https://github.com/letta-ai/skills/blob/main/tools/extracting-pdf-text/SKILL.md) | [letta-ai/skills](https://github.com/letta-ai/skills) | Extract text from PDFs for LLM consumption, supporting RAG, document analysis, and text extraction with API services and local tools. | 51 | 41 | 2026-02-10 | [document-processing](document-processing.md), [text-extraction](text-extraction.md), [pdf](pdf.md), [ocr](ocr.md), [rag](rag.md) |
+| [ocr-service](https://github.com/lin-a1/skills-agent/blob/main/services/ocr_service/SKILL.md) | [lin-a1/skills-agent](https://github.com/lin-a1/skills-agent) | High-precision OCR service supporting multi-language and multi-format image text detection and extraction with coordinates and confidence sc | 6 | 26 | 2026-01-15 | [analysis](analysis.md), [document-processing](document-processing.md), [ocr](ocr.md), [image-processing](image-processing.md), [text-extraction](text-extraction.md) |

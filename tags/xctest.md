@@ -1,9 +1,10 @@
 # Tag: xctest
 
 - Back: [Tags](README.md)
-- Tagged skills: 2
+- Tagged skills: 3
 
 | Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
 | - | - | - | -: | -: | - | - |
-| [axiom-xctest-automation](https://github.com/charleswiltgen/axiom/blob/main/.claude-plugin/plugins/axiom/skills/axiom-xctest-automation/SKILL.md) | [charleswiltgen/axiom](https://github.com/charleswiltgen/axiom) | Automate XCUITests for iOS app testing with element queries, waiting strategies, and CI/CD patterns. | 392 | 30 | 2026-02-03 | [mobile](mobile.md), [testing](testing.md), [automation](automation.md), [ios](ios.md), [xctest](xctest.md) |
-| [axiom-ui-testing](https://github.com/charleswiltgen/axiom/blob/main/.claude-plugin/plugins/axiom/skills/axiom-ui-testing/SKILL.md) | [charleswiltgen/axiom](https://github.com/charleswiltgen/axiom) | A skill for writing robust UI tests with recording, condition-based waiting, and accessibility-first patterns. | 392 | 26 | 2026-02-03 | [ui](ui.md), [testing](testing.md), [end-to-end-testing](end-to-end-testing.md), [xctest](xctest.md), [wwdc-2025](wwdc-2025.md) |
+| [axiom-xctest-automation](https://github.com/charleswiltgen/axiom/blob/main/.claude-plugin/plugins/axiom/skills/axiom-xctest-automation/SKILL.md) | [charleswiltgen/axiom](https://github.com/charleswiltgen/axiom) | Automate XCUITests for iOS app testing with element queries, waiting strategies, and CI/CD patterns. | 463 | 50 | 2026-02-13 | [mobile](mobile.md), [testing](testing.md), [automation](automation.md), [ios](ios.md), [xctest](xctest.md) |
+| [axiom-ui-testing](https://github.com/charleswiltgen/axiom/blob/main/.claude-plugin/plugins/axiom/skills/axiom-ui-testing/SKILL.md) | [charleswiltgen/axiom](https://github.com/charleswiltgen/axiom) | A skill for writing robust UI tests with recording, condition-based waiting, and accessibility-first patterns. | 463 | 44 | 2026-02-13 | [ui](ui.md), [testing](testing.md), [end-to-end-testing](end-to-end-testing.md), [xctest](xctest.md), [wwdc-2025](wwdc-2025.md) |
+| [swift-testing-expert](https://github.com/avdlee/swift-testing-agent-skill/blob/main/swift-testing-expert/SKILL.md) | [avdlee/swift-testing-agent-skill](https://github.com/avdlee/swift-testing-agent-skill) | Expert guidance for Swift Testing: test structure, macros, traits, parameterized tests, test plans, parallel execution, async patterns, and | 70 | 31 | 2026-02-12 | [testing](testing.md), [best-practices](best-practices.md), [swift](swift.md), [apple](apple.md), [xctest](xctest.md) |

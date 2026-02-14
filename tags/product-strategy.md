@@ -1,0 +1,11 @@
+# Tag: product-strategy
+
+- Back: [Tags](README.md)
+- Tagged skills: 4
+
+| Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
+| - | - | - | -: | -: | - | - |
+| [competitor-teardown](https://github.com/1nfsh/s/blob/main/skills/competitor-teardown/SKILL.md) | [1nfsh/s](https://github.com/1nfsh/s) | Structured competitive analysis with feature matrices, SWOT, positioning maps, and UX review for market research and competitive intelligenc | 0 | 80 | 2026-02-13 | [competitive-analysis](competitive-analysis.md), [market-research](market-research.md), [business-intelligence](business-intelligence.md), [swot-analysis](swot-analysis.md), [product-strategy](product-strategy.md) |
+| [competitor-teardown](https://github.com/1nfsh/skills/blob/main/skills/competitor-teardown/SKILL.md) | [1nfsh/skills](https://github.com/1nfsh/skills) | Structured competitive analysis with feature matrices, SWOT, positioning maps, and UX review for market research and competitive intelligenc | 1 | 69 | 2026-02-11 | [competitive-analysis](competitive-analysis.md), [market-research](market-research.md), [business-intelligence](business-intelligence.md), [swot-analysis](swot-analysis.md), [product-strategy](product-strategy.md) |
+| [product-spec-kit](https://github.com/diegoeis/product-spec-kit/blob/main/SKILL.md) | [diegoeis/product-spec-kit](https://github.com/diegoeis/product-spec-kit) | Comprehensive product management skill for creating PRDs, release plans, user stories, and managing product teams with design-driven develop | 12 | 25 | 2025-11-19 | [documentation](documentation.md), [planning](planning.md), [product-strategy](product-strategy.md), [prd](prd.md), [project-management](project-management.md), [workflows](workflows.md) |
+| [roadmap-planner](https://github.com/anton-abyzov/specweave) | [anton-abyzov/specweave](https://github.com/anton-abyzov/specweave) | A skill for planning and creating roadmaps to guide project or product development. | 55 | 21 | 2026-02-14 | [planning](planning.md), [strategy](strategy.md), [roadmap](roadmap.md), [project-management](project-management.md), [product-strategy](product-strategy.md) |

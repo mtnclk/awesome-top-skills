@@ -1,8 +1,12 @@
 # 效率（Productivity） / y
 
 - 返回: [分类](../README.md)
-- 数量: 1
+- 数量: 5
 
 | 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
 | - | - | - | -: | -: | - | - |
-| [youtube-downloader](https://github.com/aviz85/claude-skills-library/blob/main/skills/youtube-downloader/SKILL.md) | [aviz85/claude-skills-library](https://github.com/aviz85/claude-skills-library) | 下载YouTube视频并支持多种质量预设。 | 11 | 28 | 2026-01-31 | [scraping (scraping)](../../../tags/scraping.md), [download (download)](../../../tags/download.md), [video (video)](../../../tags/video.md), [youtube (youtube)](../../../tags/youtube.md) |
+| [youtube-automation](https://github.com/composiohq/awesome-claude-skills/blob/master/youtube-automation/SKILL.md) | [composiohq/awesome-claude-skills](https://github.com/composiohq/awesome-claude-skills) | 通过 Rube MCP (Composio) 自动化 YouTube 任务：上传视频、管理播放列表、搜索内容、获取分析和 | 35K | 82 | 2026-02-11 | [自动化 (automation)](../../../tags/automation.md), [内容创作 (content-creation)](../../../tags/content-creation.md), [youtube (youtube)](../../../tags/youtube.md), [composio (composio)](../../../tags/composio.md), [mcp (mcp)](../../../tags/mcp.md) |
+| [youtube-downloader](https://github.com/aviz85/claude-skills-library/blob/main/skills/youtube-downloader/SKILL.md) | [aviz85/claude-skills-library](https://github.com/aviz85/claude-skills-library) | 下载YouTube视频并支持多种质量预设。 | 13 | 32 | 2026-02-07 | [scraping (scraping)](../../../tags/scraping.md), [download (download)](../../../tags/download.md), [video (video)](../../../tags/video.md), [youtube (youtube)](../../../tags/youtube.md) |
+| [ynab](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | YNAB预算管理技能 | 5 | 30 | 2026-01-09 | [财务 (finance)](../../../tags/finance.md), [budget (budget)](../../../tags/budget.md), [management (management)](../../../tags/management.md), [ynab (ynab)](../../../tags/ynab.md) |
+| [youtube-title](https://github.com/kenneth-liao/ai-launchpad-marketplace/blob/main/yt-content-strategist/skills/youtube-title/SKILL.md) | [kenneth-liao/ai-launchpad-marketplace](https://github.com/kenneth-liao/ai-launchpad-marketplace) | 生成优化的YouTube视频标题，通过激发好奇心和配合缩略图来最大化点击率。 | 90 | 26 | 2026-02-11 | [内容创作 (content-creation)](../../../tags/content-creation.md), [copywriting (copywriting)](../../../tags/copywriting.md), [优化 (optimization)](../../../tags/optimization.md), [youtube (youtube)](../../../tags/youtube.md), [营销 (marketing)](../../../tags/marketing.md) |
+| [youtube-transcript-cn](https://github.com/zephyrwang6/myskill/blob/main/youtube-transcript-cn/SKILL.md) | [zephyrwang6/myskill](https://github.com/zephyrwang6/myskill) | 提取YouTube视频字幕并转换为中文文字稿，支持自动生成和手动字幕。 | 65 | 26 | 2026-02-07 | [transcription (transcription)](../../../tags/transcription.md), [translation (translation)](../../../tags/translation.md), [youtube (youtube)](../../../tags/youtube.md), [video analysis (video-analysis)](../../../tags/video-analysis.md) |
