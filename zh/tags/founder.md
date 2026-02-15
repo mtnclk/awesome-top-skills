@@ -1,7 +1,7 @@
 # 标签：founder (founder)
 
 - 返回: [标签（中文）](README.md)
-- 命中技能: 6
+- 命中技能: 7
 
 | 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
 | - | - | - | -: | -: | - | - |
@@ -9,5 +9,6 @@
 | [equity-structurer](https://github.com/eddiebe147/claude-settings) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | 帮助构建创始人股权、归属计划和员工期权计划。 | 15 | 45 | 2026-01-22 | [财务 (finance)](finance.md), [规划 (planning)](planning.md), [equity (equity)](equity.md), [founder (founder)](founder.md) |
 | [early-hiring-advisor](https://github.com/shipshitdev/library/blob/master/skills/early-hiring-advisor/SKILL.md) | [shipshitdev/library](https://github.com/shipshitdev/library) | 协助早期招聘决策、团队建设和股权规划。 | 5 | 33 | 2026-02-04 | [规划 (planning)](planning.md), [team building (team-building)](team-building.md), [hiring (hiring)](hiring.md), [equity (equity)](equity.md), [founder (founder)](founder.md), [startup (startup)](startup.md) |
 | [cofounder-evaluator](https://github.com/shipshitdev/library/blob/master/skills/cofounder-evaluator/SKILL.md) | [shipshitdev/library](https://github.com/shipshitdev/library) | 评估潜在联合创始人，评估兼容性，设计股权分配。 | 5 | 31 | 2026-02-04 | [规划 (planning)](planning.md), [策略 (strategy)](strategy.md), [founder (founder)](founder.md), [equity (equity)](equity.md) |
-| [tech-entrepreneur-coach-adhd](https://github.com/erichowens/some_claude_skills/blob/main/.claude/skills/tech-entrepreneur-coach-adhd/SKILL.md) | [erichowens/some_claude_skills](https://github.com/erichowens/some_claude_skills) | 科技创业教练，专注大厂到独立创业者转型，专为ADHD创业者提供可持续增长策略。 | 33 | 23 | 2026-02-14 | [策略 (strategy)](strategy.md), [management (management)](management.md), [adhd (adhd)](adhd.md), [founder (founder)](founder.md), [startup (startup)](startup.md) |
+| [strategic-planning](https://github.com/ognjengt/founder-skills/blob/main/skills/strategic-planning/SKILL.md) | [ognjengt/founder-skills](https://github.com/ognjengt/founder-skills) | 分析创始人业务上下文，提供最高影响力的增长举措，通过诊断问题发现瓶颈和机会。 | 69 | 23 | 2026-02-12 | [策略 (strategy)](strategy.md), [规划 (planning)](planning.md), [founder (founder)](founder.md), [growth (growth)](growth.md), [营销 (marketing)](marketing.md), [sales (sales)](sales.md) |
+| [tech-entrepreneur-coach-adhd](https://github.com/erichowens/some_claude_skills/blob/main/.claude/skills/tech-entrepreneur-coach-adhd/SKILL.md) | [erichowens/some_claude_skills](https://github.com/erichowens/some_claude_skills) | 科技创业教练，专注大厂到独立创业者转型，专为ADHD创业者提供可持续增长策略。 | 34 | 23 | 2026-02-14 | [策略 (strategy)](strategy.md), [management (management)](management.md), [adhd (adhd)](adhd.md), [founder (founder)](founder.md), [startup (startup)](startup.md) |
 | [ai-startup-strategist](https://github.com/junhua/forth-ai-homepage/blob/main/.claude/skills/ai-startup-strategist/SKILL.md) | [junhua/forth-ai-homepage](https://github.com/junhua/forth-ai-homepage) | 运用顶级AI创业公司创始人的战略思维进行分析、头脑风暴、设定OKR和制定执行计划。 | 0 | 22 | 2026-01-26 | [策略 (strategy)](strategy.md), [分析 (analysis)](analysis.md), [AI (ai)](ai.md), [startup (startup)](startup.md), [founder (founder)](founder.md) |

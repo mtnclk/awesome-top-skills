@@ -1,7 +1,7 @@
 # 商业（Business） / d
 
 - 返回: [分类](../README.md)
-- 数量: 9
+- 数量: 10
 
 | 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
 | - | - | - | -: | -: | - | - |
@@ -13,4 +13,5 @@
 | [deel](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Deel 是一个全球雇佣和薪资平台，帮助公司在全球范围内招聘、管理和支付团队薪酬，同时确保遵守当地法规。 | 5 | 30 | 2026-01-09 | [hr (hr)](../../../tags/hr.md), [合规 (compliance)](../../../tags/compliance.md), [财务 (finance)](../../../tags/finance.md) |
 | [docusign](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | 使用 DocuSign 平台进行文档处理和法律工作流自动化 | 5 | 30 | 2026-01-09 | [document processing (document-processing)](../../../tags/document-processing.md), [legal (legal)](../../../tags/legal.md), [docusign (docusign)](../../../tags/docusign.md) |
 | [douyin-viral-content](https://github.com/vickyhan924/self-media-script/blob/main/.claude/skills/douyin-viral-content/SKILL.md) | [vickyhan924/self-media-script](https://github.com/vickyhan924/self-media-script) | 抖音爆款文案智能生成器，自动分析历史数据，应用9大爆款要素，评分迭代至5星标准。 | 0 | 22 | 2026-01-31 | [内容创作 (content-creation)](../../../tags/content-creation.md), [copywriting (copywriting)](../../../tags/copywriting.md), [营销 (marketing)](../../../tags/marketing.md), [douyin (douyin)](../../../tags/douyin.md), [social media (social-media)](../../../tags/social-media.md) |
-| [deliberation-debate-red-teaming](https://github.com/lyndonkl/claude/blob/main/skills/deliberation-debate-red-teaming/SKILL.md) | [lyndonkl/claude](https://github.com/lyndonkl/claude) | 促进对抗性审查和红队演练，识别盲点、漏洞，挑战战略规划和决策中的假设。 | 21 | 21 | 2026-02-11 | [assessment (assessment)](../../../tags/assessment.md), [risk management (risk-management)](../../../tags/risk-management.md), [策略 (strategy)](../../../tags/strategy.md), [decision making (decision-making)](../../../tags/decision-making.md), [debate (debate)](../../../tags/debate.md) |
+| [deliberation-debate-red-teaming](https://github.com/lyndonkl/claude/blob/main/skills/deliberation-debate-red-teaming/SKILL.md) | [lyndonkl/claude](https://github.com/lyndonkl/claude) | 促进对抗性审查和红队演练，识别盲点、漏洞，挑战战略规划和决策中的假设。 | 23 | 21 | 2026-02-11 | [assessment (assessment)](../../../tags/assessment.md), [risk management (risk-management)](../../../tags/risk-management.md), [策略 (strategy)](../../../tags/strategy.md), [decision making (decision-making)](../../../tags/decision-making.md), [debate (debate)](../../../tags/debate.md) |
+| [davila7-market-research-reports](https://github.com/smithery/ai) | [smithery/ai](https://github.com/smithery/ai) | 生成市场调研报告，用于商业智能和竞争分析。 | 0 | 21 |  | [market research (market-research)](../../../tags/market-research.md), [report generation (report-generation)](../../../tags/report-generation.md), [business intelligence (business-intelligence)](../../../tags/business-intelligence.md) |

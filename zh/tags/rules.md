@@ -6,4 +6,4 @@
 | 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
 | - | - | - | -: | -: | - | - |
 | [writing-hookify-rules](https://github.com/anthropics/claude-code) | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 编写Hookify规则：关于在Hookify中创建规则的指南，可能与React Hooks或类似框架模式相关。 | 67K | 703 | 2026-02-14 | [写作 (writing)](writing.md), [最佳实践 (best-practices)](best-practices.md), [hookify (hookify)](hookify.md), [rules (rules)](rules.md) |
-| [writing-hookify-rules](https://github.com/davila7/claude-code-templates) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 编写Hookify规则：关于在Hookify中创建规则的指南，可能与React Hooks或类似框架模式相关。 | 20K | 80 | 2026-02-14 | [写作 (writing)](writing.md), [最佳实践 (best-practices)](best-practices.md), [hookify (hookify)](hookify.md), [rules (rules)](rules.md) |
+| [writing-hookify-rules](https://github.com/davila7/claude-code-templates) | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 编写Hookify规则：关于在Hookify中创建规则的指南，可能与React Hooks或类似框架模式相关。 | 20K | 80 | 2026-02-15 | [写作 (writing)](writing.md), [最佳实践 (best-practices)](best-practices.md), [hookify (hookify)](hookify.md), [rules (rules)](rules.md) |

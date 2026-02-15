@@ -5,5 +5,5 @@
 
 | Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
 | - | - | - | -: | -: | - | - |
-| [marimo-batch](https://github.com/marimo-team/skills/blob/main/skills/marimo-batch/SKILL.md) | [marimo-team/skills](https://github.com/marimo-team/skills) | An opinionated skill to prepare marimo notebooks for scheduled runs, handling configuration and setup tasks. | 18 | 28 | 2026-02-13 | [automation](automation.md), [configuration](configuration.md), [batch-processing](batch-processing.md), [marimo](marimo.md), [notebooks](notebooks.md) |
+| [marimo-batch](https://github.com/marimo-team/skills/blob/main/skills/marimo-batch/SKILL.md) | [marimo-team/skills](https://github.com/marimo-team/skills) | An opinionated skill to prepare marimo notebooks for scheduled runs, handling configuration and setup tasks. | 20 | 29 | 2026-02-14 | [automation](automation.md), [configuration](configuration.md), [batch-processing](batch-processing.md), [marimo](marimo.md), [notebooks](notebooks.md) |
 | [marimo](https://github.com/maragudk/skills/blob/main/marimo/SKILL.md) | [maragudk/skills](https://github.com/maragudk/skills) | Guide for creating and working with marimo notebooks, the reactive Python notebook that stores as pure .py files. | 31 | 23 | 2026-02-12 | [coding](coding.md), [documentation](documentation.md), [python](python.md), [marimo](marimo.md), [notebooks](notebooks.md) |

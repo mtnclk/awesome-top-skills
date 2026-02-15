@@ -5,4 +5,4 @@
 
 | Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
 | - | - | - | -: | -: | - | - |
-| [web-research](https://github.com/langchain-ai/deepagents/blob/main/libs/cli/examples/skills/web-research/SKILL.md) | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | A skill for conducting structured web research and gathering information from online sources. | 9.3K | 189 | 2026-02-14 | [web-research](../../../tags/web-research.md), [scraping](../../../tags/scraping.md), [analysis](../../../tags/analysis.md) |
+| [web-research](https://github.com/langchain-ai/deepagents/blob/main/libs/cli/examples/skills/web-research/SKILL.md) | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | A skill for conducting structured web research and gathering information from online sources. | 9.3K | 205 | 2026-02-14 | [web-research](../../../tags/web-research.md), [scraping](../../../tags/scraping.md), [analysis](../../../tags/analysis.md) |

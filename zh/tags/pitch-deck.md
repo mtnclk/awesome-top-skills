@@ -1,12 +1,13 @@
 # 标签：pitch deck (pitch-deck)
 
 - 返回: [标签（中文）](README.md)
-- 命中技能: 9
+- 命中技能: 10
 
 | 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
 | - | - | - | -: | -: | - | - |
 | [pitch-deck-visuals](https://github.com/1nfsh/s/blob/main/skills/pitch-deck-visuals/SKILL.md) | [1nfsh/s](https://github.com/1nfsh/s) | 投资者演示文稿结构，包含逐页框架、视觉设计规则和数据展示，用于融资和投资者会议。 | 0 | 84 | 2026-02-13 | [演示 (presentation)](presentation.md), [pitch deck (pitch-deck)](pitch-deck.md), [fundraising (fundraising)](fundraising.md), [startup (startup)](startup.md), [investors (investors)](investors.md), [营销 (marketing)](marketing.md) |
 | [pitch-deck-visuals](https://github.com/1nfsh/skills/blob/main/skills/pitch-deck-visuals/SKILL.md) | [1nfsh/skills](https://github.com/1nfsh/skills) | 投资者演示文稿结构，包含逐页框架、视觉设计规则和数据展示，用于融资和投资者会议。 | 1 | 71 | 2026-02-11 | [演示 (presentation)](presentation.md), [pitch deck (pitch-deck)](pitch-deck.md), [fundraising (fundraising)](fundraising.md), [startup (startup)](startup.md), [investors (investors)](investors.md), [营销 (marketing)](marketing.md) |
+| [pitch-deck-visuals](https://github.com/inference-sh-1/skills/blob/main/skills/pitch-deck-visuals/SKILL.md) | [inference-sh-1/skills](https://github.com/inference-sh-1/skills) | 投资者演示文稿结构，包含逐页框架、视觉设计规则和数据展示，用于融资和投资者会议。 | 22 | 65 | 2026-02-11 | [演示 (presentation)](presentation.md), [pitch deck (pitch-deck)](pitch-deck.md), [fundraising (fundraising)](fundraising.md), [startup (startup)](startup.md), [investors (investors)](investors.md), [营销 (marketing)](marketing.md) |
 | [pitch-deck-builder](https://github.com/eddiebe147/claude-settings) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | 制作引人入胜的投资路演幻灯片以讲述故事并获得资金。 | 15 | 54 | 2026-01-22 | [pitch deck (pitch-deck)](pitch-deck.md), [内容创作 (content-creation)](content-creation.md), [营销 (marketing)](marketing.md), [演示 (presentation)](presentation.md) |
 | [pitch-deck-creator](https://github.com/eddiebe147/claude-settings) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | 创建引人入胜的投资路演幻灯片以讲述您的故事并获得资金。 | 15 | 49 | 2026-01-22 | [内容创作 (content-creation)](content-creation.md), [pitch deck (pitch-deck)](pitch-deck.md), [营销 (marketing)](marketing.md) |
 | [board-meeting-prep](https://github.com/eddiebe147/claude-settings) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | 准备董事会会议演示文稿和材料以实现有效治理。 | 15 | 45 | 2026-01-22 | [会议 (meeting)](meeting.md), [规划 (planning)](planning.md), [演示 (presentation)](presentation.md), [powerpoint (powerpoint)](powerpoint.md), [pitch deck (pitch-deck)](pitch-deck.md) |

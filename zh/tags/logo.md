@@ -1,12 +1,13 @@
 # 标签：logo (logo)
 
 - 返回: [标签（中文）](README.md)
-- 命中技能: 5
+- 命中技能: 6
 
 | 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
 | - | - | - | -: | -: | - | - |
-| [logo-creator](https://github.com/resciencelab/opc-skills/blob/main/skills/logo-creator/SKILL.md) | [resciencelab/opc-skills](https://github.com/resciencelab/opc-skills) | 使用AI图像生成创建标志，支持风格讨论、变体和导出。 | 90 | 361 | 2026-02-13 | [image generation (image-generation)](image-generation.md), [branding (branding)](branding.md), [assets (assets)](assets.md), [svg (svg)](svg.md), [logo (logo)](logo.md) |
+| [logo-creator](https://github.com/resciencelab/opc-skills/blob/main/skills/logo-creator/SKILL.md) | [resciencelab/opc-skills](https://github.com/resciencelab/opc-skills) | 使用AI图像生成创建标志，支持风格讨论、变体和导出。 | 160 | 379 | 2026-02-14 | [image generation (image-generation)](image-generation.md), [branding (branding)](branding.md), [assets (assets)](assets.md), [svg (svg)](svg.md), [logo (logo)](logo.md) |
 | [svg-logo-designer](https://github.com/rknall/claude-skills/blob/main/svg-logo-designer/SKILL.md) | [rknall/claude-skills](https://github.com/rknall/claude-skills) | 根据描述设计专业SVG标志，提供多种布局选项。 | 17 | 64 | 2025-10-20 | [branding (branding)](branding.md), [image generation (image-generation)](image-generation.md), [svg (svg)](svg.md), [logo (logo)](logo.md) |
 | [logo-design-guide](https://github.com/1nfsh/skills/blob/main/skills/logo-design-guide/SKILL.md) | [1nfsh/skills](https://github.com/1nfsh/skills) | 标志设计原则和AI图像生成最佳实践，涵盖标志类型、提示技巧、缩放规则和迭代工作流程。 | 1 | 63 | 2026-02-11 | [branding (branding)](branding.md), [image generation (image-generation)](image-generation.md), [logo (logo)](logo.md), [AI (ai)](ai.md), [visual design (visual-design)](visual-design.md) |
 | [logo-ideator](https://github.com/eddiebe147/claude-settings) | [eddiebe147/claude-settings](https://github.com/eddiebe147/claude-settings) | 生成创意 Logo 概念和设计方向。 | 15 | 61 | 2026-01-22 | [branding (branding)](branding.md), [image generation (image-generation)](image-generation.md), [logo (logo)](logo.md) |
-| [gemini-logo-remover](https://github.com/bear2u/my-skills/blob/master/skills/gemini-logo-remover/SKILL.md) | [bear2u/my-skills](https://github.com/bear2u/my-skills) | 使用OpenCV修复技术移除图像中的Gemini标志、水印或AI生成标记。 | 745 | 21 | 2026-02-08 | [image processing (image-processing)](image-processing.md), [editing (editing)](editing.md), [opencv (opencv)](opencv.md), [gemini (gemini)](gemini.md), [logo (logo)](logo.md), [UX (ux)](ux.md) |
+| [logo-design-guide](https://github.com/inference-sh-1/skills/blob/main/skills/logo-design-guide/SKILL.md) | [inference-sh-1/skills](https://github.com/inference-sh-1/skills) | 标志设计原则和AI图像生成最佳实践，涵盖标志类型、提示技巧、缩放规则和迭代工作流程。 | 22 | 60 | 2026-02-11 | [branding (branding)](branding.md), [image generation (image-generation)](image-generation.md), [logo (logo)](logo.md), [AI (ai)](ai.md), [visual design (visual-design)](visual-design.md) |
+| [gemini-logo-remover](https://github.com/bear2u/my-skills/blob/master/skills/gemini-logo-remover/SKILL.md) | [bear2u/my-skills](https://github.com/bear2u/my-skills) | 使用OpenCV修复技术移除图像中的Gemini标志、水印或AI生成标记。 | 746 | 21 | 2026-02-08 | [image processing (image-processing)](image-processing.md), [editing (editing)](editing.md), [opencv (opencv)](opencv.md), [gemini (gemini)](gemini.md), [logo (logo)](logo.md), [UX (ux)](ux.md) |

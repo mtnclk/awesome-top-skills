@@ -1,0 +1,9 @@
+# 标签：eve horizon (eve-horizon)
+
+- 返回: [标签（中文）](README.md)
+- 命中技能: 2
+
+| 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
+| - | - | - | -: | -: | - | - |
+| [eve-new-project-setup](https://github.com/incept5/eve-skillpacks/blob/main/eve-se/eve-new-project-setup/SKILL.md) | [incept5/eve-skillpacks](https://github.com/incept5/eve-skillpacks) | 配置新的Eve Horizon项目，包括配置文件、认证、清单和仓库链接。 | 0 | 25 | 2026-02-14 | [环境配置 (setup)](setup.md), [配置 (configuration)](configuration.md), [eve horizon (eve-horizon)](eve-horizon.md), [项目管理](project-management.md) |
+| [eve-read-eve-docs](https://github.com/incept5/eve-skillpacks/blob/main/eve-work/eve-read-eve-docs/SKILL.md) | [incept5/eve-skillpacks](https://github.com/incept5/eve-skillpacks) | 加载和索引 Eve Horizon 系统文档供 CLI 使用，涵盖清单、管道、作业、密钥、代理、构建、事件和调试。 | 0 | 25 | 2026-02-14 | [文档 (documentation)](documentation.md), [命令行（CLI）](cli.md), [knowledge base (knowledge-base)](knowledge-base.md), [eve horizon (eve-horizon)](eve-horizon.md) |

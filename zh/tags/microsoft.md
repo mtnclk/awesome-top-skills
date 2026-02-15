@@ -1,7 +1,7 @@
 # 标签：microsoft (microsoft)
 
 - 返回: [标签（中文）](README.md)
-- 命中技能: 10
+- 命中技能: 12
 
 | 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
 | - | - | - | -: | -: | - | - |
@@ -14,4 +14,6 @@
 | [clipchamp](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | 微软的视频创作和编辑工具，用于生成和编辑视频内容。 | 5 | 31 | 2026-01-09 | [video generation (video-generation)](video-generation.md), [内容创作 (content-creation)](content-creation.md), [microsoft (microsoft)](microsoft.md) |
 | [microsoft-forms](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | 微软表单集成，在微软生态系统内创建和管理表单、调查和测验。 | 5 | 31 | 2026-01-09 | [form (form)](form.md), [microsoft (microsoft)](microsoft.md), [office (office)](office.md) |
 | [microsoft-copilot](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | 微软Copilot集成，提供AI驱动的辅助和工作流自动化。 | 5 | 30 | 2026-01-09 | [智能体 (agents)](agents.md), [自动化 (automation)](automation.md), [microsoft (microsoft)](microsoft.md) |
-| [microsoft-agent-framework](https://github.com/rysweet/amplihack/blob/main/.claude/skills/microsoft-agent-framework/SKILL.md) | [rysweet/amplihack](https://github.com/rysweet/amplihack) | 全面掌握微软智能体框架，用于构建生产级AI智能体和工作流。 | 18 | 24 | 2026-02-14 | [智能体 (agents)](agents.md), [工作流 (workflows)](workflows.md), [microsoft (microsoft)](microsoft.md), [AI platform (ai-platform)](ai-platform.md), [enterprise (enterprise)](enterprise.md) |
+| [defender-for-devops](https://github.com/josiahsiegel/claude-plugin-marketplace/blob/main/plugins/ado-master/skills/defender-for-devops/SKILL.md) | [josiahsiegel/claude-plugin-marketplace](https://github.com/josiahsiegel/claude-plugin-marketplace) | Microsoft Defender for DevOps 与 Azure Pipelines 集成，实现 CI/CD | 13 | 27 | 2026-02-14 | [integration (integration)](integration.md), [安全自动化 (security-automation)](security-automation.md), [azure (azure)](azure.md), [microsoft (microsoft)](microsoft.md), [漏洞扫描](vuln-scanning.md) |
+| [microsoft-agent-framework](https://github.com/rysweet/amplihack/blob/main/.claude/skills/microsoft-agent-framework/SKILL.md) | [rysweet/amplihack](https://github.com/rysweet/amplihack) | 全面掌握微软智能体框架，用于构建生产级AI智能体和工作流。 | 18 | 24 | 2026-02-15 | [智能体 (agents)](agents.md), [工作流 (workflows)](workflows.md), [microsoft (microsoft)](microsoft.md), [AI platform (ai-platform)](ai-platform.md), [enterprise (enterprise)](enterprise.md) |
+| [microsoft-guide](https://github.com/josiahsiegel/claude-plugin-marketplace/blob/main/plugins/dotnet-microservices-master/skills/microsoft-guide/SKILL.md) | [josiahsiegel/claude-plugin-marketplace](https://github.com/josiahsiegel/claude-plugin-marketplace) | 完整的微软.NET微服务架构指南v7.0，包含350页综合参考材料。 | 13 | 24 | 2026-02-14 | [文档 (documentation)](documentation.md), [架构 (architecture)](architecture.md), [microservices (microservices)](microservices.md), [microsoft (microsoft)](microsoft.md), [dotnet (dotnet)](dotnet.md) |

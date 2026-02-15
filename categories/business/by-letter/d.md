@@ -1,7 +1,7 @@
 # business / d
 
 - Back: [Category](../README.md)
-- Count: 9
+- Count: 10
 
 | Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
 | - | - | - | -: | -: | - | - |
@@ -13,4 +13,5 @@
 | [deel](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Deel is a global employment and payroll platform that helps companies hire, manage, and pay teams worldwide while ensuring compliance with l | 5 | 30 | 2026-01-09 | [hr](../../../tags/hr.md), [compliance](../../../tags/compliance.md), [finance](../../../tags/finance.md) |
 | [docusign](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Document processing and legal workflow automation using DocuSign platform | 5 | 30 | 2026-01-09 | [document-processing](../../../tags/document-processing.md), [legal](../../../tags/legal.md), [docusign](../../../tags/docusign.md) |
 | [douyin-viral-content](https://github.com/vickyhan924/self-media-script/blob/main/.claude/skills/douyin-viral-content/SKILL.md) | [vickyhan924/self-media-script](https://github.com/vickyhan924/self-media-script) | Intelligent generator for viral Douyin content. Automatically analyzes historical data, applies 9 key viral elements, scores and iterates un | 0 | 22 | 2026-01-31 | [content-creation](../../../tags/content-creation.md), [copywriting](../../../tags/copywriting.md), [marketing](../../../tags/marketing.md), [douyin](../../../tags/douyin.md), [social-media](../../../tags/social-media.md) |
-| [deliberation-debate-red-teaming](https://github.com/lyndonkl/claude/blob/main/skills/deliberation-debate-red-teaming/SKILL.md) | [lyndonkl/claude](https://github.com/lyndonkl/claude) | Facilitates adversarial review and red teaming to identify blind spots, vulnerabilities, and challenge assumptions in strategic planning and | 21 | 21 | 2026-02-11 | [assessment](../../../tags/assessment.md), [risk-management](../../../tags/risk-management.md), [strategy](../../../tags/strategy.md), [decision-making](../../../tags/decision-making.md), [debate](../../../tags/debate.md) |
+| [deliberation-debate-red-teaming](https://github.com/lyndonkl/claude/blob/main/skills/deliberation-debate-red-teaming/SKILL.md) | [lyndonkl/claude](https://github.com/lyndonkl/claude) | Facilitates adversarial review and red teaming to identify blind spots, vulnerabilities, and challenge assumptions in strategic planning and | 23 | 21 | 2026-02-11 | [assessment](../../../tags/assessment.md), [risk-management](../../../tags/risk-management.md), [strategy](../../../tags/strategy.md), [decision-making](../../../tags/decision-making.md), [debate](../../../tags/debate.md) |
+| [davila7-market-research-reports](https://github.com/smithery/ai) | [smithery/ai](https://github.com/smithery/ai) | Generate market research reports for business intelligence and competitive analysis. | 0 | 21 |  | [market-research](../../../tags/market-research.md), [report-generation](../../../tags/report-generation.md), [business-intelligence](../../../tags/business-intelligence.md) |

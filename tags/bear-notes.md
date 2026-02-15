@@ -6,4 +6,4 @@
 | Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
 | - | - | - | -: | -: | - | - |
 | [bear](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | A skill for Bear Notes, a popular note-taking and writing application. | 5 | 30 | 2026-01-09 | [note-taking](note-taking.md), [bear-notes](bear-notes.md), [writing](writing.md) |
-| [bear-notes](https://github.com/steipete/clawdis/blob/main/skills/bear-notes/SKILL.md) | [steipete/clawdis](https://github.com/steipete/clawdis) | Create, search, and manage Bear notes via grizzly CLI for efficient note management. | 192K | 23 | 2026-02-14 | [note-taking](note-taking.md), [file-management](file-management.md), [cli](cli.md), [bear-notes](bear-notes.md) |
+| [bear-notes](https://github.com/steipete/clawdis/blob/main/skills/bear-notes/SKILL.md) | [steipete/clawdis](https://github.com/steipete/clawdis) | Create, search, and manage Bear notes via grizzly CLI for efficient note management. | 195K | 25 | 2026-02-15 | [note-taking](note-taking.md), [file-management](file-management.md), [cli](cli.md), [bear-notes](bear-notes.md) |
