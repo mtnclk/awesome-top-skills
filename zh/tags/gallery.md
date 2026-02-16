@@ -5,5 +5,5 @@
 
 | 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
 | - | - | - | -: | -: | - | - |
-| [openai-image-gen](https://github.com/steipete/clawdis/blob/main/skills/openai-image-gen/SKILL.md) | [steipete/clawdis](https://github.com/steipete/clawdis) | 通过OpenAI图像API批量生成图像，支持随机提示采样和HTML画廊。 | 195K | 28 | 2026-02-15 | [image generation (image-generation)](image-generation.md), [batch processing (batch-processing)](batch-processing.md), [openai (openai)](openai.md), [gallery (gallery)](gallery.md) |
+| [openai-image-gen](https://github.com/steipete/clawdis/blob/main/skills/openai-image-gen/SKILL.md) | [steipete/clawdis](https://github.com/steipete/clawdis) | 通过OpenAI图像API批量生成图像，支持随机提示采样和HTML画廊。 | 198K | 29 | 2026-02-16 | [image generation (image-generation)](image-generation.md), [batch processing (batch-processing)](batch-processing.md), [openai (openai)](openai.md), [gallery (gallery)](gallery.md) |
 | [openai-image-gen](https://github.com/steipete/agent-scripts/blob/main/skills/openai-image-gen/SKILL.md) | [steipete/agent-scripts](https://github.com/steipete/agent-scripts) | 通过OpenAI图像API批量生成图像，支持随机提示采样和HTML画廊。 | 1.9K | 22 | 2026-02-14 | [image generation (image-generation)](image-generation.md), [batch processing (batch-processing)](batch-processing.md), [openai (openai)](openai.md), [gallery (gallery)](gallery.md) |

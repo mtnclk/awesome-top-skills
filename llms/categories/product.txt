@@ -66,17 +66,17 @@ technical-roadmaps;refoundai/lenny-skills;technical-roadmaps;This skill helps us
 launch-marketing;refoundai/lenny-skills;launch-marketing;A skill for planning and executing product launches, including PR outreach and go-to-market campaigns.
 prioritizing-roadmap;refoundai/lenny-skills;prioritizing-roadmap;Helps prioritize product roadmaps and backlogs by guiding decisions on feature sequencing, resource allocation, and stakeholder requests.
 working-backwards;refoundai/lenny-skills;working-backwards;Apply the working backwards methodology for product definition and planning.
-brand-guidelines;getsentry/skills;main/plugins/sentry-skills/skills/brand-guidelines;Write copy following Sentry brand guidelines for UI text, error messages, documentation, and marketing content with Plain Speech and Sentry
 designing-growth-loops;refoundai/lenny-skills;designing-growth-loops;Helps design and optimize growth loops for viral mechanics, referral programs, and product-led acquisition.
 usability-testing;refoundai/lenny-skills;usability-testing;Helps users conduct effective usability testing for product design and validation.
 writing-north-star-metrics;refoundai/lenny-skills;writing-north-star-metrics;Helps users define their North Star metric for product success tracking.
-business-analyst;aj-geddes/claude-code-bmad-skills;;Business analyst skill for product discovery, requirements analysis, stakeholder interviews, and creating product briefs before planning.
 retention-engagement;refoundai/lenny-skills;retention-engagement;Improve user retention and engagement by optimizing activation flows and building habit-forming products.
 analyzing-user-feedback;refoundai/lenny-skills;analyzing-user-feedback;Analyze customer feedback including NPS responses, support tickets, and user research to identify patterns and insights.
+business-analyst;aj-geddes/claude-code-bmad-skills;;Business analyst skill for product discovery, requirements analysis, stakeholder interviews, and creating product briefs before planning.
 behavioral-product-design;refoundai/lenny-skills;behavioral-product-design;Apply behavioral science to product design for habit formation and user retention.
 product-taste-intuition;refoundai/lenny-skills;product-taste-intuition;Helps users develop product taste and intuition for better decision-making.
 evaluating-candidates;refoundai/lenny-skills;evaluating-candidates;Helps users make better hiring decisions by evaluating candidates, conducting reference checks, and reviewing work samples.
 measuring-product-market-fit;refoundai/lenny-skills;measuring-product-market-fit;Assess product-market fit through user engagement, retention, and surveys.
+brand-guidelines;getsentry/skills;main/plugins/sentry-skills/skills/brand-guidelines;Write copy following Sentry brand guidelines for UI text, error messages, documentation, and marketing content with Plain Speech and Sentry
 planning-under-uncertainty;refoundai/lenny-skills;planning-under-uncertainty;Helps plan products and strategies under uncertainty, useful for ambiguous timelines and fast-moving markets.
 community-building;refoundai/lenny-skills;community-building;Helps users build and grow product communities, including scaling ambassador programs and driving community-led growth.
 scoping-cutting;refoundai/lenny-skills;scoping-cutting;Helps users define MVPs, manage scope creep, and make feature tradeoffs effectively.
@@ -86,8 +86,8 @@ dogfooding;refoundai/lenny-skills;dogfooding;Helps implement effective dogfoodin
 cross-functional-collaboration;refoundai/lenny-skills;cross-functional-collaboration;This skill helps users work effectively across different functions, especially in managing PM-engineering relationships and resolving cross-
 coaching-pms;refoundai/lenny-skills;coaching-pms;This skill helps coaches develop product managers by guiding performance reviews, team capability building, and career planning.
 organizational-transformation;refoundai/lenny-skills;organizational-transformation;Helps transform organizations towards modern product practices, including shifting from feature teams to product teams and driving cultural
-requirements-analysis;rsmdt/the-startup;;Analyze and manage project requirements to ensure clear understanding and alignment before development begins.
 requirements-analysis;jwynia/agent-skills;tech/development/architecture/requirements-analysis;Analyze requirements problems and guide discovery of real needs and constraints.
+requirements-analysis;rsmdt/the-startup;;Analyze and manage project requirements to ensure clear understanding and alignment before development begins.
 project-brainstorming;athola/claude-night-market;project-brainstorming;Guide project ideation through Socratic questioning and constraint analysis for actionable project briefs. Use for starting projects, explor
 app-store-optimization;alirezarezvani/claude-code-aso-skill;;A complete App Store Optimization (ASO) toolkit for researching, optimizing, and tracking mobile app performance.
 hooked-ux;wondelai/skills;main/hooked-ux;Hook Model framework for building habit-forming products based on Nir Eyal's 'Hooked'. Increase user engagement, design habit loops, audit r
@@ -103,8 +103,8 @@ feature-spec;pproenca/dot-skills;.experimental/feature-spec;A skill for software
 appstore-readiness;eddiebe147/claude-settings;;Ensures app store readiness by checking compliance and setup requirements for app store submission.
 spec-driven-brainstorming;anton-abyzov/specweave;spec-driven-brainstorming;A product discovery expert that helps teams brainstorm features, break down epics, and prioritize using frameworks like MoSCoW and RICE.
 prd-generator;ognjengt/founder-skills;prd-generator;Generates professional PRD documents optimized for AI coding tools, taking rough ideas and outputting structured PDFs.
-discover-product;rand/cc-polymath;discover-product;Discover product management skills automatically for tasks like roadmap, user stories, and strategy.
 product-hunt-launch-plan;ognjengt/founder-skills;product-hunt-launch-plan;Creates a comprehensive, personalized Product Hunt launch plan to rank
+discover-product;rand/cc-polymath;discover-product;Discover product management skills automatically for tasks like roadmap, user stories, and strategy.
 product-changelog;1nfsh/s;product-changelog;Product changelog and release notes that users actually read. Covers categorization, user-facing language, visuals, and distribution.
 product-changelog;inference-sh-1/skills;main/skills/product-changelog;Product changelog and release notes that users actually read. Covers categorization, user-facing language, visuals, and distribution.
 roadmap-planner;anton-abyzov/specweave;;A skill for planning and creating roadmaps to guide project or product development.
@@ -125,24 +125,25 @@ product-changelog;1nfsh/skills;main/skills/product-changelog;Product changelog a
 a/b-test-designer;eddiebe147/claude-settings;ab-test-designer;Design statistically valid A/B tests for marketing optimization.
 product-appeal-analyzer;erichowens/some_claude_skills;product-appeal-analyzer;Evaluates product desirability, market positioning, and emotional resonance to assess whether users will want a product.
 task-estimation;supercent-io/skills-template;;Accurately estimate software development tasks using story points, t-shirt sizing, planning poker, and best practices.
-marketing-product-analytics;vasilyu1983/ai-agents-public;marketing-product-analytics;A skill for product analytics instrumentation and strategy, covering event taxonomy, tracking plans, and user behavior analysis.
 endings;jwynia/agent-skills;creative/fiction/structure/endings;Diagnose weak story endings, rushed resolutions, and arbitrary conclusions to improve narrative quality and character arc completion.
+marketing-product-analytics;vasilyu1983/ai-agents-public;marketing-product-analytics;A skill for product analytics instrumentation and strategy, covering event taxonomy, tracking plans, and user behavior analysis.
 product-analyst;daffy0208/ai-dev-standards;product-analyst;Analyze user metrics and behavior to drive product decisions.
 mvp-architect;shipshitdev/library;mvp-architect;Helps scope MVPs, define minimum viable features, and plan early product development.
 product-analytics;daffy0208/ai-dev-standards;product-analytics;Track events, funnels, cohorts, and metrics to measure product performance and user behavior.
 media-adaptation;jwynia/agent-skills;creative/fiction/application/media-adaptation;Systematically analyze existing media to extract transferable elements for new settings. Use when adapting TV, film, or games to fiction, tr
+plan;boshu2/agentops;plan;Breaks down epics into trackable issues and tasks with various trigger phrases for planning work decomposition.
+pre-mortem;boshu2/agentops;pre-mortem;Validate plans/specs before implementation using multi-model council to determine if ready for execution.
 openspec-proposal-creation;forztf/open-skilled-sdd;openspec-proposal-creation;Creates structured change proposals with specification deltas for new features, breaking changes, or architecture updates.
 pm-architect;rysweet/amplihack;pm-architect;Expert project manager orchestrating sub-skills for backlog curation, work delegation, coordination, and roadmap strategy in complex softwar
+post-mortem;boshu2/agentops;post-mortem;Wrap up completed work, validate implementation, extract learnings for post-project analysis and improvement.
+drama-creator;vangongwanxiaowan/screen-creative-skills;;Create vertical short drama scripts with macro construction, script writing, precise optimization, and creative ideation for various scenari
 using-user-stories;andrelandgraf/fullstackrecipes;using-user-stories;Use user stories to document and track feature implementation with clear acceptance criteria.
-plan;boshu2/agentops;plan;Breaks down epics into trackable issues and tasks with various trigger phrases for planning work decomposition.
 mvp-builder;daffy0208/ai-dev-standards;mvp-builder;Build and validate minimum viable products with rapid development and feature prioritization.
 backlog-curator;rysweet/amplihack;backlog-curator;Expert backlog manager that prioritizes work using multi-criteria scoring, analyzes dependencies, and recommends optimal next tasks.
-pre-mortem;boshu2/agentops;pre-mortem;Validate plans/specs before implementation using multi-model council to determine if ready for execution.
 customer-feedback-analyzer;daffy0208/ai-dev-standards;customer-feedback-analyzer;Analyze customer feedback from multiple channels to identify patterns and inform product decisions.
 retention-engine;shipshitdev/library;retention-engine;A skill for reducing customer churn and increasing lifetime value through retention strategies and subscription optimization.
 user-stories-setup;andrelandgraf/fullstackrecipes;user-stories-setup;Setup structured user story format with testable acceptance criteria for feature requirements.
 product-strategist;daffy0208/ai-dev-standards;product-strategist;Validates product-market fit and strategic direction for new products and feature prioritization.
-post-mortem;boshu2/agentops;post-mortem;Wrap up completed work, validate implementation, extract learnings for post-project analysis and improvement.
 prd;snarktank/amp-skills;;A skill for creating and managing product requirement documents (PRD).
 roadmap-analyzer;shipshitdev/library;roadmap-analyzer;Analyze project features against ideal customer profile needs to identify gaps and recommend roadmap priorities.
 debate-workflow;rysweet/amplihack;debate-workflow;Structured multi-perspective debate workflow for architectural decisions and complex trade-offs
@@ -159,4 +160,5 @@ openspec-proposal-creation-cn;forztf/open-skilled-sdd;openspec-proposal-creation
 jira;odyssey4me/agent-skills;jira;Search and manage Jira issues using JQL queries, create/update issues, and manage workflows for Jira project management.
 requirements-specification;pluginagentmarketplace/custom-plugin-product-manager;requirements;Master requirements gathering, user story writing, and acceptance criteria definition for clear specifications.
 interview;enzed/skills;main/interview;Interview users in-depth to create detailed specs for requirements definition and feature specification.
+vertical-slice-delivery;jjenzz/agent-skills;vertical-slice-delivery;Methodology for planning, ideating, and delivering features or tasks with step-by-step breakdowns.
 interview;takuan-osho/ccmarketplace;;Conduct structured interviews to gather requirements, clarify specifications, or understand context for new tasks.

@@ -1,7 +1,7 @@
 # Tag: rss
 
 - Back: [Tags](README.md)
-- Tagged skills: 7
+- Tagged skills: 8
 
 | Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
 | - | - | - | -: | -: | - | - |
@@ -10,5 +10,6 @@
 | [rss-agent-viewer](https://github.com/brooksy4503/rss-agent-viewer/blob/main/skills/rss-agent-viewer/SKILL.md) | [brooksy4503/rss-agent-viewer](https://github.com/brooksy4503/rss-agent-viewer) | CLI RSS/Atom feed viewer with discovery, search, and OPML import/export for AI agents and terminal users. | 1 | 40 | 2026-02-14 | [rss](rss.md), [cli](cli.md), [agents](agents.md), [file-management](file-management.md), [search](search.md) |
 | [fs-street](https://github.com/geekjourneyx/mind-skills/blob/main/skills/fs-street/SKILL.md) | [geekjourneyx/mind-skills](https://github.com/geekjourneyx/mind-skills) | Fetches articles from Farnam Street RSS for decision-making, mental models, learning, and wisdom content. | 16 | 34 | 2026-02-08 | [content-creation](content-creation.md), [rss](rss.md), [farnam-street](farnam-street.md), [decision-making](decision-making.md) |
 | [feedly](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Aggregates and reads RSS feeds from multiple sources using Feedly's platform. | 5 | 34 | 2026-01-09 | [web-research](web-research.md), [rss](rss.md), [content-creation](content-creation.md) |
-| [blogwatcher](https://github.com/steipete/clawdis/blob/main/skills/blogwatcher/SKILL.md) | [steipete/clawdis](https://github.com/steipete/clawdis) | Monitor blogs and RSS/Atom feeds for updates using the blogwatcher CLI tool. | 195K | 30 | 2026-02-15 | [monitoring](monitoring.md), [rss](rss.md), [cli](cli.md) |
+| [blogwatcher](https://github.com/steipete/clawdis/blob/main/skills/blogwatcher/SKILL.md) | [steipete/clawdis](https://github.com/steipete/clawdis) | Monitor blogs and RSS/Atom feeds for updates using the blogwatcher CLI tool. | 198K | 30 | 2026-02-16 | [monitoring](monitoring.md), [rss](rss.md), [cli](cli.md) |
+| [ai-daily-digest](https://github.com/vigorx777/ai-daily-digest/blob/main/SKILL.md) | [vigorx777/ai-daily-digest](https://github.com/vigorx777/ai-daily-digest) | Fetches RSS feeds from top Hacker News blogs, uses AI to score/filter articles, generates daily digest in Markdown with Chinese translations | 665 | 26 | 2026-02-15 | [content-creation](content-creation.md), [summarization](summarization.md), [rss](rss.md), [hacker-news](hacker-news.md), [markdown](markdown.md), [chinese](chinese.md) |
 | [rss-agent-discovery](https://github.com/brooksy4503/rss-agent-discovery/blob/main/skills/rss-agent-discovery/SKILL.md) | [brooksy4503/rss-agent-discovery](https://github.com/brooksy4503/rss-agent-discovery) | RSS/Atom feed discovery tool for AI agents with JSON output. Discovers feeds from websites for monitoring, aggregation, and content syndicat | 1 | 24 | 2026-02-02 | [discovery](discovery.md), [rss](rss.md), [atom](atom.md), [frontend](frontend.md) |

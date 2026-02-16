@@ -38,8 +38,8 @@ team-composition-analysis;wshobson/agents;team-composition-analysis;Analyze team
 market-research-reports;davila7/claude-code-templates;scientific/market-research-reports;Generate comprehensive market research reports with professional formatting and strategic frameworks.
 marketing-strategy-pmm;davila7/claude-code-templates;business-marketing/marketing-strategy-pmm;A skill for developing product marketing strategies, positioning, GTM plans, and competitive intelligence.
 ceo-advisor;davila7/claude-code-templates;business-marketing/ceo-advisor;Provides executive leadership guidance for strategic decision-making and organizational development.
-marketing-demand-acquisition;davila7/claude-code-templates;business-marketing/marketing-demand-acquisition;A skill for demand generation, SEO strategy, and paid media optimization for startups.
 marketing-ideas;davila7/claude-code-templates;business-marketing/marketing-ideas;Provides 140 proven marketing approaches for SaaS and software products.
+marketing-demand-acquisition;davila7/claude-code-templates;business-marketing/marketing-demand-acquisition;A skill for demand generation, SEO strategy, and paid media optimization for startups.
 marketing-psychology;davila7/claude-code-templates;business-marketing/marketing-psychology;Apply psychological principles and mental models to marketing strategies.
 lead-research-assistant;davila7/claude-code-templates;business-marketing/lead-research-assistant;An assistant that identifies high-quality leads by analyzing business data and targeting companies for sales and marketing professionals.
 executing-marketing-campaigns;davila7/claude-code-templates;creative-design/executing-marketing-campaigns;Plan, create, and optimize marketing campaigns including content strategy, social media, email, and analytics.
@@ -55,8 +55,6 @@ pricing-strategy;coreyhaines31/marketingskills;pricing-strategy;Helps with prici
 paid-ads;coreyhaines31/marketingskills;paid-ads;Helps with paid advertising campaigns on Google Ads, Meta, LinkedIn, Twitter/X, and other platforms, covering strategy, ad creation, targeti
 free-tool-strategy;coreyhaines31/marketingskills;free-tool-strategy;Plan, evaluate, or build free tools for marketing purposes like lead generation, SEO, or brand awareness.
 referral-program;coreyhaines31/marketingskills;referral-program;This skill helps create, optimize, and analyze referral, affiliate, and word-of-mouth programs for growth.
-content-strategy;coreyhaines31/marketingskills;content-strategy;Helps users plan content strategies, decide on topics, and create content ideas for blogs and articles.
-product-marketing-context;coreyhaines31/marketingskills;product-marketing-context;Creates and manages product marketing context documents for consistent messaging.
 micro-saas-launcher;sickn33/antigravity-awesome-skills;micro-saas-launcher;Helps launch small SaaS products quickly with focus on MVP, pricing, and growth strategies.
 notion-template-business;sickn33/antigravity-awesome-skills;notion-template-business;Build and scale a Notion template business with marketing, pricing, and revenue strategies.
 marketing-psychology;sickn33/antigravity-awesome-skills;marketing-psychology;Apply behavioral science and mental models to marketing decisions with a leverage and feasibility scoring system.
@@ -67,8 +65,8 @@ referral-program;sickn33/antigravity-awesome-skills;referral-program;This skill 
 free-tool-strategy;sickn33/antigravity-awesome-skills;free-tool-strategy;Plan, evaluate, or build free tools for marketing purposes like lead generation, SEO, or brand awareness.
 startup-business-analyst-market-opportunity;sickn33/antigravity-awesome-skills;startup-business-analyst-market-opportunity;Generate comprehensive market opportunity analysis with TAM/SAM/SOM calculations.
 startup-analyst;sickn33/antigravity-awesome-skills;startup-analyst;An expert startup business analyst for market sizing, financial modeling, and strategic planning.
-business-analyst;sickn33/antigravity-awesome-skills;business-analyst;AI-powered business analysis with real-time dashboards and data-driven insights.
 startup-business-analyst-business-case;sickn33/antigravity-awesome-skills;startup-business-analyst-business-case;Generate comprehensive investor-ready business case documents with market, solution, financials, and strategy.
+business-analyst;sickn33/antigravity-awesome-skills;business-analyst;AI-powered business analysis with real-time dashboards and data-driven insights.
 startup-business-analyst-financial-projections;sickn33/antigravity-awesome-skills;startup-business-analyst-financial-projections;Create detailed 3-5 year financial models with revenue, costs, cash flow, and scenarios.
 startup-financial-modeling;sickn33/antigravity-awesome-skills;startup-financial-modeling;This skill helps create financial projections, build models, forecast revenue, and estimate runway for startups.
 startup-metrics-framework;sickn33/antigravity-awesome-skills;startup-metrics-framework;A skill for analyzing key startup metrics like CAC, LTV, unit economics, and burn multiple to guide business performance optimization.
@@ -79,6 +77,8 @@ risk-manager;sickn33/antigravity-awesome-skills;risk-manager;Monitor portfolio r
 market-sizing-analysis;sickn33/antigravity-awesome-skills;market-sizing-analysis;A skill for conducting market sizing analysis including TAM, SAM, and SOM calculations.
 hr-pro;sickn33/antigravity-awesome-skills;hr-pro;Professional HR partner for hiring, onboarding, PTO, performance, and employee relations with structured, bias-mitigated, lawful templates.
 team-composition-analysis;sickn33/antigravity-awesome-skills;team-composition-analysis;Analyze team composition and organizational structure for startups.
+content-strategy;coreyhaines31/marketingskills;content-strategy;Helps users plan content strategies, decide on topics, and create content ideas for blogs and articles.
+product-marketing-context;coreyhaines31/marketingskills;product-marketing-context;Creates and manages product marketing context documents for consistent messaging.
 market-research-reports;k-dense-ai/claude-scientific-skills;;Generate comprehensive market research reports with strategic frameworks and professional formatting.
 content-creation;anthropics/knowledge-work-plugins;content-creation;Draft marketing content across channels — blog posts, social media, email newsletters, landing pages, press releases, and case studies with
 competitive-analysis;anthropics/knowledge-work-plugins;competitive-analysis;Research competitors and compare positioning, messaging, content strategy, and market presence for competitive analysis and strategic planni
@@ -111,8 +111,8 @@ marketing-demand-acquisition;alirezarezvani/claude-skills;;A skill for multi-cha
 regulatory-affairs-head;alirezarezvani/claude-skills;;A senior regulatory affairs manager for HealthTech and MedTech companies, focusing on regulatory strategy and global compliance.
 financial-analyst;alirezarezvani/claude-skills;;Performs financial ratio analysis, DCF valuation, budget variance analysis, and rolling forecast construction for strategic decision-making.
 customer-success-manager;alirezarezvani/claude-skills;;Monitors customer health, predicts churn risk, and identifies expansion opportunities using weighted scoring models for SaaS customer succes
-campaign-analytics;alirezarezvani/claude-skills;;Analyzes campaign performance with multi-touch attribution, funnel conversion, and ROI calculation for marketing optimization.
 revenue-operations;alirezarezvani/claude-skills;;Analyzes pipeline coverage, tracks forecast accuracy with MAPE, and calculates GTM efficiency metrics for SaaS revenue optimization
+campaign-analytics;alirezarezvani/claude-skills;;Analyzes campaign performance with multi-touch attribution, funnel conversion, and ROI calculation for marketing optimization.
 sales-engineer;alirezarezvani/claude-skills;;Analyzes RFP responses for coverage gaps, builds competitive feature matrices, and plans proof-of-concept engagements for pre-sales engineer
 brand-strategy;jeremylongshore/claude-code-plugins-plus-skills;brand-strategy;A 7-part brand strategy framework for building comprehensive brand foundations.
 n8n-workflow-generator;jeremylongshore/claude-code-plugins-plus-skills;;Auto-activating skill for generating N8N workflows for business automation tasks.
@@ -121,19 +121,20 @@ monetize-service;coinbase/agentic-wallet-skills;monetize-service;Build and deplo
 send-usdc;coinbase/agentic-wallet-skills;send-usdc;Send USDC cryptocurrency to Ethereum addresses or ENS names for payments, transfers, tips, and donations.
 search-for-service;coinbase/agentic-wallet-skills;search-for-service;Search and browse the x402 bazaar marketplace for paid API services to find available services, discover APIs, or find external services to
 lead-research-assistant;skillcreatorai/ai-agent-skills;lead-research-assistant;An assistant that identifies high-quality leads by analyzing business data and targeting companies for sales and marketing professionals.
-endaoment;bankrbot/openclaw-skills;;Donate to charities onchain via Endaoment. Supports crypto donations to nonprofits with automatic token swapping.
 stock-analysis;gracefullight/stock-checker;stock-analysis;Analyze stocks and cryptocurrencies with Yahoo Finance data. Supports portfolio management, crypto analysis, and periodic performance report
+endaoment;bankrbot/openclaw-skills;;Donate to charities onchain via Endaoment. Supports crypto donations to nonprofits with automatic token swapping.
 apify-competitor-intelligence;apify/agent-skills;apify-competitor-intelligence;Analyze competitor strategies across multiple platforms including Google Maps, Booking.com, and social media.
 klaviyo;alinaqi/claude-bootstrap;klaviyo;A skill for Klaviyo email/SMS marketing including profiles, events, flows, and segmentation.
 reddit-ads;alinaqi/claude-bootstrap;reddit-ads;Manage Reddit Ads campaigns, targeting, and conversions with API integration.
+domain-hunter;resciencelab/opc-skills;domain-hunter;Search domains, compare prices, find promo codes, and get purchase recommendations for domain buying.
 asc-ppp-pricing;rudrankriyam/app-store-connect-cli-skills;asc-ppp-pricing;Set territory-specific pricing for subscriptions and in-app purchases using purchasing power parity (PPP) for localized pricing strategies.
 keyword-research;aaron-he-zhu/seo-geo-claude-skills;;Discovers high-value keywords with search intent analysis, difficulty assessment, and content opportunity mapping for SEO and content strate
 startup-validator;ailabs-393/ai-labs-claude-skills;startup-validator;Validates startup ideas and analyzes markets using data-driven insights.
 business-document-generator;ailabs-393/ai-labs-claude-skills;business-document-generator;Generates professional business documents from templates using Python and PDF formats.
-pitch-deck;ailabs-393/ai-labs-claude-skills;pitch-deck;Generate professional PowerPoint pitch decks for startups and businesses with a standard 10-slide structure.
-business-analytics-reporter;ailabs-393/ai-labs-claude-skills;business-analytics-reporter;Analyze business sales and revenue data from CSV files to identify weak areas and provide strategic recommendations.
 fund;coinbase/agentic-wallet-skills;fund;Add money to wallet. Fund, deposit, top up, load, buy USDC, add funds, onramp operations.
+pitch-deck;ailabs-393/ai-labs-claude-skills;pitch-deck;Generate professional PowerPoint pitch decks for startups and businesses with a standard 10-slide structure.
 competitive-analysis;refoundai/lenny-skills;competitive-analysis;This skill helps users analyze competition and position against rivals.
+business-analytics-reporter;ailabs-393/ai-labs-claude-skills;business-analytics-reporter;Analyze business sales and revenue data from CSV files to identify weak areas and provide strategic recommendations.
 brand-storytelling;refoundai/lenny-skills;brand-storytelling;Helps users create compelling brand narratives for company positioning and storytelling.
 content-marketing;refoundai/lenny-skills;content-marketing;Helps users build content marketing strategies for blogs, SEO, and thought leadership.
 startup-ideation;refoundai/lenny-skills;startup-ideation;Generate and evaluate startup ideas for business concept development.
@@ -156,8 +157,8 @@ patent-architect;fradser/dotclaude;patent-architect;Generates Chinese patent app
 mckinsey-consultant;fleurytian/awesome-claude-skills;;McKinsey-style problem solving system for structured analysis and professional report generation.
 content-gap-analysis;aaron-he-zhu/seo-geo-claude-skills;;Analyze content gaps by identifying topics covered by competitors but missing from your strategy.
 competitor-analysis;aaron-he-zhu/seo-geo-claude-skills;;Analyze competitor SEO, GEO strategies, keywords, content, backlinks, and AI citation patterns to find opportunities for outperforming compe
-ceo-skill;guo-yu/skills;master/ceo-skill;Intelligent project management dashboard for CEOs to view project status, priorities, and todos from executive perspective.
 alert-manager;aaron-he-zhu/seo-geo-claude-skills;;Sets up and manages alerts for SEO metrics including ranking drops, traffic changes, technical issues, and competitor movements.
+ceo-skill;guo-yu/skills;master/ceo-skill;Intelligent project management dashboard for CEOs to view project status, priorities, and todos from executive perspective.
 cro-methodology;wondelai/skills;main/cro-methodology;A customer-centric CRO methodology for optimizing websites and improving conversion rates.
 stock-research-executor;liangdabiao/claude-code-stock-deep-research-agent;stock-research-executor;A stock investment research engine that executes multi-agent analysis and generates structured reports.
 google-ads;jdrhyne/agent-skills;google-ads;Query, audit, and optimize Google Ads campaigns with API or browser automation modes
@@ -167,44 +168,45 @@ scorecard-marketing;wondelai/skills;main/scorecard-marketing;A lead generation s
 storybrand-messaging;wondelai/skills;main/storybrand-messaging;StoryBrand messaging framework for clarifying brand messages, creating converting website copy, and building customer-focused marketing cont
 revenuecat;rawveg/skillsforge-marketplace;;Assists with RevenueCat in-app subscriptions and purchases.
 alex-hormozi-pitch;microck/ordinary-claude-skills;;Create irresistible offers and pitches using Alex Hormozi's methodology from $100M Offers. Guides through value equation, guarantee framewor
-competitor-analysis;aj-geddes/useful-ai-prompts;competitor-analysis;Analyze competitive landscape to identify strengths, weaknesses, opportunities, and threats for product strategy.
 negotiation;wondelai/skills;main/negotiation;Tactical negotiation framework based on Chris Voss's 'Never Split the Difference' for salary, contract, and business negotiations.
+competitor-analysis;aj-geddes/useful-ai-prompts;competitor-analysis;Analyze competitive landscape to identify strengths, weaknesses, opportunities, and threats for product strategy.
 business-case-development;aj-geddes/useful-ai-prompts;business-case-development;Develop compelling business cases with quantified benefits, cost assessments, and ROI arguments for leadership.
 stakeholder-communication;aj-geddes/useful-ai-prompts;stakeholder-communication;This skill helps manage stakeholder expectations and engagement through targeted communication and relationship building.
 process-mapping;aj-geddes/useful-ai-prompts;process-mapping;Visualize and document business processes to identify inefficiencies and improvement opportunities.
 press-release-writing;inference-sh-1/skills;main/skills/press-release-writing;Press release writing in AP style with inverted pyramid structure. Covers formatting, datelines, quotes, boilerplates, and fact-checking.
 stock-analysis;alphamoemoe/foci;stock-analysis;Generate comprehensive sentiment analysis reports for individual stocks like NVDA, TSLA, or AAPL.
-product-hunt-launch;inference-sh-1/skills;main/skills/product-hunt-launch;Product Hunt launch optimization with specific specs, timing, and gallery strategy. Covers taglines, gallery images, maker comments, and lau
-financial-operations-expert;shipshitdev/library;financial-operations-expert;This skill assists with financial operations including tax planning, bookkeeping, and profit/loss analysis.
 outreach-specialist;ognjengt/founder-skills;outreach-specialist;Crafts high-converting outreach messages and email sequences for cold outreach, LinkedIn DMs, and follow-ups to book calls and get replies.
-case-study-writing;1nfsh/s;case-study-writing;B2B case study writing with STAR framework, data visualization, and research for customer success stories and sales enablement.
+product-hunt-launch;inference-sh-1/skills;main/skills/product-hunt-launch;Product Hunt launch optimization with specific specs, timing, and gallery strategy. Covers taglines, gallery images, maker comments, and lau
+us-stock-analysis;tradermonty/claude-trading-skills;us-stock-analysis;Comprehensive US stock analysis including fundamental and technical analysis, stock comparisons, and investment report generation.
 strategic-planning;ognjengt/founder-skills;strategic-planning;Analyzes business context to deliver highest-impact growth moves for founders, asking diagnostic questions to uncover bottlenecks and opport
 pricing-strategist;ognjengt/founder-skills;pricing-strategist;Builds comprehensive pricing strategies by reading business context and asking targeted questions interactively.
+financial-operations-expert;shipshitdev/library;financial-operations-expert;This skill assists with financial operations including tax planning, bookkeeping, and profit/loss analysis.
 sop-creator;ognjengt/founder-skills;sop-creator;Creates detailed Standard Operating Procedures (SOPs) for business processes and workflow documentation.
-finance-expert;personamanagmentlayer/pcl;;Expert-level financial systems, FinTech, banking, payments, and financial technology
+case-study-writing;1nfsh/s;case-study-writing;B2B case study writing with STAR framework, data visualization, and research for customer success stories and sales enablement.
 competitor-teardown;inference-sh-1/skills;main/skills/competitor-teardown;Structured competitive analysis with feature matrices, SWOT, positioning maps, and UX review for market research and competitive intelligenc
+finance-expert;personamanagmentlayer/pcl;;Expert-level financial systems, FinTech, banking, payments, and financial technology
 pitch-deck-visuals;inference-sh-1/skills;main/skills/pitch-deck-visuals;Investor pitch deck structure with slide-by-slide framework, visual design rules, and data presentation for fundraising and investor meeting
-video-ad-specs;1nfsh/s;video-ad-specs;Video ad creation with exact platform-specific specs for TikTok, Instagram, YouTube, Facebook, LinkedIn. Covers dimensions, duration limits,
 video-ad-specs;inference-sh-1/skills;main/skills/video-ad-specs;Video ad creation with exact platform-specific specs for TikTok, Instagram, YouTube, Facebook, LinkedIn. Covers dimensions, duration limits,
+video-ad-specs;1nfsh/s;video-ad-specs;Video ad creation with exact platform-specific specs for TikTok, Instagram, YouTube, Facebook, LinkedIn. Covers dimensions, duration limits,
 pitch-deck-visuals;1nfsh/s;pitch-deck-visuals;Investor pitch deck structure with slide-by-slide framework, visual design rules, and data presentation for fundraising and investor meeting
+case-study-writing;inference-sh-1/skills;main/skills/case-study-writing;B2B case study writing with STAR framework, data visualization, and research for customer success stories and sales enablement.
 customer-persona;1nfsh/s;customer-persona;Research-backed customer persona creation with market data and avatar generation for marketing strategy, product development, and UX researc
 product-hunt-launch;1nfsh/s;product-hunt-launch;Product Hunt launch optimization with specific specs, timing, and gallery strategy. Covers taglines, gallery images, maker comments, and lau
 financial-analyst;eddiebe147/claude-settings;;Analyze financial data, build models, evaluate investments, and provide data-driven financial recommendations.
-us-stock-analysis;tradermonty/claude-trading-skills;us-stock-analysis;Comprehensive US stock analysis including fundamental and technical analysis, stock comparisons, and investment report generation.
-case-study-writing;inference-sh-1/skills;main/skills/case-study-writing;B2B case study writing with STAR framework, data visualization, and research for customer success stories and sales enablement.
 competitor-teardown;1nfsh/s;competitor-teardown;Structured competitive analysis with feature matrices, SWOT, positioning maps, and UX review for market research and competitive intelligenc
 market-environment-analysis;nicepkg/ai-workflow;market-environment-analysis;A comprehensive market environment analysis tool for global markets, forex, commodities, and economic indicators.
-product-hunt-launch;1nfsh/skills;main/skills/product-hunt-launch;Product Hunt launch optimization with specific specs, timing, and gallery strategy. Covers taglines, gallery images, maker comments, and lau
-trading-strategist;kukapay/crypto-skills;trading-strategist;Provides cryptocurrency trading strategies using Binance market data, technical analysis indicators, and market sentiment from crypto RSS fe
 cloud-pricing;anton-abyzov/specweave;cloud-pricing;Expert knowledge of cloud provider pricing models for AWS, Azure, GCP covering compute, storage, database, networking, and serverless servic
 qa-lead;anton-abyzov/specweave;;QA Lead skill for quality assurance leadership and team management
+product-hunt-launch;1nfsh/skills;main/skills/product-hunt-launch;Product Hunt launch optimization with specific specs, timing, and gallery strategy. Covers taglines, gallery images, maker comments, and lau
+trading-strategist;kukapay/crypto-skills;trading-strategist;Provides cryptocurrency trading strategies using Binance market data, technical analysis indicators, and market sentiment from crypto RSS fe
 business-plan-writer;eddiebe147/claude-settings;;Generate comprehensive business plans, financial projections, and strategic documents.
 linkedin-content;1nfsh/skills;main/skills/linkedin-content;LinkedIn post writing with hook formulas, formatting rules, and engagement patterns for professional content and thought leadership.
+linkedin-profile-optimizer;paramchoudhary/resumeskills;linkedin-profile-optimizer;Optimize LinkedIn profiles for better searchability, recruiter visibility, and engagement
+customer-persona;inference-sh-1/skills;main/skills/customer-persona;Research-backed customer persona creation with market data and avatar generation for marketing strategy, product development, and UX researc
+linkedin-content;inference-sh-1/skills;main/skills/linkedin-content;LinkedIn post writing with hook formulas, formatting rules, and engagement patterns for professional content and thought leadership.
 tiktok-creator;eddiebe147/claude-settings;;Master TikTok trends, create viral hooks, and optimize content for the algorithm.
 indie-monetization-strategist;erichowens/some_claude_skills;indie-monetization-strategist;Monetization strategies for indie developers and solopreneurs covering freemium models, SaaS pricing, sponsorships, donations, and passive i
 market-research-analyst;eddiebe147/claude-settings;;Conducts comprehensive market analysis through web research and data synthesis.
-customer-persona;inference-sh-1/skills;main/skills/customer-persona;Research-backed customer persona creation with market data and avatar generation for marketing strategy, product development, and UX researc
-linkedin-content;inference-sh-1/skills;main/skills/linkedin-content;LinkedIn post writing with hook formulas, formatting rules, and engagement patterns for professional content and thought leadership.
 competitive-intelligence;eddiebe147/claude-settings;;A skill for conducting deep competitive research and monitoring using OSINT techniques.
 pitch-deck-visuals;1nfsh/skills;main/skills/pitch-deck-visuals;Investor pitch deck structure with slide-by-slide framework, visual design rules, and data presentation for fundraising and investor meeting
 crypto-report;aahl/skills;main/skills/crypto-report;Get cryptocurrency market data, Binance AI analysis reports, and blockchain news updates.
@@ -231,7 +233,6 @@ freelance-business-manager;eddiebe147/claude-settings;;Manage freelance business
 pricing-strategist;eddiebe147/claude-settings;;Develop pricing strategies and optimize revenue.
 e-commerce-manager;eddiebe147/claude-settings;;Manages online stores, optimizes products, analyzes conversions, and develops digital retail strategies.
 marketing-leads-generation;vasilyu1983/ai-agents-public;marketing-leads-generation;Generate B2B marketing leads with funnel design, scoring, and compliance.
-flightclaw;jackculpan/flightclaw;;Track flight prices using Google Flights data with automated monitoring and alerts for price drops.
 conversion-optimization-expert;sitechfromgeorgia/georgian-distribution-system;;Expert in conversion optimization strategies and techniques
 affiliate-marketing-manager;eddiebe147/claude-settings;;Manage affiliate marketing programs to drive growth and revenue.
 saas-metrics-tracker;eddiebe147/claude-settings;;Track and analyze key SaaS metrics like MRR, churn, NRR, and ARR.
@@ -282,6 +283,7 @@ due-diligence-coordinator;eddiebe147/claude-settings;;Coordinate and prepare for
 lifecycle-marketing-manager;eddiebe147/claude-settings;;Design automated customer lifecycle marketing with email sequences and journeys.
 equity-structurer;eddiebe147/claude-settings;;Helps structure founder equity, vesting schedules, and employee option plans.
 bitrix;vm0-ai/vm0-skills;;Bitrix24 REST API via curl for managing CRM (leads, deals, contacts), tasks, and users.
+strategy-and-competitive-analysis;lyndonkl/claude;strategy-and-competitive-analysis;Business strategy and competitive analysis using frameworks like Porter's 5 Forces, SWOT, Blue Ocean Strategy for market entry, product laun
 trading212-api;trading212-labs/agent-skills;trading212-api;Trading212 API skill for connecting to Trading 212 platform, handling authentication, placing trades, managing orders, checking balances, vi
 runway-calculator;eddiebe147/claude-settings;;Calculate cash runway, burn rate, and financial sustainability projections.
 retention-marketer;eddiebe147/claude-settings;;A skill for developing customer retention strategies to reduce churn and increase lifetime value.
@@ -291,39 +293,40 @@ social-crisis-manager;eddiebe147/claude-settings;;Manage social media crises wit
 term-sheet-analyzer;eddiebe147/claude-settings;;Analyze VC term sheets and negotiate favorable conditions.
 marketing-content-strategy;vasilyu1983/ai-agents-public;marketing-content-strategy;A marketing content strategy skill focusing on positioning, messaging, content pillars, and ROI measurement.
 customer-persona;1nfsh/skills;main/skills/customer-persona;Research-backed customer persona creation with market data and avatar generation for marketing strategy, product development, and UX researc
+technical-analyst;tradermonty/claude-trading-skills;technical-analyst;Analyzes weekly price charts for stocks, crypto, forex with technical indicators, trend identification, support/resistance levels, scenario
 ecommerce-competitor-analyzer;buluslan/ecommerce-competitor-analyzer;;Multi-platform e-commerce competitor analysis skill that automatically scrapes product data from Amazon, Temu, Shopee and generates comprehe
 marketing-cro;vasilyu1983/ai-agents-public;marketing-cro;Optimize conversion rates, design A/B tests, and improve landing pages with CRO frameworks.
 economist-analyst;rysweet/amplihack;economist-analyst;Analyze economic events and policies using supply/demand, market dynamics, and multiple economic theories.
 startup-business-models;vasilyu1983/ai-agents-public;startup-business-models;Evaluate startup revenue models, pricing strategies, and unit economics like LTV and CAC.
 startup-go-to-market;vasilyu1983/ai-agents-public;startup-go-to-market;A skill for creating go-to-market strategies, selecting GTM motions, defining ICP, and planning product launches with AI automation.
 tech-entrepreneur-coach-adhd;erichowens/some_claude_skills;tech-entrepreneur-coach-adhd;Tech entrepreneur coach specializing in big tech to indie founder transitions, with focus on ADHD entrepreneurs and sustainable growth strat
+options-strategy-advisor;tradermonty/claude-trading-skills;options-strategy-advisor;Options trading strategy analysis and simulation tool using Black-Scholes model, Greeks calculation, and risk management guidance for variou
 startup-trend-prediction;vasilyu1983/ai-agents-public;startup-trend-prediction;Predict market/tech/business-model trends and market-entry timing by analyzing 2-3 years of signals to forecast 1-2 years ahead.
 marketing-skills-collection;supercent-io/skills-template;;A collection of 23 specialized marketing skills for generating deliverables in CRO, copywriting, SEO, analytics, and growth.
 press-release-writing;1nfsh/skills;main/skills/press-release-writing;Press release writing in AP style with inverted pyramid structure. Covers formatting, datelines, quotes, boilerplates, and fact-checking.
-technical-analyst;tradermonty/claude-trading-skills;technical-analyst;Analyzes weekly price charts for stocks, crypto, forex with technical indicators, trend identification, support/resistance levels, scenario
 startup-competitive-analysis;vasilyu1983/ai-agents-public;startup-competitive-analysis;Perform competitive analysis for startups including competitor identification, market mapping, and positioning refinement.
 book-marketing;jwynia/agent-skills;creative/fiction/application/book-marketing;Diagnose book marketing copy problems and generate platform-optimized blurbs, descriptions, taglines, and query pitches for better conversio
-strategy-and-competitive-analysis;lyndonkl/claude;strategy-and-competitive-analysis;Business strategy and competitive analysis using frameworks like Porter's 5 Forces, SWOT, Blue Ocean Strategy for market entry, product laun
 business-model-auditor;shipshitdev/library;business-model-auditor;Audits business models for scalability and viability.
 idea-validator;shipshitdev/library;idea-validator;Validate startup ideas using Hexa's Opportunity Memo framework and PCV methodology to assess problem-solution fit and market opportunity.
 business-model-canvas;scientiacapital/skills;main/active/business-model-canvas-skill;Design business models using Alexander Osterwalder's 9 building blocks for strategic planning and analysis.
 patent-application-creator;robthepcguy/claude-patent-creator;patent-application-creator;Complete end-to-end patent application creation from invention disclosure to USPTO-ready filing with prior art search, claims drafting, spec
+deliberation-debate-red-teaming;lyndonkl/claude;deliberation-debate-red-teaming;Facilitates adversarial review and red teaming to identify blind spots, vulnerabilities, and challenge assumptions in strategic planning and
 startup-icp-definer;shipshitdev/library;startup-icp-definer;Defines ideal customer profiles and target personas for startups.
+market-mechanics-betting;lyndonkl/claude;market-mechanics-betting;Convert probabilities into betting decisions (bet/pass/hedge) and optimize scoring using Kelly Criterion, extremizing forecasts, and improvi
 google-ads-scripts;henkisdabro/wookstar-claude-plugins;google-ads-scripts;Expert guidance for Google Ads Script development including campaign management, keyword optimization, performance reporting, and automated
 usage-based-billing;dodopayments/skills;main/dodo-payments/usage-based-billing;Implement usage-based billing with Dodo Payments, including meters, events, and pricing per unit.
 fundraise-advisor;shipshitdev/library;fundraise-advisor;Helps users raise funding, create pitch decks, and navigate investor meetings.
-market-mechanics-betting;lyndonkl/claude;market-mechanics-betting;Convert probabilities into betting decisions (bet/pass/hedge) and optimize scoring using Kelly Criterion, extremizing forecasts, and improvi
 traffic-architect;shipshitdev/library;traffic-architect;Design traffic strategies and audience acquisition plans using Traffic Secrets principles.
 hotels-com;andrejones92/canifi-life-os;;A skill for interacting with hotels.com to search, book, and manage hotel reservations and travel arrangements.
 microsoft-sharepoint;andrejones92/canifi-life-os;;Microsoft SharePoint integration for file management and collaboration tasks.
 linkedin-messages;andrejones92/canifi-life-os;;Handles LinkedIn messages for professional communication and networking.
-deliberation-debate-red-teaming;lyndonkl/claude;deliberation-debate-red-teaming;Facilitates adversarial review and red teaming to identify blind spots, vulnerabilities, and challenge assumptions in strategic planning and
 pricing-strategist;daffy0208/ai-dev-standards;pricing-strategist;Design and optimize SaaS pricing strategies including tiering, packaging, and experimentation.
 bmad-method;daffy0208/ai-dev-standards;bmad-method;A methodology for aligning technical architecture with business model sustainability and scalability.
 positioning-angles;shipshitdev/library;positioning-angles;Helps users find their unique marketing angle and differentiate from competitors.
 solution-architect;404kidwiz/claude-supercode-skills;;An expert skill for designing high-level enterprise solutions with TOGAF adaptation and business alignment.
 stock-qualitative-analysis;fakehank/stock_qualitative_analysis_skills;;Create comprehensive buy-side style qualitative stock analysis reports from SEC filings and public sources with strict citations and chapter
 sales-engineer;404kidwiz/claude-supercode-skills;;A technical sales expert for product demos, PoC validation, and solution design.
+trading-analysis;gracefullight/stock-checker;trading-analysis;Generate professional investment reports for stocks and ETFs with technical indicators, AI insights, charts, and recommendations.
 airbnb;andrejones92/canifi-life-os;;Airbnb-related skill for managing bookings, pricing, and hospitality services on the Airbnb platform
 etsy;andrejones92/canifi-life-os;;Etsy skill for e-commerce and marketplace operations
 polymarket-prediction-market;axwelbrand-byte/arbibot;polymarket-prediction-market;Understand Polymarket prediction markets for sports and esports betting, including API usage, arbitrage strategies, and cross-platform tradi
@@ -335,7 +338,6 @@ similarweb;andrejones92/canifi-life-os;;Web analytics and competitive intelligen
 zoho-crm;andrejones92/canifi-life-os;;Zoho CRM integration skill for managing customer relationships and sales processes
 conversion-psychology;mike-coulbourn/claude-vibes;conversion-psychology;Optimize video marketing scripts using conversion psychology principles like emotional triggers, social proof, and urgency.
 business-operator;shipshitdev/library;business-operator;Manages multiple businesses, prioritizes ventures, and performs business health checks.
-trading-analysis;gracefullight/stock-checker;trading-analysis;Generate professional investment reports for stocks and ETFs with technical indicators, AI insights, charts, and recommendations.
 pricing-strategist;shipshitdev/library;pricing-strategist;Helps with pricing strategy, value-based pricing, competitor analysis, and raising prices confidently.
 early-hiring-advisor;shipshitdev/library;early-hiring-advisor;Helps with early hiring decisions, team building, and equity planning for startups.
 partnership-builder;shipshitdev/library;partnership-builder;Build revenue-generating partnerships including affiliate programs, integration partnerships, reseller programs, and co-marketing strategies
@@ -347,6 +349,7 @@ ubereats;andrejones92/canifi-life-os;;UberEATS skill for food delivery and resta
 aliexpress;andrejones92/canifi-life-os;;AliExpress e-commerce marketplace integration and management tools
 doordash;andrejones92/canifi-life-os;;DoorDash integration for food delivery and ordering services
 zillow;andrejones92/canifi-life-os;;Real estate data analysis and property insights using Zillow API
+content-marketing;scientiacapital/skills;main/active/content-marketing-skill;B2B content marketing skill for thought leadership, SEO, LinkedIn, blog posts, case studies, and video scripts creation.
 realtor-com;andrejones92/canifi-life-os;;Real estate research and lead generation tool for property professionals
 flow-orchestrator-2025;josiahsiegel/claude-plugin-marketplace;flow-orchestrator-2025;Salesforce Flow Orchestrator multi-user automation best practices for 2025
 financial-deep-research;eng0ai/eng0-template-skills;;Conducts enterprise-level financial research with multi-source synthesis and regulatory compliance tracking.
@@ -366,7 +369,6 @@ enterprise;andrejones92/canifi-life-os;;Enterprise management and strategy skill
 repairpal;andrejones92/canifi-life-os;;A skill for automotive repair services and support
 united-airlines;andrejones92/canifi-life-os;;United Airlines related skill for customer support and booking operations
 intercom-crm;andrejones92/canifi-life-os;;Intercom CRM integration for customer relationship management and support automation.
-content-marketing;scientiacapital/skills;main/active/content-marketing-skill;B2B content marketing skill for thought leadership, SEO, LinkedIn, blog posts, case studies, and video scripts creation.
 brand-architect;shipshitdev/library;brand-architect;This skill helps develop brand strategy, choose company names, define positioning, and build brand identity from scratch.
 expert-validator;shipshitdev/library;expert-validator;Validates positioning, authority, and messaging strategy using Expert Secrets principles.
 cofounder-evaluator;shipshitdev/library;cofounder-evaluator;Evaluate potential co-founders, assess compatibility, and design equity splits.
@@ -475,13 +477,12 @@ revenuecat;revenuecat/revenuecat-skill;;RevenueCat metrics, customer data, and d
 producthunt;andrejones92/canifi-life-os;;Product Hunt marketing and analytics skill for product discovery and trend analysis
 klaviyo;andrejones92/canifi-life-os;;Klaviyo marketing automation tool for email campaigns and customer engagement
 accountant;olehsvyrydov/ai-development-team;compliance/accountant;Senior Accountant & Strategic CFO with 20+ years experience in tech sector. Handles tax planning, VAT/sales tax compliance, financial foreca
-linkedin-profile-optimizer;paramchoudhary/resumeskills;linkedin-profile-optimizer;Optimize LinkedIn profiles for better searchability, recruiter visibility, and engagement
 competitive-intelligence-analyst;shipshitdev/library;competitive-intelligence-analyst;Analyze competitors and market trends for strategic decision-making.
 marketing-operations;lotosbin/claude-skills;;A skill for managing marketing operations and campaigns.
 seo-content-strategist;ncklrs/startup-os-skills;seo-content-strategist;Expert SEO content strategist for SaaS and B2B sites focusing on keyword research, content clusters, pillar pages, on-page optimization, and
 ceo;lotosbin/claude-skills;;A CEO skill for strategic business leadership and high-level decision making.
-cfo;lotosbin/claude-skills;;A skill for financial analysis and business planning.
 gtm-meta-skill;deepline/com;;GTM (Go-To-Market) strategy skill for business development and market entry planning.
+cfo;lotosbin/claude-skills;;A skill for financial analysis and business planning.
 analyzing-financial-statements;smithery/ai;;Analyzes financial statements to extract insights and key metrics for business decision-making.
 market-analysis;xbklairith/kisune;market-analysis;Applies technical indicators and market analysis for trading decisions, identifying trends and patterns in financial markets.
 legal-counsel;olehsvyrydov/ai-development-team;compliance/legal-counsel;Senior Legal Counsel with 20+ years experience providing legal advice, contract drafting, compliance checks, data protection guidance, emplo
@@ -490,17 +491,19 @@ offer-architect;shipshitdev/library;offer-architect;Create irresistible offers a
 manufacturing-expert;personamanagmentlayer/pcl;;Expert-level manufacturing systems, Industry 4.0, production optimization, quality control, and smart factory solutions
 accountant-expert;personamanagmentlayer/pcl;;Expert-level accounting, tax, financial reporting, and accounting systems assistance
 construction-expert;personamanagmentlayer/pcl;;Expert-level construction management, project planning, BIM, safety compliance, and construction technology
+anthropics-analyzing-financial-statements;smithery/ai;;Analyze financial statements using Anthropic's AI capabilities for detailed financial analysis and insights.
 ecommerce-platform-specialist;qodex-ai/ai-agent-skills;ecommerce-platform-specialist;Expert guidance on Shopify e-commerce platform for store setup, products, customization, and optimization.
 website-copy-specialist;ncklrs/startup-os-skills;website-copy-specialist;Expert website copywriting for SaaS and B2B companies, optimizing homepage, feature pages, pricing, and conversion elements.
 strategic-narrative;wdavidturner/product-skills;strategic-narrative;Craft compelling strategic narratives that define movements rather than just selling products, based on Andy Raskin's framework.
+davila7-market-research-reports;smithery/ai;;Generate market research reports for business intelligence and competitive analysis.
 social-growth-engineer;giulioco/skills;master/skills/social-growth-engineer;Master viral app growth engineering using proven social media strategies for TikTok/Instagram Reels marketing, UGC networks, viral hooks, an
 meme-trader;dreamineering/meme-times;meme-trader;Solana memecoin trading analysis and execution support for token analysis, rug detection, alpha discovery, and trade planning.
 market-research-reports;smithery/ai;;Generate market research reports with analysis and insights for business intelligence and data-driven decision making.
 trade-prediction-markets;robonet-tech/skills;main/skills/trade-prediction-markets;Build and test Polymarket prediction market trading strategies with tools for market analysis, strategy creation, and backtesting.
-idea-validator-pro;sitechfromgeorgia/georgian-distribution-system;;A skill for validating business ideas through market research and analysis.
+anthropics-creating-financial-models;smithery/ai;;A skill for creating financial models using Anthropic's AI capabilities.
 gtm-pricing;scientiacapital/skills;main/active/gtm-pricing-skill;B2B go-to-market strategy, pricing models, ICP development, positioning, and competitive intelligence for planning GTM strategy, setting pri
+idea-validator-pro;sitechfromgeorgia/georgian-distribution-system;;A skill for validating business ideas through market research and analysis.
 businessstrategy;robdtaylor/personal-ai-infrastructure;BusinessStrategy;MBA-trained business strategist for comprehensive commercial guidance including financial analysis, market research, and strategic planning.
 ai-startup-strategist;junhua/forth-ai-homepage;ai-startup-strategist;Channel strategic thinking of top AI startup founders for analysis, brainstorming, OKR setting, and execution planning using proven framewor
 douyin-viral-content;vickyhan924/self-media-script;douyin-viral-content;Intelligent generator for viral Douyin content. Automatically analyzes historical data, applies 9 key viral elements, scores and iterates un
-anthropics-analyzing-financial-statements;smithery/ai;;Analyze financial statements using Anthropic's AI capabilities for detailed financial analysis and insights.
-davila7-market-research-reports;smithery/ai;;Generate market research reports for business intelligence and competitive analysis.
+beancount-accounting;ouachitalabs/skills;;A skill for handling Beancount accounting files and financial data management.

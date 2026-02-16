@@ -5,6 +5,6 @@
 
 | 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
 | - | - | - | -: | -: | - | - |
-| [weather](https://github.com/steipete/clawdis/blob/main/skills/weather/SKILL.md) | [steipete/clawdis](https://github.com/steipete/clawdis) | 获取天气和预报的技能，无需API密钥。 | 195K | 120 | 2026-02-15 | [API](api.md), [weather (weather)](weather.md), [数据分析 (data-analysis)](data-analysis.md) |
+| [weather](https://github.com/steipete/clawdis/blob/main/skills/weather/SKILL.md) | [steipete/clawdis](https://github.com/steipete/clawdis) | 获取天气和预报的技能，无需API密钥。 | 198K | 126 | 2026-02-16 | [API](api.md), [weather (weather)](weather.md), [数据分析 (data-analysis)](data-analysis.md) |
 | [weather-query](https://github.com/vikiboss/60s-skills/blob/main/skills/weather-query/SKILL.md) | [vikiboss/60s-skills](https://github.com/vikiboss/60s-skills) | 查询中国各地实时天气和天气预报，包括温度、湿度、风速、空气质量等信息。 | 4 | 22 | 2026-02-07 | [查询优化 (query-optimization)](query-optimization.md), [API](api.md), [weather (weather)](weather.md), [china (china)](china.md) |
 | [weather](https://github.com/chandima/agent-skills/blob/main/skills/weather/SKILL.md) | [chandima/agent-skills](https://github.com/chandima/agent-skills) | 获取天气和预报的技能，无需API密钥。 | 0 | 22 | 2026-02-07 | [API](api.md), [weather (weather)](weather.md), [数据分析 (data-analysis)](data-analysis.md) |

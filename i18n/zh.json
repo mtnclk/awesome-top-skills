@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-02-15T04:41:51.963Z",
+  "generated_at": "2026-02-16T04:56:32.468Z",
   "categories": {
     "ai-llm": {
       "zh": "AI/LLM（大模型）",
@@ -352,6 +352,14 @@
       "zh": "AI avatar",
       "bilingual": true
     },
+    "ai-coding": {
+      "zh": "AI coding",
+      "bilingual": true
+    },
+    "ai-image-generation": {
+      "zh": "AI image generation",
+      "bilingual": true
+    },
     "ai-models": {
       "zh": "AI models",
       "bilingual": true
@@ -628,6 +636,10 @@
       "zh": "archiving",
       "bilingual": true
     },
+    "arduino": {
+      "zh": "arduino",
+      "bilingual": true
+    },
     "argocd": {
       "zh": "argocd",
       "bilingual": true
@@ -804,6 +816,10 @@
       "zh": "autoscaling",
       "bilingual": true
     },
+    "autumn": {
+      "zh": "autumn",
+      "bilingual": true
+    },
     "avalonia": {
       "zh": "avalonia",
       "bilingual": true
@@ -850,6 +866,10 @@
     },
     "b2b": {
       "zh": "b2b",
+      "bilingual": true
+    },
+    "background-check": {
+      "zh": "background check",
       "bilingual": true
     },
     "background-processing": {
@@ -934,6 +954,10 @@
     },
     "beam": {
       "zh": "beam",
+      "bilingual": true
+    },
+    "beancount": {
+      "zh": "beancount",
       "bilingual": true
     },
     "bear-notes": {
@@ -1808,6 +1832,10 @@
       "zh": "consultation",
       "bilingual": true
     },
+    "consumer": {
+      "zh": "consumer",
+      "bilingual": true
+    },
     "container-queries": {
       "zh": "container queries",
       "bilingual": true
@@ -1950,6 +1978,10 @@
     },
     "creative-writing": {
       "zh": "creative 写作",
+      "bilingual": true
+    },
+    "creativity": {
+      "zh": "creativity",
       "bilingual": true
     },
     "crewai": {
@@ -2256,6 +2288,10 @@
       "zh": "设计系统",
       "bilingual": false
     },
+    "design-thinking": {
+      "zh": "design thinking",
+      "bilingual": true
+    },
     "design-tokens": {
       "zh": "design tokens",
       "bilingual": true
@@ -2490,6 +2526,10 @@
     },
     "duckduckgo": {
       "zh": "duckduckgo",
+      "bilingual": true
+    },
+    "due-diligence": {
+      "zh": "due diligence",
       "bilingual": true
     },
     "dwarf": {
@@ -2770,6 +2810,10 @@
     },
     "eve-horizon": {
       "zh": "eve horizon",
+      "bilingual": true
+    },
+    "eve-skillpacks": {
+      "zh": "eve skillpacks",
       "bilingual": true
     },
     "event-driven": {
@@ -3078,6 +3122,10 @@
     },
     "flight-control": {
       "zh": "flight control",
+      "bilingual": true
+    },
+    "flight-prices": {
+      "zh": "flight prices",
       "bilingual": true
     },
     "flipboard": {
@@ -3848,6 +3896,14 @@
       "zh": "humor",
       "bilingual": true
     },
+    "hwp": {
+      "zh": "hwp",
+      "bilingual": true
+    },
+    "hwpx": {
+      "zh": "hwpx",
+      "bilingual": true
+    },
     "hybrid-search": {
       "zh": "hybrid search",
       "bilingual": true
@@ -3880,6 +3936,10 @@
       "zh": "ibm",
       "bilingual": true
     },
+    "icloud": {
+      "zh": "icloud",
+      "bilingual": true
+    },
     "icon": {
       "zh": "icon",
       "bilingual": true
@@ -3910,6 +3970,10 @@
     },
     "image": {
       "zh": "image",
+      "bilingual": true
+    },
+    "image-editing": {
+      "zh": "image editing",
       "bilingual": true
     },
     "image-generation": {
@@ -3990,6 +4054,10 @@
     },
     "inngest": {
       "zh": "inngest",
+      "bilingual": true
+    },
+    "innovation": {
+      "zh": "innovation",
       "bilingual": true
     },
     "instagram": {
@@ -4318,6 +4386,10 @@
     },
     "keyword-research": {
       "zh": "keyword research",
+      "bilingual": true
+    },
+    "keywords": {
+      "zh": "keywords",
       "bilingual": true
     },
     "khan-academy": {
@@ -5640,6 +5712,10 @@
       "zh": "优化",
       "bilingual": true
     },
+    "options-trading": {
+      "zh": "options trading",
+      "bilingual": true
+    },
     "oracle": {
       "zh": "oracle",
       "bilingual": true
@@ -5848,6 +5924,10 @@
       "zh": "penpot",
       "bilingual": true
     },
+    "people-search": {
+      "zh": "people search",
+      "bilingual": true
+    },
     "percy": {
       "zh": "percy",
       "bilingual": true
@@ -6044,6 +6124,10 @@
       "zh": "podcast",
       "bilingual": true
     },
+    "podman": {
+      "zh": "podman",
+      "bilingual": true
+    },
     "political-science": {
       "zh": "political science",
       "bilingual": true
@@ -6114,6 +6198,10 @@
     },
     "pptx": {
       "zh": "pptx",
+      "bilingual": true
+    },
+    "pr": {
+      "zh": "pr",
       "bilingual": true
     },
     "practice": {
@@ -6528,6 +6616,10 @@
       "zh": "rapier",
       "bilingual": true
     },
+    "raspberry-pi": {
+      "zh": "raspberry pi",
+      "bilingual": true
+    },
     "rate-limiting": {
       "zh": "限流",
       "bilingual": false
@@ -6650,6 +6742,10 @@
     },
     "reconnaissance": {
       "zh": "reconnaissance",
+      "bilingual": true
+    },
+    "reconnect": {
+      "zh": "reconnect",
       "bilingual": true
     },
     "reddit": {
@@ -7064,6 +7160,10 @@
       "zh": "schema design",
       "bilingual": true
     },
+    "schema-markup": {
+      "zh": "schema markup",
+      "bilingual": true
+    },
     "schema-org": {
       "zh": "schema org",
       "bilingual": true
@@ -7138,6 +7238,10 @@
     },
     "search": {
       "zh": "search",
+      "bilingual": true
+    },
+    "search-engines": {
+      "zh": "search engines",
       "bilingual": true
     },
     "search-intent": {
@@ -7608,6 +7712,10 @@
       "zh": "space 规划",
       "bilingual": true
     },
+    "spaced-repetition": {
+      "zh": "spaced repetition",
+      "bilingual": true
+    },
     "spark": {
       "zh": "spark",
       "bilingual": true
@@ -7908,6 +8016,10 @@
       "zh": "stt",
       "bilingual": true
     },
+    "study": {
+      "zh": "study",
+      "bilingual": true
+    },
     "style": {
       "zh": "style",
       "bilingual": true
@@ -8026,6 +8138,10 @@
     },
     "sync": {
       "zh": "sync",
+      "bilingual": true
+    },
+    "synchronization": {
+      "zh": "synchronization",
       "bilingual": true
     },
     "synthesia": {
@@ -8174,6 +8290,10 @@
     },
     "teams": {
       "zh": "teams",
+      "bilingual": true
+    },
+    "tech": {
+      "zh": "tech",
       "bilingual": true
     },
     "tech-companies": {
@@ -8632,10 +8752,6 @@
       "zh": "uikit",
       "bilingual": true
     },
-    "ultrawork": {
-      "zh": "ultrawork",
-      "bilingual": true
-    },
     "umbraco": {
       "zh": "umbraco",
       "bilingual": true
@@ -9072,6 +9188,10 @@
       "zh": "web search",
       "bilingual": true
     },
+    "web-security": {
+      "zh": "web 安全",
+      "bilingual": true
+    },
     "web-server": {
       "zh": "web server",
       "bilingual": true
@@ -9146,6 +9266,10 @@
     },
     "wellness": {
       "zh": "wellness",
+      "bilingual": true
+    },
+    "wezterm": {
+      "zh": "wezterm",
       "bilingual": true
     },
     "whatsapp": {

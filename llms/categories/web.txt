@@ -31,8 +31,8 @@ reddit-automation;composiohq/awesome-claude-skills;;Automate Reddit tasks via Ru
 cal-com-automation;composiohq/awesome-claude-skills;;Automate Cal.com tasks via Rube MCP (Composio): manage bookings, check availability, configure webhooks, and handle teams.
 postmark-automation;composiohq/awesome-claude-skills;;Automate Postmark email delivery tasks via Rube MCP (Composio): send templated emails, manage templates, monitor delivery stats and bounces.
 nextjs-app-router-patterns;wshobson/agents;nextjs-app-router-patterns;Master Next.js 14+ App Router with Server Components, streaming, parallel routes, and advanced data fetching.
-responsive-design;wshobson/agents;responsive-design;Create modern responsive layouts with container queries, fluid typography, and mobile-first strategies.
 agent-browser;code-yeongyu/oh-my-opencode;;Automates browser interactions for web testing, form filling, screenshots, and data extraction.
+responsive-design;wshobson/agents;responsive-design;Create modern responsive layouts with container queries, fluid typography, and mobile-first strategies.
 fastapi-templates;wshobson/agents;fastapi-templates;Generate production-ready FastAPI projects with async support and error handling.
 stripe-integration;wshobson/agents;stripe-integration;Integrate Stripe for secure payment processing with checkout, subscriptions, and webhooks.
 react-state-management;wshobson/agents;react-state-management;Learn modern React state management techniques using Redux Toolkit, Zustand, Jotai, and React Query.
@@ -49,6 +49,7 @@ tailwind-patterns;srbhr/resume-matcher;tailwind-pattern;A set of production-read
 react-patterns;srbhr/resume-matcher;react-patterns;React and Next.js performance optimization guidelines from Vercel Engineering, tuned for local/offline or docker-deployed apps.
 domain-web;rustfs/rustfs;;A skill for creating and managing web applications with a focus on frontend development.
 webapp-testing;github/awesome-copilot;webapp-testing;A toolkit for testing local web applications using Playwright, supporting frontend verification and debugging.
+create-web-form;github/awesome-copilot;create-web-form;Create robust, accessible web forms with best practices for HTML structure, CSS styling, JavaScript interactivity, form validation, and serv
 tailwind-best-practices;mastra-ai/mastra;tailwind-best-practices;Provides Tailwind CSS styling guidelines for Mastra Playground UI to ensure design system consistency.
 e2e-frontend-validation;mastra-ai/mastra;;End-to-end frontend validation skill for web applications.
 senior-frontend;davila7/claude-code-templates;development/senior-frontend;A comprehensive frontend development skill for modern web apps using React, Next.js, TypeScript, and Tailwind CSS.
@@ -61,12 +62,12 @@ frontend-patterns;davila7/claude-code-templates;development/cc-skill-frontend-pa
 tailwind-patterns;davila7/claude-code-templates;creative-design/tailwind-patterns;A skill for implementing Tailwind CSS v4 principles with modern patterns and design token architecture.
 seo-fundamentals;davila7/claude-code-templates;business-marketing/seo-fundamentals;This skill covers SEO fundamentals, E-E-A-T, Core Web Vitals, and Google algorithm principles.
 seo-audit;davila7/claude-code-templates;business-marketing/seo-audit;Audits and diagnoses SEO issues on websites, including technical SEO and ranking problems.
+frontend-dev-guidelines;davila7/claude-code-templates;development/frontend-dev-guidelines;Provides frontend development guidelines for React/TypeScript apps with modern patterns and best practices.
 mui;davila7/claude-code-templates;development/mui;A Material-UI v7 component library skill for styling, theming, and responsive design.
 react-dev;davila7/claude-code-templates;development/react-dev;A skill for building React components with TypeScript, focusing on type-safe patterns and event handling.
 react-ui-patterns;davila7/claude-code-templates;development/react-ui-patterns;A skill for implementing modern React UI patterns including loading states, error handling, and data fetching.
-react-patterns;davila7/claude-code-templates;development/react-patterns;Modern React patterns, hooks, composition, performance, and TypeScript best practices.
-frontend-dev-guidelines;davila7/claude-code-templates;development/frontend-dev-guidelines;Provides frontend development guidelines for React/TypeScript apps with modern patterns and best practices.
 api-patterns;davila7/claude-code-templates;development/api-patterns;A skill for understanding API design principles including REST, GraphQL, and tRPC decisions.
+react-patterns;davila7/claude-code-templates;development/react-patterns;Modern React patterns, hooks, composition, performance, and TypeScript best practices.
 3d-web-experience;davila7/claude-code-templates;creative-design/3d-web-experience;Build 3D web experiences using Three.js, React Three Fiber, and WebGL for immersive websites and product configurators.
 nextjs-supabase-auth;davila7/claude-code-templates;development/nextjs-supabase-auth;Integrate Supabase Auth with Next.js App Router for secure authentication and protected routes.
 webapp-testing;davila7/claude-code-templates;development/webapp-testing;A toolkit for testing local web applications using Playwright, supporting frontend verification and debugging.
@@ -101,18 +102,16 @@ programmatic-seo;coreyhaines31/marketingskills;programmatic-seo;Automates SEO-dr
 angular-modernization;bitwarden/clients;angular-modernization;Modernizes Angular code following best practices using CLI migrations and specific patterns
 next-best-practices;vercel-labs/next-skills;next-best-practices;Next.js best practices including file conventions, RSC boundaries, data patterns, and optimization techniques.
 schema-markup;coreyhaines31/marketingskills;schema-markup;Optimize schema markup and structured data for better SEO and rich snippets.
-json-render-react;vercel-labs/json-render;json-render-react;React renderer for json-render that turns JSON specs into React components for building UIs and component catalogs.
 nextjs-best-practices;sickn33/antigravity-awesome-skills;nextjs-best-practices;Best practices for Next.js App Router including Server Components and data fetching.
 nextjs-supabase-auth;sickn33/antigravity-awesome-skills;nextjs-supabase-auth;Integrate Supabase Auth with Next.js App Router for secure authentication and protected routes.
-defuddle;kepano/obsidian-skills;defuddle;Extract clean markdown content from web pages using Defuddle CLI, removing clutter and navigation to save tokens. Use instead of WebFetch wh
-solidjs-patterns;different-ai/openwork;solidjs-patterns;SolidJS reactivity and UI state patterns for OpenWork applications
+json-render-react;vercel-labs/json-render;json-render-react;React renderer for json-render that turns JSON specs into React components for building UIs and component catalogs.
+web-performance-optimization;sickn33/antigravity-awesome-skills;web-performance-optimization;Optimize web performance including loading speed, Core Web Vitals, and runtime performance.
+browser-automation;sickn33/antigravity-awesome-skills;browser-automation;A skill for browser automation using Playwright and Puppeteer for testing, scraping, and AI agent interactions.
 add-components-to-registry;tambo-ai/tambo;add-components-to-registry;Registers existing React components with Tambo for AI rendering and generative UI capabilities
 components;tambo-ai/tambo;components;Creates and registers Tambo components for AI-generated and interactive UI elements
 component-rendering;tambo-ai/tambo;component-rendering;Handles Tambo component streaming, loading states, and persistent state for streaming UI feedback and prop management.
 threads;tambo-ai/tambo;threads;Manages Tambo threads, messages, suggestions, voice input, and image attachments for conversation handling.
 building-compound-components;tambo-ai/tambo;compound-components;Creates unstyled compound components that separate business logic from styles for headless UI primitives and component libraries.
-web-performance-optimization;sickn33/antigravity-awesome-skills;web-performance-optimization;Optimize web performance including loading speed, Core Web Vitals, and runtime performance.
-browser-automation;sickn33/antigravity-awesome-skills;browser-automation;A skill for browser automation using Playwright and Puppeteer for testing, scraping, and AI agent interactions.
 frontend-patterns;sickn33/antigravity-awesome-skills;cc-skill-frontend-patterns;A skill focused on frontend development patterns for React and Next.js, including state management and performance optimization.
 frontend-dev-guidelines;sickn33/antigravity-awesome-skills;frontend-dev-guidelines;Provides frontend development guidelines for React and TypeScript apps with modern practices.
 3d-web-experience;sickn33/antigravity-awesome-skills;3d-web-experience;Build 3D web experiences using Three.js, React Three Fiber, and WebGL for immersive websites and product configurators.
@@ -126,6 +125,7 @@ telegram-mini-app;sickn33/antigravity-awesome-skills;telegram-mini-app;Build Tel
 graphql;sickn33/antigravity-awesome-skills;graphql;A skill for designing GraphQL schemas, implementing resolvers, and integrating with Apollo/urql clients.
 seo-audit;sickn33/antigravity-awesome-skills;seo-audit;Audit SEO issues affecting crawlability, indexation, rankings, and organic performance.
 react-patterns;sickn33/antigravity-awesome-skills;react-patterns;Modern React patterns, hooks, composition, performance, and TypeScript best practices.
+defuddle;kepano/obsidian-skills;defuddle;Extract clean markdown content from web pages using Defuddle CLI, removing clutter and navigation to save tokens. Use instead of WebFetch wh
 stripe-integration;sickn33/antigravity-awesome-skills;stripe-integration;Integrate Stripe for secure payment processing with checkout, subscriptions, and webhooks.
 algolia-search;sickn33/antigravity-awesome-skills;algolia-search;Expert patterns for Algolia search implementation, indexing strategies, React InstantSearch, and relevance tuning.
 webapp-testing;sickn33/antigravity-awesome-skills;webapp-testing;A toolkit for testing local web applications using Playwright, supporting frontend verification and debugging.
@@ -134,34 +134,35 @@ web-artifacts-builder;sickn33/antigravity-awesome-skills;web-artifacts-builder;B
 programmatic-seo;sickn33/antigravity-awesome-skills;programmatic-seo;Design and evaluate programmatic SEO strategies using templates and structured data for scalable page creation.
 page-cro;sickn33/antigravity-awesome-skills;page-cro;Optimize web pages for better conversion rates with data-driven insights.
 popup-cro;sickn33/antigravity-awesome-skills;popup-cro;Optimize popups, modals, and banners to boost conversions while maintaining user experience.
+solidjs-patterns;different-ai/openwork;solidjs-patterns;SolidJS reactivity and UI state patterns for OpenWork applications
 firecrawl-scraper;sickn33/antigravity-awesome-skills;firecrawl-scraper;A skill for deep web scraping, screenshots, PDF parsing, and website crawling using Firecrawl API.
 fastapi-pro;sickn33/antigravity-awesome-skills;fastapi-pro;Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2.
 seo-keyword-strategist;sickn33/antigravity-awesome-skills;seo-keyword-strategist;Analyze keyword usage, density, and suggest semantic variations for SEO optimization.
 accessibility-compliance-accessibility-audit;sickn33/antigravity-awesome-skills;accessibility-compliance-accessibility-audit;An accessibility expert for WCAG compliance, inclusive design, and assistive technology compatibility audits.
 django-pro;sickn33/antigravity-awesome-skills;django-pro;Master Django 5.x with async views, DRF, Celery, and Django Channels for scalable web apps.
-seo-meta-optimizer;sickn33/antigravity-awesome-skills;seo-meta-optimizer;Optimizes SEO meta titles, descriptions, and URLs based on best practices and character limits.
+radix-ui-design-system;sickn33/antigravity-awesome-skills;radix-ui-design-system;Build accessible design systems with Radix UI primitives. Headless component customization, theming strategies, and compound component patte
 react-state-management;sickn33/antigravity-awesome-skills;react-state-management;Learn modern React state management techniques using Redux Toolkit, Zustand, Jotai, and React Query.
+seo-meta-optimizer;sickn33/antigravity-awesome-skills;seo-meta-optimizer;Optimizes SEO meta titles, descriptions, and URLs based on best practices and character limits.
+fastapi-templates;sickn33/antigravity-awesome-skills;fastapi-templates;Generate production-ready FastAPI projects with async support and error handling.
 seo-content-auditor;sickn33/antigravity-awesome-skills;seo-content-auditor;Audits content for SEO best practices and E-E-A-T signals, providing scoring and improvement recommendations.
 seo-structure-architect;sickn33/antigravity-awesome-skills;seo-structure-architect;Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities for search-f
-radix-ui-design-system;sickn33/antigravity-awesome-skills;radix-ui-design-system;Build accessible design systems with Radix UI primitives. Headless component customization, theming strategies, and compound component patte
 frontend-mobile-development-component-scaffold;sickn33/antigravity-awesome-skills;frontend-mobile-development-component-scaffold;Generate production-ready React components with TypeScript, tests, and accessibility.
-fastapi-templates;sickn33/antigravity-awesome-skills;fastapi-templates;Generate production-ready FastAPI projects with async support and error handling.
+nextjs-app-router-patterns;sickn33/antigravity-awesome-skills;nextjs-app-router-patterns;Master Next.js 14+ App Router with Server Components, streaming, parallel routes, and advanced data fetching.
 seo-authority-builder;sickn33/antigravity-awesome-skills;seo-authority-builder;Analyzes content for E-E-A-T signals and suggests improvements to build authority and trust, identifying missing credibility elements for YM
 react-modernization;sickn33/antigravity-awesome-skills;react-modernization;Upgrade React apps to latest versions, migrate to hooks, and adopt concurrent features.
-nextjs-app-router-patterns;sickn33/antigravity-awesome-skills;nextjs-app-router-patterns;Master Next.js 14+ App Router with Server Components, streaming, parallel routes, and advanced data fetching.
 threejs-skills;sickn33/antigravity-awesome-skills;threejs-skills;Create 3D scenes, interactive experiences, and visual effects using Three.js for web-based 3D graphics and animations.
 seo-snippet-hunter;sickn33/antigravity-awesome-skills;seo-snippet-hunter;Formats content for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices for question-based
 seo-cannibalization-detector;sickn33/antigravity-awesome-skills;seo-cannibalization-detector;Analyzes multiple pages to identify keyword overlap and potential SEO cannibalization issues, suggesting differentiation strategies for simi
 frontend-slides;sickn33/antigravity-awesome-skills;frontend-slides;Create stunning HTML presentations with animations from scratch or by converting PPT files.
-frontend-dev-guidelines;diet103/claude-code-infrastructure-showcase;frontend-dev-guidelines;Provides frontend development guidelines for React/TypeScript apps with modern patterns and best practices.
 angular-best-practices;sickn33/antigravity-awesome-skills;angular-best-practices;Angular performance optimization and best practices guide for optimal code performance, bundle size, and rendering efficiency.
-wcag-audit-patterns;sickn33/antigravity-awesome-skills;wcag-audit-patterns;Conduct WCAG 2.2 accessibility audits with automated testing and manual verification.
 angular;sickn33/antigravity-awesome-skills;angular;Modern Angular (v20+) expert with deep knowledge of Signals, Standalone Components, Zoneless applications, SSR/Hydration, and reactive patte
-paypal-integration;sickn33/antigravity-awesome-skills;paypal-integration;Integrates PayPal for payment processing, including express checkout, subscriptions, and refunds.
+wcag-audit-patterns;sickn33/antigravity-awesome-skills;wcag-audit-patterns;Conduct WCAG 2.2 accessibility audits with automated testing and manual verification.
 angular-ui-patterns;sickn33/antigravity-awesome-skills;angular-ui-patterns;Modern Angular UI patterns for loading states, error handling, and data display. Use when building UI components, handling async data, or ma
+paypal-integration;sickn33/antigravity-awesome-skills;paypal-integration;Integrates PayPal for payment processing, including express checkout, subscriptions, and refunds.
 screen-reader-testing;sickn33/antigravity-awesome-skills;screen-reader-testing;Test web apps with screen readers like VoiceOver, NVDA, and JAWS for accessibility validation.
 angular-state-management;sickn33/antigravity-awesome-skills;angular-state-management;Master modern Angular state management with Signals, NgRx, and RxJS for global state setup, component stores, and migration from legacy patt
 x-article-publisher-skill;sickn33/antigravity-awesome-skills;x-article-publisher-skill;Publish articles to X/Twitter
+frontend-dev-guidelines;diet103/claude-code-infrastructure-showcase;frontend-dev-guidelines;Provides frontend development guidelines for React/TypeScript apps with modern patterns and best practices.
 playwright;openai/skills;main/skills/.curated/playwright;Automate real browser tasks like navigation, form filling, and screenshots using Playwright CLI or wrapper scripts.
 develop-web-game;openai/skills;main/skills/.curated/develop-web-game;A skill for developing web games with HTML/JS, providing a reliable dev + testing loop with Playwright-based scripts, screenshots, and conso
 playground;anthropics/claude-plugins-official;playground;Creates interactive HTML playgrounds for visual configuration and live previews.
@@ -170,24 +171,24 @@ vue-best-practices;hyf0/vue-skills;vue-best-practices;A Vue.js best practices gu
 baoyu-post-to-wechat;jimliu/baoyu-skills;baoyu-post-to-wechat;Posts content to WeChat Official Account via API or Chrome CDP. Supports articles with HTML/markdown/plain text and image-text posts with mu
 interactive-dashboard-builder;anthropics/knowledge-work-plugins;interactive-dashboard-builder;Build self-contained interactive HTML dashboards with Chart.js, dropdown filters, and professional styling for shareable reports without ser
 vue-debug-guides;hyf0/vue-skills;vue-debug-guides;A skill for debugging and handling errors in Vue 3 applications, including runtime errors, warnings, and SSR issues.
-baoyu-url-to-markdown;jimliu/baoyu-skills;baoyu-url-to-markdown;Convert web pages to markdown using Chrome CDP with auto-capture or user signal modes.
 nuxt-ui;nuxt/ui;nuxt-ui;Build UIs with Nuxt UI v4 - 125+ accessible Vue components with Tailwind CSS theming for interfaces, forms, dashboards, docs, and chat.
-wagmi-development;wevm/wagmi;wagmi-development;Creates Wagmi features across all layers - core actions, query options, framework bindings for React/Vue development.
+baoyu-url-to-markdown;jimliu/baoyu-skills;baoyu-url-to-markdown;Convert web pages to markdown using Chrome CDP with auto-capture or user signal modes.
 react:components;google-labs-code/stitch-skills;react-components;Converts designs into modular React components with Vite and AST validation.
+wagmi-development;wevm/wagmi;wagmi-development;Creates Wagmi features across all layers - core actions, query options, framework bindings for React/Vue development.
 vue;antfu/skills;main/skills/vue;A Vue 3 skill focusing on Composition API, script setup, reactivity, and built-in components for SFCs.
 epic-react-patterns;epicweb-dev/epic-stack;epic-react-patterns;Guide on React patterns, performance optimization, and code quality for Epic Stack
 vue-best-practices;antfu/skills;main/skills/vue-best-practices;A Vue.js best practices guide emphasizing Composition API, TypeScript, and modern tooling like Vite and Pinia.
 vueuse-functions;antfu/skills;main/skills/vueuse-functions;A skill for applying VueUse composables to build concise Vue.js/Nuxt features.
 pinia;antfu/skills;main/skills/pinia;Pinia is the official Vue state management library, offering type-safe and extensible store patterns for Vue applications.
-use-dom;expo/skills;main/plugins/expo-app-design/skills/use-dom;Migrate web code to native incrementally using Expo DOM components in a webview.
 shadcn-ui;giuseppe-trisciuoglio/developer-kit;shadcn-ui;Provides complete shadcn/ui component library patterns including installation, configuration, and implementation of accessible React compone
+use-dom;expo/skills;main/plugins/expo-app-design/skills/use-dom;Migrate web code to native incrementally using Expo DOM components in a webview.
 nuxt;antfu/skills;main/skills/nuxt;A Nuxt full-stack Vue framework with SSR, auto-imports, and file-based routing for building modern web applications.
 unocss;antfu/skills;main/skills/unocss;A skill for configuring UnoCSS, writing utility rules, shortcuts, and working with presets like Wind, Icons, Attributify.
 vitepress;antfu/skills;main/skills/vitepress;A static site generator using Vite and Vue for documentation sites.
-slidev;antfu/skills;main/skills/slidev;Create web-based slides with Markdown, Vue, and interactive features for technical presentations.
 webapp-testing;vudovn/antigravity-kit;webapp-testing;A skill for web application testing using E2E and Playwright strategies.
 api-patterns;vudovn/antigravity-kit;api-patterns;A skill for understanding API design principles including REST, GraphQL, and tRPC decisions.
 tailwind-patterns;vudovn/antigravity-kit;tailwind-patterns;A skill for implementing Tailwind CSS v4 principles with modern patterns and design token architecture.
+slidev;antfu/skills;main/skills/slidev;Create web-based slides with Markdown, Vue, and interactive features for technical presentations.
 seo-fundamentals;vudovn/antigravity-kit;seo-fundamentals;This skill covers SEO fundamentals, E-E-A-T, Core Web Vitals, and Google algorithm principles.
 nextjs-best-practices;vudovn/antigravity-kit;;A skill focused on Next.js best practices for web development.
 react-patterns;vudovn/antigravity-kit;;A skill for managing React component patterns and best practices.
@@ -204,22 +205,22 @@ vtable-development-assistant;visactor/vtable;vtable-development-assistant;Helps 
 tailwindcss-development;laravel/boost;;Styles applications using Tailwind CSS v3 utilities for layouts, components, and responsive designs.
 vue-router-best-practices;vuejs-ai/skills;main/skills/vue-router-best-practices;Best practices for Vue Router 4 including navigation guards and route parameters.
 vue-pinia-best-practices;vuejs-ai/skills;main/skills/vue-pinia-best-practices;Best practices for Pinia state management in Vue applications.
-vue-development-guides;vuejs-ai/skills;;Vue development guides and best practices for building modern web applications with Vue.js framework.
-create-adaptable-composable;vuejs-ai/skills;main/skills/create-adaptable-composable;Create Vue composables with reactive inputs using MaybeRef patterns for predictable behavior.
-vue-testing-best-practices;vuejs-ai/skills;main/skills/vue-testing-best-practices;Best practices for Vue.js testing with Vitest, Vue Test Utils, and Playwright.
 fastapi-expert;jeffallan/claude-skills;fastapi-expert;A skill for building high-performance async Python APIs with FastAPI and Pydantic V2, including features like async SQLAlchemy, JWT auth, We
 wordpress-pro;jeffallan/claude-skills;wordpress-pro;A skill for developing WordPress themes, plugins, and optimizing performance and security.
 websocket-engineer;jeffallan/claude-skills;websocket-engineer;A skill for building real-time communication systems using WebSockets or Socket.IO with features like bidirectional messaging and room manag
-vue-options-api-best-practices;vuejs-ai/skills;main/skills/vue-options-api-best-practices;Best practices for Vue 3 Options API including data(), methods, and this context usage.
-vue-jsx-best-practices;vuejs-ai/skills;main/skills/vue-jsx-best-practices;Best practices for using JSX syntax in Vue applications, including class vs className and plugin configuration.
-seo-geo;resciencelab/opc-skills;seo-geo;Optimize websites for AI and traditional search engines with SEO & GEO techniques.
+vue-development-guides;vuejs-ai/skills;;Vue development guides and best practices for building modern web applications with Vue.js framework.
+create-adaptable-composable;vuejs-ai/skills;main/skills/create-adaptable-composable;Create Vue composables with reactive inputs using MaybeRef patterns for predictable behavior.
+seo-geo;resciencelab/opc-skills;seo-geo;SEO & GEO optimization for websites, analyzing keywords, generating schema markup, optimizing for AI and traditional search engines.
+vue-testing-best-practices;vuejs-ai/skills;main/skills/vue-testing-best-practices;Best practices for Vue.js testing with Vitest, Vue Test Utils, and Playwright.
 nextjs-developer;jeffallan/claude-skills;nextjs-developer;A skill for building Next.js 14+ apps with App Router, server components, and server actions, focusing on full-stack features, performance,
 angular-architect;jeffallan/claude-skills;angular-architect;An Angular architect skill for building modern Angular applications with standalone components and signals.
 react-expert;jeffallan/claude-skills;react-expert;A skill for building React 18+ applications with component architecture, hooks, and state management.
-vue-debug-guides;vuejs-ai/skills;main/skills/vue-debug-guides;A skill for debugging and handling errors in Vue 3 applications, including runtime errors, warnings, and SSR issues.
+vue-options-api-best-practices;vuejs-ai/skills;main/skills/vue-options-api-best-practices;Best practices for Vue 3 Options API including data(), methods, and this context usage.
+vue-jsx-best-practices;vuejs-ai/skills;main/skills/vue-jsx-best-practices;Best practices for using JSX syntax in Vue applications, including class vs className and plugin configuration.
 vue-expert;jeffallan/claude-skills;vue-expert;A skill for building Vue 3 applications with Composition API, Nuxt 3, Quasar, and related technologies.
 vue-expert-js;jeffallan/claude-skills;vue-expert-js;A skill for building Vue 3 apps with JavaScript, including JSDoc typing and .mjs modules.
 django-expert;jeffallan/claude-skills;django-expert;A Django expert skill for building web apps and REST APIs with DRF, including models, ORM, serializers, and JWT auth.
+vue-debug-guides;vuejs-ai/skills;main/skills/vue-debug-guides;A skill for debugging and handling errors in Vue 3 applications, including runtime errors, warnings, and SSR issues.
 tanstack-query;jezweb/claude-skills;tanstack-query;Manage server state in React with TanStack Query v5, covering useMutationState, optimistic updates, and more.
 tailwind-v4-shadcn;jezweb/claude-skills;tailwind-v4-shadcn;Set up Tailwind v4 with shadcn/ui using CSS variable architecture and @theme inline pattern.
 frontend-vue-development;tencentblueking/bk-ci;frontend-vue-development;A Vue development standard guide covering components, state management, routing, and styling.
@@ -246,19 +247,19 @@ threejs-interaction;cloudai-x/threejs-skills;threejs-interaction;A Three.js skil
 threejs-materials;cloudai-x/threejs-skills;threejs-materials;A skill for managing Three.js materials including PBR, basic, phong, and shader materials.
 threejs-geometry;cloudai-x/threejs-skills;threejs-geometry;Create 3D geometry using Three.js including built-in shapes, custom meshes, and instanced rendering.
 angular-component;analogjs/angular-skills;angular-component;Create modern Angular standalone components with signal-based inputs/outputs and OnPush change detection.
+senior-frontend;alirezarezvani/claude-skills;;A frontend development skill for React, Next.js, TypeScript, and Tailwind CSS applications.
 threejs-textures;cloudai-x/threejs-skills;threejs-textures;A skill for managing Three.js textures including UV mapping, environment maps, and texture optimization.
 threejs-lighting;cloudai-x/threejs-skills;threejs-lighting;A skill for managing Three.js lighting, including light types, shadows, and environment lighting.
 threejs-loaders;cloudai-x/threejs-skills;threejs-loaders;A skill for loading 3D assets like GLTF models, textures, and HDR environments in Three.js.
 threejs-postprocessing;cloudai-x/threejs-skills;threejs-postprocessing;Add visual effects like bloom, DOF, and screen space shaders to Three.js scenes.
-senior-frontend;alirezarezvani/claude-skills;;A frontend development skill for React, Next.js, TypeScript, and Tailwind CSS applications.
 react-dev;softaworks/agent-toolkit;react-dev;A skill for building React components with TypeScript, focusing on type-safe patterns and event handling.
-nuxt;onmax/nuxt-skills;nuxt;A skill for working with Nuxt 4+ projects, providing server routes, file-based routing, middleware patterns, and Nuxt-specific composables.
 vueuse-best-practices;hyf0/vue-skills;;A skill focused on Vue.js best practices and VueUse utilities for building efficient web applications.
+nuxt;onmax/nuxt-skills;nuxt;A skill for working with Nuxt 4+ projects, providing server routes, file-based routing, middleware patterns, and Nuxt-specific composables.
 threejs;mrgoonie/claudekit-skills;threejs;Create 3D web applications using Three.js for scenes, animations, and VR/XR experiences.
 frontend-design;steipete/agent-scripts;frontend-design;Create high-quality, production-ready frontend interfaces with creative and polished code.
 ui-styling;mrgoonie/claudekit-skills;ui-styling;Create accessible and responsive user interfaces using shadcn/ui components and Tailwind CSS.
-vue;onmax/nuxt-skills;vue;A skill for editing .vue files, creating Vue 3 components, writing composables, and testing Vue code with best practices.
 react-component-performance;dimillian/skills;main/react-component-performance;Optimize React component performance by analyzing slow renders, re-renders, and laggy lists.
+vue;onmax/nuxt-skills;vue;A skill for editing .vue files, creating Vue 3 components, writing composables, and testing Vue code with best practices.
 frontend-design;mrgoonie/claudekit-skills;frontend-design;Create high-quality, production-ready frontend interfaces with creative and polished code.
 web-testing;mrgoonie/claudekit-skills;web-testing;Web testing using Playwright, Vitest, and k6 for E2E, unit, integration, and load testing.
 web-frameworks;mrgoonie/claudekit-skills;web-frameworks;Create modern full-stack web apps with Next.js, Turborepo, and RemixIcon.
@@ -271,8 +272,8 @@ angular-signals;analogjs/angular-skills;angular-signals;Implement signal-based r
 fixing-motion-performance;ibelick/ui-skills;fixing-motion-performance;Optimize animation performance issues.
 zustand-state-management;jezweb/claude-skills;zustand-state-management;A skill for managing global state in React using Zustand with TypeScript support and SSR hydration.
 react-hook-form-zod;jezweb/claude-skills;react-hook-form-zod;Build type-safe validated forms with React Hook Form and Zod for client-server validation.
-frontend-design;buildermethods/design-os;frontend-design;Create high-quality, production-ready frontend interfaces with creative and polished code.
 tailwind-patterns;jezweb/claude-skills;tailwind-patterns;A set of production-ready Tailwind CSS patterns for common website components.
+frontend-design;buildermethods/design-os;frontend-design;Create high-quality, production-ready frontend interfaces with creative and polished code.
 angular-routing;analogjs/angular-skills;angular-routing;Implement Angular v20+ routing with lazy loading, guards, resolvers, and parameters.
 angular-forms;analogjs/angular-skills;angular-forms;Create signal-based forms in Angular with automatic binding, validation, and dynamic fields.
 angular-http;analogjs/angular-skills;angular-http;Implement HTTP data fetching in Angular using resource(), httpResource(), and HttpClient for API calls and signal-based patterns.
@@ -283,62 +284,62 @@ angular-directives;analogjs/angular-skills;angular-directives;Create custom Angu
 agent-browser;actionbook/actionbook;agent-browser;Automates browser interactions for form filling and web page interaction, used for website indexing requests.
 web-design-guidelines;cloudai-x/claude-workflow-v2;web-design-guidelines;Review UI code for Web Interface Guidelines compliance. Check accessibility, design audits, and best practices for web interfaces.
 reka-ui;onmax/nuxt-skills;reka-ui;A skill for building with Reka UI (headless Vue components), providing component API, accessibility patterns, and styling integration.
-motion;onmax/nuxt-skills;motion;A skill for adding animations with Motion Vue, providing motion components, gesture animations, and layout transitions.
 web-browser;mitsuhiko/agent-stuff;web-browser;Web browser automation skill for interacting with web pages through actions like clicking, form filling, and navigation using Chrome DevTool
+motion;onmax/nuxt-skills;motion;A skill for adding animations with Motion Vue, providing motion components, gesture animations, and layout transitions.
 nuxt-modules;onmax/nuxt-skills;nuxt-modules;A skill for creating and managing Nuxt modules including local, runtime, and server extensions with CI/CD support.
 building-components;vercel/components.build;building-components;Guide for building modern, accessible, and composable UI components with focus on accessibility, component architecture, and documentation.
-nuxt-content;onmax/nuxt-skills;nuxt-content;A skill for working with Nuxt Content v3, supporting collections, APIs, rendering, and database integration.
 fastapi;jezweb/claude-skills;fastapi;Create Python APIs with FastAPI, Pydantic v2, and SQLAlchemy 2.0 async.
+nuxt-content;onmax/nuxt-skills;nuxt-content;A skill for working with Nuxt Content v3, supporting collections, APIs, rendering, and database integration.
 nuxt-better-auth;onmax/nuxt-skills;nuxt-better-auth;A skill for implementing authentication in Nuxt applications using @onmax/nuxt-better-auth.
 motion;jezweb/claude-skills;motion;Build React animations with Framer Motion for gestures, scroll effects, and layout animations.
 angular-ssr;analogjs/angular-skills;angular-ssr;Implement server-side rendering and hydration in Angular v20+ with @angular/ssr.
 hono-routing;jezweb/claude-skills;hono-routing;Build type-safe APIs with Hono for multiple platforms including Cloudflare Workers, Deno, Bun, and Node.js.
+tailwind-css-patterns;giuseppe-trisciuoglio/developer-kit;tailwind-css-patterns;Comprehensive Tailwind CSS utility-first styling patterns for responsive design, layout, flexbox, grid, spacing, typography, colors and mode
 nuxthub;onmax/nuxt-skills;nuxthub;A skill for building NuxtHub v0.10.6 applications with database, KV storage, blob storage, and cache APIs.
 nuxt-seo;onmax/nuxt-skills;nuxt-seo;A Nuxt module for SEO configuration including sitemaps, OG images, and structured data.
 x402;coinbase/agentic-wallet-skills;x402;Search for new services and make paid API requests using the x402 payment protocol. Browse the bazaar for paid services and endpoints.
 pay-for-service;coinbase/agentic-wallet-skills;pay-for-service;Makes paid API requests to x402 endpoints with automatic USDC payment handling
-tailwind-css-patterns;giuseppe-trisciuoglio/developer-kit;tailwind-css-patterns;Comprehensive Tailwind CSS utility-first styling patterns for responsive design, layout, flexbox, grid, spacing, typography, colors and mode
 web-development;tencentcloudbase/cloudbase-mcp;web-development;A skill for web frontend development, static hosting deployment, and CloudBase Web SDK integration.
 seo-meta;jezweb/claude-skills;seo-meta;Generate complete SEO meta tags including title patterns, meta descriptions, Open Graph, Twitter Cards, and JSON-LD structured data.
 frontend-slides;zarazhangrui/frontend-slides;;Create stunning HTML presentations with animations from scratch or by converting PPT files.
-performance;addyosmani/web-quality-skills;performance;Optimize web performance for faster loading and better user experience.
 ai-sdk-ui;jezweb/claude-skills;ai-sdk-ui;Build React chat interfaces with Vercel AI SDK v6, covering hooks, message structure, and error handling.
-landing-page-guide-v2;bear2u/my-skills;landing-page-guide-v2;Create high-converting landing pages with Next.js 14+ and ShadCN UI, focusing on design quality and conversion optimization.
 accessibility;jezweb/claude-skills;accessibility;Create WCAG 2.1 AA compliant websites with semantic HTML, ARIA, and keyboard navigation.
+performance;addyosmani/web-quality-skills;performance;Optimize web performance for faster loading and better user experience.
+landing-page-guide-v2;bear2u/my-skills;landing-page-guide-v2;Create high-converting landing pages with Next.js 14+ and ShadCN UI, focusing on design quality and conversion optimization.
 domain-web;zhanghandong/rust-skills;domain-web;A skill for building web services with support for HTTP, REST API, GraphQL, and WebSocket.
 firecrawl-scraper;jezweb/claude-skills;firecrawl-scraper;Scrape and convert websites into LLM-ready data with Firecrawl API, supporting JavaScript rendering, anti-bot bypass, and document parsing.
-web-perf;cloudflare/skills;main/skills/web-perf;Analyzes web performance using Chrome DevTools MCP, measuring Core Web Vitals and identifying bottlenecks.
 tiptap;jezweb/claude-skills;tiptap;Create rich text editors with Tiptap framework for React and Tailwind CSS, supporting SSR, image uploads, and collaborative editing.
-vueuse-functions;vueuse/skills;main/skills/vueuse-functions;A skill for applying VueUse composables to build concise Vue.js/Nuxt features.
+web-perf;cloudflare/skills;main/skills/web-perf;Analyzes web performance using Chrome DevTools MCP, measuring Core Web Vitals and identifying bottlenecks.
 webapp-testing;skillcreatorai/ai-agent-skills;webapp-testing;A toolkit for testing local web applications using Playwright, supporting frontend verification and debugging.
 frontend-design;skillcreatorai/ai-agent-skills;frontend-design;Create high-quality, production-ready frontend interfaces with distinct designs using React, HTML, and CSS.
+vueuse-functions;vueuse/skills;main/skills/vueuse-functions;A skill for applying VueUse composables to build concise Vue.js/Nuxt features.
 react-best-practices;skillcreatorai/ai-agent-skills;react-best-practices;Best practices for React development including hooks, component patterns, and performance optimization.
 artifacts-builder;skillcreatorai/ai-agent-skills;artifacts-builder;A tool suite for building complex HTML artifacts with React, Tailwind CSS, and shadcn/ui components.
 video-downloader;skillcreatorai/ai-agent-skills;video-downloader;A skill to download videos from YouTube and other platforms for offline use.
 flask;jezweb/claude-skills;flask;Create Python web applications with Flask using best practices and error prevention.
 core-web-vitals;addyosmani/web-quality-skills;core-web-vitals;Optimize Core Web Vitals (LCP, INP, CLS) for better page experience and search ranking.
 seo;addyosmani/web-quality-skills;seo;Optimize content for search engine visibility and ranking.
-websh;openprose/prose;websh;A shell for the web that allows navigating URLs like directories and querying pages with Unix-like commands.
 favicon-gen;jezweb/claude-skills;favicon-gen;Generate custom favicons from logos, text, or brand colors for websites.
+websh;openprose/prose;websh;A shell for the web that allows navigating URLs like directories and querying pages with Unix-like commands.
 web-quality-audit;addyosmani/web-quality-skills;web-quality-audit;Perform comprehensive web quality audits including performance, accessibility, SEO, and best practices.
-accessibility;addyosmani/web-quality-skills;accessibility;Audit and improve web accessibility per WCAG 2.1 guidelines.
 responsive-images;jezweb/claude-skills;responsive-images;Implement responsive images with srcset, sizes, lazy loading, and modern formats like WebP and AVIF.
 auto-animate;jezweb/claude-skills;auto-animate;Zero-config animations for React, Vue, Solid, Svelte, Preact with @formkit/auto-animate.
+accessibility;addyosmani/web-quality-skills;accessibility;Audit and improve web accessibility per WCAG 2.1 guidelines.
 moai-domain-frontend;modu-ai/moai-adk;moai-domain-frontend;A frontend specialist for React, Next.js, and Vue with modern UI/UX patterns.
-moai-library-shadcn;modu-ai/moai-adk;moai-library-shadcn;A skill for implementing React UI components with shadcn/ui and Tailwind CSS.
 vercel-blob;jezweb/claude-skills;vercel-blob;Integrates Vercel Blob for file uploads and CDN-delivered assets in Next.js applications.
 cloudflare-images;jezweb/claude-skills;cloudflare-images;Manage and transform images using Cloudflare Images API with support for variants, signed URLs, and format optimization.
-moai-library-nextra;modu-ai/moai-adk;moai-library-nextra;Enterprise Nextra documentation framework with Next.js for building documentation sites, knowledge bases, and API reference documentation.
+moai-library-shadcn;modu-ai/moai-adk;moai-library-shadcn;A skill for implementing React UI components with shadcn/ui and Tailwind CSS.
 google-chat-api;jezweb/claude-skills;google-chat-api;Create Google Chat bots and webhooks with Cards v2, interactive forms, and Cloudflare Workers.
-pwa-development;alinaqi/claude-bootstrap;pwa-development;A skill for developing Progressive Web Apps with service workers and caching strategies.
+moai-library-nextra;modu-ai/moai-adk;moai-library-nextra;Enterprise Nextra documentation framework with Next.js for building documentation sites, knowledge bases, and API reference documentation.
 tinacms;jezweb/claude-skills;tinacms;A skill for building content-heavy sites with Git-backed TinaCMS, supporting multiple frameworks like Next.js, Vite+React, and Astro.
 sveltia-cms;jezweb/claude-skills;sveltia-cms;A lightweight Git-backed CMS for static sites, replacing Decap/Netlify CMS with 270+ fixes.
+pwa-development;alinaqi/claude-bootstrap;pwa-development;A skill for developing Progressive Web Apps with service workers and caching strategies.
 tanstack-router;jezweb/claude-skills;tanstack-router;A type-safe, file-based React routing solution using TanStack Router with support for client-side navigation and TanStack Query integration.
-tanstack-start;jezweb/claude-skills;tanstack-start;Build full-stack React apps with TanStack Start on Cloudflare Workers, supporting SSR, server functions, and D1/KV/R2 integration.
-tanstack-table;jezweb/claude-skills;tanstack-table;Build headless data tables with TanStack Table v8, supporting server-side pagination, filtering, sorting, and virtualization for Cloudflare
 react-patterns;giuseppe-trisciuoglio/developer-kit;react-patterns;Comprehensive React 19 patterns covering Server Components, Actions, hooks, and modern TypeScript development for component architecture and
+tanstack-start;jezweb/claude-skills;tanstack-start;Build full-stack React apps with TanStack Start on Cloudflare Workers, supporting SSR, server functions, and D1/KV/R2 integration.
 neynar;bankrbot/openclaw-skills;;Interact with Farcaster social protocol via Neynar API for reading feeds, user lookup, posting casts, and content search.
 botchan;bankrbot/openclaw-skills;;CLI tool for onchain agent messaging on Base blockchain via Net Protocol. Enables exploring agents, posting feeds, DMs, and permanent onchai
+tanstack-table;jezweb/claude-skills;tanstack-table;Build headless data tables with TanStack Table v8, supporting server-side pagination, filtering, sorting, and virtualization for Cloudflare
 erc-8004;bankrbot/openclaw-skills;;Register AI agents on Ethereum mainnet using ERC-8004 standard for on-chain identity, profiles, NFTs, and reputation management.
 onchainkit;bankrbot/openclaw-skills;;Build onchain applications with React components and TypeScript utilities from Coinbase's OnchainKit for crypto wallets, token swaps, NFT mi
 qrcoin;bankrbot/openclaw-skills;;Interact with QR Coin auctions on Base network. Check auction status, view bids, create/contribute to bids for QR code URL displays.
@@ -347,7 +348,9 @@ ens-primary-name;bankrbot/openclaw-skills;;Set primary ENS name on Base and othe
 mui;softaworks/agent-toolkit;mui;A Material-UI v7 component library skill for styling, theming, and responsive design.
 web-to-markdown;softaworks/agent-toolkit;web-to-markdown;Converts webpage URLs to clean Markdown using Puppeteer and Readability.
 livewire-development;spatie/freek.dev;livewire-development;Develops reactive Livewire 4 components for real-time web applications with wire directives and component testing.
+reddit;resciencelab/opc-skills;reddit;Search and retrieve content from Reddit including posts, comments, subreddit info, and user profiles via public JSON API.
 wp-rest-api;wordpress/agent-skills;wp-rest-api;WordPress REST API development tool for building, extending, and debugging endpoints with schema validation, authentication, and custom fiel
+apollo-client;apollographql/skills;main/skills/apollo-client;A skill for building React apps with Apollo Client 4.x, handling GraphQL queries, caching, and state management.
 jquery-4;jezweb/claude-skills;jquery-4;Migrate jQuery 3.x to 4.0.0 safely with support for breaking changes and focus event order.
 wp-block-themes;wordpress/agent-skills;wp-block-themes;A skill for developing WordPress block themes with theme.json, templates, patterns, and Site Editor troubleshooting.
 wp-interactivity-api;wordpress/agent-skills;wp-interactivity-api;A skill for building and debugging WordPress Interactivity API features including data-wp-* directives and store/state/actions.
@@ -359,19 +362,22 @@ django-expert;vintasoftware/django-ai-plugins;;A Django expert skill for backend
 supabase-nextjs;alinaqi/claude-bootstrap;supabase-nextjs;A Next.js application integrated with Supabase and Drizzle ORM for database operations.
 douyin-video;yzfly/douyin-mcp-server;;Douyin watermark-free video download and copy extraction tool. Extracts videos and transcribes audio from Douyin links.
 elysiajs;elysiajs/skills;main/elysia;Create backend services using ElysiaJS, a type-safe and high-performance framework.
-apollo-client;apollographql/skills;main/skills/apollo-client;A skill for building React apps with Apollo Client 4.x, handling GraphQL queries, caching, and state management.
-crawl;tavily-ai/skills;main/skills/tavily/crawl;Crawl websites and save content as local markdown files for offline access or analysis.
+twitter;resciencelab/opc-skills;twitter;Search and retrieve content from Twitter/X including user info, tweets, replies, followers, communities, spaces, and trends via twitterapi.i
 nuxt;nuxt-content/nuxt-studio;nuxt;A skill for working with Nuxt 4+ projects, including server routes, file-based routing, and Nuxt-specific composables.
-rivetkit-client-react;rivet-dev/skills;main/rivetkit-client-react;A React client guidance for Rivet Actors, supporting hooks and real-time state management.
 nuxt-ui;nuxt-content/nuxt-studio;nuxt-ui;Nuxt UI skill for building styled UI with @nuxt/ui v4 components like Button, Modal, Form, Table using Tailwind Variants theming.
+vue;nuxt-content/nuxt-studio;vue;A skill for editing .vue files, creating Vue 3 components, writing composables, and testing Vue code with best practices.
+crawl;tavily-ai/skills;main/skills/tavily/crawl;Crawl websites and save content as local markdown files for offline access or analysis.
+rivetkit-client-react;rivet-dev/skills;main/rivetkit-client-react;A React client guidance for Rivet Actors, supporting hooks and real-time state management.
 nodejs-backend;alinaqi/claude-bootstrap;nodejs-backend;A Node.js backend skill using Express/Fastify with repository patterns.
 woocommerce;alinaqi/claude-bootstrap;woocommerce;A skill for interacting with the WooCommerce REST API to manage products, orders, customers, and webhooks.
-vue;nuxt-content/nuxt-studio;vue;A skill for editing .vue files, creating Vue 3 components, writing composables, and testing Vue code with best practices.
-ui-web;alinaqi/claude-bootstrap;ui-web;A web UI skill with glassmorphism design, Tailwind CSS, dark mode, and accessibility features.
+clerk-nextjs-patterns;clerk/skills;main/skills/nextjs-patterns;Advanced Next.js patterns with Clerk integration for middleware and server actions.
 testing-library;jezweb/claude-skills;testing-library;Test React components with Testing Library patterns. Covers queries (getBy/findBy/queryBy), user-event interactions, async testing (findBy v
+ui-web;alinaqi/claude-bootstrap;ui-web;A web UI skill with glassmorphism design, Tailwind CSS, dark mode, and accessibility features.
+clerk-webhooks;clerk/skills;main/skills/webhooks;Handle Clerk webhooks for real-time user and organization events with database sync and notifications.
 react-router-framework-mode;remix-run/agent-skills;react-router-framework-mode;Build full-stack React apps with React Router's framework mode for routing, loaders, actions, and form handling.
 site-architecture;alinaqi/claude-bootstrap;site-architecture;Optimize website architecture for technical SEO including robots.txt, sitemap, and Core Web Vitals.
 react-web;alinaqi/claude-bootstrap;react-web;A React web development skill using hooks, React Query, and Zustand for state management.
+clerk-custom-ui;clerk/skills;main/skills/custom-ui;Customize Clerk component appearance with themes, layout, colors, and fonts.
 supabase-python;alinaqi/claude-bootstrap;supabase-python;A FastAPI backend with Supabase and SQLAlchemy for database operations.
 web-payments;alinaqi/claude-bootstrap;web-payments;A skill for handling Stripe payments, subscriptions, webhooks, and customer portals.
 web-content;alinaqi/claude-bootstrap;web-content;Optimize web content for SEO and AI discovery with schema and ChatGPT/Perplexity enhancements.
@@ -379,50 +385,48 @@ supabase-node;alinaqi/claude-bootstrap;supabase-node;A backend skill using Expre
 firebase;alinaqi/claude-bootstrap;firebase;A Firebase skill for Firestore, Auth, Storage, and real-time listeners.
 medusa;alinaqi/claude-bootstrap;medusa;A headless commerce solution with modules, workflows, and admin UI.
 shopify-apps;alinaqi/claude-bootstrap;shopify-apps;Develop Shopify apps with Remix, Admin API, and checkout extensions.
-clerk-nextjs-patterns;clerk/skills;main/skills/nextjs-patterns;Advanced Next.js patterns with Clerk integration for middleware and server actions.
+tool-ui;assistant-ui/tool-ui;tool-ui;Find, install, configure, and integrate Tool UI components in React apps using shadcn registry with compatibility checks and runtime wiring.
+producthunt;resciencelab/opc-skills;producthunt;Search and retrieve content from Product Hunt via GraphQL API for posts, topics, users, and collections.
 seo-aeo-best-practices;sanity-io/agent-toolkit;seo-aeo-best-practices;Best practices for SEO and AEO including EEAT principles, structured data, and technical SEO.
-clerk-webhooks;clerk/skills;main/skills/webhooks;Handle Clerk webhooks for real-time user and organization events with database sync and notifications.
 browser-tools;badlogic/pi-skills;;Interactive browser automation via Chrome DevTools Protocol for web page interaction and frontend testing.
-clerk-custom-ui;clerk/skills;main/skills/custom-ui;Customize Clerk component appearance with themes, layout, colors, and fonts.
 fastapi-router-py;microsoft/agent-skills;fastapi-router-py;Generate FastAPI routers with CRUD operations and auth dependencies.
 react-flow-node-ts;microsoft/agent-skills;react-flow-node-ts;Create React Flow node components with TypeScript and Zustand integration for visual workflow editors.
 frontend-ui-dark-ts;microsoft/agent-skills;frontend-ui-dark-ts;Create dark-themed React apps with Tailwind CSS and Framer Motion.
 md2wechat;geekjourneyx/md2wechat-skill;md2wechat;Convert Markdown to WeChat Official Account HTML with API and AI modes, featuring writer style assistant and AI trace removal.
-twitter;resciencelab/opc-skills;twitter;A skill to search and retrieve content from Twitter/X using twitterapi.io.
 tailwindcss-advanced-layouts;josiahsiegel/claude-plugin-marketplace;tailwindcss-advanced-layouts;Advanced Tailwind CSS layout techniques using Grid and Flexbox.
 frontend-responsive-design-standards;am-will/codex-skills;;Create responsive, mobile-first layouts with flexible units and media queries for all screen sizes.
 frontend-design;am-will/codex-skills;frontend-design;Create high-quality, production-ready frontend interfaces with creative and polished code.
 convex-realtime;waynesutton/convexskills;convex-realtime;Patterns for building reactive apps with subscription management, optimistic updates, cache behavior, and paginated queries using cursor-bas
 webgpu-threejs-tsl;dgreenheck/webgpu-claude-skill;webgpu-threejs-tsl;A skill for developing WebGPU-enabled Three.js applications using TSL, covering renderer setup, TSL syntax, compute shaders, and WGSL integr
-producthunt;resciencelab/opc-skills;producthunt;A skill to search and retrieve content from Product Hunt using GraphQL API.
 graphql-operations;apollographql/skills;main/skills/graphql-operations;A guide for writing GraphQL operations following best practices.
 tailwindcss-animations;josiahsiegel/claude-plugin-marketplace;tailwindcss-animations;A Tailwind CSS plugin for animations and transitions with built-in utilities and custom patterns.
 webgpu;cazala/webgpu-skill;;A skill for WebGPU/WGSL guidance including initialization, pipelines, shader authoring, debugging, and performance optimization.
-agent-ui;1nfsh/skills;main/skills/agent-ui;Agent UI skill for creating user interfaces for AI agents and web applications
+fastapi-pro;rmyndharis/antigravity-skills;fastapi-pro;Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2.
 sounds-on-the-web;raphaelsalaja/userinterface-wiki;sounds-on-the-web;Audits UI code for audio feedback best practices and accessibility.
 pseudo-elements;raphaelsalaja/userinterface-wiki;pseudo-elements;Audits CSS for pseudo-element best practices and View Transitions API usage.
-fastapi-pro;rmyndharis/antigravity-skills;fastapi-pro;Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2.
+agent-ui;1nfsh/skills;main/skills/agent-ui;Agent UI skill for creating user interfaces for AI agents and web applications
 nuqs;pproenca/dot-skills;.curated/nuqs;Best practices for using nuqs (type-safe URL query state) in Next.js applications.
+apollo-server;apollographql/skills;main/skills/apollo-server;A skill for building GraphQL servers with Apollo Server 5.x, covering setup, resolvers, auth, plugins, and troubleshooting.
 frontend-enhancer;ailabs-393/ai-labs-claude-skills;frontend-enhancer;Enhances Next.js web app visuals with modern UI components, design patterns, and animations.
 building-admin-dashboard-customizations;medusajs/medusa-agent-skills;building-admin-dashboard-customizations;A skill for customizing Medusa Admin dashboard UI components and data loading patterns.
 morphing-icons;raphaelsalaja/userinterface-wiki;morphing-icons;Build icon components with SVG line transformation for morphing between different icons with smooth transitions.
 better-auth-best-practices;better-auth/skills;main/better-auth/best-practices;Skill for integrating Better Auth - the comprehensive TypeScript authentication framework.
 before-and-after;vercel-labs/before-and-after;;Captures before/after screenshots of web pages for visual comparison and documentation of UI changes.
 assistant-ui;assistant-ui/skills;main/assistant-ui/skills/assistant-ui;A guide for AI chat UI components, useful for understanding architecture and debugging codebase.
-apollo-server;apollographql/skills;main/skills/apollo-server;A skill for building GraphQL servers with Apollo Server 5.x, covering setup, resolvers, auth, plugins, and troubleshooting.
 playwright-e2e-testing;bobmatnyc/claude-mpm-skills;;A Playwright-based end-to-end testing framework for modern web applications with cross-browser support.
 tailwindcss-mobile-first;josiahsiegel/claude-plugin-marketplace;tailwindcss-mobile-first;Mobile-first responsive design patterns for Tailwind CSS v4 with 2025/2026 best practices.
 element-plus-vue3;teachingai/full-stack-skills;element-plus-vue3;A skill providing comprehensive guidance for Element Plus Vue 3 component library including installation, components, themes, internationali
+apollo-connectors;apollographql/skills;main/skills/apollo-connectors;Integrate REST APIs into GraphQL supergraphs using Apollo Connectors.
+serp-analysis;aaron-he-zhu/seo-geo-claude-skills;;Analyzes search engine results pages (SERPs) to understand ranking factors and user intent patterns.
 tailwind-v4;existential-birds/beagle;tailwind-v4;Setup and configure Tailwind CSS v4 with CSS-first approach, design tokens, OKLCH colors, and dark mode support.
 chat-ui;inference-sh-0/skills;main/skills/chat-ui;A UI component for chat interfaces
-serp-analysis;aaron-he-zhu/seo-geo-claude-skills;;Analyzes search engine results pages (SERPs) to understand ranking factors and user intent patterns.
 widgets-ui;inference-sh-0/skills;main/skills/widgets-ui;A UI skill for creating and managing widgets for web applications and dashboards.
-storefront-best-practices;medusajs/medusa-agent-skills;storefront-best-practices;A skill for best practices in ecommerce storefront development, covering components like checkout, cart, and payment flows.
 on-page-seo-auditor;aaron-he-zhu/seo-geo-claude-skills;;Audits on-page SEO elements like title tags, meta descriptions, headers, and image optimization.
+storefront-best-practices;medusajs/medusa-agent-skills;storefront-best-practices;A skill for best practices in ecommerce storefront development, covering components like checkout, cart, and payment flows.
 agent-ui;inference-sh-0/skills;main/skills/agent-ui;Agent UI skill for creating user interfaces for AI agents and web applications
-astro;astrolicious/agent-skills;astro;A skill for working with Astro projects, including CLI commands and configuration.
 technical-seo-checker;aaron-he-zhu/seo-geo-claude-skills;;Performs technical SEO audits including site speed, crawlability, indexability, mobile-friendliness, security, and structured data.
-apollo-connectors;apollographql/skills;main/skills/apollo-connectors;Integrate REST APIs into GraphQL supergraphs using Apollo Connectors.
+implementing-drag-drop;ancoleman/ai-design-components;implementing-drag-drop;Implement drag-and-drop and sortable interfaces with React/TypeScript for interactive UIs.
+astro;astrolicious/agent-skills;astro;A skill for working with Astro projects, including CLI commands and configuration.
 article-extractor;michalparkola/tapestry-skills-for-claude-code;;Extracts clean article content from URLs and saves as readable text.
 undocs;hairyf/skills;main/skills/undocs;A minimal documentation theme and CLI for UnJS projects, supporting Nuxt, Nuxt Content, and Nuxt UI.
 frontend-design;guanyang/antigravity-skills;frontend-design;Create high-quality, production-ready frontend interfaces with distinct designs using React, HTML, and CSS.
@@ -431,39 +435,40 @@ internal-linking-optimizer;aaron-he-zhu/seo-geo-claude-skills;;Optimizes interna
 rank-tracker;aaron-he-zhu/seo-geo-claude-skills;;Tracks and analyzes keyword ranking positions over time for search and AI-generated results.
 content-refresher;aaron-he-zhu/seo-geo-claude-skills;;Updates outdated content to restore and improve search rankings by analyzing content freshness, adding new information, updating statistics,
 tailwind-css;bobmatnyc/claude-mpm-skills;;A Tailwind CSS skill for rapid UI development with responsive design and dark mode support.
+web-scraping;jamditis/claude-skills-journalism;;Extract content from websites, handle paywalls, and implement scraping cascades using anti-bot bypass techniques.
 raindrop-api;intellectronica/agent-skills;raindrop-api;Comprehensive instructions for interacting with Raindrop.io bookmarks service via REST API using curl and jq, covering authentication, CRUD
 wp-block-themes;automattic/agent-skills;wp-block-themes;A skill for developing WordPress block themes with theme.json, templates, patterns, and Site Editor troubleshooting.
 gen-paylink-govilo;hau823823/gen-paylink-govilo;gen-paylink-govilo;Upload files to Govilo and generate unlock links via Bot API for automated file management and payment processing.
 hono;yusukebe/hono-skill;hono;Develop Hono applications efficiently with CLI support for docs, API lookup, testing, and optimization.
 wp-abilities-api;automattic/agent-skills;wp-abilities-api;A skill for working with the WordPress Abilities API, including registering abilities, categories, and handling permissions.
+web-design-guidelines;ehmo/platform-design-skills;web;Provides web design and accessibility guidelines for building interfaces, auditing accessibility, and implementing responsive layouts.
 tanstack-start-best-practices;deckardger/tanstack-agent-skills;tanstack-start;Best practices for full-stack React applications using TanStack Start, covering server functions, middleware, SSR, authentication, and deplo
 wp-interactivity-api;automattic/agent-skills;wp-interactivity-api;A skill for building and debugging WordPress Interactivity API features including data-wp-* directives and store/state/actions.
-web-design-guidelines;ehmo/platform-design-skills;web;Provides web design and accessibility guidelines for building interfaces, auditing accessibility, and implementing responsive layouts.
-hairy;hairyf/skills;main/skills/hairy;A skill for opinionated web development preferences and best practices.
 content-quality-auditor;aaron-he-zhu/seo-geo-claude-skills;;Performs comprehensive CORE-EEAT content quality audits with 80-item scoring across 8 dimensions, producing detailed reports and action plan
+hairy;hairyf/skills;main/skills/hairy;A skill for opinionated web development preferences and best practices.
 favicon;brianlovin/claude-config;favicon;Generate complete favicon sets from source images and update HTML for web projects.
-web-scraping;jamditis/claude-skills-journalism;;Extract content from websites, handle paywalls, and implement scraping cascades using anti-bot bypass techniques.
 agent-browser;brianlovin/claude-config;agent-browser;Automates browser interactions for web testing, form filling, screenshots, and data extraction.
+shadcn;pproenca/dot-skills;.curated/shadcn;Best practices and patterns for shadcn/ui component library, focusing on architecture, accessibility, and performance.
 frontend-design;dmmulroy/overseer;frontend-design;Create high-quality, production-ready frontend interfaces with distinct designs using React, HTML, and CSS.
 agent-browser;dmmulroy/overseer;agent-browser;Automates browser interactions for web testing, form filling, screenshots, and data extraction.
 wpds;automattic/agent-skills;wpds;A skill for building UIs with the WordPress Design System (WPDS).
 yt-dlp-downloader;mapleshaw/yt-dlp-downloader-skill;;Download videos from YouTube, Bilibili, Twitter, and thousands of other sites using yt-dlp. Extract audio, subtitles, and select video quali
-shadcn;pproenca/dot-skills;.curated/shadcn;Best practices and patterns for shadcn/ui component library, focusing on architecture, accessibility, and performance.
 google-official-seo-guide;littleben/awesomeagentskills;;An official Google SEO guide covering search optimization, best practices, and website visibility improvement.
 react-aria;adobe/com;;React ARIA provides accessibility utilities and components for building accessible React applications with proper ARIA attributes and keyboa
 web-asset-generator;alonw0/web-asset-generator;web-asset-generator;Generate web assets including favicons, PWA icons, and social media meta images from logos or text. Handles image resizing and provides HTML
 frontend-design;aiskillstore/marketplace;frontend-design;Create high-quality, production-ready frontend interfaces with creative and polished code.
 tanstack-query-best-practices;deckardger/tanstack-agent-skills;tanstack-query;Best practices for TanStack Query (React Query) including data fetching, caching, and server state management.
 ant-design;ant-design/antd-skill;ant-design;Single-file decision guide for Ant Design components, theming, SSR, accessibility, performance, routing, and AI/chat UI patterns.
+gsap-react;bbeierle12/skill-mcp-claude;gsap-react;Integrates GSAP animations with React components using hooks and lifecycle management.
 react-flow;existential-birds/beagle;react-flow;A React-based workflow visualization tool with custom nodes and edges.
 tailwindcss;hairyf/skills;main/skills/tailwindcss;A utility-first CSS framework for styling web applications and building responsive designs.
 web-artifacts-builder;aiskillstore/marketplace;web-artifacts-builder;Build complex HTML artifacts with React, Tailwind CSS, and shadcn/ui components.
 web-development;tencentcloudbase/skills;main/skills/web-development;A skill for web frontend development, static hosting deployment, and CloudBase Web SDK integration.
+frontend-design;pbakaus/impeccable;frontend-design;Create high-quality, production-ready frontend interfaces and web applications with distinct design.
 webapp-testing;aiskillstore/marketplace;webapp-testing;A toolkit for testing local web applications using Playwright, supporting frontend verification and debugging.
 angular-performance;gentleman-programming/gentleman-skills;;Angular performance optimization: NgOptimizedImage, @defer, lazy loading, SSR. For optimizing Angular app performance, images, and lazy load
-frontend-design;pbakaus/impeccable;frontend-design;Create high-quality, production-ready frontend interfaces and web applications with distinct design.
+playwright-bot-bypass;greekr4/playwright-bot-bypass;playwright-bot-bypass;Bypass bot detection and CAPTCHA for stealth browser automation using Playwright
 angular-architecture;gentleman-programming/gentleman-skills;;Angular architecture guidelines covering scope rules, project structure, file naming, and style guide for component placement decisions.
-implementing-drag-drop;ancoleman/ai-design-components;implementing-drag-drop;Implement drag-and-drop and sortable interfaces with React/TypeScript for interactive UIs.
 chat-ui;1nfsh/skills;main/skills/chat-ui;A UI component for chat interfaces
 clone-website;julianromli/ai-skills;clone-website;Clone websites into production-ready Next.js code using Firecrawl MCP.
 widgets-ui;1nfsh/skills;main/skills/widgets-ui;A UI skill for creating and managing widgets for web applications and dashboards.
@@ -472,75 +477,74 @@ react-performance-optimization;nickcrew/claude-ctx-plugin;react-performance-opti
 nodejs-express-server;aj-geddes/useful-ai-prompts;nodejs-express-server;Create production-ready Express.js servers with middleware, auth, routing, and DB integration.
 vue3;teachingai/full-stack-skills;vue3;Provides guidance for Vue 3 development using official resources.
 react-router-v7;existential-birds/beagle;react-router-v7;Best practices for React Router v7 data-driven routing with loaders, actions, and navigation guards.
-gsap-react;bbeierle12/skill-mcp-claude;gsap-react;Integrates GSAP animations with React components using hooks and lifecycle management.
-react-19;gentleman-programming/gentleman-skills;;React 19 patterns with React Compiler. Eliminate need for useMemo/useCallback when writing React components.
 developing-with-streamlit;streamlit/agent-skills;;Build production-grade Streamlit apps with support for performance, layouts, and data display.
-frontend-ui-animator;julianromli/ai-skills;frontend-ui-animator;Add UI animations to Next.js + Tailwind + React projects with purposeful motion design.
+react-19;gentleman-programming/gentleman-skills;;React 19 patterns with React Compiler. Eliminate need for useMemo/useCallback when writing React components.
 svelte-runes;spences10/svelte-skills-kit;svelte-runes;Guide to Svelte runes for reactive state, props, and effects.
+frontend-ui-animator;julianromli/ai-skills;frontend-ui-animator;Add UI animations to Next.js + Tailwind + React projects with purposeful motion design.
 daisyui;bobmatnyc/claude-mpm-skills;;A Tailwind CSS component library with semantic class names, dark mode, and customization for rapid UI development.
-building-admin-dashboard-customizations;medusajs/medusa-claude-plugins;building-admin-dashboard-customizations;A skill for customizing Medusa Admin dashboard UI components and data loading patterns.
 react-router-data-mode;remix-run/agent-skills;react-router-data-mode;Build React applications using React Router's data mode with createBrowserRouter and RouterProvider for route objects, loaders, actions, and
+building-admin-dashboard-customizations;medusajs/medusa-claude-plugins;building-admin-dashboard-customizations;A skill for customizing Medusa Admin dashboard UI components and data loading patterns.
 top-design;wondelai/skills;main/top-design;Premium web design framework for building portfolio sites and immersive web experiences with custom animations and exceptional typography.
 react-use;hairyf/skills;main/skills/react-use;A collection of essential React hooks for sensors, UI, animations, side-effects, lifecycles, and state management.
 recharts-patterns;yonatangross/orchestkit;;A skill for creating chart patterns with Recharts, a React-based charting library.
 next;hairyf/skills;main/skills/next;A skill for building React applications with Next.js, including App Router, Server Components, and optimized performance.
-gsap;martinholovsky/claude-skills-generator;gsap;A skill for creating GSAP animations in JARVIS HUD transitions and effects.
 uifork;sambernhardt/uifork;uifork;Install and manage UI components with uifork CLI tool and React component library for versioning, testing, and stakeholder feedback.
+gsap;martinholovsky/claude-skills-generator;gsap;A skill for creating GSAP animations in JARVIS HUD transitions and effects.
+web-typography;wondelai/skills;main/web-typography;Web typography framework based on Jason Santa Maria's 'On Web Typography' for selecting typefaces, evaluating readability, pairing fonts, se
+sveltekit-structure;spences10/svelte-skills-kit;sveltekit-structure;Provides SvelteKit structure guidance for routing, layouts, error handling, and SSR.
 fastapi-development;aj-geddes/useful-ai-prompts;fastapi-development;Develop high-performance FastAPI applications with async support, validation, and automatic OpenAPI documentation.
 css-architecture;aj-geddes/useful-ai-prompts;css-architecture;Organize CSS using BEM, SMACSS, and CSS-in-JS patterns for scalable styling systems.
-sveltekit-structure;spences10/svelte-skills-kit;sveltekit-structure;Provides SvelteKit structure guidance for routing, layouts, error handling, and SSR.
-web-typography;wondelai/skills;main/web-typography;Web typography framework based on Jason Santa Maria's 'On Web Typography' for selecting typefaces, evaluating readability, pairing fonts, se
 angular-rxjs-patterns;thebushidocollective/han;angular-rxjs-patterns;Handle async operations in Angular apps using RxJS patterns like observables, operators, and subjects.
+react-hook-form;pproenca/dot-skills;.curated/react-hook-form;Optimize client-side form validation with React Hook Form hooks.
 rest-api-design;aj-geddes/useful-ai-prompts;rest-api-design;Design RESTful APIs with best practices for resources, methods, status codes, versioning, and documentation.
 vue2;teachingai/full-stack-skills;vue2;A Vue 2.x development guide covering Options API, components, directives, lifecycle hooks, computed properties, watchers, Vuex, and Vue Rout
-react-hook-form;pproenca/dot-skills;.curated/react-hook-form;Optimize client-side form validation with React Hook Form hooks.
 responsive-web-design;aj-geddes/useful-ai-prompts;responsive-web-design;Create responsive web layouts using CSS Grid, Flexbox, and mobile-first design principles.
 web-fetch;0xbigboss/claude-code;web-fetch;Fetches web content and converts HTML to clean markdown for documentation and articles.
 trpc-type-safety;bobmatnyc/claude-mpm-skills;;A tRPC-based solution for end-to-end type-safe APIs with React Query integration.
+gsap-scrolltrigger;bbeierle12/skill-mcp-claude;gsap-scrolltrigger;Create scroll-driven animations with GSAP ScrollTrigger including pinning, scrubbing, and parallax effects.
 motion;hairyf/skills;main/skills/motion;A motion animation library for JavaScript, React, and Vue.
+react-router-declarative-mode;remix-run/agent-skills;react-router-declarative-mode;Build React applications using React Router's declarative mode with BrowserRouter for route configuration and navigation.
 tailwindcss;martinholovsky/claude-skills-generator;tailwindcss;A skill for applying Tailwind CSS utility-first styling to JARVIS UI components.
 r3f-textures;enzed/r3f-skills;r3f-textures;Load and manage textures for React Three Fiber applications including PBR sets, cubemaps, and HDR environments.
 r3f-postprocessing;enzed/r3f-skills;r3f-postprocessing;Adds visual effects and post-processing to React Three Fiber applications.
 fastify;bobmatnyc/claude-mpm-skills;;A Fastify TypeScript skill focusing on production patterns like schema validation, plugins, typed routes, error handling, security, logging,
-react-router-declarative-mode;remix-run/agent-skills;react-router-declarative-mode;Build React applications using React Router's declarative mode with BrowserRouter for route configuration and navigation.
 web-performance-audit;aj-geddes/useful-ai-prompts;web-performance-audit;Conduct comprehensive web performance audits to measure page speed and recommend optimizations.
+tailwind-responsive-design;thebushidocollective/han;tailwind-responsive-design;A skill for building responsive layouts and mobile-first designs with Tailwind CSS, covering breakpoints, container queries, and responsive
 r3f-loaders;enzed/r3f-skills;r3f-loaders;A skill for loading 3D assets in React Three Fiber with useGLTF, useLoader, and Suspense patterns.
 storybook;dalestudy/skills;main/skills/storybook;A skill for creating and managing Storybook stories with CSF 3.0 best practices.
+tailwind;pproenca/dot-skills;.curated/tailwind;Optimize Tailwind CSS v4 for performance and minimal output with best practices.
 nextjs-app-router-fundamentals;wsimmonds/claude-nextjs-skills;;Guide for working with Next.js App Router (Next.js 13+), covering migration from Pages Router, layouts, routing, metadata, and Next.js 13+ d
 image-optimization;aj-geddes/useful-ai-prompts;image-optimization;Optimize web images with compression and modern formats for faster loading.
 websocket-implementation;aj-geddes/useful-ai-prompts;websocket-implementation;Implement real-time bidirectional communication with WebSockets for chat systems and live notifications.
-tailwind;pproenca/dot-skills;.curated/tailwind;Optimize Tailwind CSS v4 for performance and minimal output with best practices.
 hairy-react-lib;hairyf/skills;main/skills/hairy-react-lib;A skill for working with @hairy/react-lib React hooks and components.
-tailwind-responsive-design;thebushidocollective/han;tailwind-responsive-design;A skill for building responsive layouts and mobile-first designs with Tailwind CSS, covering breakpoints, container queries, and responsive
 accessibility-testing;aj-geddes/useful-ai-prompts;accessibility-testing;Test web applications for WCAG compliance and accessibility.
 tamagui-best-practices;0xbigboss/claude-code;tamagui-best-practices;Provides best practices and configuration patterns for Tamagui v4 projects.
+storybook-component-documentation;thebushidocollective/han;storybook-component-documentation;Generate comprehensive component documentation in Storybook using MDX, autodocs, and JSDoc comments for improved developer experience.
 flask-api-development;aj-geddes/useful-ai-prompts;flask-api-development;Develop lightweight Flask APIs with routing, blueprints, database integration, authentication, and request/response handling.
-github-trending;hoodini/ai-agents-skills;github-trending;Fetch and display GitHub trending repositories and developers.
-gsap-scrolltrigger;bbeierle12/skill-mcp-claude;gsap-scrolltrigger;Create scroll-driven animations with GSAP ScrollTrigger including pinning, scrubbing, and parallax effects.
 bundle-size-optimization;aj-geddes/useful-ai-prompts;bundle-size-optimization;Optimize JavaScript and CSS bundle sizes using code splitting and tree shaking for better performance.
 vue-application-structure;aj-geddes/useful-ai-prompts;vue-application-structure;Structure Vue 3 applications using Composition API, component organization, and TypeScript for scalable development.
-mobile-responsiveness;hoodini/ai-agents-skills;mobile-responsiveness;Create mobile-first, responsive web applications with touch interactions and optimized layouts.
-storybook-component-documentation;thebushidocollective/han;storybook-component-documentation;Generate comprehensive component documentation in Storybook using MDX, autodocs, and JSDoc comments for improved developer experience.
+github-trending;hoodini/ai-agents-skills;github-trending;Fetch and display GitHub trending repositories and developers.
 real-time-features;aj-geddes/useful-ai-prompts;real-time-features;Implement real-time features using WebSockets, SSE, or long polling for chat apps, dashboards, and live updates.
+mobile-responsiveness;hoodini/ai-agents-skills;mobile-responsiveness;Create mobile-first, responsive web applications with touch interactions and optimized layouts.
 developing-preact;oaustegard/claude-skills;;Specialized Preact development skill for standards-based web applications with native-first architecture and minimal dependency footprint.
 hono-cloudflare;bobmatnyc/claude-mpm-skills;;Deploy Hono applications on Cloudflare Workers with KV, D1, R2, and Durable Objects.
 django-application;aj-geddes/useful-ai-prompts;django-application;Build production-grade Django apps with models, views, ORM, auth, and admin interfaces.
 form-validation;aj-geddes/useful-ai-prompts;form-validation;Implement form validation using React Hook Form, Formik, Vee-Validate, and custom validators for robust real-time validation.
+tailwind-v4-shadcn;secondsky/claude-skills;tailwind-v4-shadcn;Production-tested setup for Tailwind CSS v4 with shadcn/ui, Vite, and React. Covers dark mode, CSS variables, theme switching, and migration
+x-publish;kangarooking/x-skills;;Publish tweets and threads to X (Twitter) draft using browser automation. Supports short tweets and threads, always saves to draft.
 react-flow-advanced;existential-birds/beagle;react-flow-advanced;Advanced React Flow patterns for complex use cases including sub-flows, custom connections, and programmatic layouts.
 visual-regression-testing;aj-geddes/useful-ai-prompts;visual-regression-testing;Detect visual regressions by comparing UI screenshots across versions using tools like Percy or Chromatic.
 progressive-web-app;aj-geddes/useful-ai-prompts;progressive-web-app;Create app-like web experiences with PWA features including offline support and installability.
 webhook-development;aj-geddes/useful-ai-prompts;webhook-development;Develop webhook systems with retry logic, signature verification, and delivery guarantees for event-driven integration.
-web-accessibility;hoodini/ai-agents-skills;web-accessibility;Create accessible web apps following WCAG guidelines with ARIA, keyboard nav, and screen reader support.
-tailwind-v4-shadcn;secondsky/claude-skills;tailwind-v4-shadcn;Production-tested setup for Tailwind CSS v4 with shadcn/ui, Vite, and React. Covers dark mode, CSS variables, theme switching, and migration
-x-publish;kangarooking/x-skills;;Publish tweets and threads to X (Twitter) draft using browser automation. Supports short tweets and threads, always saves to draft.
+remotion-bits;av/remotion-bits;remotion-bits;Animation components and utilities for Remotion video projects with text animations, gradient transitions, particle effects, 3D scenes, and
 frontend-accessibility;aj-geddes/useful-ai-prompts;frontend-accessibility;Implements WCAG compliance with semantic HTML, ARIA, and keyboard navigation for inclusive web applications.
 frontend-routing;aj-geddes/useful-ai-prompts;frontend-routing;Implement client-side routing for multi-page applications using React Router, Vue Router, or Angular Router.
+react;pproenca/dot-skills;.curated/react;A skill for React 19 performance optimization, covering concurrent rendering, Server Components, actions, hooks, and memoization.
+web-accessibility;hoodini/ai-agents-skills;web-accessibility;Create accessible web apps following WCAG guidelines with ARIA, keyboard nav, and screen reader support.
 payment-gateway-integration;aj-geddes/useful-ai-prompts;payment-gateway-integration;Integrate payment gateways like Stripe, PayPal, and Square with backend systems for secure payment processing and subscription management.
 storybook-play-functions;thebushidocollective/han;storybook-play-functions;Enables automated testing of component behavior and user interactions directly in Storybook stories using play functions.
-remotion-bits;av/remotion-bits;remotion-bits;Animation components and utilities for Remotion video projects with text animations, gradient transitions, particle effects, 3D scenes, and
 file-upload-handling;aj-geddes/useful-ai-prompts;file-upload-handling;Handle secure file uploads with validation, virus scanning, and efficient storage.
 web-performance-optimization;aj-geddes/useful-ai-prompts;web-performance-optimization;Optimize web app performance with code splitting, lazy loading, caching, and monitoring.
-react;pproenca/dot-skills;.curated/react;A skill for React 19 performance optimization, covering concurrent rendering, Server Components, actions, hooks, and memoization.
 frontend-state-management;aj-geddes/useful-ai-prompts;frontend-state-management;Manages application state using Redux, MobX, Zustand, and Context API for complex frontend apps.
 api-versioning-strategy;aj-geddes/useful-ai-prompts;api-versioning-strategy;Implement API versioning strategies including URL, header versioning, backward compatibility, and deprecation plans.
 ant-design-react;teachingai/full-stack-skills;ant-design-react;Provides guidance for Ant Design React component library, including components, design system, themes, and TypeScript support.
@@ -551,50 +555,51 @@ accessibility-compliance;aj-geddes/useful-ai-prompts;accessibility-compliance;Im
 server-side-rendering;aj-geddes/useful-ai-prompts;server-side-rendering;Implement server-side rendering with template engines and dynamic content generation for web applications.
 api-filtering-sorting;aj-geddes/useful-ai-prompts;api-filtering-sorting;Implement advanced API filtering and sorting with query parsing and optimization.
 aceternity-ui;secondsky/claude-skills;aceternity-ui;100+ animated React components for Next.js with Tailwind. Includes hero sections, parallax, 3D effects, animations, and shadcn CLI integrati
-playwright-bot-bypass;greekr4/playwright-bot-bypass;playwright-bot-bypass;Bypass bot detection and CAPTCHA for stealth browser automation using Playwright
 webhook-integration;aj-geddes/useful-ai-prompts;webhook-integration;Implement secure webhook systems with signature verification and retry logic for event-driven integrations.
 uniapp-uview;teachingai/full-stack-skills;uniapp-uview;A comprehensive skill for integrating and using uView UI with UniApp projects, focusing on UniApp-specific integration, configuration, and p
+frontend-design;vercel-labs/agent-eval;frontend-design;Create high-quality, production-ready frontend interfaces with distinct designs using React, HTML, and CSS.
 frontend-testing;aj-geddes/useful-ai-prompts;frontend-testing;Implement comprehensive frontend testing with Jest, Vitest, React Testing Library, and Cypress.
 ant-design-vue;teachingai/full-stack-skills;ant-design-vue;Comprehensive guidance for Ant Design Vue component library for Vue 3, covering installation, usage, API reference, templates, and component
-frontend-design;vercel-labs/agent-eval;frontend-design;Create high-quality, production-ready frontend interfaces with distinct designs using React, HTML, and CSS.
-vant-vue3;teachingai/full-stack-skills;vant-vue3;Provides comprehensive guidance for Vant Vue 3 mobile component library including mobile components, themes, and best practices.
 atomic-design-integration;thebushidocollective/han;atomic-design-integration;Integrates Atomic Design methodology with React, Vue, Angular, and other frameworks using framework-specific implementation patterns.
-web-reader;answerzhao/agent-skills;;Web page content extraction skill using z-ai-web-dev-sdk for scraping, article extraction, and metadata retrieval.
-framer-motion-animations;sgcarstrends/sgcarstrends;;A skill for creating smooth animations using Framer Motion in web applications.
 sveltekit-remote-functions;spences10/svelte-skills-kit;sveltekit-remote-functions;Guidance for implementing SvelteKit remote functions using command(), query(), and form() patterns.
-storybook-args-controls;thebushidocollective/han;storybook-args-controls;Configure interactive controls and args for Storybook stories to create dynamic, explorable component demonstrations with proper type constr
-ln-114-frontend-docs-creator;levnikolaevich/claude-code-skills;;Creates design guidelines documentation for frontend projects with conditional worker invocation.
-storybook-configuration;thebushidocollective/han;storybook-configuration;Configure Storybook for projects including main config, addons, builders, and framework-specific setup.
-scroll-driven-animations;yonatangross/orchestkit;;A skill for creating scroll-driven animations that respond to user scrolling behavior on web pages.
+vant-vue3;teachingai/full-stack-skills;vant-vue3;Provides comprehensive guidance for Vant Vue 3 mobile component library including mobile components, themes, and best practices.
+web-reader;answerzhao/agent-skills;;Web page content extraction skill using z-ai-web-dev-sdk for scraping, article extraction, and metadata retrieval.
 firebase-hosting-basics;firebase/skills;main/skills/firebase-hosting-basics;Skill for deploying static web apps and SPAs using Firebase Hosting Classic. Not for Firebase App Hosting.
+framer-motion-animations;sgcarstrends/sgcarstrends;;A skill for creating smooth animations using Framer Motion in web applications.
+storybook-args-controls;thebushidocollective/han;storybook-args-controls;Configure interactive controls and args for Storybook stories to create dynamic, explorable component demonstrations with proper type constr
+storybook-configuration;thebushidocollective/han;storybook-configuration;Configure Storybook for projects including main config, addons, builders, and framework-specific setup.
+ln-114-frontend-docs-creator;levnikolaevich/claude-code-skills;;Creates design guidelines documentation for frontend projects with conditional worker invocation.
+scroll-driven-animations;yonatangross/orchestkit;;A skill for creating scroll-driven animations that respond to user scrolling behavior on web pages.
 og-image;stevysmith/og-image-skill;og-image;Generates Open Graph images and configures meta tags for social media sharing.
 react-flow-architecture;existential-birds/beagle;react-flow-architecture;Provides architectural guidance for building node-based UIs with React Flow.
 vue-router-v4;teachingai/full-stack-skills;vue-router-v4;A Vue Router v4 guide for Vue 3 applications including route config, navigation, and guards.
-nextjs-advanced-routing;wsimmonds/claude-nextjs-skills;;Guide for advanced Next.js App Router patterns including Route Handlers, Parallel Routes, Intercepting Routes, Server Actions, error boundar
 sveltekit-data-flow;spences10/svelte-skills-kit;sveltekit-data-flow;Guidance for SvelteKit data flow including load functions, form actions, and server/client data handling.
+nextjs-advanced-routing;wsimmonds/claude-nextjs-skills;;Guide for advanced Next.js App Router patterns including Route Handlers, Parallel Routes, Intercepting Routes, Server Actions, error boundar
 shadcn-ui;bobmatnyc/claude-mpm-skills;;A React component library with Tailwind CSS for accessible, copy-paste components.
-astro-framework;delineas/astro-framework-agents;astro-framework;A comprehensive guide for developing fast, content-driven websites using Astro's islands architecture and related features.
 nextjs;pproenca/dot-skills;.curated/nextjs;Optimization guidelines for Next.js 16 App Router performance.
+astro-framework;delineas/astro-framework-agents;astro-framework;A comprehensive guide for developing fast, content-driven websites using Astro's islands architecture and related features.
 webpack;teachingai/full-stack-skills;webpack;Comprehensive Webpack bundler guidance covering configuration, loaders, plugins, code splitting, optimization, and development setup.
 nextjs;teachingai/full-stack-skills;nextjs;Provides guidance for Next.js development using official documentation, covering concepts, configuration, routing, data fetching, and API re
 nextjs-server-client-components;wsimmonds/claude-nextjs-skills;;Guide for choosing between Server Components and Client Components in Next.js App Router, covering useSearchParams, navigation, cookies/head
 nextjs-client-cookie-pattern;wsimmonds/claude-nextjs-skills;;Pattern for client components calling server actions to set cookies in Next.js applications.
+responsive-patterns;yonatangross/orchestkit;responsive-patterns;Responsive design patterns using Container Queries, fluid typography, and mobile-first approach for React applications.
+tanstack-query;pproenca/dot-skills;.curated/tanstack-query;Optimizes TanStack Query v5 for data fetching, caching, and mutations.
 uview-pro-vue3;teachingai/full-stack-skills;uview-pro-vue3;Provides comprehensive guidance for uView Pro Vue 3 component library including components, tools, layouts, and templates for mobile-first U
 vite;teachingai/full-stack-skills;vite;Guidance for Vite setup, configuration, and plugin selection using official documentation.
 react-hooks;teachingai/full-stack-skills;react-hooks;Comprehensive guidance for React Hooks including useState, useEffect, useContext, useReducer, useMemo, useCallback, custom hooks, and hook p
 pwa-patterns;yonatangross/orchestkit;;Provides patterns and best practices for Progressive Web App development, focusing on architecture, performance, and user experience optimiz
 shadcn-patterns;yonatangross/orchestkit;;A skill for creating and managing UI patterns with shadcn, focusing on component-based design systems.
+zustand-patterns;yonatangross/orchestkit;zustand-patterns;Zustand 5.x state management with slices, middleware, Immer, useShallow, and persistence patterns for React applications.
 zalo-mini-app;suminhthanh/zalo-mini-app-skills;zalo-mini-app;Build Zalo Mini Apps with ZaUI components, APIs, and payment integration.
 css-styling-expert;cin12211/orca-q;css-expert;Expert in modern CSS architecture, responsive design, and CSS-in-JS optimization with focus on performance and accessibility.
 vuex-vue2;teachingai/full-stack-skills;vuex-vue2;Comprehensive guidance for Vuex 2.x state management in Vue 2 applications covering state, mutations, actions, getters, modules, and plugins
 tanstack-query-advanced;yonatangross/orchestkit;;Advanced TanStack Query techniques for optimized data fetching and state management in React applications.
-tanstack-query;pproenca/dot-skills;.curated/tanstack-query;Optimizes TanStack Query v5 for data fetching, caching, and mutations.
+gsap-fundamentals;bbeierle12/skill-mcp-claude;gsap-fundamentals;Learn core GSAP animation concepts like tweens, timelines, and easing functions for web animations.
 vue3;partme-ai/full-stack-skills;vue3;Provides guidance for Vue 3 development using official resources.
 dart-sass;teachingai/full-stack-skills;dart-sass;Provides comprehensive guidance for Dart Sass including Sass syntax, compilation, mixins, functions, and best practices.
 nextjs-server-navigation;wsimmonds/claude-nextjs-skills;;Guide for implementing navigation in Next.js Server Components using Link and redirect(). Covers server vs client navigation differences.
 nextjs-use-search-params-suspense;wsimmonds/claude-nextjs-skills;;Pattern for using useSearchParams hook with Suspense boundary in Next.js for client-side URL query parameter handling.
 nextjs-pathname-id-fetch;wsimmonds/claude-nextjs-skills;;Pattern for fetching data using URL parameters in Next.js, covering dynamic routes and server component data access.
-zustand-patterns;yonatangross/orchestkit;zustand-patterns;Zustand 5.x state management with slices, middleware, Immer, useShallow, and persistence patterns for React applications.
 react-flow-implementation;existential-birds/beagle;react-flow-implementation;A skill for implementing React Flow node-based UIs with @xyflow/react, covering nodes, edges, handles, and more.
 cypress;bobmatnyc/claude-mpm-skills;;Cypress testing patterns for web apps including reliable selectors, stable waits, and network stubbing.
 layui-vue3;teachingai/full-stack-skills;layui-vue3;Comprehensive guidance for Layui Vue component library including components, layer dialogs, and utilities for Vue 3 UI development.
@@ -606,93 +611,91 @@ framer-motion-animator;patricio0312rev/skills;main/frontend/framer-motion-animat
 wcag-compliance;yonatangross/orchestkit;;WCAG compliance skill for ensuring web accessibility standards are met in web development projects.
 api-design-patterns;bobmatnyc/claude-mpm-skills;;A comprehensive guide to API design patterns including REST, GraphQL, gRPC, versioning, and authentication.
 mapbox-integration-patterns;mapbox/mcp-devkit-server;mapbox-integration-patterns;Provides official Mapbox GL JS integration patterns for web frameworks including setup, lifecycle management, and token handling.
-responsive-patterns;yonatangross/orchestkit;responsive-patterns;Responsive design patterns using Container Queries, fluid typography, and mobile-first approach for React applications.
-nextjs16-skills;gocallum/nextjs16-agent-skills;;A skill for managing Next.js 16 projects with React and build tools.
-gsap-fundamentals;bbeierle12/skill-mcp-claude;gsap-fundamentals;Learn core GSAP animation concepts like tweens, timelines, and easing functions for web animations.
-frontend-react-router-best-practices;sergiodxa/agent-skills;frontend-react-router-best-practices;Best practices for React Router performance and architecture patterns.
 svelte5-best-practices;ejirocodes/agent-skills;svelte5-best-practices;Provides Svelte 5 best practices, runes, snippets, and SvelteKit patterns for TypeScript component development.
-clerk-nextjs-skills;gocallum/nextjs16-agent-skills;clerk-nextjs-skills;Set up Clerk authentication for Next.js 16 with proxy.ts and middleware.ts migration.
+nextjs16-skills;gocallum/nextjs16-agent-skills;;A skill for managing Next.js 16 projects with React and build tools.
 svelte-components;spences10/svelte-skills-kit;svelte-components;A skill for creating Svelte component patterns and libraries.
-tailwindcss-responsive-darkmode;josiahsiegel/claude-plugin-marketplace;tailwindcss-responsive-darkmode;Implement responsive design and dark mode with Tailwind CSS for modern web applications.
+frontend-react-router-best-practices;sergiodxa/agent-skills;frontend-react-router-best-practices;Best practices for React Router performance and architecture patterns.
+clerk-nextjs-skills;gocallum/nextjs16-agent-skills;clerk-nextjs-skills;Set up Clerk authentication for Next.js 16 with proxy.ts and middleware.ts migration.
 chrome-ext;pproenca/dot-skills;;A skill for managing Chrome extensions.
+tailwindcss-responsive-darkmode;josiahsiegel/claude-plugin-marketplace;tailwindcss-responsive-darkmode;Implement responsive design and dark mode with Tailwind CSS for modern web applications.
 tailwindcss-fundamentals-v4;josiahsiegel/claude-plugin-marketplace;tailwindcss-fundamentals-v4;Learn Tailwind CSS v4 fundamentals including installation, configuration, and modern best practices.
+chat-ui;inference-sh-2/skills;main/skills/chat-ui;A UI component for chat interfaces
 frontend-engineer;siviter-xyz/dot-agent;frontend-engineer;A frontend development guide for React/TypeScript apps with modern patterns and best practices.
 frontend-react-best-practices;sergiodxa/agent-skills;frontend-react-best-practices;Provides React performance optimization guidelines for writing, reviewing, and refactoring React components.
 shadcn-ui;existential-birds/beagle;shadcn-ui;A skill for creating UI components using shadcn/ui patterns with Radix primitives and Tailwind styling.
 nextjs-expert;cin12211/orca-q;nextjs-expert;Next.js framework expert for App Router, Server Components, performance optimization, and full-stack development with focus on routing, hydr
-chat-ui;inference-sh-2/skills;main/skills/chat-ui;A UI component for chat interfaces
 react-vite-best-practices;asyrafhussin/agent-skills;react-vite-best-practices;Provides performance optimization guidelines for React and Vite applications.
-tanstack-integration-best-practices;deckardger/tanstack-agent-skills;tanstack-integration;Best practices for integrating TanStack Query, Router, and Start for full-stack data flow and SSR.
 docusaurus;anton-abyzov/specweave;docusaurus;A Docusaurus 3.x documentation framework for MDX authoring, theming, versioning, and i18n.
+tanstack-integration-best-practices;deckardger/tanstack-agent-skills;tanstack-integration;Best practices for integrating TanStack Query, Router, and Start for full-stack data flow and SSR.
+frontend;anton-abyzov/specweave;frontend;Frontend developer for React, Vue, Angular, TypeScript. Components, hooks, state management, responsive UIs, accessibility.
 pwa-expert;erichowens/some_claude_skills;pwa-expert;Develop Progressive Web Apps with service workers, offline support, and app-like behavior.
 apify;vm0-ai/vm0-skills;;A web scraping and automation platform with pre-built Actors for common tasks.
-landing-page-optimizer;eddiebe147/claude-settings;;Optimizes landing pages for better conversion rates and performance
-frontend;anton-abyzov/specweave;frontend;Frontend developer for React, Vue, Angular, TypeScript. Components, hooks, state management, responsive UIs, accessibility.
 widgets-ui;inference-sh-2/skills;main/skills/widgets-ui;A UI skill for creating and managing widgets for web applications and dashboards.
+landing-page-optimizer;eddiebe147/claude-settings;;Optimizes landing pages for better conversion rates and performance
 nextjs-shadcn-builder;ovachiever/droid-tings;nextjs-shadcn-builder;A skill for building or migrating frontend applications to Next.js with shadcn/ui integration.
+mui-base;pproenca/dot-skills;.curated/mui-base;A skill for building unstyled UI components and component libraries with MUI Base UI guidelines.
 mapbox-web-performance-patterns;mapbox/mapbox-agent-skills;mapbox-web-performance-patterns;Performance optimization patterns for Mapbox GL JS web applications covering initialization, bundle size, rendering, memory management.
 express-production;bobmatnyc/claude-mpm-skills;;A production-ready Express.js development skill focusing on middleware, error handling, security, testing, and deployment.
-mui-base;pproenca/dot-skills;.curated/mui-base;A skill for building unstyled UI components and component libraries with MUI Base UI guidelines.
 mapbox-style-patterns;mapbox/mapbox-agent-skills;mapbox-style-patterns;Provides common style patterns and layer configurations for typical mapping scenarios including restaurant finders, real estate, and logisti
+stripe-connect;anton-abyzov/specweave;;A skill for integrating Stripe Connect functionality.
 hono-middleware;bobmatnyc/claude-mpm-skills;;Hono middleware patterns for web application development.
 symfony:twig-components;makfly/superpowers-symfony;twig-components;A skill for using Symfony Twig components.
 ruanyifeng-weekly-skill;dophinl/ruanyifeng-weekly-skill;;Searches Ruan Yifeng's tech weekly GitHub issues for tools and resources.
-stripe-connect;anton-abyzov/specweave;;A skill for integrating Stripe Connect functionality.
 wordpress-performance-best-practices;bartekmis/wordpress-performance-best-practises;;Optimize WordPress performance with best practices for plugins, themes, and custom code.
+frontend-designer;jamesrochabrun/skills;main/skills/frontend-designer;Create accessible and responsive frontend components using design systems and modern CSS.
 accessibility-audit;webflow/webflow-skills;accessibility-audit;Audits Webflow pages for WCAG 2.1 compliance, checking UI elements and generating detailed reports.
 landing-page-vercel;shipshitdev/library;landing-page-vercel;Create a production-ready static landing page with email capture, analytics, and responsive design for Vercel deployment.
 symfony:api-platform-resources;makfly/superpowers-symfony;api-platform-resources;A skill for working with Symfony API Platform resources.
+agent-ui;inference-sh-2/skills;main/skills/agent-ui;Agent UI skill for creating user interfaces for AI agents and web applications
 symfony:api-platform-security;makfly/superpowers-symfony;api-platform-security;A skill for handling Symfony API Platform security configurations.
 symfony:using-symfony-superpowers;makfly/superpowers-symfony;using-symfony-superpowers;A skill for leveraging Symfony's advanced features and capabilities.
 symfony:symfony-voters;makfly/superpowers-symfony;symfony-voters;A Symfony voter skill for handling authorization checks.
 hono-core;bobmatnyc/claude-mpm-skills;;A fast web framework fundamentals skill for routing, context, handlers, and response patterns.
 sveltekit;bobmatnyc/claude-mpm-skills;;A full-stack Svelte framework with file-based routing, SSR/SSG, and deployment adapters.
-frontend-designer;jamesrochabrun/skills;main/skills/frontend-designer;Create accessible and responsive frontend components using design systems and modern CSS.
 symfony:rate-limiting;makfly/superpowers-symfony;rate-limiting;A Symfony skill for implementing rate limiting to control API request frequency.
 symfony:api-platform-versioning;makfly/superpowers-symfony;api-platform-versioning;A skill for handling Symfony API Platform versioning.
 symfony:api-platform-filters;makfly/superpowers-symfony;api-platform-filters;A skill for using Symfony API Platform filters.
 symfony:e2e-panther-playwright;makfly/superpowers-symfony;e2e-panther-playwright;A skill for end-to-end testing Symfony applications using Panther and Playwright.
 mapbox-web-integration-patterns;mapbox/mapbox-agent-skills;mapbox-web-integration-patterns;Official integration patterns for Mapbox GL JS across popular web frameworks. Covers setup, lifecycle management, token handling, search int
-agent-ui;inference-sh-2/skills;main/skills/agent-ui;Agent UI skill for creating user interfaces for AI agents and web applications
 web-accessibility;supercent-io/skills-template;;Implement web accessibility standards per WCAG 2.1 guidelines for UI development and compliance.
 gluestack-ui-v4;gluestack/agent-skills;gluestack-ui-v4;Enforces constrained styling patterns for GlueStack UI v4 with coordinated sub-skills.
+motion;secondsky/claude-skills;motion;Motion (Framer Motion) React animation library for drag-and-drop, scroll animations, gestures, and SVG morphing with error handling.
+youtube-full;zeropointrepo/youtube-skills;youtube-full;Complete YouTube toolkit for transcripts, search, channels, playlists, and metadata. All-in-one YouTube skill for agents.
 crawl-url;tavily-ai/tavily-plugins;;A skill for crawling URLs to extract data from web pages.
 wordpress-advanced-architecture;bobmatnyc/claude-mpm-skills;;Advanced WordPress development with REST API, WP-CLI, and performance optimization.
-motion;secondsky/claude-skills;motion;Motion (Framer Motion) React animation library for drag-and-drop, scroll animations, gestures, and SVG morphing with error handling.
-shadertoy;bfollington/terma;shadertoy;A skill for working with Shadertoy shaders, GLSL fragment shaders, and procedural graphics for the web. Provides GLSL ES syntax reference an
-youtube-full;zeropointrepo/youtube-skills;youtube-full;Complete YouTube toolkit for transcripts, search, channels, playlists, and metadata. All-in-one YouTube skill for agents.
 layerchart-svelte5;spences10/svelte-skills-kit;layerchart-svelte5;A Svelte 5 component library for creating charts with tooltips, gradients, and axis support.
+tanstack-integration;dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations;tanstack-integration;Improve web app code using TanStack libraries with analysis and best practices.
+shadertoy;bfollington/terma;shadertoy;A skill for working with Shadertoy shaders, GLSL fragment shaders, and procedural graphics for the web. Provides GLSL ES syntax reference an
+chat-ui;inference-sh/skills;main/skills/chat-ui;A UI component for chat interfaces
+widgets-ui;inference-sh/skills;main/skills/widgets-ui;A UI skill for creating and managing widgets for web applications and dashboards.
 web-scraping-automation;aaaaqwq/claude-code-skills;data-scraping/web-scraping-automation;Automatically scrape website data and APIs for content extraction and data processing.
 tailwindcss-accessibility;josiahsiegel/claude-plugin-marketplace;tailwindcss-accessibility;A Tailwind CSS skill focused on accessibility patterns including WCAG 2.2 compliance, touch targets, focus management, and ARIA support.
+uniwind-best-practices;pproenca/dot-skills;;Best practices for using Uniwind, a utility-first CSS framework similar to Tailwind CSS for rapid UI development.
 serpapi;vm0-ai/vm0-skills;;SerpApi search engine results API via curl for scraping Google, Bing, YouTube, and other search engines.
 express-rest-api;pluginagentmarketplace/custom-plugin-nodejs;express-rest-api;Build production-ready RESTful APIs with Express.js including routing, middleware, validation, and error handling.
 nextjs-project-manager;eddiebe147/claude-settings;;A skill for managing Next.js 14+ projects with App Router, including features, routing, and debugging.
 playwright-visual-testing;manutej/luxor-claude-marketplace;playwright-visual-testing;Automate browser testing and validate visuals with Playwright MCP server for web development.
 google-flights;andrejones92/canifi-life-os;;Search flights, track prices, explore destinations, and find travel deals using Google Flights.
-uniwind-best-practices;pproenca/dot-skills;;Best practices for using Uniwind, a utility-first CSS framework similar to Tailwind CSS for rapid UI development.
-chat-ui;inference-sh/skills;main/skills/chat-ui;A UI component for chat interfaces
-widgets-ui;inference-sh/skills;main/skills/widgets-ui;A UI skill for creating and managing widgets for web applications and dashboards.
 payload-cms;connorads/dotfiles;payload-cms;A skill for working with Payload CMS projects, including config files, collections, fields, hooks, and access control.
 ui-builder;eddiebe147/claude-settings;;A guide for building beautiful, responsive UI with React, Tailwind CSS, and Shadcn/ui.
 hono-rpc;bobmatnyc/claude-mpm-skills;;Generate type-safe API clients with Hono RPC and TypeScript inference.
 video-downloader;skillcreatorai/awesome-agent-skills;;A skill to download videos from YouTube and other platforms for offline use.
 webgl;martinholovsky/claude-skills-generator;webgl;A WebGL shader skill for creating 3D effects in JARVIS 3D HUD.
-tanstack-integration;dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations;tanstack-integration;Improve web app code using TanStack libraries with analysis and best practices.
+zustand;pproenca/dot-skills;.experimental/zustand;Zustand state management best practices for React applications. Ensures optimal performance and maintainability of Zustand stores.
 browserless;vm0-ai/vm0-skills;;Headless browser as a service for screenshots, PDFs, scraping, and automation
 wordpress-block-editor-fse;bobmatnyc/claude-mpm-skills;;Develop modern WordPress blocks and Full Site Editing with theme.json and custom blocks.
 mcp-duckgo;aahl/skills;main/skills/mcp-duckgo;Skills for web search and content scraping via DuckDuckGo MCP Server for online searching and web scraping tasks.
 cloudinary;vm0-ai/vm0-skills;;Upload images and videos to Cloudinary with CDN delivery and transformations for media hosting, optimization, resizing, format conversion, a
 astroflare;siviter-xyz/dot-agent;astroflare;Deploy Astro projects with Tailwind CSS to Cloudflare Workers.
-zustand;pproenca/dot-skills;.experimental/zustand;Zustand state management best practices for React applications. Ensures optimal performance and maintainability of Zustand stores.
+svelte-deployment;spences10/svelte-skills-kit;svelte-deployment;Guidance for deploying Svelte applications with adapters, Vite config, and pnpm setup.
 strapi-expert;ayhid/claude-skill-strapi-expert;;Strapi v5 plugin development expert for building, refactoring, and managing plugins, custom APIs, admin panel extensions, and CMS architectu
 nextjs-seo;laguagu/claude-code-nextjs-skills;nextjs-seo;Next.js SEO optimization guide covering search engine optimization, Google indexing, metadata, sitemaps, robots.txt, JSON-LD and SEO auditin
-svelte-deployment;spences10/svelte-skills-kit;svelte-deployment;Guidance for deploying Svelte applications with adapters, Vite config, and pnpm setup.
+vite;pproenca/dot-skills;.experimental/vite;Vite performance optimization guidelines for configuration, build optimization, dependency pre-bundling, plugin development, and HMR issues.
 data-viz-2025;erichowens/some_claude_skills;data-viz-2025;State-of-the-art data visualization for React/Next.js/TypeScript with Tailwind CSS. Creates compelling, tested, and accessible visualization
 mapbox-style-quality;mapbox/mcp-devkit-server;mapbox-style-quality;Expert guidance on validating, optimizing, and ensuring quality of Mapbox styles through validation, accessibility checks, and optimization.
 frontend-prime;esramulkpinar/prime-frontend-skills;frontend-prime;Build distinctive, production-grade frontend interfaces for web UI, sites, apps, and dashboards with focus on design quality.
 wordpress-master;404kidwiz/claude-supercode-skills;;A skill for WordPress development, theme/plugin creation, site optimization, security hardening, multisite management, and scaling.
 websocket;martinholovsky/claude-skills-generator;websocket;Enables real-time bidirectional communication with security features for CSWSH prevention, authentication, and message validation.
-vite;pproenca/dot-skills;.experimental/vite;Vite performance optimization guidelines for configuration, build optimization, dependency pre-bundling, plugin development, and HMR issues.
 mcp-vods;aahl/skills;main/skills/mcp-vods;A skill for searching and playing video content like movies, anime, short plays, and variety shows, supporting direct playback on Xiaomi TV.
 firecrawl;vm0-ai/vm0-skills;;Firecrawl web scraping API via curl for webpage scraping, website crawling, URL discovery, web search, and structured data extraction.
 starwards-pixijs;starwards/starwards;starwards-pixijs;PixiJS v8 patterns for Starwards - Containers, Sprites, Graphics, Textures, ticker integration, event handling, and testing with Playwright
@@ -702,6 +705,7 @@ hono-validation;bobmatnyc/claude-mpm-skills;;Validate Hono requests with Zod, Ty
 tailwindcss-framework-integration;josiahsiegel/claude-plugin-marketplace;tailwindcss-framework-integration;A guide for integrating Tailwind CSS with React, Vue, and Next.js frameworks.
 revealjs;kziemski/revealjs-skill;;Create reveal.js slides with themes, layouts, code highlighting, and animations.
 hackernews;vm0-ai/vm0-skills;;Hacker News API via curl for fetching top stories, new posts, comments, and user profiles
+framer-motion;pproenca/dot-skills;.experimental/framer-motion;Framer Motion performance optimization guidelines for React animations, covering motion components, gestures, transitions, and SVG animation
 webhook-integration;dodopayments/skills;main/dodo-payments/webhook-integration;A guide for setting up and handling Dodo Payments webhooks for real-time payment notifications.
 supabase-detect;yoanbernabeu/supabase-pentest-skills;detection/supabase-detect;Detects if a web app uses Supabase by analyzing client-side code and API endpoints.
 ui-component-patterns;supercent-io/skills-template;;Create reusable UI components using modern design patterns and best practices for scalable frontend development.
@@ -709,15 +713,15 @@ fastapi-microservices-development;manutej/luxor-claude-marketplace;fastapi-micro
 form-builder;eddiebe147/claude-settings;;Create fillable forms, surveys, and interactive documents with validation and data collection.
 react-best-practices;dedalus-erp-pas/foundation-skills;react-best-practices;A comprehensive guide for React and Next.js best practices including performance, component architecture, and modern patterns.
 angular-development;manutej/luxor-claude-marketplace;angular-development;A comprehensive Angular framework development skill covering components, directives, services, and more.
+pwa-development;jwynia/agent-skills;tech/frontend/pwa/pwa-development;Implement Progressive Web App features for React and Svelte projects with offline support, service workers, and installable web apps using W
 reactive-dashboard-performance;erichowens/some_claude_skills;reactive-dashboard-performance;Expert in building blazing-fast reactive dashboards with comprehensive testing. Masters React performance patterns, testing strategies for a
 chatwoot;vm0-ai/vm0-skills;;Chatwoot customer support API via curl for managing contacts, conversations, and messages across multiple channels.
-framer-motion;pproenca/dot-skills;.experimental/framer-motion;Framer Motion performance optimization guidelines for React animations, covering motion components, gestures, transitions, and SVG animation
 checkout-integration;dodopayments/skills;main/dodo-payments/checkout-integration;A guide for creating checkout sessions and payment flows with Dodo Payments.
-pwa-development;jwynia/agent-skills;tech/frontend/pwa/pwa-development;Implement Progressive Web App features for React and Svelte projects with offline support, service workers, and installable web apps using W
 admin-dashboard;erichowens/some_claude_skills;admin-dashboard;Extend and modify admin dashboards, developer portals, and operations consoles with new tabs, metrics, and internal tools.
 axum;bobmatnyc/claude-mpm-skills;;A Rust web framework skill for building production APIs with routers, extractors, state management, middleware, error handling, tracing, gra
 form-validation-architect;erichowens/some_claude_skills;form-validation-architect;End-to-end form handling with react-hook-form, Zod schemas, validation patterns, error messaging, field arrays, and multi-step wizards.
 stripe-subscriptions;andrelandgraf/fullstackrecipes;stripe-subscriptions;A complete subscription billing system with Stripe integration, feature flags, webhooks, and billing portal.
+gsap-sequencing;bbeierle12/skill-mcp-claude;gsap-sequencing;Orchestrate complex multi-step animations with GSAP timelines, labels, callbacks, and nested sequences for cinematic UI choreography.
 nextjs-v16;bobmatnyc/claude-mpm-skills;;A guide for migrating to Next.js 16 with async APIs and Turbopack.
 software-frontend;vasilyu1983/ai-agents-public;software-frontend;A production-grade frontend engineering skill for modern web frameworks like React, Vue, Angular, Svelte, and more.
 vue;bobmatnyc/claude-mpm-skills;;A Vue 3 progressive JavaScript framework with Composition API and reactivity system.
@@ -727,24 +731,23 @@ web-performance-optimization;bobmatnyc/claude-mpm-skills;;Optimize web performan
 web-wave-designer;erichowens/some_claude_skills;web-wave-designer;Creates realistic ocean and water wave effects for web using SVG filters, CSS animations, and layering techniques.
 laravel-inertia-react;asyrafhussin/agent-skills;laravel-inertia-react;A skill for integrating Laravel with Inertia.js and React for building modern web applications.
 web-audio-api;martinholovsky/claude-skills-generator;web-audio-api;A skill for utilizing the Web Audio API to enable audio feedback and voice processing in JARVIS.
-gsap-sequencing;bbeierle12/skill-mcp-claude;gsap-sequencing;Orchestrate complex multi-step animations with GSAP timelines, labels, callbacks, and nested sequences for cinematic UI choreography.
 cms-best-practices;webflow/webflow-skills;cms-best-practices;Provides expert guidance on Webflow CMS architecture and best practices for collections, relationships, and content structure.
 hono-testing;bobmatnyc/claude-mpm-skills;;A testing skill for Hono, a lightweight web framework.
 tanstack-query;bobmatnyc/claude-mpm-skills;;A skill for managing asynchronous server state in React apps using TanStack Query with caching and pagination.
+react-spectrum-s2;adobe/com;;React Spectrum S2: A comprehensive design system and component library for building consistent, accessible React applications with modern UI
 seo-visibility-expert;erichowens/some_claude_skills;seo-visibility-expert;Comprehensive SEO expert for web projects including technical audits, robots.txt setup, schema markup, and launch strategies.
 late-api;getlate-dev/late-api;;A skill for scheduling posts across 13 social media platforms using the Late API.
+wordpress-publisher;aviz85/claude-skills-library;wordpress-publisher;A skill to publish blog posts to WordPress.
+threejs-graphics-optimizer;ovachiever/droid-tings;threejs-graphics-optimizer;Optimizes THREE.js graphics performance with mobile-first strategies and memory management.
 link-checker;webflow/webflow-skills;link-checker;Check for broken or insecure links across a website to improve SEO and user experience.
 capacitor-performance;cap-go/capacitor-skills;capacitor-performance;Optimize Capacitor app performance with guidance on bundle size, rendering, memory, and profiling.
 mapbox-style-quality;mapbox/mapbox-agent-skills;mapbox-style-quality;Expert guidance on validating, optimizing, and ensuring quality of Mapbox styles through validation, accessibility checks, and optimization.
 large-scale-map-visualization;erichowens/some_claude_skills;large-scale-map-visualization;High-performance web map implementation for large-scale geographic data visualization with advanced optimization techniques.
 nextjs;timelessco/recollect;nextjs;Guide for implementing Next.js - a React framework for production with server-side rendering, static generation, and modern web features.
 nuxt-best-practices;vinayakkulkarni/vue-nuxt-best-practices;nuxt-best-practices;Nuxt 3/4 performance optimization and architecture guidelines for building fast, maintainable full-stack applications with optimal patterns.
-wordpress-publisher;aviz85/claude-skills-library;wordpress-publisher;A skill to publish blog posts to WordPress.
 vue-nuxt;martinholovsky/claude-skills-generator;vue-nuxt;A Vue 3 and Nuxt 3 skill for building secure AI assistant UIs.
 fastapi-expert;martinholovsky/claude-skills-generator;fastapi-expert;A FastAPI expert skill for building secure, high-performance async REST APIs with Pydantic v2 and OAuth2/JWT authentication.
 tailwindcss-performance;josiahsiegel/claude-plugin-marketplace;tailwindcss-performance;Optimize Tailwind CSS performance with v4 improvements and best practices.
-threejs-graphics-optimizer;ovachiever/droid-tings;threejs-graphics-optimizer;Optimizes THREE.js graphics performance with mobile-first strategies and memory management.
-react-spectrum-s2;adobe/com;;React Spectrum S2: A comprehensive design system and component library for building consistent, accessible React applications with modern UI
 og-image-generation;andrelandgraf/fullstackrecipes;og-image-generation;Generate dynamic social preview images with Next.js and the next/og library.
 shadcn-components;sgcarstrends/sgcarstrends;shadcn-components;Add or customize shadcn/ui components in a shared UI package using Tailwind for styling.
 flask;bobmatnyc/claude-mpm-skills;;A lightweight Python web framework for building microservices and REST APIs.
@@ -758,6 +761,7 @@ shadcn-vue;noartem/laravel-vue-skills;shadcn-vue;A Vue/Nuxt component library wi
 frontend-builder;daffy0208/ai-dev-standards;frontend-builder;Build modern React/Next.js frontends with Tailwind CSS and component patterns.
 html-style;shipshitdev/library;html-style;Apply consistent styling to plain HTML with tables, lists, and buttons.
 shadcn-setup;shipshitdev/library;shadcn-setup;Set up shadcn/ui with Tailwind CSS v4 for Next.js/React projects.
+threejs-3d-graphics;omer-metin/skills-for-antigravity;threejs-3d-graphics;A skill for creating 3D graphics using Three.js and WebGL with shader support.
 fastapi;martinholovsky/claude-skills-generator;fastapi;Build secure, high-performance REST APIs and WebSockets with FastAPI.
 phoenix-liveview;bobmatnyc/claude-mpm-skills;;A Phoenix Framework skill with LiveView for BEAM platform development.
 zustand;bobmatnyc/claude-mpm-skills;;A minimal React state management library with a simple hook-based API and no providers.
@@ -772,8 +776,8 @@ mercadopago-integration;martinacostadev/mercadopago-integration;;Integrate Merca
 ecommerce-seo-audit;affilino/ecommerce-seo-audit-skill;;Comprehensive ecommerce SEO audit for product pages, collection pages, technical SEO, log file analysis, and competitor research.
 remotion-animation;ncklrs/startup-os-skills;remotion-animation;Generates animation configurations for Remotion including spring configs, interpolations, easing functions, and timing logic.
 gsap-awwwards-website;eng0ai/eng0-template-skills;;A product landing page with GSAP scroll animations, React 19, and Tailwind CSS 4.
-threejs-3d-graphics;omer-metin/skills-for-antigravity;threejs-3d-graphics;A skill for creating 3D graphics using Three.js and WebGL with shader support.
 accelint-nextjs-best-practices;gohypergiant/agent-skills;accelint-nextjs-best-practices;Next.js performance optimization and best practices for App Router, Pages Router, Server Components, Server Actions, API routes, and more.
+searxng-search;ypares/agent-skills;;Enhanced web and package repository search using local SearXNG instance
 web3-frontend;pluginagentmarketplace/custom-plugin-blockchain;web3-frontend;Master Web3 frontend development with wallet integration and dApp UX.
 nextjs-env-variables;bobmatnyc/claude-mpm-skills;;Manage Next.js environment variables with file precedence and deployment configs.
 phoenix-api-channels;bobmatnyc/claude-mpm-skills;;A Phoenix-based backend skill for building controllers, JSON APIs, Channels, and Presence using the BEAM platform.
@@ -787,7 +791,6 @@ nextjs-validator;shipshitdev/library;nextjs-validator;Validating Next.js 16 conf
 webapp-testing-patterns;bobmatnyc/claude-mpm-skills;;Comprehensive web app testing patterns using Playwright for selectors, waits, and best practices.
 svelte;bobmatnyc/claude-mpm-skills;;A Svelte 5 skill with reactive UI, Runes API, and SvelteKit full-stack framework support.
 auth0-react;auth0/agent-skills;auth0-react;Authentication integration for React apps using Auth0 SDK with login, logout, user sessions, and protected routes.
-searxng-search;ypares/agent-skills;;Enhanced web and package repository search using local SearXNG instance
 shopify-theme-dev;henkisdabro/wookstar-claude-code-plugins;;Shopify theme development tool for creating and managing custom themes
 chrome-extension-development;mindrally/skills;main/chrome-extension-development;Expert guidelines for Chrome extension development with Manifest V3, covering security, performance, and best practices.
 wix-cli-dashboard-modal;wix/skills;master/wix-cli/skills/wix-cli-dashboard-modal;Create reusable dialog components for Wix dashboards with popup forms and overlays.
@@ -799,7 +802,4 @@ headlessui;bobmatnyc/claude-mpm-skills;;A headless UI component library for Reac
 hono-jsx;bobmatnyc/claude-mpm-skills;;A Hono JSX skill for server-side rendering, streaming, and HTML generation.
 django-framework;bobmatnyc/claude-mpm-skills;;A Django web framework skill for building Python applications with ORM, admin, and auth features.
 vercel-functions-runtime;bobmatnyc/claude-mpm-skills;;A skill for deploying and managing Vercel Functions and Edge Runtime, including cron jobs and middleware.
-ahrefs;andrejones92/canifi-life-os;;Research backlinks and SEO using Ahrefs' toolkit.
-react-three-fiber;anthemflynn/ccmp;react-three-fiber;Build 3D applications with React Three Fiber (R3F), using declarative JSX for 3D objects and integrating Three.js with React state/lifecycle
-webflow;andrejones92/canifi-life-os;;Webflow skill for web development and UI design with design systems
-cms-collection-setup;webflow/webflow-skills;cms-collection-setup;Create new CMS collections in Webflow with specified fields and relationships for blogs, products, team members, portfolios, etc.
+anthropics-webapp-testing;smithery/ai;;Web application testing for Anthropic platform

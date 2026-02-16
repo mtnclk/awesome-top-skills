@@ -5,4 +5,4 @@
 
 | Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
 | - | - | - | -: | -: | - | - |
-| [qa-lead](https://github.com/anton-abyzov/specweave) | [anton-abyzov/specweave](https://github.com/anton-abyzov/specweave) | QA Lead skill for quality assurance leadership and team management | 56 | 21 | 2026-02-15 | [lead-generation](../../../tags/lead-generation.md), [management](../../../tags/management.md), [sales](../../../tags/sales.md), [marketing](../../../tags/marketing.md) |
+| [qa-lead](https://github.com/anton-abyzov/specweave) | [anton-abyzov/specweave](https://github.com/anton-abyzov/specweave) | QA Lead skill for quality assurance leadership and team management | 57 | 21 | 2026-02-16 | [lead-generation](../../../tags/lead-generation.md), [management](../../../tags/management.md), [sales](../../../tags/sales.md), [marketing](../../../tags/marketing.md) |
