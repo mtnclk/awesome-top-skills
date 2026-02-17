@@ -1,26 +1,27 @@
 {
-  "generated_at": "2026-02-16T04:56:43.901Z",
+  "generated_at": "2026-02-17T05:53:43.724Z",
   "input": "/home/runner/work/skills-crawler/skills-crawler/awesome-project/data/enriched_skills.v2.normalized.jsonl",
   "stats": {
-    "read_lines": 8656,
-    "kept": 8656,
+    "read_lines": 8946,
+    "kept": 8946,
     "invalid_json_lines": 0,
-    "unique_tags": 2372,
+    "unique_tags": 2373,
     "categories": {
-      "ai-llm": 1860,
-      "dev": 2213,
-      "web": 1018,
-      "devops": 766,
-      "data": 508,
-      "research": 254,
-      "security": 382,
-      "productivity": 372,
-      "design": 378,
-      "product": 159,
-      "business": 504,
-      "other": 242
+      "ai-llm": 1883,
+      "dev": 2230,
+      "web": 1023,
+      "devops": 773,
+      "data": 515,
+      "research": 256,
+      "security": 385,
+      "productivity": 379,
+      "design": 379,
+      "product": 160,
+      "business": 509,
+      "other": 243,
+      "pending": 211
     },
-    "tag_pages_generated": 1515
+    "tag_pages_generated": 1521
   },
   "i18n": {
     "zh_dict": "i18n/zh.json",

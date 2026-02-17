@@ -49,8 +49,8 @@ capa-officer;alirezarezvani/claude-skills;;Manage CAPA systems for medical devic
 quality-manager-qms-iso13485;alirezarezvani/claude-skills;;A skill for implementing and maintaining an ISO 13485 Quality Management System tailored for medical device organizations.
 quality-manager-qmr;alirezarezvani/claude-skills;;A senior quality manager responsible for healthtech and medtech companies, ensuring ISO 13485 compliance and quality system governance.
 domain-fintech;zhanghandong/rust-skills;domain-fintech;A skill template for building fintech applications with focus on financial operations and transactions.
-domain-name-brainstormer;skillcreatorai/ai-agent-skills;domain-name-brainstormer;Generates and checks domain name ideas across multiple TLDs.
 ui-skills;ibelick/ui-skills;;A skill for creating and managing UI components and frontend interfaces.
+domain-name-brainstormer;skillcreatorai/ai-agent-skills;domain-name-brainstormer;Generates and checks domain name ideas across multiple TLDs.
 videocut:å‰ªå£æ’­;ceeon/videocut-skills;;A skill for video cutting and audio editing.
 videocut:å­—å¹•;ceeon/videocut-skills;;A skill for video and audio editing tasks.
 videocut:å®‰è£…;ceeon/videocut-skills;;A skill for installing video cutting tools.
@@ -58,18 +58,19 @@ zapper;bankrbot/openclaw-skills;;Placeholder for Zapper skill.
 base;bankrbot/openclaw-skills;;Placeholder for Base skill template.
 docs-cleaner;daymade/claude-code-skills;;Cleans and consolidates redundant documentation while preserving valuable content.
 skill-name;resciencelab/opc-skills;;Template for creating clear skill descriptions with trigger keywords and usage contexts.
-style-guide;daleseo/korean-skills;style-guide;A style guide checker that ensures consistent writing styles and terminology across documents and projects.
 engineering-culture;refoundai/lenny-skills;engineering-culture;Build strong engineering culture by improving developer experience and technical excellence.
+style-guide;daleseo/korean-skills;style-guide;A style guide checker that ensures consistent writing styles and terminology across documents and projects.
 projects;railwayapp/railway-skills;projects;Manage projects including listing, switching, renaming, enabling/disabling PR deploys, and modifying settings.
+day1-test-skill;ai-native-camp/camp-1;;A placeholder skill designed for initial system testing and onboarding verification workflows.
 mobile-offline-support;aj-geddes/useful-ai-prompts;mobile-offline-support;Implement offline-first mobile apps with local storage and sync strategies.
 root-cause-analysis;aj-geddes/useful-ai-prompts;root-cause-analysis;Conduct systematic root cause analysis to identify underlying problems and prevent recurrence.
 user-guide-creation;aj-geddes/useful-ai-prompts;user-guide-creation;Create comprehensive user guides, tutorials, and step-by-step instructions with examples and screenshots.
+shared;boshu2/agentops;shared;Shared reference documents for distributed mode skills that are not directly invocable.
 project-estimation;aj-geddes/useful-ai-prompts;project-estimation;Estimates project scope, timeline, and resources using various estimation techniques.
 gap-analysis;aj-geddes/useful-ai-prompts;gap-analysis;Identify gaps between current and desired states to plan improvements.
 troubleshooting-guide;aj-geddes/useful-ai-prompts;troubleshooting-guide;Create comprehensive troubleshooting guides, FAQ documents, known issues lists, and debug guides for common problems and error messages.
 kapso-ops;gokapso/agent-skills;;A tool for managing operations and configurations.
 risk-assessment;aj-geddes/useful-ai-prompts;risk-assessment;Assess and prioritize project risks using qualitative and quantitative methods to improve success probability.
-day1-test-skill;ai-native-camp/camp-1;day1-test-skill;Day 1 Skill for testing experience. Used with "/day1-test-skill" and "test skill" requests.
 mystery-novel-conventions;wordflowlab/novel-writer-skills;genre-knowledge/mystery;A skill for generating mystery novel conventions, clue placement, and fair play principles.
 scene-structure-techniques;wordflowlab/novel-writer-skills;writing-techniques/scene-structure;A skill for structuring scenes and planning chapter content with frameworks for tension and beat-by-beat structure.
 viral-hook-creator;ognjengt/founder-skills;viral-hook-creator;Creates viral social media hooks using proven psychological patterns and trigger words for attention-grabbing content openings.
@@ -79,23 +80,23 @@ technical-writing;supercent-io/skills-template;;Create clear and comprehensive t
 course-creator;eddiebe147/claude-settings;;Design educational courses and curriculum with learning objectives and assessments.
 intent-story;arcblock/idd;intent-story;Share Intent-Driven Development stories through structured interviews and blog posts.
 compliance-checker;eddiebe147/claude-settings;;A skill to check regulatory compliance across finance, tax, employment, data privacy, and industry-specific requirements.
+tutorial-docs;existential-birds/beagle;tutorial-docs;A tutorial pattern for documentation that teaches through guided practice.
 community-manager;eddiebe147/claude-settings;;Manage online communities with engagement strategies, moderation, and relationship building.
 risk-assessor;eddiebe147/claude-settings;;Assesses project risks using systematic frameworks for identification, analysis, and mitigation.
-tutorial-docs;existential-birds/beagle;tutorial-docs;A tutorial pattern for documentation that teaches through guided practice.
 workshop-facilitator;eddiebe147/claude-settings;;Design and facilitate effective workshops with agendas, activities, and outcomes.
 competency-builder;jwynia/agent-skills;general/education/competency;Guide competency framework development and operation for training capability building.
 character-arc;jwynia/agent-skills;creative/fiction/character/character-arc;Design and troubleshoot character transformation arcs for positive, negative, and flat character development in storytelling.
-user-guide-writing;supercent-io/skills-template;;Create clear and helpful user guides and tutorials for end users.
-key-moments;jwynia/agent-skills;creative/fiction/structure/key-moments;Structure stories around essential emotional moments using Rodriguez's approach integrated with elemental genres for better emotional beats
 blog-writer;lightfastai/lightfast;blog-writer;Create category-aware, AEO-optimized blog posts for Lightfast. Use when writing technology deep-dives, company announcements, or product lau
+key-moments;jwynia/agent-skills;creative/fiction/structure/key-moments;Structure stories around essential emotional moments using Rodriguez's approach integrated with elemental genres for better emotional beats
+user-guide-writing;supercent-io/skills-template;;Create clear and helpful user guides and tutorials for end users.
 genre-conventions;jwynia/agent-skills;creative/fiction/craft/genre-conventions;Diagnose genre problems and generate genre-specific elements for storytelling using the Writing Excuses framework.
 content-publishing;eddiebe147/claude-settings;;A skill for creating and publishing content.
-deal-hunt;tavily-ai/tavily-plugins;;A skill for hunting deals online.
-email-notifications;eddiebe147/claude-settings;;Automates email notifications for various events and workflows.
-real-time-features;eddiebe147/claude-settings;;A skill for managing real-time features in applications.
 multi-order-evolution;jwynia/agent-skills;creative/fiction/application/multi-order-evolution;Design multi-generational societal evolution for science fiction settings, creating civilizations that diverge from baseline humanity.
 economic-systems;jwynia/agent-skills;creative/fiction/worldbuilding/economic-systems;Design economic systems for fictional worlds with currencies, trade networks, and resource economies to drive plot and character motivation.
 governance-systems;jwynia/agent-skills;creative/fiction/worldbuilding/governance-systems;Design political entities and governance systems for fictional worlds including kingdoms, empires, and federations with realistic complexity
+deal-hunt;tavily-ai/tavily-plugins;;A skill for hunting deals online.
+email-notifications;eddiebe147/claude-settings;;Automates email notifications for various events and workflows.
+real-time-features;eddiebe147/claude-settings;;A skill for managing real-time features in applications.
 ralph;snarktank/amp-skills;;A command-line tool for managing and interacting with AI models and data pipelines.
 risk-management;0xhubed/agent-trading-arena;risk-management;A skill for managing risks based on competitive outcomes, useful for position sizing and stop-loss settings.
 table-tone;jwynia/agent-skills;creative/fiction/application/table-tone;Diagnose and calibrate tonal delivery for tabletop RPG sessions to improve narration quality and session engagement.
@@ -118,12 +119,11 @@ example-framework-skill;bobmatnyc/claude-mpm-skills;;A self-contained skill exam
 whatsapp;aviz85/claude-skills-library;;A skill for interacting with WhatsApp.
 whoop;andrejones92/canifi-life-os;;A tool for managing and organizing tasks and workflows.
 apple-homekit;andrejones92/canifi-life-os;;Apple HomeKit integration for home automation and device management
+bazi-mingli;wolke/bazi-mingli;;Bazi / Four Pillars of Destiny divination skill for birth chart analysis and Chinese astrology
 technical-writer;daffy0208/ai-dev-standards;technical-writer;Create clear technical documentation for developers and users, covering APIs, user guides, and best practices.
 threads;andrejones92/canifi-life-os;;A skill for managing and creating content on the Threads platform
-bazi-mingli;wolke/bazi-mingli;;Bazi / Four Pillars of Destiny divination skill for birth chart analysis and Chinese astrology
 nano-banana-poster;aviz85/claude-skills-library;;Generates banana-themed posters using AI image generation.
 steam;andrejones92/canifi-life-os;;Steam platform related skill for gaming and digital distribution
-shared;boshu2/agentops;shared;Shared reference documents for distributed mode skills that are not directly invocable.
 vanguard;andrejones92/canifi-life-os;;A tool for project management and task organization
 tesla;andrejones92/canifi-life-os;;Tesla integration skill for connecting and managing Tesla vehicle APIs and services
 riot-games;andrejones92/canifi-life-os;;A skill for interacting with Riot Games APIs and managing game-related data.
@@ -234,14 +234,15 @@ delta;andrejones92/canifi-life-os;;Delta skill for task management and workflow 
 arlo;andrejones92/canifi-life-os;;Arlo: A tool for managing and automating tasks with workflow capabilities.
 principle;andrejones92/canifi-life-os;;A skill template for principle-based guidance and best practices.
 rover;andrejones92/canifi-life-os;;A CLI tool for managing and executing tasks, providing workflow automation capabilities.
+telecommunications-expert;personamanagmentlayer/pcl;;Expert assistance for telecom systems, network management, billing, 5G, SDN, and infrastructure.
 coo-social-media;lotosbin/claude-skills;;A skill for managing social media content creation and marketing.
 tech-lead;lotosbin/claude-skills;;A skill for technical leadership guidance.
 coo;lotosbin/claude-skills;;A skill for managing and configuring development environments.
+education-expert;personamanagmentlayer/pcl;;Expert-level education technology, learning management systems, and ed-tech platforms
 kiss-principle;markpitt/claude-skills;kiss-principle;Apply the K.I.S.S. principle to simplify systems, improve maintainability, and solve problems elegantly in design, coding, and decision-maki
+obra-using-superpowers;smithery/ai;;A skill for using superpowers in obra, likely related to task management and productivity workflows.
 blockchain-basics;pluginagentmarketplace/custom-plugin-blockchain;blockchain-basics;Learn blockchain fundamentals including consensus, cryptography, and distributed systems.
 using-superpowers;smithery/ai;;Guidance on leveraging superpowers for enhanced productivity and task management.
 weather-query;vikiboss/60s-skills;weather-query;Query real-time weather and forecasts for locations in China including temperature, humidity, wind speed, and air quality.
-education-expert;personamanagmentlayer/pcl;;Expert-level education technology, learning management systems, and ed-tech platforms
 create-viral-content;aaaronmiller/create-viral-content;;Automatically generates viral content for social media platforms like Reddit, Twitter, LinkedIn, YouTube, TikTok, and Instagram.
 xhs-publisher;byheaven/byheaven-skills;xhs-publisher;A skill for publishing on Xiaohongshu creator platform with detailed steps.
-obra-using-superpowers;smithery/ai;;A skill for using superpowers in obra, likely related to task management and productivity workflows.

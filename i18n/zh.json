@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-02-16T04:56:32.468Z",
+  "generated_at": "2026-02-17T05:53:34.060Z",
   "categories": {
     "ai-llm": {
       "zh": "AI/LLM（大模型）",
@@ -5914,6 +5914,10 @@
     },
     "pencil-mcp": {
       "zh": "pencil mcp",
+      "bilingual": true
+    },
+    "pending": {
+      "zh": "pending",
       "bilingual": true
     },
     "penetration-testing": {

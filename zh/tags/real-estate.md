@@ -1,7 +1,7 @@
 # 标签：real estate (real-estate)
 
 - 返回: [标签（中文）](README.md)
-- 命中技能: 8
+- 命中技能: 9
 
 | 技能 | 仓库 | 简介 | ⭐ | ⬇️ | 更新 | 标签 |
 | - | - | - | -: | -: | - | - |
@@ -13,3 +13,4 @@
 | [apartments-com](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | 用于公寓网站房地产列表的网络爬虫和研究工具 | 5 | 30 | 2026-01-09 | [网页调研 (web-research)](web-research.md), [scraping (scraping)](scraping.md), [real estate (real-estate)](real-estate.md), [apartments com (apartments-com)](apartments-com.md) |
 | [offerpad](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | 一个名为 offerpad 的技能，可能与房地产任务和工作流程管理相关。 | 5 | 30 | 2026-01-09 | [任务管理 (task-management)](task-management.md), [工作流 (workflows)](workflows.md), [real estate (real-estate)](real-estate.md) |
 | [trulia](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Trulia 房地产数据研究分析技能 | 5 | 30 | 2026-01-09 | [网页调研 (web-research)](web-research.md), [real estate (real-estate)](real-estate.md), [scraping (scraping)](scraping.md), [数据分析 (data-analysis)](data-analysis.md) |
+| [real-estate-expert](https://github.com/personamanagmentlayer/pcl/blob/main/stdlib/domains/real-estate-expert/SKILL.md) | [personamanagmentlayer/pcl](https://github.com/personamanagmentlayer/pcl) | 房地产专家助手，涵盖物业管理、MLS 集成、CRM、虚拟看房及市场分析。 | 4 | 26 | 2026-02-16 | [management (management)](management.md), [分析 (analysis)](analysis.md), [real estate (real-estate)](real-estate.md), [crm (crm)](crm.md) |

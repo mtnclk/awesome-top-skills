@@ -1,7 +1,7 @@
 # Tag: real-estate
 
 - Back: [Tags](README.md)
-- Tagged skills: 8
+- Tagged skills: 9
 
 | Skill | Repo | Summary | ⭐ | ⬇️ | Updated | Tags |
 | - | - | - | -: | -: | - | - |
@@ -13,3 +13,4 @@
 | [apartments-com](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Web scraping and research tool for apartments.com real estate listings | 5 | 30 | 2026-01-09 | [web-research](web-research.md), [scraping](scraping.md), [real-estate](real-estate.md), [apartments-com](apartments-com.md) |
 | [offerpad](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | A skill named offerpad, potentially related to real estate tasks and workflow management. | 5 | 30 | 2026-01-09 | [task-management](task-management.md), [workflows](workflows.md), [real-estate](real-estate.md) |
 | [trulia](https://github.com/andrejones92/canifi-life-os) | [andrejones92/canifi-life-os](https://github.com/andrejones92/canifi-life-os) | Trulia skill for real estate data research and analysis | 5 | 30 | 2026-01-09 | [web-research](web-research.md), [real-estate](real-estate.md), [scraping](scraping.md), [data-analysis](data-analysis.md) |
+| [real-estate-expert](https://github.com/personamanagmentlayer/pcl/blob/main/stdlib/domains/real-estate-expert/SKILL.md) | [personamanagmentlayer/pcl](https://github.com/personamanagmentlayer/pcl) | Expert assistant for real estate systems, covering property management, MLS integration, CRM, virtual tours, and market analysis. | 4 | 26 | 2026-02-16 | [management](management.md), [analysis](analysis.md), [real-estate](real-estate.md), [crm](crm.md) |
